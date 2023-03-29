@@ -1,0 +1,1680 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+CHAPTER
+12
+Criminal Law and Tort Law Issues in
+Cyberspace
+RIMINAL LAW REFERS to laws that the federal and state governments have
+created to define unacceptable behavior. People who violate society’s
+acceptable levels of behavior commit crimes. Criminal law deals with crimes,
+whereas tort law refers to wrongful acts or harm for which an individual can sue the
+person who caused the harm. Tort law governs disputes between individuals.
+C
+This chapter focuses on criminal and tort law issues that are unique to
+cyberspace. In particular, it focuses on how people can use computers in cybercrime
+activities. It also reviews how people use computers to commit torts. Sometimes
+both criminal and tort law actions can be carried out against the same individual for
+the same actions.
+Chapter 12 Topics
+This chapter covers the following topics and concepts:
+What general criminal law concepts are
+What common criminal law issues in cyberspace are
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.What general tort law concepts are
+What common tort law issues in cyberspace are
+What some case studies and examples are
+Chapter 12 Goals
+When you complete this chapter, you will be able to:
+Discuss common criminal law concepts
+Describe the common criminal laws used to prosecute cybercrimes
+Discuss common tort law concepts
+Describe common tort principles used in cyberspace
+Explain the difference between criminal and tort law
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.General Criminal Law Concepts
+Cybercrimes, sometimes called computer crimes, involve situations where people
+use the internet or computers as the medium for, or target of, criminal activity. Some
+crimes, such as computer trespass, are prosecuted by extending existing criminal
+laws to new situations that have arisen with new technology. Computer networks
+facilitate these crimes. Other laws define new crimes that did not exist before
+computers. The use of computers as a medium to commit crimes is growing.
+Criminals also target computers and the data that they contain. Consider the
+following:
+A federal judge sentences a computer hacker to almost 5 years in prison for
+violating the Computer Fraud and Abuse Act (CFAA). The hacker created botnets
+and sold access to them. Other attackers used the botnets to launch distributed
+denial of service (DDoS) attacks.
+A federal judge sentences a defendant to 2.5 years in prison for taking nude
+videos of a news reporter and posting them to the internet. The judge also orders
+the defendant to pay restitution to the victim.
+The federal government charges three members of a hacking group with hijacking
+the website of a telecommunications company. The company’s users could not
+access the website for about 90 minutes.
+A man is charged with cyberextortion. He is alleged to have attempted to extort a
+life insurance company by threatening to send millions of computer spam
+messages. Authorities say he wanted to damage the reputation of the insurance
+company.
+Crimes are instances of wrongdoing, or actions that harm society. They are
+deviations from behavior that society, through its government, has defined as
+unacceptable. Some crimes do not even need individual victims. Society is the
+“victim” of the crime.
+In simple terms, a crime is a violation of society’s code of conduct. Crime and the
+concept of criminal law are very old. The Sumerian and Babylonian civilizations
+included codes of conduct in their laws in 2100 B.C.E. Although these codes did not
+resemble modern criminal law, they did define conduct that society decided was not
+acceptable.
+NOTE
+Federal cases are titled “United States” versus the name of the defendant. This is because the
+government of the United States is prosecuting the defendant for a crime. State cases are titled with the
+name of the state versus the name of the defendant.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.As discussed in other chapters in this book, the American legal system is based
+in large part on English common law. The U.S. Constitution is the main source of law
+for the United States. The Constitution presumes that U.S. citizens will behave
+lawfully. However, it includes provisions for how the government should handle
+crimes in Article III. The Constitution even defines a specific crime. Article III, section
+3, states that treason against the United States is a crime.
+The U.S. Congress has passed laws defining federal crimes since the formation
+of the government. Most states also have passed laws that have defined criminal
+offenses. Because crimes are wrongs against society, the government pursues the
+alleged wrongdoers. The federal government prosecutes violations of federal law,
+whereas state governments prosecute violations of state laws.
+Main Principles of Criminal Law
+Criminal law is very different from civil law. Each system has different goals. Criminal
+law aims to deter wrongful behavior through a combination of punishment and
+rehabilitation of the offender. In contrast, civil law aims to right personal wrongs. It
+does this by allowing people to sue to recover monetary compensation for injuries.
+This section focuses on substantive criminal law. Substantive law describes a
+person’s rights and responsibilities. It defines how people should relate to one
+another and how they should relate to the government. Substantive law also is
+known as subject matter law. Criminal law is only one of many categories of
+substantive law. Contract law, business law, property law, and tort law are all
+different types of substantive law.
+NOTE
+Attorneys often specialize in different subject matter areas. This is because of legal ethics rules that
+require an attorney to be minimally competent. There are many areas of law. It is easier for attorneys to
+meet ethical competency rules by focusing their practices in certain areas.
+Substantive criminal law defines the conduct that constitutes a crime. It also
+establishes penalties. Governments can specify criminal penalties in the same
+statute that defines a crime. They also can list them in a separate penalty statute.
+Type of Wrongful Conduct
+Society recognizes two basic types of wrongful conduct. The first type is conduct or
+acts that society universally agrees are wrong, morally repugnant, or dangerous to
+other people. For example, almost all societies agree that murder and rape are
+wrong. Mala in se is a Latin term that defines these types of wrongful conduct. Mala
+in se means “evil in itself.” It describes conduct that is inherently wrong. Crimes that
+are mala in se include murder, rape, kidnapping, robbery, theft, and arson.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Other types of conduct are mala prohibita. Mala prohibita is Latin for “wrong
+because it is prohibited.” Society defines conduct that is mala prohibita. This conduct
+is not inherently evil, but society prohibits it nonetheless. Crimes that are mala
+prohibita include intellectual property violations (where prohibited by law, such as
+federal copyright offenses), traffic law violations, and tax evasion. Many types of
+cybercrimes are mala prohibita.
+Crimes generally are classified into two groups, misdemeanors and felonies. The
+two types of crimes are usually distinguishable by the way society punishes the
+criminals who commit these crimes. Misdemeanors are less serious than felonies
+and bear a less severe penalty. A misdemeanor is generally punishable by no more
+than 1 year in prison. Felonies are more serious crimes. They are usually
+punishable by more than a year in prison.
+The levels of felonies and misdemeanors may vary from state to state. Some
+states have different levels of misdemeanors and felonies. Language such as “first
+degree” or “second degree” differentiates between different levels of crime. A state
+can prosecute some types of crimes as either a misdemeanor or a felony depending
+on the circumstances surrounding the crime.
+Elements of a Crime
+Criminal law is based on the principle that a guilty mind must accompany a criminal
+act. Another principle is that criminal conduct harms society. In short, the American
+system of law holds people responsible for their actions. A government must prove
+the following elements to show that a crime has been committed:
+Mens rea
+Actus reus
+Causation
+To prove that a crime has been committed, a government must show that a person
+acted with criminal intent. It must show that a person knowingly, intentionally, or
+recklessly engaged in criminal conduct. The Latin term mens rea means “guilty
+mind.” Mens rea describes a person’s intent to commit a crime. Someone who lacks
+mens rea cannot be held responsible for a crime.
+Most criminal laws have language that specifies the amount of mens rea that a
+person must have to be held responsible for a crime. For example, the Wisconsin
+first-degree murder statute states: “Whoever causes the death of another human
+being with intent to kill that person or another is guilty of a Class A felony.” 1 The
+“intent to kill” portion of the statute describes the mens rea required to commit a
+crime.
+NOTE
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Some crimes do not require a particular mental state. For example, in most states, driving a car while
+under the influence of drugs or alcohol is a crime regardless of the mental state of the driver.
+Acts that are purely accidental do not meet the required mental showing for
+criminal prosecution. However, that does not mean that the government prosecutes
+only intentional actions. The government also can prosecute a person who acts
+recklessly for criminal behavior.
+A showing of recklessness means that a person acted in a manner that
+consciously disregarded whether or not harm could result from the actions. For
+example, the Wisconsin first-degree reckless homicide statute states: “Whoever
+recklessly causes the death of another human being under circumstances which
+show utter disregard for human life is guilty of a Class B felony.” 2 The “which show
+utter disregard for human life” portion of the statute describes the mens rea required
+to commit this crime.
+Criminal statutes do not require governments to prove damages to prosecute a
+defendant for a crime. However, governments can use the amount of harm that a
+defendant causes to increase the level of the crime.
+The actus reus is the wrongful act that constitutes a crime. Actus reus is the
+Latin term for “guilty act.” To be a crime, the action must be voluntary. The actus reus
+requires a physical act in furtherance of a crime. For example, the U.S. Supreme
+Court held that a California law that punished people for being addicted to illegal
+drugs violated the Constitution. 3 The California law made being “addicted” to drugs
+the offense, even if the person who was addicted to drugs never used or possessed
+drugs in the state. The law was challenged.
+NOTE
+In civil law, no showing of mental state, or mens rea, is required. Under civil law, wrongdoers are
+responsible for their actions even if they did not intend to cause harm to another person.
+In Robinson v. California (1962), the U.S. Supreme Court said that there were
+many ways that the state could make certain acts related to drug use illegal.
+However, simply making the status of being an addict illegal was a violation of the
+Constitution. The case stands for the proposition that criminal activity requires a
+voluntary, physical act.
+A wrongful act also can include the failure to act when there is a duty to do so.
+For example, parents have a duty to care for their children. A state may punish a
+parent who fails to take care of his or her children when that failure rises to a level of
+criminal conduct. For instance, in March 2010 the South Korean government
+arrested a couple for child neglect. The government alleged that the couple’s video
+game addiction led them to neglect their daughter, who starved to death. Tragically,
+the video game that the couple was addicted to involved caring for a “virtual child” in
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.an online game. 4
+Jurisdiction
+Courts can hear only cases, or disputes, that are within their jurisdiction. Jurisdiction
+describes the types of cases that a court has the authority to hear.
+Jurisdiction can be described in several different ways. Jurisdiction can be used
+to describe the function of a court. For example, trial courts generally have original
+jurisdiction. This is the ability to conduct trials and to hear initial disputes between
+parties. Appellate courts such as the U.S. Supreme Court have appellate jurisdiction.
+They can only review decisions made by lower courts.
+Jurisdiction also can describe the power of a court to hear a certain type of case
+and make a binding decision in that case. Courts must have the proper jurisdiction to
+make a valid judgment. To make a valid judgment, a court must have:
+Subject matter jurisdiction
+Personal jurisdiction
+Subject matter jurisdiction is the power of a court to decide certain types of cases.
+A court cannot decide cases where it has no subject matter jurisdiction. For example,
+federal courts have jurisdiction only to decide cases about federal laws. This is
+federal question jurisdiction. They also can decide certain types of disputes between
+citizens of different states. This is diversity of citizenship jurisdiction. In contrast,
+state courts can decide only cases about state laws or actions that occurred within
+the geographic boundaries of the state.
+FYI
+In both state and federal courts, jurisdiction also looks at geographical and political boundaries. If a person
+violates a federal law in Massachusetts, federal district courts in Massachusetts most likely have subject
+matter jurisdiction to decide the case. If the person violated only state law, Massachusetts state courts
+would have jurisdiction to decide the case.
+Personal jurisdiction refers to a court’s ability to exercise power over a
+particular defendant. If a court does not have personal jurisdiction over a defendant,
+then it cannot impose a sentence on that person. Personal jurisdiction is important
+for both criminal and civil cases. Typically, state courts can exercise personal
+jurisdiction over people who commit acts within the state.
+For criminal law, personal jurisdiction comes into play when criminal acts are
+committed in several different states. It is also implicated when crimes affect
+residents in many different states. The U.S. Supreme Court addressed this issue in
+1911. 5 In Strassheim v. Daily, the Supreme Court used a “detrimental effects” test to
+determine if a state could exercise jurisdiction over a person who committed crimes
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.outside of the state. The Court’s test had three parts:
+Did the act occur outside the state?
+Did the act produce detrimental effects within the state?
+Were the acts the actual cause of detrimental effects within the state?
+The test focuses on the defendant’s intent. It also looks at the consequences of the
+defendant’s actions in a particular state. Under the detrimental effects test, a state
+criminal court can exercise jurisdiction over a person who commits actions outside of
+the state if those actions cause harm within the state.
+Jurisdictional Issues for Cybercrime Cases
+Jurisdiction is a particularly challenging issue concerning cybercrimes. Geographical boundaries do not limit
+computer networks. Cybercriminals can easily commit crimes that span across many states and countries.
+This makes it difficult for law enforcement to investigate these crimes. It is particularly difficult for law
+enforcement to identify criminals and collect evidence across the globe. It also makes it difficult for courts to
+hold cybercriminals responsible for their actions.
+Nigerian scams highlight the jurisdiction issues in cybercrime cases. These types of scams also are called
+“419 scams” or “advance fee fraud” schemes. (The “4-1-9” refers to the section of the Nigerian criminal code
+that addresses fraud schemes.) This type of scam has been around since the early 1900s, when it was called
+the Spanish Prisoner Con. Today many organizations refer to these types of scams as imposter scams—
+where someone pretending to be someone else asks you to send money or share personal information.
+Criminals originally conducted these scams via fax or mailed letters. They now conduct them with ease
+through email and even text messages. In these types of scams, a person receives an email from someone
+purporting to be an official of a foreign government or agency. The email writer usually offers large sums of
+money in return for helping someone in trouble. In some cases, the email claims that the government has
+made it difficult for the wealthy writer to cash a large check. (In the original scams the government referenced
+was the Nigerian government. This is how the modern-day version of the imposter scam got this name.) The
+writer asks the victim to advance the victim’s own funds to cover the check, and to help cash it. The writer
+promises that the victim will get a hefty reward for his or her assistance.
+A victim who advances funds soon learns that the check or underlying business transaction is fraudulent. The
+money advanced is lost. People operating outside the United States who send targeted emails to U.S.
+residents commit many of these types of crimes. In 2019, imposter scams featured prominently in the top
+international fraud reports to the econsumer.gov international partnership. 8
+These cases are extremely difficult to investigate and prosecute. How would a victim in Lafayette, Indiana, be
+able to use the resources of local law enforcement to investigate a crime committed by a person who lives in
+another country? Local police, prosecutors, and courts have limited power to investigate and prosecute these
+types of international cases. State subpoenas and court orders do not usually apply across international
+boundaries. These jurisdictional issues are becoming more common as internet crime grows.
+The Supreme Court’s detrimental effects test used in the Strassheim case is a
+common law rule. Many states have enacted legislation that codifies the detrimental
+effects test. For example, Alaska law states that state courts have jurisdiction over
+crimes that are “commenced outside the state but consummated inside.” 6
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.NOTE
+The United States ratified the Convention on Cybercrime in August 2006.
+Issues about jurisdiction are not just questions between the states. Personal
+jurisdiction also can be an international issue. It is one of the main obstacles in
+cybercrime cases because of the truly global nature of the internet. The Council of
+Europe Convention on Cybercrime, which went into force in 2004, increases
+cooperation in the investigation and prosecution of cybercrimes. Members of the
+convention must adopt legislation to criminalize certain types of cyber-related
+offenses and copyright infringement. They also agree to assist one another in
+criminal investigations. Sixty-five nations have ratified it. 7
+Criminal Procedure
+Criminal procedure is the body of rules that govern how governments prosecute
+people for crimes. These procedural rules make sure that criminal defendants
+receive due process. Due process means that a defendant in a criminal case is
+entitled to a fair and consistent process within the courts. The laws of criminal
+procedure make sure that the government safeguards the defendant’s constitutional
+rights. They also provide the government with a method for fairly prosecuting
+defendants for their crimes.
+FYI
+A prosecutor is a government official who represents the government in criminal cases. Prosecutors
+decide whether to charge a person with a crime and put on the court case against that person. U.S.
+attorneys are federal prosecutors. States usually grant prosecutorial power to county governments. State
+prosecuting attorneys might be called district attorneys, county attorneys, state’s attorneys, or simply
+county prosecutors.
+Most criminal procedure principles stem from the U.S. Constitution. This means
+that many processes are similar among the states and the federal government.
+However, some procedural rules are unique to each jurisdiction. The description
+provided here is intentionally general and is meant to be a guide. The process also
+can be different depending upon whether the crime committed is a misdemeanor or
+felony.
+A criminal case begins when a law enforcement agency begins an investigation.
+Law enforcement agencies have certain rules that they must follow as they conduct
+their investigation. When law enforcement officers complete their investigation, they
+send the case to the prosecutor. A prosecutor then reviews the case and decides
+whether to bring charges against the person that law enforcement identified as the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.perpetrator of the crime. Prosecutors have a lot of discretion in determining whether
+to charge a person with a crime.
+If a prosecutor decides to charge a person with a crime, he or she must file a
+written document in court to start the criminal process. In some states, a prosecutor
+may file a document called an information. An information specifies the charges
+against the perpetrator of the crime. The prosecutor can exercise discretion when
+filing an information.
+In other states, defendants have a right to a grand jury indictment. A grand jury is
+a panel of citizens who hear evidence presented by a prosecutor. The grand jury
+determines if there is enough evidence to bring a person to trial for a crime. The
+grand jury issues an indictment if it determines that the evidence is sufficient. An
+indictment is the formal written criminal charges issued by a grand jury.
+FYI
+The Fifth Amendment to the U.S. Constitution requires that a federal grand jury issue charges for some
+federal crimes. A defendant can waive the grand jury requirement. If a defendant waives the grand jury
+requirement, then the federal prosecutor files an information to start criminal proceedings. Federal grand
+juries contain between 16 and 23 people. The Federal Rules of Criminal Procedure set this number. Grand
+juries conduct their deliberations in secret. You can read the Handbook for Federal Grand Jurors at
+https://www.uscourts.gov/sites/default/files/grand-handbook.pdf.
+A criminal prosecution begins once a grand jury returns an indictment or after a
+prosecutor files an information. At this point, the perpetrator of the crime becomes a
+defendant. In a criminal case, the defendant is the person accused of a crime.
+The next step in the criminal process is the initial hearing. This is sometimes
+called an arraignment. The purpose of this hearing is to begin the formal court
+process. At this hearing, a court must:
+Inform the defendant about the charges.
+Advise the defendant about his or her legal and constitutional rights.
+During the initial hearting the defendant must enter a response to the charges, called
+a plea. A defendant can enter a plea of guilty or not guilty. In some cases, she or he
+also can enter a plea of nolo contendere, which is Latin for “I do not wish to
+contend.” It is also called a plea of no contest. A no-contest plea is not a guilty plea.
+However, it has the same effect as one. Most jurisdictions have limits on how and
+when defendants can use this type of plea.
+If a defendant enters a guilty plea, the court will set a date to sentence the
+defendant. A 2018 study found that 90 percent of federal defendants plead guilty. 9
+That same study found that only 2 percent of federal defendants have cases that go
+to trial.
+If the defendant enters a not-guilty plea, the court sets the case for trial. The U.S.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Constitution guarantees criminal defendants the right to a trial by jury. Article III of
+the Constitution guarantees this right, and the Sixth Amendment to the Constitution
+clarifies the scope of the right.
+Under the Sixth Amendment, criminal defendants are entitled to a court-
+appointed attorney if they cannot afford one on their own. Courts usually grant this
+request only when a defendant faces a prison sentence. The Supreme Court case of
+Gideon v. Wainwright (1963) held that a court must appoint an attorney to an
+indigent defendant charged with a felony. 10 The defendant must prove that he or she
+is indigent and cannot afford an attorney. The Supreme Court in the Gideon case
+also held that a conviction is automatically reversed if a state denies a defendant the
+right to counsel.
+After the arraignment, the prosecution and the defendant’s attorneys will begin
+the discovery process. Discovery is the process where the government gives the
+defendant the evidence that it plans to use in the defendant’s trial. U.S. Supreme
+Court cases have held that the government must disclose:
+NOTE
+The defendant’s right to an attorney arises when a criminal proceeding begins. A defendant may
+voluntarily waive the right to counsel and represent himself or herself. A court must decide that a person is
+mentally competent in order to do this. The court also must warn the person that there are dangers to self-
+representation.
+Any deals that the prosecution made with a witness (Giglio v. United States). 11
+Any evidence it has that might help prove the defendant’s innocence (Brady v.
+Maryland). 12
+Courts strictly regulate the criminal discovery process. The rules for the process are
+clear. A court has a wide range of actions it can take against parties that fail to
+comply with discovery rules. A court can even dismiss the case if the prosecution
+fails to comply with the rules of the process. Failure to turn over evidence that might
+help prove the defendant’s innocence can cause a conviction to be overturned.
+If a criminal case goes to trial, the government bears the burden of proving that
+the defendant violated the law. In criminal cases, the government must prove the
+defendant’s guilt beyond a reasonable doubt. This is the highest burden of proof that
+a prosecutor must meet. Reasonable doubt does not mean that a juror is 100
+percent convinced of the defendant’s guilt. It does mean, however, that a juror must
+be fully satisfied that the prosecution has eliminated any reasonable doubts about
+the defendant’s guilt.
+NOTE
+The Sixth Amendment to the U.S. Constitution guarantees defendants a speedy trial. State criminal
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.procedure rules include time limits for all the steps in the criminal process. In Strunk v. United States
+(1973), the U.S. Supreme Court held that a court must dismiss a criminal charge if a state violates the
+defendant’s speedy trial rights. 13
+The government has a high burden of proof in criminal cases because criminal
+punishments infringe on a person’s fundamental rights. These rights include the right
+to liberty, property, and life. Criminal penalties can include jail time, probation,
+financial penalties, or even a death sentence. A court may impose these penalties
+only if the government meets its high burden of proof.
+A criminal case ends when a jury decides that a defendant is innocent or guilty. It
+also ends if the jury cannot reach a decision. A hung jury is a jury that is unable to
+reach a decision because the jurors disagree. A court will declare a mistrial if the jury
+cannot reach a decision. In this case, the government may decide to refile the
+charges and prosecute the defendant again.
+A defendant who is convicted may appeal. Different rights allow a defendant to
+appeal a ruling or conviction to a higher court. These rules are beyond the scope of
+this discussion.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Common Criminal Laws Used in Cyberspace
+A computer, or any electronic device, can play one of four roles in crime:
+To commit a crime—Unauthorized access to data (hacking) and online fraud are
+two examples where a computer is used to commit a crime.
+To facilitate a crime— Cyberstalking, identity theft, phishing scams, and software
+piracy are examples of crimes facilitated, or aided, by computers.
+As a target of crime—Denial of service (DoS) and distributed denial of service
+(DDoS) attacks, computer viruses, and communications sabotage are examples of
+crimes where the computer itself is the target of the crime.
+As a witness to crime—Computerized record-keeping systems may provide
+evidence of an underlying crime or event.
+Just because a computer or electronic device is involved in a crime does not make
+that crime a cybercrime. For example, a person simply using a computer and printer
+to create a forged document commits a criminal act. It is no different than if that
+same person used a printing press and ink to forge the document. The crime is still a
+forgery.
+Cybercrimes are different. Cybercrimes, also called computer crimes, are crimes
+that use computers as a medium to commit a crime or where the computer itself is
+the target of the crime. Cyberstalking, identity theft, and phishing scams are
+examples of crimes facilitated by computers. DoS and DDoS attacks, computer
+viruses, and communications sabotage are examples of crimes where the computer
+itself is the target of the crime. The distinction between the types of crime is subtle
+but important.
+Both the federal government and individual states have created several laws that
+address cybercrime. This chapter talks primarily about federal cybercrime laws.
+Federal laws will likely have the most impact on cybercrime. This is because
+geography or state and national borders do not matter to cybercriminals. The
+internet truly blurs these lines. A criminal can easily initiate a cybercrime in one state
+and harm a victim in another. Also, because cybercrime statutes vary widely
+between the states, federal laws may end up being more comprehensive.
+NOTE
+It is important to remember that many states criminalize the same behavior that federal cybercrime laws
+address.
+The Computer Fraud and Abuse Act (1984)
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Congress passed the Computer Fraud and Abuse Act (CFAA) in 1984. 14 It is the first
+piece of federal legislation that identified computer crimes as distinct offenses. The
+federal government used the CFAA in 1990 to prosecute the creator of the Morris
+worm. This was the first prosecution under the CFAA. The CFAA provides both
+criminal and civil penalties.
+NOTE
+The Internet Crime Complaint Center (IC3) is a partnership between the U.S. Federal Bureau of
+Investigation (FBI) and the National White Collar Crime Center. Their 2019 Internet Crime Report showed
+that the total loss linked to online fraud was $3.5 billion. 15 You can read the report at
+https://pdf.ic3.gov/2019_IC3Report.pdf.
+In enacting the CFAA, Congress chose to address a series of computer-related
+offenses in a single statute. The CFAA limits federal jurisdiction to situations where
+cybercrime is interstate in nature or when certain “protected computers” are the
+target of crime.
+The CFAA criminalizes the act of causing certain types of damage to a protected
+computer without authorization or by exceeding authorized access. A protected
+computer is any of the following:
+A federal government computer
+A financial institution computer
+A computer used in interstate or foreign commerce 16
+FYI
+The CFAA does not define what access “without authorization” means. However, it does define what
+“exceeding authorized access” means. 17 The failure to define the scope and limits of “without
+authorization” is one of the biggest criticisms of the CFAA. Many CFAA cases boil down to questions of
+access. There is a split among federal courts as to the meaning of authorized access under the CFAA. In
+April 2020, the U.S. Supreme Court agreed to hear a CFAA case in its upcoming term. As of this writing,
+no date for oral arguments has been set. The name of the case to watch is Van Buren v. United States.
+You can follow the court’s docket at https://www.supremecourt.gov/docket/docketfiles/html/public/19-
+783.html.
+The CFAA treats protected computers as the victim of a crime. It addresses the
+following types of criminal activity:
+NOTE
+Under the CFAA, essentially any computer that connects to the internet is a protected computer because
+the internet facilitates commerce between different states.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Unauthorized access to a government computer
+Unauthorized access to information on a protected computer
+Unauthorized access to a protected computer that causes damage
+Unauthorized access to a protected computer with an intent to defraud
+Threatening to damage a protected computer
+Unauthorized trafficking of passwords or other computer access information that
+allows people to access other computers without authorization and with the intent
+to defraud
+Computer espionage
+NOTE
+Some sections of the CFAA require the government to show that the intruder caused damage. Under the
+CFAA, damage is “any impairment to the integrity or availability of data, a program, a system, or
+information.” 19
+.
+The CFAA does not just address intruders or outsider attacks on protected
+computers. It also considers that insiders may exceed the access that they have
+been granted in a protected computer system. Because these people already have
+access to these systems, their access is not unauthorized. However, in some cases,
+they commit a crime if they exceed their scope of authorized access. Under the
+CFAA, a person exceeds authorized access when he or she accesses a computer
+with authorization but uses that access to get or alter information that he or she is
+not allowed to use or alter. 18
+TABLE 12-1 summarizes the CFAA provisions and potential penalties. In all
+instances, the penalties described are increased significantly if a defendant has a
+previous CFAA conviction.
+TABLE 12-1 Computer Fraud and Abuse Act Summary
+CRIMINAL ACTIVITY
+ACTION
+GENERAL PENALTY
+Unauthorized access A defendant can receive a fine, or up to 1
+year in prison, or both.
+Obtaining information from a
+protected computer Unauthorized access
+Access in excess of
+authorized access A defendant can receive a fine, or up to 1
+year in prison, or both.
+The defendant also can be sentenced for
+a felony and up to 5 years in prison if
+aggravating factors exist. Repeat
+offenders can receive a fine, or 10 years
+in prison, or both.
+Access of a protected
+computer with intent to
+defraud Unauthorized access
+Access in excess of
+authorized access A defendant can receive a fine, or up to 5
+years in prison, or both.
+Protected computer trespass
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Damage by Code Transmission:
+A defendant can receive a fine, or 10
+years in prison, or both. The defendant
+also can receive 20 years in prison for
+subsequent convictions or causing
+damage leading to serious bodily injury. A
+defendant can receive life imprisonment if
+the offense causes or attempts to cause
+death.
+Reckless Damage:
+A defendant can receive a fine, or 5 years
+in prison, or both. Repeat offenders can
+receive a fine, or 20 years in prison, or
+both.
+Damage and Loss:
+A defendant can receive a fine, or 10
+years in prison, or both.
+Access to a protected
+computer that causes damage Knowingly transmits a
+program, incorporation, or
+code that intentionally causes
+damage
+Intentional access that
+recklessly causes damage
+Intentional access that causes
+damage and loss Threatening to damage a
+computer Intent to extort A defendant can receive a fine, or up to 5
+years in prison, or both.
+Trafficking in passwords Knowing action, with intent to
+defraud A defendant can receive a fine, or up to 1
+year in prison, or both.
+Repeat offenders can receive a fine, or
+10 years in prison, or both.
+Computer espionage Knowing access and willful
+transmission of information
+that could be used to injure
+the U.S. or its interests A defendant can receive a fine, or up to
+10 years in prison, or both.
+Computer Trespass or Intrusion
+The CFAA is the main federal law addressing cybercrime. In addition to the CFAA,
+the federal government has some other laws that address computer trespass or
+intrusion. These laws generally address computers that the U.S. government owns
+or controls. Some laws, such as the CFAA, expand this definition to include
+computers used in interstate commerce.
+State Laws Against Computer Trespass
+It is important to keep in mind that states also may have computer trespass statutes that prohibit
+unauthorized access to computer systems or networks. Depending on the jurisdiction, these crimes have a
+variety of names. In many states, the mere act of intentionally entering a computer system or network without
+permission is a crime. In most jurisdictions, first-time computer trespass is a misdemeanor. The penalties for
+computer trespass may escalate if a person is charged and convicted of more than one offense.
+Most trespass statutes address only unauthorized access into a computer system. They stop short of
+addressing actual computer tampering, access to information, or the injection of computer viruses or worms.
+These types of crimes, which are malicious in nature, typically are addressed in other statutes.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Federal law addresses fraud and related activity in connection with access
+devices. It outlaws the production, use, or sale of counterfeit or unauthorized access
+devices. 20 Access devices include any item that can be used to obtain money,
+goods, or things of value. They include items such as card, plate, code, account
+number, electronic serial number, mobile identification number, personal
+identification number, or other telecommunications services. A person who violates
+this law commits a felony. He or she can be imprisoned for 10 to 20 years depending
+upon the nature of the violation.
+Theft of Information
+Theft of information via computer networks is on the rise. Most of these crimes take
+the form of theft of personal identifying information or financial information. Financial
+gain is nearly always the motive for these crimes. The U.S. Federal Trade
+Commission (FTC) announced that fraud and identity theft were number one and
+two, respectively, on its list of top three consumer complaints for 2019. 21
+The federal Identity Theft and Assumption Deterrence Act (1998) makes identity
+theft a federal crime. 22 The law makes it illegal for anyone to knowingly transfer or
+use another person’s identification with the intent to commit a crime. Under the law,
+an identification document is any document made or issued by the federal or a state
+government. Identifying information includes items you may be familiar with as
+personally identifiable information, such as name, Social Security number (SSN),
+and driver’s license number. It also includes:
+Unique biometric data, such as fingerprint, voice print, retina or iris image, or other
+unique physical representation
+Unique electronic identification number, address, or routing code
+Electronic serial number or any other number or signal that identifies a specific
+telecommunications device or account
+Any other piece of information that may be used to identify a specific person
+If a person violates the law, she or he is subject to fines and criminal penalties of
+up to 15 years in prison. This period increases to 30 years in special circumstances,
+such as where identity theft is used to facilitate terrorism. Violators also must give
+any personal property used to commit identity theft crimes to the government. The
+U.S. Secret Service, FBI, U.S. Postal Inspection Service, and Social Security
+Administration’s Office of the Inspector General all have the power to investigate
+crimes committed under this law.
+NOTE
+The FTC’s identity theft website provides useful information about preventing identity theft. You can read
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.more at https://www.consumer.ftc.gov/topics/identity-theft.
+Interception of Communications Laws
+Federal laws that address the illegal interception of communications forbid the use of
+eavesdropping technologies without a court order. Communications covered by the
+statutes include email, radio communications, electronic communications, data
+transmission, and telephone calls. The federal Wiretap Act (1968, amended)
+governs real-time interception of the contents of a communication. 23 It does not apply
+to transmission information. The Act forbids the real-time interception of any wire,
+oral, or electronic communication. Communications covered by the Act include
+email, radio communications, data transmissions, and telephone calls. A person who
+violates the Act can be fined or imprisoned for up to 5 years, or both.
+NOTE
+The Pen Register and Trap and Trace Statute governs access to the real-time interception of headers,
+logs, and other transmission information. 24
+The Electronic Communications Privacy Act (ECPA; 1986) governs access to
+stored electronic communications. 25 This includes access to the contents of the
+communication and the headers and other transmission information. The ECPA is an
+amendment to the original Wiretap Act.
+The ECPA governs access to the contents of stored communications, as well as
+access to transmission data about the communications. Under the ECPA, no one
+may access the contents of these communications unless it is allowed somewhere
+else in the ECPA. A person who violates the Act can be fined or imprisoned for up to
+5 years, or both. Repeat offenders can be imprisoned up to 10 years.
+Spam and Phishing Laws
+Congress created the Controlling the Assault of Non-Solicited Pornography and
+Marketing (CAN-SPAM) Act in 2003. 26 The Act covers unsolicited commercial email
+messages known as spam. Spam is unsolicited electronic junk mail that a user may
+receive. Spam is a nuisance to the recipient. The CAN-SPAM Act has both civil and
+criminal provisions.
+The CAN-SPAM Act requires commercial email senders to meet certain
+requirements. Commercial messages are messages with content that advertises or
+promotes a product or service. The Act also forbids sending sexually explicit email
+unless it has a label or marking that identifies it as explicit. 27
+Commercial email message senders must meet the following CAN-SPAM
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.requirements:
+Do not use false or misleading header information.
+Do not use deceptive subject lines.
+Identify the email message as a commercial advertisement.
+Include a valid physical postal address.
+Inform message recipients how to opt-out of future email messages.
+Promptly process opt-out requests.
+Monitor the actions of third parties that advertise on the sender’s behalf. 28
+NOTE
+The FTC helps businesses understand the CAN-SPAM Act. You can view their business compliance guide
+at https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business.
+The FTC enforces the civil provisions of the CAN-SPAM Act. Violations of the Act are
+enforced by the FTC in the same way that it enforces unfair or deceptive trade
+practices. 29 The FTC also has promulgated rules for businesses to follow. The FTC
+completed its first review of the CAN-SPAM Act in 2019 and determined that it would
+make no changes to the rule because of its benefit to consumers. 30
+The CAN-SPAM Act also has criminal provisions. It includes penalties for:
+Accessing another person’s computer without permission to send spam
+Using false information to register for multiple email accounts or domain names
+Relaying or retransmitting spam messages through a computer to mislead others
+about the origin of the email
+Harvesting email addresses or generating them through a dictionary attack
+Taking advantage of open relays or open proxies without permission to send
+spam 31
+The U.S. Department of Justice enforces the criminal provisions of the CAN-SPAM
+Act. Criminal penalties include fines or imprisonment of up to 5 years. The first
+conviction under the CAN-SPAM Act occurred in 2004. In that case, the defendant
+searched for unprotected wireless access hotspots and exploited them to send spam
+messages that advertised pornographic websites. Eventually, the court sentenced
+the defendant to 3 years’ probation and 6 months of home detention. He also had to
+pay a $10,000 fine. 32
+NOTE
+The criminal provisions of the CAN-SPAM Act allow the U.S. government to prosecute hackers who use
+email. 33
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.FYI
+Spam email messages also can be phishing attempts. There is no federal anti-phishing law. However,
+phishing attacks can be prosecuted under several different federal laws. This includes many of the laws
+already discussed in this section. For example, if the phishing attackers are attempting to steal personal
+information, they may be committing identity theft. In that case, the federal Identity Theft and Assumption
+Deterrence Act would apply. They also may be committing computer fraud or access-device fraud. Some
+phishing attacks also can be prosecuted under the CAN-SPAM Act.
+If a phishing attack includes malicious activity, such as spreading computer viruses, then the CFAA would
+apply. Phishing scams also can violate state laws on fraud and identity theft.
+Cybersquatting
+Cybersquatting is the bad-faith registration of a domain name that is a registered
+trademark or trade name of another entity. Congress created the Anti-
+Cybersquatting Consumer Protection Act (ACPA) in 1999. 34 It is designed to stop
+people from registering domain names that are trademarks that belong to other
+entities.
+The ACPA allows entities to sue cybersquatters. To prove such a case, the
+plaintiff must show that the cybersquatter registered the trademark in bad faith with
+the intent to profit from the registration. The ACPA includes nine factors that help a
+court determine bad faith. 35 Those factors are:
+A person’s intellectual property rights in the domain name
+Whether the domain name consists of the legal name of the person
+The person’s prior use of the domain name in connection with the sale of goods or
+services
+The person’s noncommercial or fair use of the domain name
+The person’s intent to divert consumers from the mark owner’s own website
+The person’s offer to sell the domain name without having used the domain name
+for the sale of goods or services
+Whether the person gave false or misleading contact information when registering
+the domain name
+Whether the person registered multiple domain names that are identical or
+confusingly similar to marks owned by others
+Whether the mark incorporated in the domain name is famous and distinctive
+Under the law, a plaintiff can recover damages and ask the court to issue an
+injunction that stops the cybersquatter from using the contested domain name.
+Courts also can award the contested domain name to the winning party.
+Malicious Acts
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Common malicious information security acts include malware, worms, viruses, and
+Trojan horses. For the most part, the federal government can prosecute these types
+of activities under the CFAA.
+Under the CFAA, the intentional transmission of malware, viruses, or worms that
+damage a protected computer is a felony. Remember that for the CFAA, almost any
+computer connected to the internet is a protected computer. The government can
+charge people who violate this provision of the CFAA with a felony that can be
+punished with up to 10 years in prison.
+Cyberstalking, the use of the internet to stalk another person in a threatening
+way, is also a malicious act. Cyberstalkers could use email, instant messages, blogs,
+social networking platforms, and even entire websites to target their victims.
+Cyberstalking is sometimes also referred to as cyberharassment.
+Many traditional state laws on stalking and harassment have been updated to
+include language about cyberstalking. Similar to many other cybercrimes,
+cyberstalking often crosses state borders. At the federal level, cyberstalking is
+prohibited under several different laws:
+The Telephone Harassment Act—Makes it illegal to use the internet to transmit
+any message to harass or threaten another person. 36
+The Interstate Stalking and Prevention Act—Makes it illegal for anyone who
+travels across states to use any interactive computer service to cause substantial
+emotional distress. 37
+The Interstate Communications Act—Makes it illegal to transmit in interstate
+commerce any threat to injure another person. 38
+Cyberbullying is closely related to cyberstalking. The distinction is that cyberbullying
+is harassment that takes place between school-aged children. 39 Depending on the
+situation, state cyberbullying or cyberstalking laws tend to apply most in these
+cyberharassment situations. Currently, no federal law directly addresses
+cyberbullying. The federal government has attempted to expand the use of the CFAA
+into the area of cyberbullying with little success.
+In 2008, the Department of Justice indicted Lori Drew for violating the CFAA. 40
+The government argued that her activities on a social networking service exceeded
+her authorization in the use of a protected computer. She exceeded her authorized
+access by using the site in excess of the use authorized by the site’s terms of
+service agreement. A jury found her guilty of a misdemeanor CFAA violation. That
+conviction was set aside in August 2009. The judge found that there were several
+problems in applying the CFAA to the case. 41 The government did not appeal the
+judge’s reversal. Many federal courts have since found that violating the terms of
+service agreement for a website is not a CFAA violation.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.NOTE
+Learn more about preventing cyberbullying at www.stopbullying.gov.
+Well-Known Cybercrimes
+The list of well-known cybercrimes changes every day. The CFAA, the “go-to” act for
+federal prosecution of cybercrime, is very broad, and almost any type of internet-
+related crime involving computers will fall within its scope. Prosecutors often include
+CFAA charges with other federal criminal charges if a computer is involved in the
+commission of a crime.
+Some cybercrimes are well known because they were “first.” For example, the
+Morris worm was one of the first computer worms on the internet. At the time, it
+infected and overwhelmed many government systems. The creator of the worm was
+the first person charged with violating the CFAA. 42
+The CFAA also was used to prosecute the creator of the Melissa virus. 43 When it
+was released, the Melissa virus was one of the fastest-moving and most destructive
+viruses. David Smith created and distributed the Melissa virus in 1999. The virus
+caused more than $80 million in damage. He was sentenced to 20 months in federal
+prison in May 2002. He also was fined $5,000.
+NOTE
+You can learn how the federal government is prosecuting cybercrime by visiting the Department of Justice
+Computer Crime and Intellectual Property web page. The “Press Releases” page lists recent cybercrime
+prosecutions. The web page is available at http://www.justice.gov/criminal/cybercrime/.
+Other cybercrimes are well known because they are among the biggest or the
+perpetrators have received notable punishments. For instance, one of the hackers in
+the TJX Companies, Inc. case received the harshest-ever sentence for a hacking
+case in March 2010. The federal government had charged him with violating the
+CFAA, federal laws related to access device fraud, and the Identity Theft and
+Assumption Deterrence Act. The hacker, Albert Gonzalez, was sentenced to 20
+years in prison. He was also fined $250,000. 44
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.General Tort Law Concepts
+A tort is some sort of wrongful act or harm that injures a person. A person who is
+injured by a tort may sue the wrongdoer for damages. The word tort is from the Latin
+word tortus, which means wrong or twisted.
+In the United States, tort law has evolved from English common law. Many states
+give either common law or statutory recognition to most torts. When states enact tort
+laws, they typically are trying to expand or limit common law tort liability. Common
+law tort principles are similar among the states. The American Law Institute has
+prepared a review of tort law. The Restatement (Second) of the Law of Torts
+summarizes the common law tort rules.
+NOTE
+A tortfeasor is a person who commits a tort. In this discussion, a person charged with committing a tort is
+called a defendant. A plaintiff is the person allegedly injured by the defendant’s actions.
+Tort law is based on the premise that people should go about their daily business
+in a way that does not harm other people or their property. So long as people are
+acting reasonably, this is easy to accomplish. Tort law allows people a way to
+recover for their injuries if another person does not act reasonably.
+NOTE
+Tortious conduct is wrongful conduct. It is conduct that is unreasonable given the situation.
+Tort law uses the reasonable person standard to determine whether a person
+acts appropriately. Courts use this standard to determine if a person acts reasonably
+in response to a particular situation. This standard determines whether conduct is
+tortious.
+There are three types of torts. They are:
+Strict liability torts
+Negligent torts
+Intentional torts
+This section will briefly describe all three types of torts. However, you should keep in
+mind that most torts involving computers probably will fall under the intentional torts
+category.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Strict Liability Torts
+Strict liability is a legal concept that means that people can be held responsible for
+their actions even if they did not intend to cause harm to another person. Several
+areas of law apply this concept.
+In tort law, a person is held liable for strict liability torts regardless of intent or
+negligence. Courts usually impose strict liability theories in unreasonably dangerous
+situations. These are situations where even a reasonable person cannot prevent
+risk. The main reason for imposing strict liability is to discourage unreasonably risky
+behavior.
+The classic example of a strict liability tort is when a person keeps wild animals
+as pets. Wild animals are inherently dangerous. Even if the owner of the animal
+takes reasonable precautions, there is still a risk to the public if the animal escapes.
+If an animal were to escape and injure a person, courts would hold the owner liable
+for any damages that the animal caused. Courts hold the owner liable even if the
+owner takes every precaution available to ensure safety.
+In a tort based on strict liability, the plaintiff must show that the defendant
+engaged in unreasonably dangerous activities. The plaintiff also must show that he
+or she was harmed. The defendant bears the burden of proving that the activities
+were not unreasonably dangerous.
+Negligence Torts
+Negligence torts are based on the premise that a person is liable for any injuries or
+harm that are the foreseeable consequences of his or her actions. To prove a
+negligence-based tort, a plaintiff must show that:
+The defendant owed the plaintiff a duty of due care.
+The defendant breached his or her duty.
+The breach of duty caused the plaintiff’s foreseeable injuries.
+The plaintiff was damaged.
+Plaintiffs must prove that the defendant owed them a duty of due care. A duty of
+due care is a person’s obligation to avoid acts or omissions that can harm others.
+The level of duty that one person owes to another is based on the reasonable
+person standard, a legal concept used to describe how an ordinary person would
+think and act. The plaintiff will present evidence on what a reasonable person in a
+similar circumstance would have done. This evidence shows the level of care that
+the defendant owes the plaintiff.
+There are special duty of due care rules for people in learned occupations,
+professions where special training and skill are required. Under the law, people in
+these occupations are held to a higher standard of care that is reasonable for
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.members of that profession. For example, a lawyer’s duty of due care toward his or
+her clients is based on a reasonable lawyer standard. Doctors, architects, engineers,
+and airplane pilots are held to reasonableness standards based on their professions.
+NOTE
+The standard of care for professionals in learned occupations is important in professional malpractice
+cases.
+The plaintiff also must show that the defendant breached a duty of due care. That
+is, the plaintiff must prove that the defendant’s behavior fell below what a reasonable
+person would have done in the same situation. The plaintiff will compare the
+defendant’s behavior against the evidence that was used to show that the defendant
+had a duty of due care. The plaintiff can show that the defendant breached his or her
+duty by showing that the defendant acted in a way that was unreasonable given the
+situation and the defendant’s duty.
+NOTE
+A plaintiff also can prove a breach of the duty of due care by showing that the defendant failed to take a
+required action. This is called an omission.
+For example, a plaintiff may be able to establish that people have a duty to keep
+their sidewalks free from ice in the wintertime. To prove that the defendant breached
+this duty, the plaintiff would present evidence that the defendant did not shovel his or
+her sidewalks. The plaintiff also would have to show that the defendant’s failure to
+keep the sidewalks clear injured the plaintiff.
+The Reasonable Information Security Professional
+Torts based on a professional’s duty to provide competent services are among the oldest negligence torts. Is
+an information security professional a member of a learned occupation? Will information security
+professionals be held to a “reasonable security professional” standard when advising clients? There is some
+argument that this could be the case sometime in the future.
+Information security as a career path continues to evolve. Many information security professionals are highly
+educated individuals who are experts in their fields. Most of them have certifications in various technical
+aspects of information security. Many computing vendors offer technology-specific security certifications for
+their products.
+Several independent organizations offer security-related certifications as well. The International Information
+Systems Security Certification Consortium (ISC) 2 grants certifications to many information security
+professionals. This organization certifies that information security professionals have varying levels of
+experience and knowledge in the field. You can learn about (ISC) 2 at http://www.isc2.org/.
+The Global Information Assurance Certification (GIAC) program also grants information security certifications.
+It offers special certifications in areas such as audit, intrusion detection, and operating system security. These
+certifications test technical skills. Many information security professionals hold GIAC certifications. You can
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.learn about GIAC at http://www.giac.org/.
+Both (ISC) 2 and GIAC require certificate holders to follow a code of ethics. Each group has a code that
+defines acceptable levels of behavior for certificate holders. Both codes require certificate holders to act
+responsibly when giving information security advice. These organizations also require certificate holders to
+engage in activities that keep their information security skills up to date.
+As of this writing, no U.S. court has recognized a professional duty for information security professionals.
+Think about whether information security certifications and the ethical obligations that they sometimes require
+could be used to show that information security professionals are part of a learned profession. Could this
+change how information security professionals help their clients secure information systems?
+The plaintiff also must show that the defendant’s breach caused the plaintiff’s
+foreseeable injuries. Often courts use the “but for” test to meet this requirement.
+Would the plaintiff’s injuries have occurred “but for” the defendant’s actions? Once it
+is established that the defendant caused the plaintiff’s injuries, courts review whether
+those injuries are compensable.
+The law recognizes that there are some instances where the defendant is no
+longer responsible for the plaintiff’s injuries. This happens when the plaintiff’s injuries
+are not foreseeable. The famous case that explored this concept is Palsgraf v. Long
+Island Railroad (1928). 45
+In the Palsgraf case, a passenger was running toward a moving train. Train
+employees tried to help the passenger board the train. As they helped him, they
+bumped a package from his arms that contained fireworks. The fireworks exploded
+on the train tracks and caused a scale on the train platform to topple over. When it
+fell, it injured Mrs. Palsgraf. She sued the railroad for her injuries.
+The New York Court of Appeals decided the case. The court held that the
+plaintiff’s injuries were not a foreseeable result of the actions of the railroad’s
+employees. The court also held that the defendant had no duty to the plaintiff. The
+duty was owed to the passenger that the train employees were trying to help onto
+the train. Because there was no duty owed to the plaintiff, there could be no liability.
+NOTE
+In New York, the Court of Appeals is the state’s highest court.
+The Palsgraf case has come to stand for the rule that a defendant has no duty of
+due care to an unforeseen plaintiff for unforeseeable injuries. If there is no duty to an
+unforeseen plaintiff, then there is no negligence. This means that the relationship
+between the defendant’s act or omissions and the plaintiff’s injuries must have
+proximate or legal cause; that is, that the plaintiff’s injuries must be the natural and
+foreseeable results of the defendant’s negligence.
+NOTE
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.In a tort case, damages can be economic or non-economic. Economic damages are damages that have
+monetary value. They include compensation for medical bills, lost wages, and damage to property. Non-
+economic damages are harder to prove. They include compensation for items such as pain and suffering,
+or loss of companionship.
+Once the plaintiff proves that the defendant committed a negligent act, the
+plaintiff must prove that he or she suffered an injury and is entitled to damages. A
+court awards damages in a tort case in an attempt to make a plaintiff whole. These
+are called compensatory damages. Compensatory damages try to place the plaintiff
+in the same position that he or she would have been in had no tortious act occurred.
+This is the primary goal of tort lawsuits.
+A court does not usually award punitive damages in a negligent tort case.
+However, it may award punitive damages if the defendant’s actions are grossly
+negligent. This does not happen often, though. Many states have placed limits on
+the amount of punitive damages that a court or jury can award in a tort lawsuit.
+There are some defenses to negligence torts a defendant can use to help escape
+or limit liability. A defendant has the burden of proving her or his defenses. The three
+most common defenses are:
+Assumption of risk—The plaintiff had assumed the risk of the defendant’s
+actions and any injuries resulting from those actions. If the defendant proves
+assumption of risk, he or she has no liability to the plaintiff.
+Contributory negligence—The plaintiff should recover nothing because his or
+her own actions also contributed to his or her own injuries. If the defendant proves
+contributory negligence, he or she has no liability to the plaintiff. Only a few
+jurisdictions follow this rule because it is very harsh.
+Comparative negligence—The plaintiff should recover only a pro rata share of
+damages because his or her own actions also contributed to his or her injuries. In
+most jurisdictions, a plaintiff less than 50 percent at fault can recover a pro rata
+share of damages based on the defendant’s level of fault.
+Intentional Torts
+Intentional torts occur when the defendant intended to commit the tort. Intentional
+torts often share many common elements with a crime. It helps to remember that
+civil actions address torts and criminal actions address crimes. The same action can
+be both a wrong against society (a crime) and a wrong against an individual (a tort).
+The classic example of an intentional tort is battery. Battery is harmful or
+offensive contact with another person. The battery tort occurs when the defendant
+intentionally causes harmful contact with the plaintiff.
+NOTE
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Most of the torts associated with computers and cyberspace are intentional torts. These occur when the
+defendant uses a computer or takes some action involving a computer, intentionally, to harm the plaintiff.
+The most common defense to an intentional tort is that the plaintiff consented to
+the wrongful action. A defendant must prove that the plaintiff consented. A defendant
+can use the plaintiff’s words or actions as evidence to prove consent.
+Civil Procedure
+A plaintiff must sue a defendant in a civil lawsuit to recover for tort injuries. Civil
+procedure is the body of rules that govern how courts conduct civil cases. This
+section provides more detail on the civil trial process. One thing to keep in mind is
+that the laws of civil procedure vary from jurisdiction to jurisdiction. The federal and
+state governments all have different civil procedure rules. The description provided
+here is intentionally general.
+A civil action begins when the plaintiff files a complaint with a court. A plaintiff
+uses a complaint to tell his or her story. The plaintiff states how he or she was injured
+and asks the court to make him or her whole. A complaint must contain “a short and
+plain statement of the claim showing that the pleader is entitled to relief.” 46 It also
+must show that the court has jurisdiction to hear the case. The plaintiff also must
+specify the relief demanded. In a tort case, the plaintiff typically wishes to receive
+money damages. The damages compensate the plaintiff for any injuries.
+NOTE
+In civil procedure, the plaintiff is the party that brings the lawsuit. The defendant is the party that defends
+against the lawsuit. In some jurisdictions, and for some types of cases, the plaintiff could be called the
+petitioner. The defendant could be called the respondent.
+The plaintiff must file a complaint within a certain period, called the statute of
+limitations, after the claimed injury. For example, in Indiana, the statute of
+limitations for most tort actions is 2 years. 47 The plaintiff must sue the defendant
+within 2 years of being injured by the defendant. Not all states have the same time
+limits, however. For example, in Montana, the statute of limitations for most tort
+actions based on negligent conduct is 3 years. 48
+Service of process refers to the procedure that delivers the complaint and a
+summons to the defendant. This process makes the defendant aware that the
+plaintiff has filed a lawsuit. Certain formalities must be followed to serve a complaint
+and summons on a defendant. For the most part, the complaint and summons are
+delivered physically to the defendant. This is to assure the court that the defendant
+received proper notice of the lawsuit.
+The defendant must respond to the complaint after receiving it. That response is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.called an answer. All jurisdictions have time limits that a defendant must follow when
+answering the complaint. Under the Federal Rules of Civil Procedure, a defendant
+must file his or her answer within 20 days after receiving the complaint. 49 A court can
+allow a defendant more time to answer if necessary.
+A defendant must respond to each claim in the plaintiff’s complaint. He or she
+can admit to or deny the claims. The defendant must also state her or his defenses
+to each claim. The answer is the defendant’s opportunity to tell her or his side of the
+story.
+NOTE
+A defendant also can raise counterclaims in his or her answer. These are the defendant’s claims against
+the plaintiff. The defendant also can raise cross-claims. These are the defendant’s claims against another
+party to hold that third party responsible for the plaintiff’s injuries.
+A defendant also can raise defenses to the plaintiff’s complaint. Some of these
+defenses are absolute. The court must dismiss the plaintiff’s lawsuit if the defendant
+proves the defense. For example, the defendant can question the court’s jurisdiction.
+If the court does not have jurisdiction over the matter, then it must dismiss the
+lawsuit. A defendant also can argue that the plaintiff does not have a legal basis for
+the claim. The court must dismiss the lawsuit if there is no legal basis for the
+plaintiff’s claim.
+After the complaint and answer, the plaintiff and defendant’s attorneys will begin
+the discovery process. This is the period of the civil lawsuit where the parties share
+information with one another. Unlike the criminal discovery process, there are few
+affirmative disclosure rules in the civil discovery process. The parties must disclose
+their witnesses to one another. They also must provide each other with a list of
+documents that they have in their possession that are related to their claims and
+defenses. The documents that each party must disclose include a listing of
+documents stored in an electronic form.
+After these general disclosures, it is up to each party to ask for information that is
+relevant to the case. The parties use various procedural rules to ask each other for
+information and documents. The process can get very complicated. It also can get
+very expensive. Sometimes the parties will ask the court to intervene in the
+discovery process. This happens when the parties dispute whether some types of
+information must be disclosed.
+For example, a defendant may not want to disclose trade secret information
+through the discovery process, even if it is relevant to the case. This is because
+documents filed in a court case become public records. This includes documents
+exchanged during the discovery process and then used as evidence at trial. The
+defendant does not want to lose trade secret protection. The defendant could lose
+that protection if the information is available to the public or if it is shared with the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.other party’s legal team. In this instance, the defendant could ask the court to issue a
+protective order. This type of order requires the parties to keep certain information
+secret. It helps protect the defendant’s trade secrets.
+After the discovery process ends, the parties either settle their lawsuits or
+proceed to trial. If a tort case goes to trial, the plaintiff must prove all the elements of
+his or her claim. He or she must prove the case through a preponderance of the
+evidence. This is a lower standard of proof than in criminal cases. A civil trial ends
+with the court or jury’s decision on the case. Parties may appeal an adverse ruling at
+the trial court level. Either party may appeal a ruling to a higher court through several
+different procedural rules. These rules are outside of the scope of this chapter.
+NOTE
+Some civil cases, called bench trials, are tried in front of a judge alone. Bench trials are unusual in tort
+cases.
+Electronic Discovery
+For the parties in a lawsuit, electronic data can be important evidence. This is especially true because many
+parties and witnesses store their data in an electronic format only. The introduction of electronic-format
+evidence and record-keeping systems caused some problems for the legal system. These problems were
+acute in the discovery phase of lawsuits, where parties would engage in expensive fights over the production
+of electronic information.
+Electronic discovery deals with information stored in an electronic format. It is also known as E-discovery.
+Before 2006, courts decided E-discovery issues on a case-by-case basis under standard discovery rules.
+The most famous case for E-discovery issues is Zubulake v. UBS Warburg, LLC. 50 The U.S. District Court for
+the Southern District of New York decided this case.
+There are actually several Zubulake decisions regarding electronic discovery. They stated the first real rules
+for parties to follow regarding electronic evidence. The rules related to the duty to preserve evidence, the
+duty to monitor compliance with preservation decisions, and the costs of providing electronic data.
+In 2006, the U.S. Supreme Court amended the Federal Rules of Civil Procedure to clarify how parties should
+handle E-discovery. These revisions were largely because of the Zubulake case. Additional amendments to
+the Federal Rules of Civil Procedure regarding E-discovery were proposed in August 2013. The Judicial
+Conference Committee on Rules of Practice and Procedure received over 2,000 comments on the new
+rules. 51
+When a lawsuit begins, parties are obligated to preserve certain types of evidence. This includes evidence
+stored in an electronic format. The Federal Rules of Civil Procedure call this type of evidence “electronically
+stored information” (ESI). The definition is broad and is meant to include any type of information that can be
+stored electronically. The parties must address how discoverable ESI will be preserved. They also must
+address the format in which it will be shared with the other party. It can be shared in its native format, which
+may not be usable by the other party. It also can be shared in a reasonably useful form. If the parties do not
+specify how the ESI is to be shared, then a party providing ESI must notify the requesting party of the format.
+In some instances, it can be hard to produce ESI for various reasons. A party does not have to produce ESI if
+it is not reasonably accessible because of undue burden or costs associated with retrieving the ESI. The
+party claiming that it cannot produce ESI for these reasons bears the burden of proving that production is
+overly costly or complex.
+Usually, a court can sanction a party if it destroys evidence during a lawsuit. This is called the spoliation of
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.evidence. It occurs when evidence in a lawsuit is inappropriately changed or destroyed. Spoliation sanctions
+can be severe. The Federal Rules of Civil Procedure recognize that sometimes ESI that is relevant to a case
+may be destroyed through the normal operations of information technology systems. The Rules provide a
+safe harbor to parties in these situations. The Rules state that a court may not impose sanctions on a party
+for failing to produce ESI that is destroyed because of the good-faith operation of information technology
+systems.
+To fall into the safe harbor, the party must show that it took steps to preserve the ESI and acted in good faith.
+The duty to preserve ESI arises when a party is made aware of a legal claim or is put on notice that litigation
+is imminent or reasonably anticipated. Sometimes the attorney for a party might issue a preservation notice
+or litigation hold. These notices tell the party exactly what type of information must be preserved and for how
+long. Sometimes attorneys for opposing parties will send these types of notices to each other or witnesses to
+make sure that ESI is preserved.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Common Tort Law Actions in Cyberspace
+Torts are wrongful acts between individuals. Lawyers and commentators have
+started to use the term cybertorts to describe torts arising from internet
+communications. 52 (Terms are always trendier when cyber is added as a preface!)
+Courts are applying traditional tort law principles to areas where communications
+and personal interactions occur electronically. This section will briefly describe some
+of the ways that tort law concepts have been applied to online interactions.
+Defamation
+Defamation is an intentional tort. Defamation occurs when one person speaks or
+publishes a false statement of fact about another person that injures that person’s
+reputation. There are two types of defamation cases. They are:
+Libel—Written defamation
+Slander—Oral defamation
+The distinction between libel and slander has diminished in recent years, with
+“defamation” being used generally to refer to both types of cases. Defamation cases
+in cyberspace involving written communications are considered libel cases. To prove
+defamation, a plaintiff must show all of the following:
+That the defendant made a false statement of fact
+That the defendant published the statement to third parties
+That the defendant knew or should have known that the statement was false
+A defamatory statement must be more than mere opinion. For instance, in Hammer
+v. Amazon.com (2005), the plaintiff, a self-published author, sued Amazon.com for
+defamation. An online reviewer gave the plaintiff’s book a negative review, which
+Amazon published. The plaintiff wanted Amazon to remove the review, which it
+refused to do. The court ruled that the reviewer’s statements were opinion and could
+not support a defamation claim. 53
+NOTE
+The term flaming refers to contentious debates between online posters, which often occur on online
+discussion boards. People might be able to use these types of statements to support a defamation case.
+The defamatory statement must be published to third parties. The publication
+requirement is easily satisfied when information is posted on the internet. In fact,
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.because many people have access to the internet and materials posted on it, it may
+be easier for a plaintiff to show publication in an internet defamation case.
+Information posted on the internet may reach an audience more quickly. It also could
+lead to greater damage to the plaintiff.
+Finally, the plaintiff must show that the defendant knew, or should have known,
+that the statement was false. A plaintiff shows this by presenting evidence that the
+defendant did not check facts or the source of a statement.
+Some types of statements are so scandalous that a court automatically presumes
+that defamation has occurred. These types of statements are called defamation per
+se. Per se is a Latin phrase that means “by itself.” Types of statements considered
+defamation per se include:
+Statements that a person has a loathsome disease
+Statements that a person has committed a crime
+Statements about sexual misconduct or chastity
+Statements about professional impropriety
+If a defamation case involves these types of statements, the plaintiffs do not have to
+prove all the defamation elements. They just must prove their damages.
+NOTE
+Traditionally, loathsome diseases were diseases such as leprosy and venereal disease. They are diseases
+that have great social stigma.
+Defamation is considered in context. A court must consider all the facts and
+circumstances around a case. In a traditional defamation case, the plaintiff can sue
+both the original maker of the defamatory statement and anyone who republishes
+the statement. These lines are blurred online. It makes it especially hard to
+determine where a defamatory statement first appears.
+Understanding what constitutes a defamatory statement online can be hard—
+especially in cases involving social media. In 2019, a unanimous jury held that Elon
+Musk did not defame another individual through statements that Musk made through
+three tweets over Twitter. 54
+Internet Service Provider Liability for Torts
+Congress enacted the Communications Decency Act in 1996. However, the U.S. Supreme Court declared
+many portions of this Act unconstitutional because they infringed on free speech rights. One part of the Act
+that is still in effect is Section 230. 55
+Section 230 protects interactive computer service providers from liability for the actions of content providers.
+The Act recognizes that “[t]he rapidly developing array of internet and other interactive computer services
+available to individual Americans represent an extraordinary advance in the availability of educational and
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.informational resources to our citizens.” 56 It also recognized that Americans rely on interactive media for
+educational and entertainment information. In enacting the policy, Congress sought “to encourage the
+development of technologies which maximize user control over what information is received by individuals,
+families, and schools who use the Internet and other interactive computer services.” 57
+Under the law, an interactive computer service is any electronic information service or system. It specifically
+includes a service or system that provides access to the internet. Courts interpret this definition as broadly as
+possible. The act states that an interactive computer service provider may not be treated as the “publisher” or
+“speaker” of content posted by service users. This is a safe harbor for interactive computer service providers.
+It protects them from legal liability for the actions of service users.
+Courts have applied this provision quite broadly to many companies who offer services over the internet such
+as social networking or bulletin board posting services. For instance, courts have found that Facebook,
+Craigslist, YouTube, and Twitter are interactive service providers who fall under the section’s protection.
+ISPs rely on this law to insulate themselves from the actions of their customers. Section 230 specifically
+preempts state or local laws that would hold ISPs responsible for the acts of content providers.
+The defendant can raise some defenses to a defamation allegation. Truth, for
+example, is an absolute defense to a defamation allegation. A court cannot hold a
+defendant responsible for defamatory statements if the statements were truthful.
+Another defense is that the defendant acted in good faith. Statements that a
+defendant makes in connection with judicial or legislative proceedings have immunity
+from a defamation action. These types of statements are called privileged
+statements.
+One problem for online defamation cases is that it is sometimes difficult for a
+plaintiff to discover the identity of an online poster. This is particularly true if an
+anonymous poster makes defamatory statements in an online forum. Plaintiffs often
+have to go to court to get an ISP to turn over identifying information about an
+anonymous online poster.
+A final item to remember is that online tort cases often involve jurisdictional
+issues as well. State courts can hold out-of-state defendants responsible for their
+actions only in limited circumstances. Most states have complicated tests, called
+“long-arm jurisdiction” tests, for when they can exercise jurisdiction over an out-of-
+state defendant. Lawyers and courts use this term because it describes situations
+where the “long arm of the law” can pull a defendant into a certain jurisdiction. This is
+the same type of problem that was discussed in the criminal law section of this
+chapter. These types of jurisdiction issues sometimes mean that a plaintiff must
+litigate a case in a state other than the state where she or he lives.
+Intentional Infliction of Emotional Distress
+Intentional infliction of emotional distress (IIED) is known as the tort of outrage. This
+is because it is used to address conduct that is so offensive that a reasonable
+person would say “Outrageous!” To prove this tort, a plaintiff must show:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.That the defendant acted intentionally or recklessly
+That the defendant’s conduct was extreme and outrageous
+That the defendant’s conduct caused the plaintiff severe emotional distress
+NOTE
+Many states also recognize the tort of negligent infliction of emotional distress. This tort can be harder to
+prove because one of the elements is that the defendant owed the plaintiff a duty to act in a certain way.
+There is no duty requirement in IIED cases.
+The Restatement (Second) of the Law of Torts notes that extreme and outrageous
+conduct is “beyond all possible bounds of decency and to be regarded as atrocious,
+and utterly intolerable in a civilized community.” 58 Courts have recognized that
+people have the right to be free from this type of behavior. Even though courts
+recognize this cause of action, they have held that the defendant’s conduct truly
+must be extreme and outrageous given the circumstances. Mere bad or boorish
+behavior is not enough under this tort.
+The landmark case recognizing this tort happened in California. 59 In this case, the
+defendant won a contract for trash collection from a private entity. The contract was
+previously held by a member of the State Rubbish Collectors Association. The
+defendant was not a member of the association. The association intimidated the
+defendant into signing its membership agreement. Association members threatened
+to hurt the defendant and destroy his garbage truck.
+The association then sued the defendant to collect dues as stated in the
+membership agreement. The defendant argued that the agreement was invalid
+because the association had threatened him and he signed the agreement under
+duress. He also argued that the plaintiff’s actions caused him to become severely ill
+and miss work.
+In ruling on the case, the court said that a person has the right to live his life
+without “serious, intentional, and unprivileged invasions of emotional and mental
+tranquility.” 60 The court found that the defendant stated a claim for IIED and could
+recover damages based on his IIED claim.
+IIED cases can arise through email, comments made on social networking sites,
+and instant messaging. Because IIED cases involve interactions between a plaintiff
+and defendant, evidence proving the contents of the electronic communications can
+be very important. Similar to defamation cases, in most instances ISPs are not liable
+for the actions of content providers that cause an IIED.
+FYI
+Often IIED cases involve situations where a person is using a work email account or internet access to
+commit the tortious activity. There are times when employers might be liable for the bad acts of
+employees. Employers can be liable for their employees’ actions when those actions take place within the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.scope of the employee’s job. An employer also must have knowledge of the employee’s tortious acts.
+Courts have been reluctant to hold employers responsible for the cybertorts of employees unless the
+employer had knowledge of its employee’s actions and did not take steps to stop them.
+IIED claims also can involve claims of harassment. Some states recognize
+harassment as a tort, whereas most consider it criminal behavior. Some states also
+have included cyberstalking or online harassment in their criminal harassment laws.
+For example, Oklahoma and New York have anti-stalking laws that include online
+harassment as a prohibited activity. 61
+Harassment is similar to IIED in that the harasser intends to cause the plaintiff
+emotional distress. Harassment can include continuing to communicate with a
+person when she or he has asked that the harasser no longer talk to him or her. It
+also can include threats made against a person or that person’s loved ones.
+Harassment also can include offensive sexual remarks and remarks based on
+characteristics such as race, national origin, religion, and gender.
+Similar to IIED, harassment can very easily take place in the online environment.
+It can occur via email, postings on social networking web pages, and postings on
+other web pages.
+Trespass Torts
+Common law recognizes trespass torts. In common law, there are two types of
+trespass cases: trespass on land and trespass to chattels. Chattels mean personal
+property. Trespass to chattels is intentionally interfering with a person’s use or
+possession of personal property. The defendant’s use of the plaintiff’s personal
+property must cause an injury or damage. Often this happens when the defendant
+harms the personal property in some way.
+Courts have extended trespass to chattels cases to online situations, such as
+spam email. The first court case holding spammers responsible for trespass to
+chattels was in 1997. 62 In that case, an ISP sued a defendant for bypassing the ISP’s
+spam-blocking controls to send spam emails to the ISP’s customers. The defendant
+had changed the header information on its spam emails so that the emails could
+could get past the ISP’s spam filters. The ISP argued that the spam emails imposed
+a burden on its system. It also argued that the defendant’s spam messages were an
+intrusion to the ISP’s system because they bypassed filtering controls. The U.S.
+District Court for the Southern District of Ohio found that the defendant’s spamming
+activities did indeed constitute a trespass of that system. 63
+NOTE
+Remember, in tort cases, a plaintiff must show that he or she incurred damages from the defendant’s bad
+conduct.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.In a trespass to chattels case, the plaintiff must be able to prove that he or she
+was injured or harmed. This is the most difficult element to show in online cases. In
+2003, the Intel Corporation sued an ex-employee for sending spam emails to over
+30,000 Intel employees on multiple occasions. The California Supreme Court
+rejected Intel’s trespass claim because it was unable to prove any damages. Intel
+was not able to show that the thousands of emails slowed its servers or caused
+some sort of adverse effect on its computer systems. 64
+Privacy Violations
+The four privacy torts are:
+Intrusion into seclusion
+Portrayal in a false light
+Appropriation of likeness or identity
+Public disclosure of private facts
+Privacy torts were discussed earlier in this book. Courts are beginning to recognize
+that people have a right to privacy in their electronic equipment and electronic
+communications. The intrusion into seclusion privacy tort is used most often in this
+context. For example, a plaintiff may be able to sue a defendant for accessing the
+plaintiff’s private electronic blog without permission. However, the rise of the internet
+as a communications and entertainment medium may mean that other privacy torts,
+such as portrayal in a false light, may grow as well.
+A question that is yet to be resolved is whether people have a true right of privacy
+in their use of the internet, independent of any tortious or criminal activity. A person’s
+privacy on the internet is somewhat limited by the logging mechanisms that ISPs and
+web pages employ to make sure that systems are operating correctly. Programs
+used by service providers to track activity for advertising purposes also are threats to
+privacy.
+Tort cases are firmly rooted in state laws. There may be other tort actions that a
+plaintiff can use to seek redress for harmful activities in cyberspace. If a plaintiff is
+harmed by actions in cyberspace and has damages and injuries that he or she can
+prove, the plaintiff will need to review state laws and court cases for appropriate
+causes of action.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Case Studies and Examples
+The following case studies and examples show how the concepts discussed in this
+chapter are used. These case studies are real-world examples of criminal and tort
+law issues in cyberspace.
+CAN-SPAM Act
+The U.S. government first brought criminal charges under the CAN-SPAM Act in
+April 2004. The U.S. Postal Inspection Service, U.S. Attorneys’ office, and FTC were
+involved in investigating the case.
+In this case, the federal government charged the defendants with sending spam
+messages to sell phony diet products. The defendants operated under the name
+Phoenix Avatar, LLC. The defendants hid their identities in spam messages by using
+corporate and government computer systems and spoofing third-party email
+addresses. They used computers belonging to Ford Motor Company, computers
+used by the U.S. court system, and the Unisys Corporation to hide their identities.
+Undeliverable spam bounced back to the innocent third-party email addresses.
+Phoenix Avatar sent millions of spam messages this way.
+One of the defendants in the case, Daniel Lin, pleaded guilty to violations of the
+CAN-SPAM Act in January 2006. In June 2006, the court sentenced him to 3 years
+in federal prison.
+NOTE
+You can read the FTC enforcement action documents for the Phoenix Avatar case at
+https://www.ftc.gov/enforcement/cases-proceedings/042-3084/phoenix-avatar-llc-dba-avatar-nutrition-djl-
+llc-et-al.
+The FTC filed a civil enforcement action against Phoenix Avatar. The FTC
+brought the action for violations of both the FTC Act and the CAN-SPAM Act. The
+FTC Act violations were related to the defendant’s sale of the phony diet products.
+In March 2005, the FTC settled civil charges against Phoenix Avatar. As part of
+the settlement, the defendants agreed to pay a $20,000 penalty. They also agreed
+not to violate the CAN-SPAM Act in the future.
+Defamation on College Campuses
+The internet has many anonymous gossip websites. Juicy Campus, one of the first
+popular sites, started in 2007 and closed down in February 2009. It allowed college
+students to post anonymous gossip about events and people at their campuses.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Juicy Campus had separate web pages for different colleges.
+Juicy Campus billed itself as a way to promote free speech on college campuses.
+Among its features, anonymous users could post gossip about other students, read
+gossip posted by other users, and vote on the “juiciest” pieces of gossip. Students
+ridiculed or insulted on Juicy Campus had little recourse, as the postings were
+anonymous. As an ISP, Juicy Campus did not share the identities of its online
+posters without a court order.
+Since Juicy Campus closed down, other online campus gossip websites have
+grown in popularity. One of the sites that opened when Juicy Campus shut down
+was College ACB. In a press release, the owner of the website wrote: “The College
+ACB or College Anonymous Confession Board seeks to give students a place to
+vent, rant, and talk to college peers in an environment free from social constraints
+and about subjects that might otherwise be taboo.” College ACB closed down in
+2011. 65
+AutoAdmit, a similar site, is an online law school discussion board. As on similar
+gossip websites, posts in that forum sometimes can be insulting and offensive. In
+2007, two Yale Law School students sued anonymous AutoAdmit posters for
+defamation. The parties settled the case in 2009. The terms of the settlement were
+confidential. You can learn more about that case on the Citizen Media Law project
+web page at http://www.citmedialaw.org/threats/autoadmit#description.
+Think about websites and apps that create experiences where you can hang out
+in chat rooms with nearby people. Some allow people to post anonymously. Some
+do not. How do they promote free speech? Are there occasions on these apps and
+websites where one person’s right to free speech infringes upon another person’s
+right to live peacefully?
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.CHAPTER SUMMARY
+This chapter discussed criminal and tort law issues in cyberspace. As part of
+the discussion, criminal and civil procedure rules were reviewed. Criminal
+and civil procedure refers to court processes used to conduct trials. Criminal
+procedure is the process governments use to hold criminals responsible for
+their actions. Civil procedure is the process individuals use to settle disputes
+with others.
+The chapter also discussed substantive criminal and tort laws applicable to
+online activities. There are many federal laws that governments can use to
+help prevent and punish cybercrime. Individuals also can use traditional tort
+law concepts to seek redress for harm that they experience on the internet.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.KEY CONCEPTS AND TERMS
+Actus reus
+Answer
+Complaint
+Duty of due care
+Felonies
+Flaming
+Libel
+Mala in se
+Mala prohibita
+Mens rea
+Misdemeanors
+Personal jurisdiction
+Slander
+Spam
+Statute of limitations
+Subject matter jurisdiction
+Tortfeasor
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.CHAPTER 12 ASSESSMENT
+1. Only the federal government prosecutes felonies.
+A. True
+B. False
+2. Provide a brief definition of “crime.”
+3. What is mala in se?
+A.
+B.
+C.
+D.
+E.
+Conduct that a society declares is inherently wrong
+Conduct that society prohibits
+A person’s criminal intent
+A criminal act
+None of these is correct.
+4. What element(s) must a government prove to show a crime has been
+committed?
+A.
+B.
+C.
+D.
+E.
+Mens rea
+Mala prohibita
+Actus reus
+Mens rea and mala prohibita
+Mens rea and actus reus
+5. What type of jurisdictional issue is a concern in a cybercrime case?
+A.
+B.
+C.
+D.
+E.
+Original jurisdiction
+Subject matter jurisdiction
+Personal jurisdiction
+Appellate jurisdiction
+None of these is correct.
+6. The ________ guarantees a defendant the right to a speedy trial.
+7. The Computer Fraud and Abuse Act applies to any unauthorized access to any
+kind of computer.
+A. True
+B. False
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.8. Which federal laws can be used to prosecute phishing scams?
+A.
+B.
+C.
+D.
+E.
+The Computer Fraud and Abuse Act
+The Patriot Act
+The CAN-SPAM Act
+All of these are correct.
+The Computer Fraud and Abuse Act and the CAN-SPAM Act
+9. Cybertorts are most likely which type of tort?
+A.
+B.
+C.
+D.
+E.
+Intentional torts
+Negligent torts
+Strict liability torts
+Crimes
+None of these is correct.
+10. To prove an intentional infliction of emotional distress tort, a plaintiff must show
+that the defendant’s conduct is ________.
+11. Internet service providers often have tort immunity for the actions of content
+providers.
+A. True
+B. False
+12. What is the time period during which a plaintiff must begin a lawsuit?
+A.
+B.
+C.
+D.
+E.
+Statute of frauds
+Statute on liability
+Statute of limitations
+Pleadings statute
+None of these is correct.
+13. What is a defense to a defamation case?
+A.
+B.
+C.
+D.
+E.
+Comparative negligence
+Contributory negligence
+Assumption of risk
+The truth
+None of these is correct.
+14. The two types of defamation cases are ________.
+15. What type of document must a plaintiff file to begin a civil lawsuit?
+A. Answer
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.Discovery
+Motion for Summary Judgment
+Counter-claim
+Complaint
+B.
+C.
+D.
+E.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.ENDNOTES
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+Wisconsin Statutes, sec. 940.01.
+Wisconsin Statutes, sec. 940.02.
+Robinson v. California, 370 U.S. 660 (1962).
+CNN.com, “Couple: Internet Gaming Addiction Led to Baby’s Death,” April 2,
+2010. Available at
+https://www.cnn.com/2010/WORLD/asiapcf/04/01/korea.parents.starved.baby/
+(accessed May 1, 2020).
+Strassheim v. Daily, 221 U.S. 280 (1911).
+Alaska Statutes, title 12, sec. 12.05.010.
+Council of Europe, Treaty Office, “Convention of Cybercrime Signatories,”
+undated. Available at https://www.coe.int/en/web/conventions/full-list/-
+/conventions/treaty/185 (accessed May 1, 2020).
+U.S. Federal Trade Commission, “eConsumer Statistics,” April 15, 2020.
+Available at
+https://public.tableau.com/profile/federal.trade.commission#!/vizhome/eConsumer/Infog
+(accessed May 1, 2020).
+Pew Research Center, “Only 2% of Federal Criminal Defendants Go to Trial,
+and Most Who Do Are Found Guilty,” June 11, 2019. Available at
+https://www.pewresearch.org/fact-tank/2019/06/11/only-2-of-federal-criminal-
+defendants-go-to-trial-and-most-who-do-are-found-guilty/ (accessed May 1,
+2020).
+Gideon v. Wainwright, 372 U.S. 335 (1963).
+Giglio v. United States, 405 U.S. 150 (1972).
+Brady v. Maryland, 373 U.S. 83 (1963).
+Strunk v. United States, 412 U.S. 434 (1973).
+U.S. Code, Vol. 18, sec. 1030.
+Internet Crime Complaint Center, “2019 Annual Internet Crime Report,” 2019.
+Available at https://pdf.ic3.gov/2019_IC3Report.pdf (accessed May 1, 2020).
+U.S. Code, Vol. 18, sec. 1030(e).
+U.S. Code, Vol. 18, sec. 1030(e)(6).
+U.S. Code, Vol. 18, sec. 1030(e)(6).
+U.S. Code, Vol. 18, sec. 1030(e)(8).
+U.S. Code, Vol. 18, sec. 1029.
+U.S. Federal Trade Commission, “Consumer Sentinel Network Data Book
+2019,” January 2020. Available at
+https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-
+data-book-2019/consumer_sentinel_network_data_book_2019.pdf (May 1,
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+2020).
+U.S. Code, Vol. 18, sec. 1028.
+U.S. Code, Vol. 18, sec. 2510.
+U.S. Code, Vol. 18, sec. 3121.
+U.S. Code, Vol. 18, sec. 2701.
+U.S. Code, Vol. 15, sec. 7701; U.S. Code, Vol. 18, sec. 1037.
+U.S. Code, Vol. 15, sec. 7704(d).
+U.S. Code, Vol. 15, sec. 7704(a).
+U.S. Code, Vol. 15, sec. 7706.
+U.S. Federal Trade Commission, “FTC Completes Review of CAN-SPAM Rule,”
+February 12, 2019. Available at https://www.ftc.gov/news-events/press-
+releases/2019/02/ftc-completes-review-can-spam-rule (accessed May 1, 2020).
+U.S. Code, Vol. 18, sec. 1037.
+Information Week, “War-Driving Pornographic Spammer Escapes Jail Time,”
+August 1, 2007. Available at https://www.informationweek.com/war-driving-
+pornographic-spammer-escapes-jail-time/d/d-id/1057666 (accessed May 1,
+2020).
+U.S. Code, Vol. 18, sec. 1037.
+U.S. Code, Vol. 15, sec. 1125(d).
+U.S. Code, Vol. 15, sec. 1125(d)(1)(B).
+U.S. Code, Title 47, sec. 223(a)(1)(c).
+U.S. Code, Title 18, sec. 2261A.
+U.S. Code, Title 18, sec. 875(c).
+Stopbullying.gov, “What Is Cyberbullying?” May 30, 2019. Available at
+https://www.stopbullying.gov/cyberbullying/what-is-it (accessed May 1, 2020).
+Department of Justice, “Missouri Woman Indicted on Charges of Using
+MySpace to Cyber Bully 13-Year-Old Who Later Committed Suicide,” May 15,
+2008. Available at
+https://www.justice.gov/archive/usao/cac/Pressroom/pr2008/063.html (accessed
+May 1, 2020).
+U.S. v. Drew, 259 F.R.D. 449 (C.D. Cal. 2009).
+U.S. Federal Bureau of Investigation, “Morris Worm,” undated. Available at
+https://www.fbi.gov/history/famous-cases/morris-worm (accessed May 1, 2020).
+U.S. Federal Bureau of Investigation, “Melissa Virus,” undated. Available at
+https://www.fbi.gov/history/famous-cases/melissa-virus (accessed May 1, 2020).
+The New York Times Magazine, “The Great Cyberheist,” November 10, 2020.
+Available at https://www.nytimes.com/2010/11/14/magazine/14Hacker-t.html
+(accessed May 1, 2020).
+Palsgraf v. Long Island Railroad, 162 N.E. 99 (N.Y. 1928).
+Federal Rules of Civil Procedure, Rule 8.
+Indiana Code, 34-11-2-4.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.48. Montana Code Annotated, 27-2-204(3).
+49. Federal Rules of Civil Procedure, Rule 12.
+50. Zubulake v. UBS Warburg, LLC, 2004 WL1620866 (S.D.N.Y. July 20, 2004).
+This was the final E-discovery decision handed down in the Zubulake case.
+51. Regulations.gov, “Proposed Amendments to the Federal Rules of Civil
+Procedure,” undated. Available at
+http://www.regulations.gov/#!docketDetail;D=USC-RULES-CV-2013-0002
+(accessed May 1, 2020).
+52. Rustad, Michael L. Internet Law. St. Paul, MN: Thomson Reuters, 2009, p. 143.
+53. Hammer v. Amazon.com, 392 F.Supp.2d 423 (E.D.N.Y. 2005).
+54. Court Listener, “Docket for Vernon Unsworth v. Elon Musk (2:18-cv-08048),”
+March 11, 2020. Available at
+https://www.courtlistener.com/docket/7887513/vernon-unsworth-v-elon-musk/
+(accessed May 1, 2020).
+55. U.S. Code, Vol. 47, sec. 230.
+56. U.S. Code, Vol. 47, sec. 230(a)(1).
+57. U.S. Code, Vol. 47, sec. 230(b)(3).
+58. Restatement (Second) of the Law of Torts, sec. 46, cmt. d.
+59. State Rubbish Collectors Association v. Siliznoff, 240 P.2d 282 (Ca. 1952).
+60. State Rubbish Collectors Association v. Siliznoff, 240 P.2d 282 (Ca. 1952).
+61. New York Penal Code, Ch. 40, sec. 240.30; Oklahoma Statutes, Title 21, sec.
+1173.
+62. CompuServe, Inc. v. Cyber Promotions, Inc., 962 F.Supp. 1015 (S.D. Ohio
+1997).
+63. CompuServe, Inc. v. Cyber Promotions, Inc., 962 F.Supp. 1015 (S.D. Ohio
+1997).
+64. Intel Corp v. Hamidi, 71 P.3d 296 (Ca. 2003).
+65. College ACB, “College ACB Press Release,” February 5, 2009. Available at
+http://collegeacb.blogspot.com/2009/02/collegeacb-press-release.html
+(accessed May 1, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.© mirjanajovic/DigitalVision Vectors/Getty Images
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.PART III
+Security and Privacy in Organizations
+Information Security Governance
+CHAPTER 14 Risk Analysis, Incident Response, and Contingency
+Planning
+CHAPTER 15 Computer Forensics and Investigations
+CHAPTER 13
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:03.

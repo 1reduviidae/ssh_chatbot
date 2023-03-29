@@ -1,0 +1,271 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+APPENDIX
+B
+Standard Acronyms
+2FA two-factor authentication
+ACD automatic call distributor
+AES Advanced Encryption Standard
+ALE annual loss expectancy
+ANSI American National Standards Institute
+AO authorizing official
+AP access point
+API application programming interface
+APT advanced persistent threat
+ARO annual rate of occurrence
+ATM asynchronous transfer mode
+AUP acceptable use policy
+AV antivirus
+B2B business to business
+B2C business to consumer
+BBB Better Business Bureau
+BC business continuity
+BCP business continuity plan
+BGP4 Border Gateway Protocol 4 for IPv4
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 21:05:30.BIA business impact analysis
+BOD board of directors
+BYOD Bring Your Own Device
+C2C consumer to consumer
+CA certificate authority
+CAC common access card
+CAN computer network attack
+CAN-SPAM Controlling the Assault of Non-Solicited Pornography and Marketing Act
+CAP Certification and Accreditation Professional
+CAUCE Coalition Against Unsolicited Commercial Email
+CBA cost-benefit analysis
+CBF critical business function
+CBK common body of knowledge
+CCC CERT Coordination Center
+CCNA Cisco Certified Network Associate
+CDR call-detail recording
+CERT Computer Emergency Response Team
+CFE Certified Fraud Examiner
+C-I-A confidentiality, integrity, availability
+CIO Chief Information Officer
+CIPA Children’s Internet Protection Act
+CIR committed information rate
+CIRT computer incident response teams
+CISA Certified Information Systems Auditor
+CISM Certified Information Security Manager
+CISO Chief Information Security Officer
+CISSP Certified Information System Security Professional
+CMIP common management information protocol
+CMMI capability maturity model integration
+CND computer network defense
+CNE computer network exploitation
+COPPA Children’s Online Privacy Protection Act
+COS class of service
+CRC cyclic redundancy check
+CSA Cloud Security Alliance
+CSFs critical success factors
+CSI Computer Security Institute
+CSP cloud service provider
+CTI Computer Telephony Integration
+CTO Chief Technology Officer
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 21:05:30.CVE common vulnerabilities and exposures
+DAC discretionary access control
+DBMS database management system
+DCS distributed control system
+DDoS distributed denial of service
+DEP data execution prevention
+DES Data Encryption Standard
+DHCPv6 Dynamic Host Configuration Protocol v6 for IPv6
+DHS Department of Homeland Security
+DIA Defense Intelligence Agency
+DISA direct inward system access
+DMZ demilitarized zone
+DNS domain name service OR domain name system
+DOD Department of Defense
+DoS denial of service
+DPI deep packet inspection
+DR disaster recovery
+DRP disaster recovery plan
+DSL digital subscriber line
+DSS Digital Signature Standard
+DSU data service unit
+EDI Electronic Data Interchange
+EIDE Enhanced IDE
+ELINT electronic intelligence
+EPHI electronic protected health information
+EULA End-User License Agreement
+FACTA Fair and Accurate Credit Transactions Act
+FAR false acceptance rate
+FCC Federal Communications Commission
+FDIC Federal Deposit Insurance Corporation
+FEP front-end processor
+FERPA Family Educational Rights and Privacy Act
+FIPPS fair information practice principles
+FIPS Federal Information Processing Standard
+FISMA Federal Information Security Management Act
+FRCP Federal Rules of Civil Procedure
+FRR false rejection rate
+FTC Federal Trade Commission
+FTP file transfer protocol
+GAAP generally accepted accounting principles
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 21:05:30.GIAC Global Information Assurance Certification
+GigE Gigabit Ethernet LAN
+GLBA Gramm-Leach-Bliley Act
+GPS global positioning system
+HIDS host-based intrusion detection system
+HIPAA Health Insurance Portability and Accountability Act
+HIPS host-based intrusion prevention system
+HTML hypertext markup language
+HTTP hypertext transfer protocol
+HTTPS hypertext transport protocol secure
+HUMINT human intelligence
+IaaS Infrastructure as a Service
+IAB Internet Activities Board
+ICMP Internet Control Message Protocol
+IDEA International Data Encryption Algorithm
+IDPS intrusion detection and prevention
+IDS intrusion detection system
+IEEE Institute of Electrical and Electronics Engineers
+IETF Internet Engineering Task Force
+IG Inspector General
+IGP interior gateway protocol
+IMINT imagery intelligence
+InfoSec information security
+IoT Internet of Things
+IP intellectual property OR Internet protocol
+IPS intrusion prevention system
+IPSec Internet Protocol Security
+IPv4 Internet Protocol version 4
+IPv6 Internet Protocol version 6
+IR incident response
+IS-IS intermediate system-to-intermediate system
+(ISC) 2
+ISO International Organization for Standardization
+ISP Internet service provider
+ISS Internet security systems
+ITL information technology infrastructure library
+ITRC Identity Theft Resource Center
+IVR interactive voice response
+L2TP Layer 2 Tunneling Protocol
+LAN local area network
+International Information System Security Certification Consortium
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 21:05:30.MAC mandatory access control
+MAN metropolitan area network
+MAO maximum acceptable outage
+MASINT measurement and signals intelligence
+MD5 Message Digest 5
+MFA multifactor authentication
+modem modulator demodulator
+MP-BGP Multiprotocol Border Gateway Protocol for IPv6
+MPLS multiprotocol label switching
+MSTI multiple spanning tree instance
+MSTP Multiple Spanning Tree Protocol
+MTD maximum tolerable downtime
+NAC network access control
+NAT network address translation
+NFC Near Field Communications
+NFIC National Fraud Information Center
+NIC network interface card
+NIDS network intrusion detection system
+NIPS network intrusion prevention system
+NIST National Institute of Standards and Technology
+NMS network management system
+NOC network operations center
+NPI nonpublic personal information
+NSA National Security Agency
+NVD national vulnerability database
+OPSEC operations security
+OS operating system
+OSI open system interconnection
+OSINT open source intelligence
+OSPFv2 Open Shortest Path First v2 for IPv4
+OSPFv3 Open Shortest Path First v3 for IPv6
+PaaS Platform as a Service
+PBX private branch exchange
+PCI Payment Card Industry
+PCI DSS Payment Card Industry Data Security Standard
+PGP Pretty Good Privacy
+PHI protected health information
+PIA privacy impact assessment
+PII personally identifiable information
+PIN personal identification number
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 21:05:30.PKI public key infrastructure
+PLC programmable logic controller
+POAM plan of action and milestones
+PoE power over Ethernet
+POS point-of-sale
+PPTP Point-to-Point Tunneling Protocol
+PSYOPs psychological operations
+RA registration authority OR risk assessment
+RAID redundant array of independent disks
+RAT remote access Trojan OR remote access tool
+RFC Request for Comments
+RFID Radio Frequency Identification
+RIPng Routing Information Protocol next generation for IPv6
+RIPv2 Routing Information Protocol v2 for IPv4
+RM risk management
+ROI return on investment
+RPO recovery point objective
+RSA Rivest, Shamir, and Adleman (algorithm)
+RSTP Rapid Spanning Tree Protocol
+RTO recovery time objective
+SA security association
+SaaS Software as a Service
+SAN storage area network
+SANCP Security Analyst Network Connection Profiler
+SANS SysAdmin, Audit, Network, Security
+SAP service access point
+SCADA supervisory control and data acquisition
+SCSI small computer system interface
+SDSL symmetric digital subscriber line
+SET secure electronic transaction
+SGC server-gated cryptography
+SHA secure hash algorithm
+S-HTTP secure HTTP
+SIEM Security Information and Event Management system
+SIGINT signals intelligence
+SIP Session Initiation Protocol
+SLA service level agreement
+SLE single loss expectancy
+SMFA specific management functional area
+SNMP simple network management protocol
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 21:05:30.SORN System of Records Notice
+SOX Sarbanes-Oxley Act of 2002 (also Sarbox)
+SPOF single point of failure
+SQL structured query language
+SSA Social Security Administration
+SSCP Systems Security Certified Practitioner
+SSID service set identifier (name assigned to a WiFi network)
+SSL Secure Sockets Layer
+SSL-VPN Secure Sockets Layer virtual private network
+SSO single system sign-on
+STP shielded twisted pair OR Spanning Tree Protocol
+TCP/IP Transmission Control Protocol/Internet Protocol
+TCSEC Trusted Computer System Evaluation Criteria
+TFA two-factor authentication
+TFTP Trivial File Transfer Protocol
+TGAR trunk group access restriction
+TNI Trusted Network Interpretation
+TPM technology protection measure OR trusted platform module
+UC unified communications
+UDP User Datagram Protocol
+UPS uninterruptible power supply
+USB universal serial bus
+UTP unshielded twisted pair
+VA vulnerability assessment
+VBAC view-based access control
+VLAN virtual local area network
+VoIP Voice over Internet Protocol
+VPN virtual private network
+W3C World Wide Web Consortium
+WAN wide area network
+WAP wireless access point
+WEP wired equivalent privacy
+Wi-Fi wireless fidelity
+WLAN wireless local area network
+WNIC wireless network interface card
+WPA Wi-Fi Protected Access
+WPA2 Wi-Fi Protected Access 2
+XML extensible markup language
+XSS cross-site scripting
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 21:05:30.

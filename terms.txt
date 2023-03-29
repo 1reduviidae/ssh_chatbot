@@ -1,0 +1,844 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+Glossary of Key Terms
+A
+Acceptable use policy (AUP) |
+States the proper use of an organization’s information technology resources.
+Actus reus |
+A Latin term used to describe a crime. It means “guilty act.”
+Administrative procedure |
+Sets forth the process under which administrative agencies make and enforce
+rules.
+Administrative safeguards |
+Management and regulatory controls. These safeguards are usually policies,
+standards, guidelines, and procedures. They also can be the laws an
+organization must follow.
+Adware |
+Software that displays advertising banners, redirects a user to websites, and
+conducts advertising on a user’s computer. Adware also displays pop-up
+advertisements.
+Affidavit |
+A sworn written statement.
+Annual rate of occurrence (ARO) |
+How many times a threat might affect an organization during a 1-year time
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.frame.
+Annualized loss expectancy (ALE) |
+The amount of loss that an organization can expect to have each year because
+of a particular risk. ALE is often expressed as the equation: ALE = SLE × ARO.
+SLE is single loss expectancy. ARO is annual rate of occurrence.
+Answer |
+A defendant’s response to a plaintiff’s complaint.
+Appellate jurisdiction |
+The power of a court to review a decision made by a lower court.
+Audit |
+An evaluation and verification that certain objectives are met.
+Authentication |
+The process through which a user proves his or her identity to access an
+information technology resource.
+Authorization |
+A written consent that allows protected health information (PHI) to be shared.
+Patients sign consents. These documents are required for many purposes. This
+term is defined by the Health Insurance Portability and Accountability Act.
+Availability |
+The security goal of ensuring that you can access information systems and their
+data when you need them. They must be available in a dependable and timely
+manner.
+B
+Baseline |
+A minimum level of behavior or action that must be met in order to comply with a
+governance document. Baselines are often specified in standards.
+Beyond a reasonable doubt |
+The standard of proof in a criminal case.
+Biometric data |
+Data about a person’s physical or behavioral traits used to identify a particular
+person. Biometric data is unique because it cannot be changed.
+Blog |
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.A personal online journal. Also called a weblog.
+Bluetooth |
+A wireless communication technology designed to replace the data cables
+connecting devices.
+Board of directors (BOD) |
+An organization’s governing body that plans an organization’s strategic
+direction. A BOD is required by law to act with due care and in the best interests
+of the organization.
+Breach notification law |
+A law that requires that state residents be notified if an entity experiences a
+security breach that compromises their personal data.
+Browsewrap contract |
+An agreement where the complete terms of the agreement are presented on a
+webpage. A user does not have to take any affirmative action to accept the
+terms of the agreement other than to use the webpage.
+Business associates |
+Organizations that perform a healthcare activity on behalf of a covered entity.
+This term is defined by the Health Insurance Portability and Accountability Act.
+Business continuity (BC) plans |
+Plans that address the recovery of an organization’s business processes and
+functions in the event of a disaster. Business continuity plans tend to be
+comprehensive business plans for returning an organization to normal operating
+conditions.
+Business impact analysis (BIA) |
+A process that identifies key business operations and the resources used to
+support those processes. A business impact analysis also identifies maximum
+tolerable downtime for critical business functions.
+C
+Chain of custody |
+Documentation that shows how evidence is collected, used, and handled
+throughout the lifetime of a case. A chain of custody document shows who
+obtained evidence, where and when it was obtained, who secured it, and who
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.had control or possession of it.
+Checklist test |
+A basic type of disaster recovery and business continuity test that checks to
+make sure that supplies and inventory items needed for an organization’s
+business recovery are on hand.
+Chief information officer (CIO) |
+An organization’s senior information technology official. This role focuses on
+developing an organization’s own IT resources.
+Chief information security officer (CISO) |
+An organization’s senior information security official.
+Chief technology officer (CTO) |
+An organization’s most senior technology official. This role focuses on
+developing an organization’s technology products.
+Civil procedure |
+Sets forth the procedures and processes that courts use to conduct civil trials.
+Clickstream |
+The data trail that an internet user creates while browsing. A clickstream is a
+record of the pages that a computer user visits when navigating on a particular
+website.
+Clickwrap contract |
+An agreement in which the complete terms of the agreement are presented on a
+computer screen, usually in the form of a pop-up window. A user must take an
+affirmative action to accept the terms of the agreement.
+Cloud computing |
+A type of computing where both applications and infrastructure capabilities can
+be provided to end users through the internet.
+Code analysis |
+A category of computer forensics that focuses on examining programming code
+for malicious code or signatures. Code analysis also is known as malware
+forensics.
+Code law |
+Law that is enacted by legislatures.
+Cold site |
+A backup site for disaster recovery and business continuity planning purposes
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.that is little more than reserved space. A cold site does not have any hardware
+or equipment ready for business operations. It will have electrical service, but
+most likely will not have network connectivity. It can take weeks to months for an
+organization to ready a cold site for business operations.
+Common law |
+A body of law that is developed because of legal tradition and court cases. The
+U.S. common law is a body of law that was inherited from England.
+Compensatory damages |
+A money award that compensates a non-breaching party for the other party’s
+breach. These damages place the non-breaching party in the same position he
+or she would have been in had the contract been fully performed.
+Competitive edge |
+The designs, blueprints, or plans that make an organization’s product or service
+unique.
+Complaint |
+The first document filed in a civil case. A plaintiff files it and it states the plaintiff’s
+cause of action against a defendant.
+Complete performance |
+Contractual performance where a party to a contract satisfies all of his or her
+promises.
+Compliance |
+The action of following applicable laws and rules and regulations.
+Computer forensics |
+The scientific process of collecting and examining data that is stored on or
+received or transmitted by an electronic device. Computer forensics also is
+called system forensics, digital forensics, computer forensic analysis, computer
+examination, data recovery, or inforensics.
+Concurrent jurisdiction |
+Jurisdiction that is shared by several different courts.
+Confidentiality |
+The security goal of ensuring that only authorized persons can access
+information systems and their data.
+Conflict of interest |
+Any situation where a person’s private interests and professional obligations
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.collide. Independent observers might question whether a person’s private
+interests improperly influence his or her professional decisions.
+Consequential damages |
+A money award that compensates the non-breaching party for foreseeable
+damages that arise from circumstances outside of the contract.
+Consideration |
+The mutual exchange of value between contracting parties. Consideration can
+be expressed as an exchange of money, goods, or a promise to perform a
+certain action.
+Consumer goods |
+Items that an individual purchases for personal, family, or household use.
+Consumer services |
+Services that an individual purchases for personal, family, or household use.
+Contract |
+A legally binding agreement that is enforceable in court.
+Contract of adhesion |
+A contract where one party has very little bargaining power. A contract of
+adhesion is a “take it or leave it” contract.
+Contractual capacity |
+A legal term that refers to the ability of a party to enter into a contract.
+Control |
+Any protective action that reduces information security risks. These actions may
+eliminate or lessen vulnerabilities, control threats, or reduce risk. Safeguards is
+another term for controls.
+Cookie |
+A small string of code that a website stores on a user’s computer. Websites use
+cookies to remember specific information about visitors to the site.
+Copyrights |
+Used to protect books, art, music, videos, computer programs, and other
+creative works.
+Covered entity |
+A health plan, healthcare clearing house, or any other healthcare provider that
+transmits certain types of health information in electronic form. Such an entity
+must follow the HIPAA Security and Privacy Rules. This term is defined by the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Health Insurance Portability and Accountability Act.
+Criminal procedure |
+Sets forth the procedures and processes that courts follow in criminal law cases.
+Cryptography |
+The science and practice of hiding information so that unauthorized persons
+cannot read it.
+D
+Data destruction policies |
+State how data is to be destroyed when it reaches the end of its life cycle.
+Data retention policies |
+State how data is to be controlled throughout its life cycle.
+Deceptive trade practices |
+Any commercial practice that uses false or misleading claims to get customers
+to buy a product or service.
+Defamation |
+A tort that involves maliciously saying false things about another person.
+Denial of service (DoS) attack |
+Attack that disrupts information systems so that they are no longer available to
+users.
+Design patents |
+Issued to protect new and original ornamental designs for manufactured objects.
+Digital evidence |
+Evidence collected from an electronic device.
+Disaster |
+A sudden, unplanned event that negatively affects the organization’s critical
+business functions for an unknown period.
+Disaster recovery (DR) plans |
+Plans that address the recovery of an organization’s information technology
+systems in the event of a disaster.
+Disclosure |
+Refers to how a covered entity shares protected health information with other
+organizations that may not be affiliated with it. This term is defined by the Health
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Insurance Portability and Accountability Act.
+Disclosure controls |
+A term used in the Sarbanes-Oxley Act. It refers to processes and procedures
+that a company uses to make sure that it makes timely disclosures to the U.S.
+Securities and Exchange Commission.
+Discovery |
+The legal process used to gather evidence in a lawsuit.
+Distributed denial of service (DDoS) attack |
+An attack that uses multiple systems to disrupt other information systems so
+that they are no longer available to users.
+Diversity of citizenship jurisdiction |
+Refers to the power of federal courts to hear disputes between citizens of
+different states only when they are above a certain dollar amount.
+Dividend |
+Represents a shareholder’s portion of the company’s earnings.
+Docket |
+The official schedule of a court and the events in the cases pending before a
+court. Many courts publish their dockets online.
+Due process |
+The principle that all parties in a case are entitled to a fair and consistent
+process within the courts.
+Dumpster diving |
+Looking through discarded trash for personal information.
+Duty of due care |
+A person’s obligation to avoid acts or omissions that can harm others.
+Duty to mitigate |
+A non-breaching party’s obligation not to aggravate the harm caused by a
+breach.
+E
+Electronic protected health information (EPHI) |
+Patient health information that is computer based. It is PHI stored electronically.
+This term is defined by the Health Insurance Portability and Accountability Act.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.End user license agreement (EULA) |
+A contract between the manufacturer or distributor of a piece of software or a
+service and the end user.
+Exploit |
+A successful attack against a vulnerability.
+Exposure factor |
+The percentage of asset loss that is likely to be caused by an identified threat or
+vulnerability.
+External attacker |
+An attacker that has no current relationship with the organization it is attacking.
+F
+Fair information practice principles |
+Guidelines used to help describe how personal information should be collected
+and used.
+Fair use |
+A copyright law concept that states some use of copyrighted works in limited
+ways is not copyright infringement.
+Federal question jurisdiction |
+Refers to the power of federal courts to hear only disputes about federal laws or
+constitutional issues.
+Felonies |
+The greater of two types of crimes. Felonies are more serious than
+misdemeanors. They are generally punishable by more than 1 year in prison.
+Flaming |
+A series of insulting communications between internet users. Flaming often
+occurs on online discussion boards.
+Forensic duplicate image |
+An exact copy of an electronic media storage device. A bit-by-bit copy includes
+deleted files, slack space, and areas of the storage device that a normal file
+copy would not include.
+Form 8-K |
+A report that a public company must file with the U.S. Securities and Exchange
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Commission. A company must file it within 4 days of experiencing a major event
+that affects shareholders and investors.
+Form 10-K |
+A report that a public company must file with the U.S. Securities and Exchange
+Commission at the end of its fiscal year. It is a detailed and comprehensive
+report on the company’s financial condition.
+Form 10-Q |
+A report that a public company must file with the U.S. Securities and Exchange
+Commission at the end of each fiscal quarter. It is a report on the company’s
+financial condition at the end of its first three quarters in a fiscal year.
+Fruit of the poisonous tree doctrine |
+A legal doctrine that states that evidence that is not gathered lawfully is tainted
+with illegality. Illegally gathered evidence cannot be used in court. In addition,
+any subsequent evidence gathered because of the illegally obtained evidence
+cannot be used in court either.
+Full interruption test |
+A disaster recovery and business continuity test where an organization stops all
+of its normal business operations and transfers those operations to its backup
+site. This is the most comprehensive form of disaster recovery and business
+continuity plan testing. It also is the most expensive.
+G
+Global positioning system (GPS) |
+A navigation technology that uses satellites above the Earth to compute the
+location of a GPS receiver.
+Guidelines |
+Recommended actions and operational guides to users, IT staff, operations
+staff, and others when a specific standard does not apply.
+H
+Hearsay |
+Any out-of-court statement made by a person that is offered to prove some
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.issue in a case. Gossip is a common example of hearsay.
+Hot site |
+An operational backup site for disaster recovery and business continuity
+planning purposes. It has equipment and infrastructure that is fully compatible
+with an organization’s main facility. It is not staffed with people. A hot site can
+become operational within minutes to hours after a disaster.
+I
+Identity theft |
+A crime that takes place when a person’s personally identifiable information is
+used without permission in order to commit other crimes.
+Incident |
+An event that adversely affects the confidentiality, integrity, and/or availability of
+an organization’s data and information technology systems.
+Incident response (IR) |
+A contingency plan that helps an organization respond to attacks against an
+organization’s information technology infrastructure.
+Incomplete performance |
+Contractual performance in which a party to a contract does not perform his or
+her contractual promises.
+Information |
+Intelligence, knowledge, and data. You can store information in paper or
+electronic form.
+Information security |
+The study and practice of protecting information. The main goal of information
+security is to protect its confidentiality, integrity, and availability.
+Information security governance (ISG) |
+Executive management’s responsibility to provide strategic direction, oversight,
+and accountability for an organization’s information and information systems
+resources.
+Information security management (ISM) |
+How an organization manages its day-to-day security activities. It makes sure
+that the policies dictated by the executive management team as part of its
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.governance function are properly implemented.
+Inspector general (IG) |
+A federal government official who independently evaluates the performance of
+federal agencies. Inspectors general are independent officials.
+Integrity |
+The security goal of ensuring that no changes are made to information systems
+and their data without permission.
+Intellectual property |
+The area of law that protects a person’s creative ideas, inventions, and
+innovations. It is protected by patents, trade secrets, trademarks, and copyright.
+Internal attacker |
+An attacker that has a current relationship with the organization he or she is
+attacking. It can be an angry employee.
+Internal controls |
+A term used in the Sarbanes-Oxley Act. It refers to the processes and
+procedures that a company uses to provide reasonable assurance that its
+financial reports are reliable.
+Internet of Things (IoT) |
+This term is used broadly to refer to any device that collects and shares data
+over the internet.
+J
+Judicial review |
+A court’s review of any issue. For federal courts, this refers to the authority of a
+court to declare actions unconstitutional.
+Jurisdiction |
+The power of a court to hear a particular type of case. It also refers to the power
+of a court to hear cases involving people in a geographical area. For instance, a
+state court has the power to decide cases raised by citizens of that state.
+L
+Least privilege |
+A rule that systems should run with the lowest level of permissions needed to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.complete tasks. This means users should have the least amount of access
+needed to do their jobs.
+Legislative history |
+The materials generated while creating laws. It includes committee reports and
+hearings. It also includes transcripts of debate and reports issued by
+legislatures. The legislative history is reviewed to help determine what a
+legislature intended when it created a law.
+Libel |
+Written defamation.
+Liquidated damages |
+A contractual grant of money damages that the parties determined before
+entering into a contract.
+Locard’s exchange principle |
+A basic assumption in forensic science that states that people always leave
+traces of their activities when they interact with other people or with other
+objects.
+M
+Mailbox rule |
+A common law rule that states that an acceptance is valid as soon as an offeree
+places it in the mail.
+Mala in se |
+A Latin term used to describe conduct that is inherently wrong. It means “evil in
+itself.”
+Mala prohibita |
+A Latin term used to describe conduct that society prohibits. It means “wrong
+because it is prohibited.”
+Malware |
+A term that refers to any software that performs harmful, unauthorized, or
+unknown activity. The word malware combines the words malicious and
+software.
+Mantrap |
+A physical security safeguard that controls entry into a protected area. This
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.entry method has two sets of doors on either end of a small room. When a
+person enters a mantrap through one set of doors, that first set must close
+before the second set can open. Often a person entering a facility via a mantrap
+must present different credentials at each set of doors to gain access.
+Maximum tolerable downtime (MTD) |
+The amount of time that critical business processes and resources can be
+offline before an organization begins to experience irreparable business harm.
+Media analysis |
+A category of computer forensics that focuses on collecting and examining data
+stored on physical media.
+Medical identity theft |
+A specialized type of identity theft. A crime that takes place when a person’s
+personally identifiable health information is used without permission in order to
+receive medical services or goods.
+Mens rea |
+A Latin term used to describe the state of mind of a criminal. It means “guilty
+mind.”
+Minimum necessary rule |
+A rule that covered entities may only disclose the amount of PHI absolutely
+necessary to carry out a particular function. This term is defined by the Health
+Insurance Portability and Accountability Act.
+Mirror image rule |
+A common law rule that states that an offer and acceptance must contain
+identical terms.
+Mirrored site |
+A fully operational backup site for disaster recovery and business continuity
+planning purposes. This site actively runs an organization’s information
+technology functions in parallel with the organization’s mail processing facility. It
+is fully staffed and has all necessary data and equipment to continue business
+operations.
+Misdemeanor |
+The lesser of two types of crimes. Misdemeanors are less serious than felonies.
+They are generally punishable by no more than 1 year in prison.
+Multifactor authentication |
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.A method of authentication that requires users to prove their identity in two or
+more ways.
+N
+National security systems |
+Information technology systems that hold military, defense, and intelligence
+information.
+Near Field Communication (NFC) |
+A very short-range wireless communication technology.
+Need to know |
+A rule that users should have access to only the information they need to do
+their jobs.
+Network analysis |
+A category of computer forensics that focuses on capturing and examining
+network traffic. It includes reviewing transaction logs and using real-time
+monitoring to identify and locate evidence.
+Network banner |
+A warning banner that provides notice of legal rights to users of computer
+networks. They are generally displayed as a computer user logs into a network
+or on an entity’s home page.
+Nominal damages |
+A money award to the non-breaching party even though he or she has not
+suffered any financial loss because of a breach of contract.
+Nonpublic personal information (NPI) |
+Any personally identifiable financial information that a consumer provides to a
+financial institution. This term is defined by the Gramm-Leach-Bliley Act.
+O
+Objection |
+A formal protest made by an attorney to a trial court judge. An attorney usually
+makes an objection if the opposing party is asking questions or submitting
+evidence that is inappropriate or violates a trial court rule.
+Offer |
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.An invitation made by an offeror to an offeree to enter into a contract.
+Offeree |
+A person who receives an offer.
+Offeror |
+A person who makes an offer.
+Online profiling |
+The practice of tracking a user’s actions on the internet in order to create a
+profile of that user. The profile can be used to direct targeted advertising toward
+a particular user.
+Operational planning |
+Day-to-day business planning.
+Original jurisdiction |
+The authority of a court to hear a dispute between parties in the first instance,
+rather than on appeal.
+P
+Parallel test |
+A disaster recovery and business continuity test where an organization tests its
+ability to recover its information technology systems and its business data. In
+this type of test, the organization brings its backup recovery sites online. It will
+then use historical business data to test the operations of those systems.
+Parental controls |
+Software that allows a parent to control a child’s activity on a computer. Parental
+controls can be used to restrict access to certain content, such as violent
+games, or to specific websites. They also can restrict the times a child can use a
+computer.
+Patch |
+A piece of software or code that fixes a program’s security vulnerabilities.
+Patches are available for many types of software, including operating systems.
+Patent prosecution |
+The actions that the U.S. Patent and Trademark Office must complete in order
+to reject a patent application or issue a patent.
+Patents |
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Used to protect inventions such as machines, processes, designs, and
+specialized plants.
+Pen register devices |
+Devices that monitor outgoing transmission data. They record dialing, routing,
+signaling, or address information.
+Persistent data |
+Data that is stored on a hard drive or other storage media. It is preserved when
+an electronic device is turned off.
+Personal jurisdiction |
+A court’s ability to exercise power over a defendant.
+Personally identifiable information (PII) |
+Information that can be used to identify a specific person. This can be
+something used alone, such as a person’s name. Or it can be pieces of data
+that, when combined, can be used to identify someone. PII is often defined with
+reference to a particular law. It can include elements such as name, address,
+Zip code, gender, GPS location, telephone number, or account numbers.
+Physical safeguard |
+Controls that keep unauthorized individuals out of a building or other controlled
+areas. You can also use them to keep unauthorized individuals from using an
+information system. Examples include keycard access to buildings, fences, and
+intrusion monitoring systems.
+Plant patents |
+Issued to protect inventions or discoveries of new varieties of plants that are
+reproduced asexually.
+Pleadings |
+Documents filed in a court case.
+Policy |
+An organization’s high-level statement of information security direction and
+goals. Policies are the highest level governance document.
+Pop-up advertisements |
+Advertisements that open a new web browser window to display the
+advertisement.
+Precedent |
+This doctrine means that courts will look at prior cases to determine the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.appropriate resolution for new cases.
+Preemption |
+A legal concept that means that a higher-ranking law will exclude or preempt a
+lower-ranking law on the same subject.
+Preponderance of the evidence |
+The standard of proof in a civil case. It means that it is more probable than not
+that an action (or wrong) took place.
+Pretexting |
+Obtaining unauthorized access to a customer’s sensitive financial information
+through false or misleading actions. Also called social engineering.
+Prior art |
+Evidence of public knowledge about an invention that existed before a claimed
+invention or discovery date.
+Privacy |
+A person’s right to have control of his or her own personal data. The person has
+the right to specify how that data is collected, used, and shared.
+Privacy impact assessment (PIA) |
+A review of how a federal agency’s information technology systems process
+personal information. The E-Government Act of 2002 requires federal agencies
+to conduct these assessments.
+Private cause of action |
+A legal concept that describes a person’s right to sue another for harm that the
+latter caused.
+Privately held company |
+A company held by a small group of private investors.
+Probative evidence |
+Probative evidence is evidence that proves or disproves a legal element in a
+case. If evidence is not probative, then it can be excluded from a trial. Probative
+evidence also is known as relevant evidence.
+Procedural law |
+Branches of law that deal with processes that courts use to decide cases.
+Procedures |
+Detailed step-by-step tasks, or checklists, that should be performed to achieve a
+certain goal or task. Procedures are the lowest level governance document.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Protected health information (PHI) |
+Any individually identifiable information about the past, present, or future health
+of a person. It includes mental and physical health data. This term is defined by
+the Health Insurance Portability and Accountability Act.
+Proxy server |
+A server that accepts internet requests and retrieves the data. The proxy server
+can filter content to ensure that users view only acceptable content. Libraries
+and schools use proxy servers to comply with the Children’s Internet Protection
+Act (CIPA).
+Public company |
+A publicly traded company owned by several different investors. Investors own a
+percentage of the company through stock purchases. The stock of a public
+company is traded on a stock exchange.
+Public domain |
+Refers to the collection of works that are free for public use. It includes works
+where the copyright has expired. It also includes some government works.
+Public employees |
+Employees that work for the federal or state government.
+Public records |
+Records required by law to be made available to the public. These types of
+records are made or filed by a governmental entity.
+Public relations (PR) |
+A marketing field that manages an organization’s public image.
+Q
+Qualitative risk analysis |
+A risk analysis method that uses scenarios and ratings systems to calculate risk
+and potential harm. Unlike quantitative risk analysis, qualitative risk analysis
+does not attempt to assign money value to assets and risk.
+Quantitative risk analysis |
+A risk analysis method that uses real money costs and values to determine the
+potential monetary impact of threats and vulnerabilities.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.R
+Radio Frequency Identification (RFID) |
+A wireless technology that uses radio waves to transmit data to a receiver.
+Ransomware |
+A type of malware that encrypts data to make it inaccessible, or may lock
+information systems, until an organization pays the attacker to decrypt the data
+or unlock the system.
+Realized risk |
+The loss that an organization has when a potential threat actually occurs.
+Reasonable person standard |
+A legal concept used to describe an ordinary person. This fictitious ordinary
+person is used to represent how an average person would think and act.
+Record |
+Any information about a person that a federal agency maintains. This term is
+defined in the Privacy Act of 1974.
+Red Flag |
+Any pattern, practice, or activity that may indicate identity theft. This term is
+defined by the Fair and Accurate Credit Transaction Act of 2003.
+Remedy |
+Legal relief that a court grants to an injured party.
+Repudiation |
+A refusal to perform a contract duty.
+Residual risk |
+The amount of risk left over after safeguards lessen a vulnerability or threat.
+Risk |
+The chance, or probability, that a threat can exploit a vulnerability. The concept
+of risk includes an understanding that an exploited vulnerability has a negative
+business impact.
+Risk acceptance |
+A business decision to accept an assessed risk and take no action against it.
+Risk assessment (RA) |
+A process for identifying threats and vulnerabilities that an organization faces.
+Risk assessments can be quantitative, qualitative, or a combination of both.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Risk avoidance |
+A business decision to apply safeguards to avoid a negative impact.
+Risk management (RM) |
+The process that an organization uses to identify risks, assess them, and
+reduce them to an acceptable level.
+Risk mitigation |
+A business decision to apply safeguards to lessen a negative impact.
+Risk transfer |
+A business decision to transfer risk to a third party to avoid that risk.
+S
+Safe harbor |
+A legal concept that refers to an action someone can take to show a good-faith
+effort to stay within the law and avoid prosecution.
+Safeguard |
+Any protective action that reduces information security risks. They may
+eliminate or lessen vulnerabilities, control threats, or reduce risk. Safeguards
+also are called controls.
+Seal program |
+A program administered by a trusted organization that verifies that another
+organization meets recognized privacy practices.
+Search engine |
+A program that retrieves files and data from a computer network. Search
+engines are used to search the internet for information.
+Securities |
+The general term used to describe financial instruments that are traded on a
+stock exchange. Stocks and bonds are securities.
+Security breach |
+Any compromise of a computer system that results in the loss of personally
+identifiable information.
+Separation of duties |
+A rule that two or more employees must split critical task functions. Thus, no
+one employee knows all of the steps required to complete the critical task.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Servicemark |
+Used to protect words, logos, symbols, or slogans that identify a service.
+Shoulder surfing |
+Looking over the shoulder of another person to obtain sensitive information. The
+attacker does not have permission to see it. This term usually describes an
+attack in which a person tries to learn sensitive information by viewing
+keystrokes on a monitor or keyboard.
+Shrinkwrap contract |
+A software licensing agreement where the complete terms of the agreement are
+in a box containing the physical-media software.
+Simulation test |
+A disaster recovery and business continuity test where an organization role-
+plays a specific disaster scenario. This type of test does not interrupt normal
+business operations and activities.
+Single loss expectancy (SLE) |
+The amount of money that an organization stands to lose every time a specified
+risk is realized.
+Single point of failure |
+In an information system, a piece of hardware or application critical to the entire
+system’s functioning. If that single item fails, then a critical portion or the entire
+system could fail. For networks, single points of failure could be firewalls,
+routers, switches, or hubs.
+Slander |
+Oral defamation.
+Social engineering |
+An attack that relies on human interaction. They often involve tricking other
+people to break security rules so the attacker can gain information about
+computer systems. This type of attack is not technical.
+Social networking sites |
+Website applications that allow users to post information about themselves.
+Software as a Service (SaaS) |
+Commerce model where a vendor hosts a web-based application and provides
+that application to its customers through the internet.
+Spam |
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Unsolicited email. Spam is usually advertising or promotional email.
+Specific performance |
+A legal term that refers to situations where a court orders a party to complete his
+or her contractual duties.
+Stakeholders |
+People that are affected by a policy, standard, guideline, or procedure. They are
+people who have an interest in a policy document.
+Standards |
+Mandatory activities, actions, or rules. Standards must be met in order to
+achieve policy goals. Standards are usually technology neutral.
+Statute of frauds |
+A common law rule that states that certain types of contracts must be in writing
+and signed by the contracting parties.
+Statute of limitations |
+The time period stated by law during which a plaintiff must take legal action
+against a wrongdoer. A plaintiff who does not take legal action within the stated
+time is forever barred from bringing that action in the future.
+Strategic planning |
+Long-term business planning.
+Strict liability |
+A legal concept that means that people can be held responsible for their actions
+even if they did not intend to cause harm to another person.
+Subject matter jurisdiction |
+The power of a court to decide certain types of cases.
+Substantial performance |
+Contractual performance in which a party to a contract satisfies all of his or her
+material promises. Substantial performance does not meet all contract terms.
+Nonperformance of some terms may result in a minor breach of contract.
+Substantive law |
+Branches of law that deal with particular legal subject matter, arranged by type.
+Property law, contract law, and tort law are all substantive areas of law.
+System of records notice (SORN) |
+A federal agency’s notice about agency record-keeping systems that can
+retrieve records through the use of a personal identifier. The Privacy Act of 1974
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.requires federal agencies to provide these notices.
+T
+Tactical planning |
+Short- to medium-term business planning.
+Targeted advertising |
+Advertising designed to appeal to a consumer’s specific interests.
+Technical safeguard |
+Controls implemented in an information system’s hardware and software.
+Technical controls include passwords, access control mechanisms, and
+automated logging. They improve the system’s security.
+Technology protection measure (TPM) |
+Technology used to filter objectionable content. CIPA requires the use of a TPM
+to protect children from objectionable content.
+Threat |
+Any danger that takes advantage of a vulnerability. Threats are unintentional or
+intentional.
+Tort |
+A wrongful act or harm for which a civil action can be brought. Tort law governs
+disputes between individuals.
+Tortfeasor |
+A person who commits a tort.
+Trade secrets |
+Used to protect formulas, processes, and methods that give a business a
+competitive edge.
+Trademarks |
+Used to protect words, logos, symbols, or slogans that identify a product or
+service.
+Trap and trace devices |
+Devices that monitor incoming transmission data. They capture incoming
+electronic signals that identify the originating transmission data.
+Two-factor authentication |
+A method of authentication that requires users to prove their identity in two
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.ways.
+U
+Unfair trade practices |
+Any commercial practices that a consumer cannot avoid and that cause injury.
+Use |
+How a covered entity shares or handles protected health information within its
+organization. This term is defined by the Health Insurance Portability and
+Accountability Act.
+User credentials |
+Pieces of information used to access information technology resources. User
+credentials include passwords, personal identification numbers (PINs), tokens,
+smart cards, and biometric data.
+Utility patents |
+Issued to protect inventions and discoveries such as machines, manufactured
+products, processes, and compositions of matter. They are the most common
+type of patent.
+V
+Volatile data |
+Data that is stored in the memory of an electronic device. It is lost when an
+electronic device is turned off.
+Vulnerability |
+A weakness or flaw in an information system. Exploiting a vulnerability harms
+information security. You reduce them by applying security safeguards.
+W
+Walk-through test |
+A basic type of disaster recovery and business continuity test that reviews a
+disaster recovery/business continuity plan to make sure that all of the
+assumptions and tasks stated in the plan are correct. This type of test is
+sometimes called a tabletop walk-through test or tabletop test.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.Warm site |
+A partially equipped backup site for disaster recovery and business continuity
+planning purposes. A warm site is space that contains some, but not all, of the
+equipment and infrastructure that an organization needs to continue operations
+in the event of a disaster. It is partially prepared for operations and has
+electricity and network connectivity.
+Web beacon |
+A small, invisible electronic file that is placed on a webpage or in an email
+message. Also called a “web bug.”
+Window of vulnerability |
+The period between discovering a vulnerability and reducing or eliminating it.
+Workplace privacy |
+Privacy issues encountered in the workplace. Hiring and firing practices and
+daily performance practices all have potential privacy concerns.
+Z
+Zero-day vulnerability |
+A vulnerability exploited shortly after it is discovered. The attacker exploits it
+before the vendor releases a patch.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:18:41.

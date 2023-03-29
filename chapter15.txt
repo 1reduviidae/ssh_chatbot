@@ -1,0 +1,1260 @@
+CHAPTER
+15
+Computer Forensics and
+Investigations
+OMPUTER FORENSICS IS the scientific process of collecting and examining
+data stored on, received from, or transmitted by an electronic device. It is a
+demanding area of study. New technologies that store data are created every day.
+People who choose to work in this area must constantly study these new
+technologies. They must learn how to collect and examine data from devices that
+use the new technology. Computer forensics is also a rapidly expanding profession.
+The U.S. Department of Labor estimates higher-than-average job growth for people
+in this career. 1
+C
+This chapter introduces basic concepts about computer forensics. It also
+discusses the role of the computer forensic examiner. Finally, it reviews legal issues
+surrounding how digital evidence is gathered and used.
+Chapter 15 Topics
+This chapter covers the following topics and concepts:
+What computer forensics is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.What a computer forensic examiner does
+What the general rules for collecting, handling, and using digital
+evidence are
+What some legal issues regarding the seizure of digital evidence are
+Chapter 15 Goals
+When you complete this chapter, you will be able to:
+Define computer forensics
+Explain the role of a computer forensic examiner
+Explain why digital evidence must be carefully handled
+Describe why chain of custody is important
+Explain the laws that affect the collection of digital evidence
+Describe concerns regarding the admissibility of digital evidence
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.What Is Computer Forensics?
+Computer forensics is the scientific process for examining data stored on, received
+from, or transmitted by electronic devices. The data is examined to find evidence
+about an event or crime. Law enforcement uses computer forensics to investigate
+almost any type of crime. Consider the following:
+Illinois state prosecutors used cell phone records and data gathered by computer
+forensic examiners to convict a defendant of murdering two people. The defendant
+had used his computer to search “hire a hit man.” He had also searched for
+directions from his home to the victim’s home. The case was unique because
+almost no physical evidence existed to link the defendant to the murders. A judge
+sentenced him to life in prison.
+A Hong Kong shipping company pleaded guilty to violating U.S. pollution laws and
+was fined $10 million. A ship operated by the company ran into the San Francisco
+Bay Bridge and spilled more than 50,000 gallons of fuel into the San Francisco
+Bay. Computer forensic examiners found that someone on the ship altered its
+computerized navigation charts after the crash.
+The U.S. Department of Justice charged nine foreign nationals with stealing more
+than 31 terabytes of data from U.S. colleges and universities, companies, and
+government agencies. Computer forensic examiners found that the hackers used
+several different tactics to gain access to the stolen data.
+Computer forensics has many different names. It is also called system or digital
+forensics, computer forensic analysis, computer examination, data recovery, and
+sometimes inforensics (information forensics). These terms are used
+interchangeably. This chapter uses the term computer forensics.
+NOTE
+The word forensics is from the Latin word forensis, which means “belonging to the forum.” It refers to the
+types of arguments used in a court or public forum to prove or disprove past theories or arguments.
+Computer forensic examiners use specialized software and tools to collect and
+study data stored on electronic devices. The evidence collected is called digital
+evidence or just electronic evidence. Computer forensics includes all the steps
+through which this evidence is collected, preserved, analyzed, documented, and
+presented. 2 The goal of computer forensics is to find evidence that helps
+investigators analyze an event or incident.
+Computer forensic examiners study and collect electronic data for many reasons.
+They do not just investigate crimes. Other computer forensics uses include:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Individuals—People may hire computer forensic examiners to find evidence to
+support tort claims. They can find digital evidence about sexual harassment or
+discrimination. Examiners also can uncover evidence for any type of civil litigation.
+They also can find evidence to support a criminal defense case.
+Military—The military uses computer forensics to gather intelligence information
+to support its operations. It also uses computer forensics to prepare for and
+respond to cyberattacks.
+Organizations—Organizations use computer forensics the same ways that
+individuals use it. Computer forensic examiners also can investigate employee
+wrongdoing. They can look for embezzlement or theft of intellectual property (IP).
+They also can look for unauthorized use of information technology (IT) resources
+and attempts to harm them. An organization’s incident response (IR) program can
+include forensic activities.
+Colleges and universities—Many colleges and universities offer programs in
+computer forensics. Some may have forensic research programs. They also use
+computer forensics for the institution’s own IR activities.
+Data recovery firms—Data recovery firms use computer forensics to rescue data
+for their clients. They also advise clients how to keep data safe from loss.
+Most electronic devices hold some type of data. Computer forensics can study any
+of them. Potential sources of digital evidence include:
+Computer systems—This includes laptop and desktop computers, as well as
+servers. It also includes the hardware and software that the system uses. This
+category also includes peripheral devices that can be attached to computer
+systems. These devices enhance the user experience. They may include
+keyboards, microphones, web cameras, and memory card readers.
+Storage devices—This includes internal and external hard drives, as well as
+removable media such as floppy disks, Zip disks, compact discs (CDs), digital
+versatile discs (DVDs), thumb flash drives, and memory cards.
+Mobile devices—This includes cell phones and smartphones. It also includes
+tablets, personal digital assistants (PDAs), and pagers. Global positioning system
+(GPS) devices hold data as well. Digital and video cameras, and audio and video
+multimedia devices, also fall into this category.
+Networking equipment—This includes network hubs, routers, servers, switches,
+and power supplies. Networking equipment can be wired or wireless.
+Other potential sources—Any device with computer capabilities can potentially
+hold digital evidence. For example, many office devices have data storage ability.
+This includes copiers and fax machines, answering machines, printers, and
+scanners. Entertainment devices store data as well. They include digital video
+recorders (DVRs), digital audio recorders, and video game systems. Surveillance
+equipment is included in this category. This category includes any device not
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.already mentioned that can store data. Any Internet of Things (IoT) device can
+also potentially hold digital evidence because these devices collect data via
+sensors and transmit it via the internet. Fitness trackers, medical devices,
+environmental sensors, and even industrial equipment all have data that can be
+used as digital evidence.
+People’s dependence on electronic devices to live their lives continues to grow.
+Therefore, computer forensics as a special area of study also grows. Computer
+forensic examiners are not always experts in collecting data from every possible type
+of electronic device. They often focus on certain types of devices. In addition, most
+computer forensic examiners focus their skills in specific areas. The three main
+areas of computer forensics are:
+Media analysis
+Code analysis
+Network analysis
+Media analysis focuses on collecting and examining data stored on physical media.
+This includes computer systems and storage devices. It also includes mobile
+devices. When people think about computer forensics, they most often think about
+media analysis. This type of analysis discovers normal and deleted data. It also finds
+encrypted, hidden, and password-protected data. This chapter focuses mostly on
+media analysis concepts. These concepts apply to other types of computer forensic
+analysis as well.
+Code analysis, also called malware forensics, focuses on reviewing
+programming code. This area looks for malicious code or signatures from viruses,
+worms, and Trojans. It looks for the signature of anything that has modified a system
+without permission. A signature is the executable part of a malicious code. The need
+for code analysis continues to grow as malware types change. A 2019 report
+estimated a rise of almost 14 percent in different types of malware during that year. 3
+NOTE
+Most antivirus programs use signatures to help them detect malware on a computer system.
+Network analysis focuses on collecting and examining network traffic. An
+examiner reviews transaction logs and uses real-time monitoring to find evidence.
+Organizations often use this type of analysis to investigate incidents.
+Some computer forensic examiners also might have specialties within these
+three major categories. For example, some examiners might specialize in email
+forensics. Email forensics, which includes a combination of media and network
+analysis, is used to find the sender, recipient, date, time, location information, and
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.contents of email messages. This is a hot area as almost 94 percent of all malware
+was delivered via email in 2019. 4 As technology advances, it is not unusual to find
+examiners with very specialized skills. FIGURE 15-1 shows examples of different
+computer forensic categories.
+FIGURE 15-1
+Computer forensic categories.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.What Is the Role of a Computer Forensic
+Examiner?
+Computer forensics is a fairly new field. It is only a few decades old, but is growing
+quickly. In 1984, the U.S. Federal Bureau of Investigation (FBI) began creating
+software programs to collect computer evidence. 5 In 1990, the International
+Association of Computer Investigative Specialists (IACIS) was formed. The IACIS,
+the oldest computer forensic professional group, was the first group dedicated to
+computer forensics. 6
+The first international conference on computer forensics was held in 1993. In
+1995, the International Organization on Computer Evidence (IOCE) was formed.
+Although the IOCE no longer exists, it created some of the earliest guiding principles
+for computer forensic examiners. In the United States, the Scientific Working Group
+on Digital Evidence (SWGDE) was created in 1998 to participate in IOCE efforts. 7
+NOTE
+The scientific method is a way to answer questions in a repeatable and verifiable way. It is a formal
+method of investigation.
+Computer forensic examiners find evidence on electronic devices and collect it
+for both civil and criminal cases. They must collect this evidence in a scientific
+manner, regardless of the underlying case. They also must have a full understanding
+of various technologies, hardware, and software. An examiner helps answer who,
+what, where, when, why, and how.
+A computer forensic examiner must have the following traits:
+A sound knowledge of computing technologies
+Use of the scientific method to conduct repeatable and verifiable examinations
+Understanding of the laws of evidence and legal procedure
+Access to computer forensic tools and the skill to use them
+Outstanding record-keeping skills
+No matter how careful they are, people always leave traces of their activities when
+they interact with other people and with their surroundings. This is a basic principle
+of forensic science known as Locard’s exchange principle. It applies to both the
+digital world and the physical world. If people attempt to steal electronic information
+or delete incriminating files, they leave electronic traces of their activities. For
+example, log information can document these activities. A computer forensic
+examiner needs to know how to find this trace evidence material, which is used to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.help prove a person’s actions in a computer system.
+Computer forensic examiners do more than turn on a computer and search
+through files. They must perform complex data recovery procedures. In particular,
+they must:
+NOTE
+Dr. Edmond Locard was a forensics pioneer who lived from 1877 to 1966. He argued that scientific
+methods should be applied to criminal investigations. He believed that when people or objects interact,
+they transfer physical evidence to one another. Forensic scientists recover that evidence, then study and
+learn from it.
+Protect the data on any electronic device.
+Avoid deleting, damaging, or altering data in any way on any electronic device.
+Make exact copies of electronic data without altering the original device.
+Discover normal, deleted, password-protected, hidden, and encrypted files.
+Study data to create timelines of electronic activity.
+Identify files and data that may be relevant to a case.
+Fully document all evidence-collection activities.
+Provide expert testimony on the steps taken to recover digital evidence.
+Computer forensic examiners must have special skills beyond those of the traditional
+information security professional. The law requires that computer forensic examiners
+be competent at what they do. Examiners can show that they are competent by
+earning advanced degrees. They also can become certified. Because the profession
+is still relatively new and evolving rapidly, there are many computer forensic
+certifications to choose from. Both independent organizations and vendors offer
+them.
+States and courts struggle with how to make sure computer forensic
+examinations are done only by competent examiners. Courts rely on legal principles
+and trial rules to screen examiners before they testify. Sometimes states create laws
+that govern the activities of these examiners. Often, computer forensic examiners
+are governed under the broad terms of a state’s private detective laws.
+Many states regulate private detectives and investigators. They require a private
+detective to have a state-issued license before he or she can conduct investigations.
+These laws were created before computer forensics existed as a separate field. The
+broad language of these laws can pull computer forensic examiners within the scope
+of these regulated professions. This is not unusual.
+Computer Forensic Examiner Certifications
+There are many independent and vendor-specific computer forensic credentials. An examiner must weigh
+which credential best suits his or her career path. The following are popular credentials:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Certified Computer Examiner (CCE)—The International Society of Forensic Computer Examiners
+(ISFCE) offers the CCE. The ISFCE has offered the CCE, a vendor-neutral certification, since 2003.
+CCE holders have basic knowledge of forensic examination procedures. You can learn more at
+http://www.isfce.com/.
+Certified Computer Forensics Examiner (CCFE)—The Information Assurance Certification Review
+Board (IACRB) offers the CCFE, which is also vendor neutral. CCFE candidates must take a written
+exam and a practical application test. There are nine subject-matter areas in the CCFE exam. You can
+learn more at http://www.iacertification.org/index.htm.
+Certified Forensic Computer Examiner (CFCE)—The IACIS offers the CFCE. However, only law
+enforcement personnel may earn it. It is vendor neutral. CFCE candidates must pass an intensive
+practical exam. You can learn more at http://www.iacis.com/.
+GIAC Certified Forensic Analyst (GCFA)—The Global Information Assurance Certification (GIAC)
+program offers the GCFA. Similar to the CCE and CCFE, this certification also tests practical
+knowledge. It is vendor neutral. GIAC offers several certifications related to digital forensics. You can
+learn about GIAC at http://www.giac.org/.
+Some forensic software vendors offer certifications for their products. For example, EnCase is a popular
+forensic tool sold by Guidance Software. It offers the EnCase Certified Examiner (EnCE) credential. The
+EnCE exam has a written section and a practical section. The practical section covers use of the EnCase
+forensics program. You can learn more at https://www.opentext.com/products-and-solutions/services/training-
+and-learning-services/encase-training/examiner-certification.
+Another software vendor that offers a certification is AccessData. AccessData offers
+a product called the Forensic Toolkit, but is better known as FTK. AccessData offers
+the AccessData Certified Examiner (ACE) credential, which tests knowledge of the
+FTK tool. The ACE exam is a multiple-choice test. You can learn more at
+https://accessdata.com/training/computer-forensics-certification.
+Some states require computer forensic examiners to have a private detective
+license. Examples include Illinois, 8 Michigan, 9 Oregon, 10 and Texas. 11 In Texas, the
+law is interpreted very broadly. It actually includes computer technicians and
+computer repair personnel within the scope of its law.
+Some states do not include computer forensic examiners within their private
+detective licensing laws. North Carolina 12 and Virginia 13 are examples. North
+Carolina law states that any person who performs computer forensic services in
+order to collect evidence is not a private investigator. The North Carolina law also
+excludes examiners who provide expert testimony, as well as any person who
+engages in network or system vulnerability testing.
+In 2008, the American Bar Association (ABA) issued a report and resolution on
+computer forensic examiners. The ABA asked states to stop requiring computer
+forensic examiners to get a private detective license. It said that the role of private
+detectives is different from that of computer forensic examiners. It also stated that
+courts have broad discretion to make sure that digital evidence used in trials is
+reliable. Because the courts have that discretion, the ABA argued that there is no
+need to license computer forensic examiners. 14
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Collecting, Handling, and Using Digital
+Evidence
+Computer forensic examiners find evidence on electronic devices and use this
+evidence to help reconstruct past events or activities. They use the evidence to gain
+a better understanding of a crime or event. It can be used to show possession and
+use of digital data. This section discusses how computer forensic examiners collect
+digital evidence. It focuses on how this evidence is collected in a criminal
+investigation. You need to keep in mind that almost the same process will be used in
+a civil investigation. An organization’s IR process also will be similar.
+A computer, or any electronic device, can play one of four roles in computer
+crime:
+NOTE
+Computer forensic examiners should always collect digital evidence in a reliable (forensically sound)
+manner. The nature of the underlying investigation does not matter. The examiner should always use a
+reliable and repeatable process.
+To commit a crime—Unauthorized access to data (hacking) and online fraud are
+two examples where a computer is used to commit a crime.
+To facilitate a crime— Cyberstalking, identity theft, phishing scams, and software
+piracy are examples of crimes facilitated, or aided, by computers.
+As a target of crime—Denial of service (DoS) and distributed denial of service
+(DDoS) attacks, computer viruses, and communications sabotage are examples of
+crimes where the computer itself is the target of the crime.
+As a witness to crime—Computerized record-keeping systems may provide
+evidence of an underlying crime or event.
+If the computer forensic examiner knows how the computer was used, he or she will
+be able to tailor the examination to that use.
+FYI
+It is important that evidence used in a court case be admissible because a judge or jury can consider only
+admissible evidence when they decide cases. Evidence that is invalid for some reason is called
+inadmissible evidence and cannot be presented to a judge or jury. A judge or jury who accidentally hears
+about that evidence cannot consider it later in deliberations. Admissible evidence is good evidence,
+whereas inadmissible evidence is bad evidence.
+The examiner must gather evidence in a way that makes it admissible in court.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Evidence is useful only if it is admissible. To be admissible, evidence must be
+collected in a lawful way. It also must be collected in a scientific manner. For digital
+evidence, this means that a computer forensic examiner conducts a repeatable and
+verifiable examination of an electronic device. The examiner must use established
+practices and procedures. The examiner also must be able to explain the results of
+his or her work to a client, judge, or jury in a clear way.
+The Investigative Process
+Different law enforcement agencies and organizations may use different
+investigative processes. The process used can depend on the type of case, as well
+as the urgency of the case. The process also can depend on the agency or
+organization that performs the investigation. In general, the investigative process has
+the following basic steps:
+Identification
+Preservation
+Collection
+Examination
+Presentation
+This basic process is used by both law enforcement agencies and other
+organizations to identify, collect, and preserve digital evidence.
+Identification
+During the identification step, the computer forensic examiner learns about the
+crime, event, or activity that is being investigated. He or she must identify the types
+of electronic devices that may be involved and prepare to conduct the investigation.
+The examiner must make sure that he or she has all the tools needed to conduct the
+investigation. A computer forensic examiner’s approach to a case may depend
+heavily on its facts and circumstances.
+Preservation
+During the preservation step, computer forensic examiners must secure the crime
+scene and any electronic devices. This means that they must make sure that no one
+tampers with the scene or electronic devices. This is to make sure that suspects and
+witnesses do not have a chance to access, destroy, or modify digital evidence.
+Examiners also must make sure that no one can access electronic devices remotely
+once they are seized. All of these actions make sure that potential digital evidence
+cannot be altered. This step is very important because once digital evidence is
+altered, it is difficult, if not impossible, to reverse the results.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Chain of Custody
+The chain of custody is an important evidentiary concept. Courts and attorneys use a chain of custody
+document to help prove that evidence is admissible. This document shows who obtained evidence, where
+and when it was obtained, who secured it, and who had control or possession of it. It is used to prove that
+evidence is reliable.
+Evidence is reliable when it is not destroyed, changed, or altered. It cannot be modified after it is originally
+collected. A court may find that evidence is not admissible in court if its chain of custody is poorly
+documented or incomplete. A chain of custody protects the integrity of evidence.
+A chain of custody documents how evidence is collected, used, and handled throughout the lifetime of a
+particular case. It is a journal that records every interaction that a person or object has with the evidence.
+In some instances, the examiner may not be able to take electronic devices away
+from the crime scene. In these instances, they must collect data on-site, which
+requires additional expertise. This might happen in cases where evidence is located
+on an organization’s business computers. It also might be the case if the computers
+belong to a witness and not to a criminal suspect. Sometimes the examiners may not
+be able to seize electronic devices if there is a concern that the devices are being
+used as part of a larger ongoing criminal activity that is being investigated.
+Computer forensic examiners also should learn about the operation of the
+electronic devices they will be examining. They will want to gather information from
+people at the scene to learn how the devices are used. They should try to learn
+logon names and passwords for access to the devices. They also should try to
+discover the type of internet access used by each electronic device and programs
+used on each device. It is also important for examiners to know whether devices are
+encrypted, or whether they are equipped with software that could destroy evidence.
+This step also includes documenting the crime scene. Examiners must record the
+location of all electronic devices. They also should note whether the device is on or
+off. They should record the condition of all devices. Examiners also should record
+the content of any display screens before electronic devices are moved. The crime
+scene can be documented using video, photos, and written notes. The
+documentation created at this step is important for creating a chain of custody.
+Collection
+The collection step also is known as the “bag and tag” step. During this step,
+computer forensic examiners must collect the electronic devices. These devices
+require special collection, packaging, and transportation in order to preserve
+potential evidence. Examiners will collect electronic devices in different ways
+depending upon the device and its power status. They will follow different rules for
+devices that are on and devices that are off.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.
+FYISlack space is the space between the end of a data file and the end of the disk space that is allocated to
+store it. Data does not always fill the whole space that is allocated to it. Residual information can be left
+over when a smaller file is written into space that used to be occupied by a larger file. This leftover data
+may be located in the slack space. Computer forensic examiners look at the slack space because it might
+contain meaningful data.
+Can a Person Be Compelled to Provide His or Her Encryption Key or
+Password?
+Many information security professionals advise their clients to use passwords, passcodes, biometric features,
+or other “locks” on their electronic devices to help keep the client’s personal information safe. Often times
+these passwords are used to encrypt and decrypt computing devices as well.
+In cases where electronic devices are seized for evidence, these locks and encryption keys can be a problem
+for a computer forensic examiner. Can the government compel a data owner to provide a password,
+passcode, or encryption key for an electronic device? Does requiring a suspect to provide this information
+violate the person’s Fifth Amendment self-incrimination protections?
+The U.S. Supreme Court has held that the Fifth Amendment protects communications that are compelled,
+testimonial, and incriminating in nature. 15 For instance, a defendant can potentially incriminate himself or
+herself if compelled to disclose information—such as a password or passcode—needed to access an
+electronic device. Under this established case law, a defendant usually does not have to share the contents
+of his or her mind.
+The heart of the issue is whether providing a password, passcode, biometric identifier, encryption key, or
+some other unlocking mechanism is testimonial. Case law in this area continues to develop rapidly and there
+is a lot of uncertainty among the courts. At the time that this text was written, general rules of thumb that can
+be gleaned from case law include:
+Passwords, passcodes, and other electronic device locking mechanisms that are stored in a person’s
+mind are more likely to receive protection under the Fifth Amendment. Compelling a person to share
+this information is testimonial—it forces the person to share a fact that could be used against him or
+her.
+Passwords, passcodes, and other electronic device locking mechanisms that are based on biometric
+identifiers (e.g., biometric device locking mechanisms) are less likely to receive protection under the
+Fifth Amendment. Compelling the production of this type of information is not testimonial because the
+information is something that a person is. The Fifth Amendment does not protect a person against the
+collection of physical features or acts. A person can be compelled to provide a blood sample, stand in a
+line-up, or provide a handwriting sample because these actions are not testimonial. Many courts have
+held that compelling a person to open his or her electronic device protected with a biometric device
+locking mechanism (e.g., fingerprint or facial identification) is not unconstitutional.
+These general rules highlight a tension between protections afforded by the law, protections afforded by
+technology, and user convenience. Although biometric device locking mechanisms provide tremendous
+convenience for the user, the data stored on devices protected in this way may not be afforded legal
+protection from government searches. Some smartphone manufacturers are trying to merge the best of both
+worlds by creating features to quickly disable biometric device locking mechanisms in situations where the
+device owner might be worried that a law enforcement officer will try to force the owner to unlock his or her
+device. Some people refer to these disabling features as “the cop button.” When these features are used, all
+biometric device locking mechanism features are disabled and the smartphone reverts to requiring a
+password or passcode to unlock the device. Under current law, to best protect the contents of electronic
+devices from exposure in criminal legal proceedings, the devices should be protected by the longest
+password or passcode that the device allows.
+This same analysis and the general rules shared in this section will likely be applied to passwords,
+passcodes, and biometric device locking mechanisms for internet-enhanced applications and services.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Device users must weigh the risk of incriminating data exposure with convenience. Although it may be
+convenient to protect a password manager application on a smartphone with fingerprint or facial
+identification, such applications may contain hundreds of passwords. Where possible, those types of
+applications should always be protected with a strong password or passcode (that is different from the device
+password or passcode).
+This particular topic of the law continues to evolve. You can expect judges to continue to define the scope of
+the Fifth Amendment in these situations. Because this is an area of federal constitutional law, the U.S.
+Supreme Court has the power to make a decision on the issue.
+For example, in most instances, a cell phone must be kept powered on in order
+to preserve data stored on the device. However, it must be protected from any
+incoming calls or text messages that could change the data on it. The cell phone
+must be packaged and transported in a special evidence bag once it is collected.
+These special evidence bags, called Faraday bags, keep a cell phone shielded from
+incoming calls or from connecting to wireless networks. This is so that data stored on
+it cannot be changed by an incoming call or wireless network connection. A
+computer forensic examiner also must make sure that the collected cell phone has
+an additional power supply to maintain evidence that could be lost if its battery runs
+out.
+During this step, examiners must be aware of other kinds of evidence that could
+be on electronic devices. For example, a keyboard or mouse could contain
+fingerprints or other physical evidence related to the case. Computer forensic
+examiners must work with other forensic technicians to make sure that this type of
+physical evidence is not destroyed.
+As a practical matter, examiners must document how all electronic devices are
+configured. The cables and peripheral devices that are hooked up to each computer
+will need to be tagged. Examiners also must collect any manuals or other materials
+about the electronic devices that are located near the crime scene.
+Examination
+During the examination step, computer forensic examiners will want to make
+duplicate images of any electronic storage media. This is called imaging. One thing
+to remember is that a forensic duplicate image is not the same as a file copy or
+system backup copy. This type of image is an exact copy of the storage media. It
+includes deleted files, slack space, and areas of the storage media that a normal file
+copy would not include. A forensic duplicate image is a bit-by-bit copy of the original
+storage media.
+Computer forensic examiners use special tools called write blockers to create
+forensic duplicate images. These tools keep examiners from altering the original
+storage media. Write blockers can be either hardware- or software-based. They work
+similar to a one-way flow valve in plumbing in that they only allow data to move in
+one direction. Most examiners will make two or more duplicate images of the original
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.storage media. One copy is a working copy that they will use to look for evidence.
+The other is a control copy that can be used if something goes wrong with the first
+copy.
+A forensic duplicate image must be verified against the original storage media.
+This makes sure that the duplicate image is identical to the original and that nothing
+has changed on the original media or the image. Examiners verify the images using
+a cryptographic equation called an algorithm. They will apply the algorithm to the
+original media to create a hash, the value that is the result of the cryptographic
+equation on the image. The examiner will apply the same algorithm to the duplicate
+image to create another hash.
+The examiner can prove that the duplicate image accurately represents the
+original media if the hashes are the same. If the hashes are different, the images are
+not the same. Different hashes mean that the imaging process was faulty or some
+sort of change took place between the original media and the duplicate image.
+Hashes are used to measure the integrity of the original media and the forensic
+duplicate. If the hashes do not match, then the data has changed somehow.
+NOTE
+The output of a hashing algorithm is sometimes called a checksum.
+Computer forensic examiners need to know how to collect two very different
+types of data. Persistent data is stored on a hard drive or other storage media and
+is preserved when an electronic device is turned off. Volatile data, in contrast, is
+stored in memory and exists in registries, the cache, and random access memory
+(RAM), as well as the connections that one electronic device might have with
+another while both devices are powered on. Volatile data is lost when an electronic
+device is turned off, so examiners must know when this data must be collected and
+how to do it.
+Computer forensic examiners search for relevant information on the duplicate
+image. They have checklists of items that they review and look for. In general, they
+might look at:
+File access history (when were files created, edited, and last accessed)
+File download history
+Internet browsing history
+Attempts to delete or conceal files or other data
+Email communications
+Instant message or internet chat logs
+Image files
+Files containing address books or other contact information
+Documents containing financial or medical information
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Examiners produce a report of files or data that might be relevant to the
+investigation. They must use examination procedures that are auditable. That means
+that an independent party can verify and repeat all of the same steps and receive the
+same results.
+Presentation
+Computer forensic examiners must be able to report on their findings and describe
+how they gathered digital evidence. They often have to explain how they collected
+this evidence if a case goes to trial. Examiners are usually considered expert
+witnesses when they testify in a court case. Expert witness testimony is governed by
+the Federal Rules of Evidence. 16 Expert witnesses must show that their activities
+followed a scientific methodology. A court assesses this process to make sure that
+evidence offered at trial is reliable.
+The test for measuring the reliability of a scientific methodology is called the
+Daubert test. It was first discussed in a U.S. Supreme Court case called Daubert v.
+Merrell Dow Pharmaceuticals. 17 This test is important to computer forensics. It
+comes into play because of the tools that examiners use to collect digital evidence.
+An expert witness is a person; therefore, the software tools used by examiners
+cannot be expert witnesses. Thus, examiners must testify on behalf of the tools.
+The American Academy of Forensic Sciences
+The American Academy of Forensic Sciences (AAFS) recognizes computer forensics as a scientific
+discipline. The AAFS, one of the most well-known professional organizations for forensic scientists, has
+members from many different forensic disciplines. Its goals are to promote integrity and advance cooperation
+in the forensic sciences.
+The AAFS has different sections for different areas. For example, it created a digital and multimedia sciences
+section in February 2008. The digital and multimedia sciences section was the first new AAFS section in 28
+years. Members must show active participation in computer forensic activities. All AAFS members have
+ethical rules that they must follow.
+You can learn more about the AAFS at http://www.aafs.org.
+The use of a tool must satisfy the Daubert test to show that the digital evidence
+gathered by the tool is reliable. The Daubert test asks the following questions to
+determine reliability:
+Has the tool been tested?
+Is there a known error rate for the tool?
+Has the tool been peer reviewed?
+Is the tool accepted in the relevant scientific community?
+The examiner will testify about how the tool works. The examiner also will testify
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.about his or her qualifications as a computer forensic examiner. Finally, the examiner
+will testify about the process the examiner used to collect the digital evidence. The
+court will use the Daubert test to decide whether to admit the evidence collected by
+the examiner.
+Ethical Principles for Forensic Examination
+Computer forensic examiners all follow some common principles. The IOCE created
+one of the first sets of ethical principles for computer forensics examiners in 1999.
+The IOCE principles included:
+Examiners should not change digital evidence after they seize it.
+If original digital evidence must be accessed, the person accessing it must be
+competent.
+All digital evidence handling must be fully documented and available for review.
+Each person who handles digital evidence is responsible for it while it is in his or
+her possession.
+Any agency that handles digital evidence must comply with these principles. 18
+These basic principles are followed in different forms by other organizations. For
+example, the CCE credential requires CCE holders to follow a code of ethics. That
+code of ethics has terms that are similar to the principles stated originally by the
+IOCE. You can read the code of ethics at https://www.isfce.com/ethics2.htm.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Legal Issues Involving Digital Evidence
+There are special rules for collecting and handling digital evidence. However, the
+process for obtaining the electronic devices and the evidence on them in the first
+place must follow established legal principles. The law asks two basic questions
+about evidence:
+Did the person or organization that collected the evidence have the legal authority
+to do so?
+Is the evidence admissible in court?
+Legal principles and statutes are used to address the first question. These laws
+focus on the situations where a private entity or the government can collect
+information about a person.
+Court rules and case law are used to address the second question. Both the
+federal government and state governments have trial court rules for civil and criminal
+proceedings. In addition to these rules, federal and state courts have evidentiary
+rules that govern how parties introduce evidence at trials. This chapter uses the
+Federal Rules of Evidence (FRE) to illustrate admissibility requirements. Many states
+have their own evidence rules that are based on the FRE.
+One thing to keep in mind as you review this section is that there are differences
+between how law enforcement and private entities conduct investigations. Law
+enforcement agencies have very specific rules that they must follow when they
+collect evidence because a law enforcement agency is acting on behalf of a
+government. They are agents of either the federal or a state government. In the
+United States, a government cannot take some actions against its citizens without
+proper authority. This is part of our “checks and balances” system of government.
+For example, unless special circumstances exist, law enforcement must get
+permission from a court to monitor a person’s telephone conversations.
+The rules are different for private entities. Private entities are individuals and
+organizations that are not related to a governmental agency. As long as a private
+entity is acting within the rule of law, it may take certain actions to protect its own
+interests. This is why an employer may monitor an employee’s telephone
+conversations when the employee is using the employer’s telephone equipment. A
+private entity generally has the right under the law to monitor and collect data about
+its own IT resources in order to protect them.
+Authority to Collect Evidence
+There are many laws that define and limit the government’s ability to monitor and
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.collect data about individuals. The basic protections afforded to U.S. citizens stem
+from the Constitution. The Fourth Amendment protects citizens from an intrusive
+government.
+Other laws further define how the government can collect and monitor data.
+These laws affect the activities of computer forensic examiners. The Electronic
+Communications Privacy Act, 20 the Wiretap Act, 21 and the Pen Register and Trap
+and Trace Statute 22 are discussed in this section.
+The Fourth Amendment and Search Warrants
+The Fourth Amendment protects people from unreasonable government search and
+seizure. A search happens when a person’s reasonable expectation of privacy in a
+place or thing is compromised. A seizure happens when the government interferes
+with a person’s property. Interference includes taking the property or using it in such
+a way that the person who owns it cannot use it.
+The Silver Platter Doctrine
+The difference between the government’s ability to collect evidence of a crime and a private entity’s ability to
+collect evidence about that same activity is an interesting area of study. It is also a complicated area of study.
+The resolution of many court cases depends on these differences. Sometimes laws create special rules for
+law enforcement and private entities.
+For example, the Electronic Communications Privacy Act (ECPA) 19 sets out the rules for access, use,
+disclosure, and interception of stored electronic communications. Electronic communications include
+telephone, cell phones, computers, email, faxes, and texting. Under the ECPA, no one may access the
+contents of these communications unless it is allowed somewhere else in the ECPA. The law has different
+rules for the government and for private entities.
+The ECPA has strict rules for the government. For example, the government cannot access any stored
+electronic communications without a search warrant. To get a search warrant, the government must prove to
+a court that it has probable cause to believe that criminal activity is taking place. The stored communications
+must hold evidence of the criminal activity. If the government cannot prove probable cause, then it cannot
+access these communications.
+The ECPA has different rules for private entities. Private entities may access stored communications within
+their ordinary course of business. To use this exception, the private entity must have a legitimate business
+interest for accessing these communications. They also must show that the access occurred on equipment
+provided by a communications service provider. The ECPA also allows private entities to access employee
+communications if the employee gives consent. The private entity must be able to prove that it provided
+notice of access to its employees and that the employees consented to it. Most courts interpret these
+exceptions very narrowly.
+Sometimes private entities find evidence of criminal activity. The ECPA allows most types of private entities to
+lawfully disclose this evidence to law enforcement agencies. This evidence often is very useful to a criminal
+investigation. Sometimes a prosecutor will want to use this evidence at a criminal trial. The evidence rule
+known as the silver platter doctrine applies in these cases. This rule is called the silver platter doctrine
+because the private entity gives admissible evidence to law enforcement “on a silver platter.” Law
+enforcement did not need a search warrant to access the evidence because it did not collect it or direct its
+collection.
+The silver platter doctrine allows the admission of evidence lawfully collected by a private entity. However, the
+evidence collected by the private entity must be collected and documented properly. To take advantage of the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.silver platter doctrine, the government must show that the private entity is not affiliated with law enforcement
+or a government (state or federal). The private entity must not be collecting the evidence under the direction
+of law enforcement or a government. The private entity also cannot be an internet service provider (ISP).
+There are special rules under the ECPA for ISPs.
+The Fourth Amendment states that the government may not search or seize
+areas and things in which a person has a reasonable expectation of privacy. If a
+person has a reasonable expectation of privacy in a place or item, then the
+government must get a search warrant before searching it or taking it. Under the
+Fourth Amendment, the “government” includes law enforcement. This section uses
+the terms government and law enforcement interchangeably.
+Several court cases have held that people have a reasonable expectation of
+privacy in their personal computers and mobile devices. The U.S. Court of Appeals
+for the Ninth Circuit has found that a person has a reasonable expectation of privacy
+in a personal computer. That case is called United States v. Heckenkamp. 23 Other
+courts have held that people have a reasonable expectation of privacy in data stored
+on personal pagers. 24 The U.S. Supreme Court has held that a warrant is required
+before searching a cell phone, even when the cell phone is seized when its owner is
+arrested. 25 It has also held that a person has a reasonable expectation of privacy in
+the location information collected by his or her smartphone and stored by his or her
+cell phone service provider. 26 To search any of these devices, law enforcement must
+get a search warrant.
+FYI
+The Fourth Amendment applies to federal government actions only. However, most state governments
+have state constitutional protections that are similar to the Fourth Amendment. The Fourth Amendment
+does not apply to private individuals or entities that conduct searches or seizures. The private individual or
+entity must act alone and without government direction. The Fourth Amendment may apply when a private
+individual or entity follows government directions in conducting a search.
+To get a search warrant, law enforcement must clearly specify the criminal
+activity that is being investigated. It must describe where the search will take place
+and also list the items that will be searched. Finally, law enforcement must state the
+evidence that they expect to find. They also must state how that evidence relates to
+the criminal activity that is being investigated.
+If law enforcement conducts a search without a valid warrant, then any evidence
+that it finds is not admissible in court. This means that a judge will not allow the
+government to use that evidence to prove its case. Although the rule is strict, there
+are some limited exceptions. Court-recognized exceptions to the Fourth
+Amendment’s search warrant requirements include:
+Consent—Law enforcement can search places and items if the person in control
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.of them freely consents to the search. For example, a person can allow law
+enforcement to search his or her home, car, or computer. A person’s consent must
+be free and voluntary. If law enforcement finds evidence of criminal activity during
+a voluntary search, it is admissible in court. Cases reviewing this exception often
+focus on whether a person’s consent really was free and voluntary.
+Plain view doctrine—Law enforcement does not need a warrant to search and
+seize evidence that is in an officer’s “plain view.” The officer must be able to see
+the evidence from a place where the officer has a right to be. This exception is
+often used to seize drugs or other contraband. For example, a police officer can
+seize drug paraphernalia that he or she sees in a car if the officer can plainly see
+the items in the car’s back seat while standing on a public street.
+Exigent circumstances—Law enforcement is allowed to make a warrantless
+search and seizure in emergency circumstances. This exception applies if public
+safety would be harmed or evidence would be destroyed if law enforcement took
+the time to go to court to get a warrant. This exception also is called the
+“emergency” exception. Law enforcement often seizes drugs and weapons using
+this exception. Court cases reviewing this exception focus on whether a true
+emergency existed at the time the search or seizure took place.
+Search incident to a lawful arrest—Law enforcement does not need a warrant to
+search for weapons or contraband on the body of an arrested person. In some
+cases, law enforcement may make a brief visual inspection of the area where a
+person is arrested to make sure that no accomplices are hiding nearby. Law
+enforcement officers are allowed to make these warrantless searches in order to
+protect their own safety. They also can use this exception to make sure that critical
+evidence is not destroyed during the arrest process. Courts strictly construe this
+exception to make sure that it is not abused. This exception is also called the
+protective sweep exception.
+Inventory search—Law enforcement may conduct inventory searches without a
+warrant when they arrest a suspect. These searches are allowed when they are
+made for a non-investigative purpose. For example, if a suspect has a laptop
+computer when he or she is arrested, law enforcement may seize the computer for
+safekeeping while the suspect is in custody. This helps protect law enforcement
+from claims that they lost or stole a suspect’s property. For the exception to apply,
+the law enforcement agency must have standard policies and procedures for
+conducting inventory searches. They also must document the search. Court cases
+reviewing this exception focus on whether law enforcement was following a
+documented policy for inventory searches. They review whether the inventory
+search was a ploy to hide a more thorough search for evidence.
+One important thing to keep in mind is that the Fourth Amendment search warrant
+exceptions allow for the seizure of the media containing the digital evidence. Law
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.enforcement can seize the physical media only. If they want to conduct a forensic
+examination of that media, they must get a warrant to do so. Therefore, the search
+warrant must authorize the forensic examination. Unless emergency circumstances
+exist, the secondary search warrant ensures that any digital evidence collected from
+the media will be admissible in court. Computer forensic examiners must make sure
+there is a valid search warrant for any electronic devices that they collect. They also
+must make sure that the warrant allows them to search the data on the device.
+Federal Laws Regarding Electronic Data Collection
+Three main federal laws govern the collection of electronic communications data.
+These laws cover many different communications, including email, radio and
+electronic communications, data transmissions, and telephone calls. Computer
+forensic examiners often study these communications when they investigate cases
+or events. An examiner must make sure that his or her actions follow the law.
+These laws forbid the use of eavesdropping technologies. This means that the
+government, individuals, and private entities cannot use certain technologies to
+snoop on electronic communications. The only time use of these technologies is
+allowed is when the law says it is allowed. Usually this is when the law allows an
+exception or if an entity has a court order. The three laws are:
+The Electronic Communications Privacy Act
+The Wiretap Act
+The Pen Register and Trap and Trace Statute
+NOTE
+Keep in mind that states also might have laws governing the collection of electronic communications
+evidence. You must always review both federal and state laws when considering a legal issue.
+The Electronic Communications Privacy Act. The ECPA, first passed in 1986,
+governs the use, disclosure, and interception of stored electronic communications.
+Congress has amended it several times. The ECPA governs access to the contents
+of stored communications, as well as access to transmission data about the
+communications. Transmission data includes header and log data. The ECPA does
+not apply to real-time collection of electronic communications.
+The ECPA is a complicated statute. Under the ECPA, no one may access the
+contents of these communications unless it is allowed somewhere else in the ECPA.
+There are different rules for the government and for private entities. For example, the
+government cannot access any stored electronic communications without a search
+warrant. If it accesses them without a warrant, any evidence that it discovers will not
+be admissible. There are several exceptions to the ECPA for private entities. Some
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.of these exceptions were part of the Uniting and Strengthening America by Providing
+Appropriate Tools Required to Intercept and Obstruct Terrorism Act (U.S.A. PATRIOT
+Act). 27 Congress passed the PATRIOT Act, which modified parts of the ECPA, in
+2001. Under the ECPA, a private entity may voluntarily disclose the contents of
+stored communications to law enforcement. Law enforcement does not need a
+search warrant if the private entity discloses the information voluntarily. (This is the
+application of the silver platter doctrine.) As long as the evidence was collected and
+documented properly, it will likely be admissible.
+Private entity voluntary disclosure is permitted under the ECPA as long as the
+private entity is not an ISP. If it is an ISP, then additional conditions must be met.
+These conditions prevent ISPs from having to monitor all communications across
+their networks. They also prevent ISPs from snooping on their subscribers and help
+ISPs maintain their safe harbor protections under U.S. IP laws.
+If an ISP wishes to disclose the contents of a communication to law enforcement,
+the disclosure must fall under a permitted ECPA exception. If the disclosure does not
+fall under one, then it may not be admissible in court. The permitted exceptions that
+allow disclosure are:
+The disclosure is made with the consent of the sender or receiver of the
+communication.
+The disclosure is related to the ISP’s services or is made to protect the ISP’s
+rights.
+The ISP inadvertently received the contents of the communication and the
+contents appear to be related to criminal activity.
+The ISP reasonably believes that disclosure is required to prevent an emergency
+involving immediate danger of death or serious bodily injury.
+U.S. child protection laws require the disclosure.
+The disclosure is made in response to a court order. 28
+The Wiretap Act. The ECPA applies to access to and disclosure of stored
+communications only. The federal Wiretap Act governs real-time interception of the
+contents of an electronic communication. The Act does not apply to transmission
+information, but does apply to anyone who intentionally intercepts or tries to intercept
+any wire, oral, or electronic communication. The Act forbids the real-time interception
+of these communications. Communications covered by the Act include email, radio
+communications, data transmissions, and telephone calls.
+NOTE
+The Wiretap Act also is known as “Title III.” This is because it was first passed as Title III of the Omnibus
+Crime Control and Safe Streets Act of 1968.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.Under the Wiretap Act, no one is allowed to install wiretaps on telephones to
+intercept telephonic communications. The Act also forbids using network sniffers to
+intercept internet traffic or other computer-based communications. There are
+exceptions to the Wiretap Act, however. For example, law enforcement can install
+telephone wiretaps or network sniffers if it has a court order (warrant) to do so.
+There are three main exceptions to the federal Wiretap Act for private entities.
+Private entities can use these exceptions to monitor content on their own
+communications systems. These exceptions are:
+The Consent Exception
+The Provider Exception
+The Trespasser Exception
+A private entity may monitor content on its own communications systems when one
+of the parties to the communication consents to the monitoring. This is the consent
+exception. One way that entities gather consent is by using network banners. A
+network banner is a warning banner that provides notice of legal rights to the users
+of computer networks. These banners are displayed when a computer user logs on
+to a network or visits an entity’s home page.
+These banners have many purposes. They are used to show consent to
+monitoring under the Wiretap Act or consent to access under the ECPA. They are
+also used to eliminate a user’s Fourth Amendment reasonable expectation of privacy
+in a computer network. They also may be used to inform a user of the terms of use
+for the computer network. Typically, these banners inform the user that use of the
+network (after viewing the banner) is proof that the user consents to network
+monitoring and the terms of use.
+A private entity can monitor its communications systems to protect its “rights or
+property.” This is called the provider exception. Monitoring under this exception must
+be reasonable and done in the ordinary course of business. This exception belongs
+only to the private entity, who may disclose evidence of business-related wrongdoing
+on its systems to law enforcement. This exception is not a general exception. The
+law does not allow a private entity to gather evidence of crime unrelated to it and
+turn that evidence over to law enforcement.
+NOTE
+Under the Wiretap Act, a computer trespasser is a person who uses a computer system without
+permission. A computer trespasser has no relationship at all with the private entity.
+Court cases about the provider exception have upheld it in several situations. For
+example, an entity’s system administrators can use this exception to monitor a
+hacker’s communications within its network. They may do this to prevent damage to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.the entity’s network. 29 The entity can give any evidence collected from the monitoring
+to law enforcement. This is because hacking into a computer network is illegal.
+The trespasser exception was created in 2001 as part of the PATRIOT Act. This
+exception recognizes that there might be times when private entities do not have the
+expertise needed to track or monitor system intruders. Because they do not have the
+skills to track system intruders, the provider exception is not helpful to them. The
+trespasser exception allows the entity to ask the government to help in these
+situations. The government can assist the entity in intercepting the communications
+of a computer trespasser.
+The following conditions must be met in order to use this exception:
+Law enforcement must get the consent of the private entity.
+The interception must be legal.
+The interception must be part of a legitimate investigation.
+The interception must not monitor the communications of anyone other than the
+trespasser. 30
+If these conditions are met, then law enforcement may help a private entity monitor a
+computer trespasser. Law enforcement does not need a court order to take
+advantage of this exception.
+The Pen Register and Trap and Trace Statute. The Wiretap Act governs real-time
+interception of the contents of a communication. It does not apply to transmission
+information. The Pen Register and Trap and Trace Statute governs real-time
+monitoring of this type of data. Transmission information includes headers, logs,
+network routing, and other transmission data. This law does not apply to
+communications content.
+Under the Pen Register and Trap and Trace Statute, no one is allowed to use
+pen register or trap and trace devices to intercept electronic communications
+transmission data. Similar to the Wiretap Act, however, some exceptions allow the
+use of these devices. For example, the law allows law enforcement to install pen
+register or trap and trace devices if they have a court order to do so.
+NOTE
+Pen register devices monitor outgoing transmission data. They record dialing, routing, signaling, or
+address information. Trap and trace devices monitor the communications of incoming transmission data.
+They capture incoming electronic signals that identify the origin of a communication.
+There are three exceptions to the Pen Register and Trap and Trace Statute for
+private entities. Private entities can use these exceptions to use pen register or trap
+and trace devices on their own communications systems. The exceptions are:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.A private entity may use pen register or trap and trace devices if necessary to
+operate, maintain, or test its communication services. It also may use these
+devices to protect its property rights. (This is similar to the provider exception
+under the Wiretap Act.)
+A private entity may use pen register or trap and trace devices to protect the entity
+from fraudulent, unlawful, or abusive use of service. It would use these devices to
+prove the existence of a fraudulent, unlawful, or abusive electronic
+communication.
+A private entity may use pen register or trap and trace devices when the user of
+the electronic communications service consents.
+These three laws, in addition to the provisions of the Fourth Amendment, are the
+main federal laws that govern the collection of electronic communications evidence.
+Computer forensic examiners must make sure that their evidence collection activities
+comply with these laws. Computer forensic examiners must also follow any relevant
+state laws. The examiner’s credibility is damaged if the examiner does not follow the
+law. In addition, if the examiner does not follow the law, any evidence that he or she
+gathered might not be admissible.
+Admissibility of Evidence
+Even if evidence is lawfully collected, it still must be admissible. At the federal level,
+the main guidance regarding the submission of evidence at trial is the FRE. The FRE
+apply to use of evidence at federal trials. Many states also have rules of evidence.
+Often these rules are based on the federal rules. One thing to keep in mind
+whenever you are reviewing evidence is that you need to understand whether you
+must follow state rules or federal rules.
+NOTE
+In criminal cases, defense attorneys want to present exculpatory evidence to rebut the prosecution’s case.
+The prosecution is interested in presenting inculpatory evidence to support their case.
+Under the FRE, relevant evidence is admissible unless some other rule or law
+says that it is not. Admissible evidence is evidence that the judge and jury can
+consider when they deliberate about a case. Evidence can be either inculpatory or
+exculpatory. Inculpatory evidence supports or confirms a given theory, whereas
+exculpatory evidence rebuts or contradicts a given theory.
+Computer forensic examiners are hired to find digital evidence. There are two
+basic types of digital evidence:
+Computer-generated records—These records and logs are the output of
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.computer programs. They are created automatically by a computer program or
+process, even if a person initiates that program or process.
+Records created by people and stored electronically—These records are
+created by people. They just happen to be in a digital form. This kind of evidence
+includes files, pictures, images, spreadsheets, and other documents created by a
+person. It also can include internet browsing history.
+The Fruit of the Poisonous Tree Doctrine
+The fruit of the poisonous tree doctrine is a long-standing legal doctrine, whose name stems from a biblical
+passage. 31 The doctrine has been in place since 1920. 32 The U.S. Supreme Court first used the term “fruit of
+the poisonous tree” in 1939. 33 The doctrine prevents the government from using illegally gathered evidence
+at a criminal trial. It also prevents the government from using any legally gathered evidence that it obtained
+because of the illegally gathered evidence.
+This doctrine is used to keep the government from violating people’s constitutional rights. If the government
+were allowed to use illegally gathered evidence at trial, the protections granted by the Fourth Amendment
+would be meaningless.
+Under the fruit of the poisonous tree doctrine, the poisonous tree is evidence that is seized illegally. The fruit
+of the poisonous tree is evidence that is later gathered because of knowledge gained through the first illegal
+act. Neither the tree, nor its fruit, can be used at a trial.
+The rules of evidence apply to digital evidence in the same way that they apply to
+traditional types of evidence. This section focuses on issues that are important for
+digital evidence. In order to be admissible, digital evidence must be:
+Lawfully gathered
+Relevant
+Authentic and reliable
+Evidence is lawfully gathered if it is collected in accordance with the law. The main
+laws that govern the collection of electronic evidence were discussed earlier in this
+section. Evidence that is not gathered lawfully is tainted with illegality. This means
+that it cannot be used in court. It also means that any subsequent evidence gathered
+because of the illegally obtained evidence also cannot be used in court. In the law,
+this is known as the fruit of the poisonous tree doctrine. This doctrine primarily
+applies to criminal cases.
+Evidence is admissible only if it is relevant. Another name for relevant evidence is
+probative evidence. Probative evidence proves or disproves a legal element in a
+case. If evidence is not probative, then it can be excluded from a trial. The FRE say
+that evidence is relevant if it makes “the existence of any fact that is of consequence
+to the determination of the action more probable or less probable than it would be
+without the evidence.” 34 Evidence can be inculpatory or exculpatory.
+Relevance can occasionally be a problem for digital evidence. This is because it
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.is sometimes hard for judges and juries to understand very technical information.
+They might not understand why the evidence is relevant. This is where a good
+computer forensic examiner can help. The examiner can help explain the technical
+information in everyday language and help show how the evidence is relevant to the
+case. The party that wants to introduce digital evidence must show how it is relevant.
+Evidence is admissible if it is authentic. 35 This means that the party introducing
+the evidence must show that the evidence is what it says it is. For example, suppose
+a party wishes to produce a printout of an electronic document and use it to prove an
+element in the case. Before being able to use the document, the party must show
+that the document was stored in a computer system. The party also must show that
+the document has not been altered, manipulated, or damaged since it was created.
+Reliability is closely related to authenticity. It is often questioned in digital
+evidence issues. The reliability of digital evidence can be suspect if the program
+used to find the evidence has significant flaws. If the output of a program can change
+because of these flaws, then it is not reliable. If it is not reliable, then the information
+that the output represents may not be authentic.
+Sometimes reliability is implicated at the forensic examination level. If a computer
+forensic examiner uses a new tool or program to conduct a forensic examination, the
+reliability of that tool must be demonstrated. The Daubert test is used to satisfy the
+court that new forensic tools are reliable. If the tool is reliable, then the court is more
+likely to admit the digital evidence.
+As technology evolves, so too do the questions regarding the use of digital
+evidence in court. For legal practitioners, the Sedona Principles for Addressing
+Electronic Document Production is the best-known resource for how to properly use
+electronic evidence in legal proceedings. 36 The 14 Sedona Principles are best
+practices for how to use digital evidence in legal proceedings.
+The Hearsay Rule
+There are other rules that may apply when courts consider the admissibility of digital
+evidence. For example, the hearsay rule 37 is often implicated with respect to
+computer records and digital evidence. The hearsay rule is a very complicated
+evidentiary rule with numerous exceptions. Sometimes even the most experienced
+attorneys can be confused by the hearsay rule and its many exceptions.
+Hearsay is any out-of-court statement that is made by a person that is offered to
+prove some issue in a case. Hearsay statements are statements made by people.
+They are not usually made under oath. Hearsay statements are sometimes offered
+by parties at trial when there are no direct witnesses available to testify. Gossip is a
+common example of hearsay. Statements that a news reporter makes when he or
+she reports on events from an anonymous source are also hearsay. Hearsay is not
+admissible unless a specific exception applies.
+Records recovered from a computer can be hearsay, depending on how they
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.were created originally. Many courts have held that computer-generated records, the
+logs and output of computer programs, are not hearsay. These records are created
+without human intervention. Some courts have said that computer-generated
+information is not a statement of a person and cannot be hearsay. 38 If the records
+are not hearsay, then they are admissible.
+Computer records that might be hearsay contain assertions by people. These
+types of records include documents and files, bookkeeping records, and records of
+transactions that are entered by people (and not through an electronic process). For
+these types of documents, a party must show that the document is admissible
+because of a hearsay exception. The party also must show that the document is
+authentic.
+Some courts allow computer records to be admitted over a hearsay objection if
+they are created in the ordinary course of business. Records created in the ordinary
+course of business are often admissible, even if the hearsay objection would
+otherwise apply. 39 The theory is that records created as part of a business process
+tend to be reliable. This is because the records are created repeatedly.
+Trial Court Objections
+Trial attorneys often make hearsay objections. That is, they object when opposing attorneys pose questions
+meant to elicit hearsay from witnesses. An objection is a formal protest made to a judge. An attorney usually
+makes an objection if the opposing party is asking questions that are inappropriate or violate a court rule.
+If the judge agrees with the attorney who made the objection, the court will sustain the objection. This means
+that the objection is correct. In this case, the attorney who originally asked a question must not ask it or must
+rephrase it. If the judge does not agree with the attorney who made the objection, the court will overrule it.
+This means that the original objection was not correct. When a judge overrules an objection, he or she is
+allowing the original line of questioning to continue.
+The Best Evidence Rule
+The FRE require that original documents be used at trial to make sure that evidence
+is reliable and authentic. 40 This is called the best evidence rule. This rule can create
+an interesting problem for digital evidence. In its original form, digital evidence is
+almost never in a format that a person can read and understand. The original form of
+digital evidence would be particularly unhelpful at a trial, as it would not be usable.
+However, any printout that represents digital evidence would not meet the best
+evidence rule.
+The FRE have made an exception for this quirk of digital evidence since 1972.
+The rule states that an accurate printout of computerized data is an “original” for
+purposes of the best evidence rule. 41 The FRE acknowledge that it is practical to
+address computerized evidence in this way. 42 Any other result would not make
+sense.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.CHAPTER SUMMARY
+Computer forensics is the scientific process of collecting and examining data
+stored on electronic devices to find evidence about an event or crime.
+Evidence found on electronic devices is called digital evidence. Similar to
+traditional forms of evidence, digital evidence is subject to rules that govern
+how it can be used later. If digital evidence is not properly collected, it cannot
+be used in court.
+Computer forensic examiners collect digital evidence using special programs
+and tools. They must collect the evidence carefully to make sure that it is not
+changed. Examiners often have special skills. They must have a thorough
+knowledge of computing technologies. They also must understand the
+scientific method. Finally, examiners must be familiar with the law and
+evidence rules.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.KEY CONCEPTS AND TERMS
+Chain of custody
+Code analysis
+Computer forensics
+Digital evidence
+Forensic duplicate image
+Fruit of the poisonous tree doctrine
+Hearsay
+Locard’s exchange principle
+Media analysis
+Network analysis
+Network banner
+Objection
+Pen register devices
+Persistent data
+Probative evidence
+Trap and trace devices
+Volatile data
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.CHAPTER 15 ASSESSMENT
+1. A system backup copy is considered a forensic duplicate image.
+A. True
+B. False
+2. What is an exception to the Fourth Amendment’s search warrant requirement?
+A.
+B.
+C.
+D.
+E.
+Consent
+Plain view doctrine
+Inventory search
+All of these are correct.
+None of these is correct.
+3. Which principle is a basic assumption of forensic science?
+A.
+B.
+C.
+D.
+E.
+The silver platter doctrine
+Exigent circumstances
+Locard’s exchange principle
+The Daubert test
+None of these is correct.
+4. What are the three main electronic communications eavesdropping laws?
+5. What is another common term for computer forensics?
+6. Which type of computer forensics focuses on examining programming code?
+A.
+B.
+C.
+D.
+E.
+Media analysis
+Malware forensics
+Internet forensics
+Network analysis
+None of these is correct.
+7. Which forensic certification is only available to law enforcement personnel?
+A.
+B.
+C.
+D.
+E.
+CCE
+GCFA
+CCFE
+EnCE
+None of these is correct.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.8. A computer can play one of ________ roles in a crime.
+9. Which investigative step includes “bag and tag”?
+A.
+B.
+C.
+D.
+E.
+Identification
+Preservation
+Collection
+Examination
+None of these is correct.
+10. Which investigative step includes interviewing persons of interest for information
+about electronic devices?
+A.
+B.
+C.
+D.
+E.
+Identification
+Preservation
+Collection
+Presentation
+None of these is correct.
+11. Which organization created the most well-known guiding principles for computer
+forensic examiners?
+A.
+B.
+C.
+D.
+E.
+IOCE
+ISO/IEC
+ISFCE
+IACRB
+None of these is correct.
+12. What is volatile data?
+13. Which law governs the collection of real-time transmission data?
+A.
+B.
+C.
+D.
+E.
+The Electronic Communications Privacy Act
+The Wiretap Act
+The Pen Register and Trap and Trace Statute
+The Fourth Amendment
+None of these is correct.
+14. A trap and trace device monitors incoming transmission data.
+A. True
+B. False
+15. A forensic duplicate image is a ________.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.ENDNOTES
+1. U.S. Department of Labor, Bureau of Labor Statistics, “Forensic Science
+Technicians,” Occupational Outlook Handbook. Available at
+https://www.bls.gov/ooh/life-physical-and-social-science/forensic-science-
+technicians.htm (accessed March 15, 2020).
+2. Easttom, C., System Forensics, Investigation, and Response. 2nd ed.
+Burlington, MA: Jones & Bartlett Learning, 2013, p. 3.
+3. Kaspersky, “Kaspersky Security Bulletin 2019: Statistics,” December 2019.
+Available at https://securelist.com/kaspersky-security-bulletin-2019-
+statistics/95475/ (accessed March 15, 2020).
+4. Verizon, “2019 Data Breach Investigations Report,” May 2019. Available at
+https://enterprise.verizon.com/resources/reports/2019-data-breach-
+investigations-report.pdf (accessed March 15, 2020).
+5. Federal Bureau of Investigation, “A Brief History of the FBI,” undated. Available
+at https://www.fbi.gov/history/brief-history (accessed March 15, 2020).
+6. International Association of Computer Investigative Specialists, “About IACIS,”
+undated. Available at https://www.iacis.com/about/ (accessed March 15, 2020);
+Mark Pollitt, “A History of Digital Forensics,” 6th IFIP WG 11.9 International
+Conference on Digital Forensics, January 2010. Available at
+https://hal.inria.fr/hal-01060606 (accessed March 15, 2020).
+7. Scientific Working Group on Digital Evidence, “About Us,” undated. Available at
+https://www.swgde.org/home (accessed March 15, 2020).
+8. Illinois Compiled Statutes, Chapter 225, sec. 447, art. 5-10.
+9. Michigan Compiled Laws, Chapter 338.822.
+10. Oregon Revised Statutes, Chapter 703.401, 703.405, 703.407, 703.411.
+11. Texas Occupations Code Annotated, sec. 1702.104.
+12. North Carolina General Statutes, Chapter 74C, sec. 3(b)(17).
+13. Virginia Code, title 9.1, sec. 140.
+14. American Bar Association, Section of Science & Technology Law, “ABA Adopts
+Resolution Against Private Investigator Licenses for Computer Forensics,”
+September 25, 2008. Available at
+http://cdfs.org/files/Positions/ABA%20Press%20release%20compforensics.pdf
+(accessed March 15, 2020).
+15. Fisher v. United States, 425 U.S. 391 (1976).
+16. U.S. Supreme Court, Federal Rules of Evidence, Rules 701–706, undated.
+Available at
+https://www.uscourts.gov/sites/default/files/federal_rules_of_evidence_-
+_dec_1_2019_0.pdf (accessed March 15, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.17. Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993).
+18. Federal Bureau of Investigation, “Digital Evidence: Standards and Principles,
+Scientific Working Group on Digital Evidence (SWGDE) International
+Organization on Digital Evidence (IOCE), IOCE International Principles,”
+Forensic Science Communications, April 2000, Vol. 2, No. 2. Available at
+https://archives.fbi.gov/archives/about-us/lab/forensic-science-
+communications/fsc/april2000/swgde.htm (accessed March 15, 2020).
+19. Electronic Communications Privacy Act of 1986 (ECPA), Pub. L. No. 99-508,
+100 Stat. 1848, codified at U.S. Code Vol. 18, sec. 2510 (2020).
+20. Electronic Communications Privacy Act of 1986 (ECPA), Pub. L. No. 99-508,
+100 Stat. 1848, codified at U.S. Code Vol. 18, secs. 2510–2523 (2020).
+21. Wiretap statutes, U.S. Code Vol. 18, sec. 2510; U.S. Code Vol. 47, sec. 605
+(2020).
+22. Pen Register and Trap and Trace Statute, U.S. Code Vol. 18, sec. 3121 et seq.
+(2020).
+23. United States v. Heckenkamp, 482 F.3d 1142, 1146 (9th Cir. 2007).
+24. United States v. Al-Marri, 230 F. Supp.2d 535, 541 (S.D.N.Y. 2002).
+25. Riley v. California, 573 U.S. 373 (2014).
+26. Carpenter v. United States, 138 S. Ct. 2206 (2018).
+27. Uniting and Strengthening America by Providing Appropriate Tools Required to
+Intercept and Obstruct Terrorism Act of 2001 (PATRIOT Act), Pub. L. No. 107-
+56, 115 Stat. 272 (Oct. 26, 2001), codified at various sections of the U.S. Code
+(2020).
+28. U.S. Code Vol. 18, sec. 2702(b) (2020).
+29. United States v. Mullins, 992 F.2d 1472 (9th Cir. 1993).
+30. U.S. Code Vol. 18, sec. 2511(2)(i) (2020).
+31. Matt. 7:17-20, The Holy Bible, King James Version. Cambridge Edition: 1769;
+King James Bible Online, 2014. Available at
+http://www.kingjamesbibleonline.org/ (accessed March 15, 2020).
+32. Silverthorne Lumber Co. v. United States, 251 U.S. 385 (1920).
+33. Nardone v. United States, 308 U.S. 338 (1939).
+34. Federal Rules of Evidence, Rule 401.
+35. Federal Rules of Evidence, Rule 901.
+36. The Sedona Conference, “The Sedona Principles, Third Edition: Best Practices,
+Recommendations & Principles for Addressing Electronic Document
+Production,” 19 SEDONA CONF. J. 1 (2018).
+37. Federal Rules of Evidence, Rule 801.
+38. See United States v. Washington, 498 F.3d 225, 230-31 (4th Cir. 2007) (holding
+that printed results from a computerized test were not the statement of a person
+and are not excluded as hearsay); United States v. Hamilton, 413 F.3d 1138,
+1142-43 (10th Cir. 2005) (holding that computer-generated header information is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.39.
+40.
+41.
+42.
+not hearsay).
+Federal Rules of Evidence, Rule 803(6).
+Federal Rules of Evidence, Rule 1002.
+Federal Rules of Evidence, Rule 1001(3).
+Federal Rules of Evidence, Rule 1001(3), Advisory Committee Notes (1972).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:35.

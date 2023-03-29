@@ -1,0 +1,690 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+References
+Albion Research Ltd., “Risky Thinking—On Risk Assessment, Risk Management, and Business Continuity,”
+2010. http://www.riskythinking.com/ (accessed May 4, 2010).
+American Bankers Association, “Credit Card Monitor,” February 2020. https://www.aba.com/-
+/media/documents/reports-and-surveys/2019-q3-credit-card-monitor.pdf?
+rev=9c1664304c9149a8a08e6d146791126f (accessed April 29, 2020).
+American Bankers Association, “Digital Banking Infographic,” November 12, 2019. https://www.aba.com/news-
+research/research-analysis/digital-banking (accessed April 29, 2020).
+American Bar Association, “Report to the House of Delegates, Section of Science and Technology Law,” July 16,
+2008. http://www.abanet.org/leadership/2008/annual/recommendations/ThreeHundredOne.doc (accessed
+May 11, 2010).
+American Bar Association, Section of Science & Technology Law, “ABA Adopts Resolution Against Private
+Investigator Licenses for Computer Forensics,” September 25, 2008.
+http://cdfs.org/files/Positions/ABA%20Press%20release%20compforensics.pdf (accessed March 15, 2020).
+American Civil Liberties Union, “Court Orders Missouri School District to Stop Censoring LGBT Websites,”
+February 15, 2012. https://www.aclu.org/press-releases/court-orders-missouri-school-district-stop-censoring-
+lgbt-websites (accessed March 24, 2020).
+American Institute of Certified Public Accountants, “System and Organization Controls: SOC Suite of Services,”
+No date. https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome.html (accessed April 26,
+2020).
+American Law Institute, “ALI Overview,” undated. https://www.ali.org/about-ali/ (accessed January 26, 2020).
+American Law Institute and the National Conference of Commissioners on Uniform State Laws, Uniform
+Commercial Code, sec. 2-201 (2004). http://www.law.cornell.edu/ucc/ (accessed January 26, 2020).
+American Management Association, “The Latest on Workplace Monitoring and Surveillance,” April 8, 2019.
+https://www.amanet.org/articles/the-latest-on-workplace-monitoring-and-surveillance/ (accessed February 21,
+2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.Anderson, Ross. Security Engineering: A Guide to Building Dependable Distributed Systems. New York: John
+Wiley & Sons, Inc., 2001.
+BBC News, “Ukraine Power Cut Was Cyber Attack,” January 11, 2017. https://www.bbc.com/news/technology-
+38573074 (accessed May 16, 2020).
+Board of Governors of the Federal Reserve System, “Structure of the Federal Reserve System,” March 3, 2017.
+https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm (accessed April 29, 2020).
+Böhme, Rainer, and Stefan Köpsell, “Trained to Accept? A Field Experiment on Consent Dialogues,” CHI 2010,
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (2010): 2403–2406.
+Bonfield, Lloyd. American Law and the American Legal System. St. Paul, MN: Thomson/West, 2006.
+Brinson, J. Dianne, et al. Analyzing E-Commerce and Internet Law. Upper Saddle River, NJ: Prentice-Hall, Inc.,
+2001.
+Calder, Alan, and Steve Watkins. International IT Governance: An Executive Guide to ISO 17799/ISO 27001.
+London: Kogan Page Ltd., 2006.
+Cannon, J. C. Privacy: What Developers and IT Professionals Should Know. Boston, MA: Addison-Wesley, 2005.
+Carter, Patricia I. HIPAA Compliance Handbook, 2019. Frederick, MD: Aspen Publishers, 2019.
+CBS News, “Cancer Patient Catches ID Thief,” November 6, 2004. https://www.cbsnews.com/news/cancer-
+patient-catches-id-thief/ (accessed March 1, 2020).
+CERT Coordination Center. Handbook for Computer Security Incident Response Teams (CSIRTs). 2nd ed.
+Pittsburgh, PA: Software Engineering Institute, April 2003. https://resources.sei.cmu.edu/library/asset-
+view.cfm?assetid=6305 (accessed August 8, 2010).
+CFA Institute, “IFRS: International Financial Reporting Standards,” Undated.
+https://www.cfainstitute.org/en/advocacy/issues/international-finance-reporting-stds (accessed April 18, 2020).
+CNBC, “Consumer DNA Testing Has Hit a Lull—Here’s How It Could Capture the Next Wave of Users,” August
+25, 2019. https://www.cnbc.com/2019/08/25/dna-tests-from-companies-like-23andme-ancestry-see-sales-
+slowdown.html (accessed March 1, 2020).
+CNBC, “Ex-Coca-Cola Worker Sentenced to 8 Years in Trade Secrets Case,” May 2007.
+https://www.cnbc.com/id/18824080 (accessed January 19, 2020).
+CNET, “ChoicePoint Data Theft Widens to 145,000 People,” February 18, 2005.
+https://www.cnet.com/news/choicepoint-data-theft-widens-to-145000-people/ (accessed April 27, 2020).
+CNN, “401(k) Investors Sue Enron,” November 26, 2001.
+http://money.cnn.com/2001/11/26/401k/q_retire_enron_re/ (accessed April 11, 2020).
+CNN, “America’s Economy Just Had Its Worst Quarter Since 2008,” April 29, 2020.
+https://www.cnn.com/2020/04/29/economy/us-economy-downturn-coronavirus/index.html (accessed April 29,
+2020).
+CNN, “The Guiltiest Guys in the Room,” July 5, 2006.
+http://money.cnn.com/2006/05/29/news/enron_guiltyest/index.htm (accessed April 11, 2020).
+CNN.com, “Couple: Internet Gaming Addiction Led to Baby’s Death,” April 2, 2010.
+https://www.cnn.com/2010/WORLD/asiapcf/04/01/korea.parents.starved.baby/ (accessed May 1, 2020).
+CNN.com, “Girl Costs Father $80,000 With ‘SUCK IT’ Facebook Post,” March 4, 2014.
+http://www.cnn.com/2014/03/02/us/facebook-post-costs-father/ (accessed March 8, 2014).
+Cohen, Cynthia F., and Murray E. Cohen, “On-Duty and Off-Duty: Employee Right to Privacy and Employer’s
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.Right to Control in the Private Sector,” Employer Responsibility and Rights Journal 19 (2007): 235.
+College ACB, “College ACB Press Release,” February 5, 2009.
+http://collegeacb.blogspot.com/2009/02/collegeacb-press-release.html (accessed May 1, 2020).
+Committee of National Security Systems, “Policy No. 22, Cybersecurity Risk Management,” August 2016.
+http://www.cnss.gov/cnss/issuances/Policies.cfm (accessed May 16, 2020).
+Committee of Sponsoring Organizations of the Treadway Commission, “Guidance on Internal Control,” No date.
+http://www.coso.org/IC.htm (accessed on April 26, 2020).
+Committee on Oversight and Government Reform, “Federal Information Security: Current Challenges and Future
+Policy Considerations,” March 24, 2010. http://www.gpo.gov/fdsys/pkg/CHRG-111hhrg65549/html/CHRG-
+111hhrg65549.htm (accessed May 16, 2020).
+Congressional Research Service, “Computer Security: A Summary of Selected Federal Laws, Executive Orders,
+and Presidential Directives,” April 16, 2004. http://fas.org/irp/crs/RL32357.pdf (accessed April 24, 2010).
+Congressional Research Service, “Enron: A Select Chronology of Congressional, Corporate, and Government
+Activities,” March 2003. http://www.policyarchive.org/handle/10207/1392 (accessed April 11, 2020).
+Consumer Financial Protection Bureau, “Creating the Consumer Bureau,” Undated.
+https://www.consumerfinance.gov/about-us/the-bureau/creatingthebureau/ (accessed April 29, 2020).
+Council of Europe, Treaty Office, “Convention of Cybercrime Signatories,” undated.
+https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/185 (accessed May 1, 2020).
+Court Listener, “Docket for Vernon Unsworth v. Elon Musk (2:18-cv-08048),” March 11, 2020.
+https://www.courtlistener.com/docket/7887513/vernon-unsworth-v-elon-musk/ (accessed May 1, 2020).
+Deloitte, “2017 Global Mobile Consumer Survey: US Edition,” 2017.
+https://www2.deloitte.com/content/dam/Deloitte/us/Documents/technology-media-telecommunications/us-tmt-
+2017-global-mobile-consumer-survey-executive-summary.pdf (accessed January 26, 2020).
+Dlabay, L., and J. L. Burrow, Business Finance. 2007, Cengage Learning, p. 339.
+Duranske, Benjamin Tyson. Virtual Law: Navigating the Legal Landscape of Virtual Worlds. Chicago: American
+Bar Association, 2008.
+Easttom, C., System Forensics, Investigation, and Response. 2nd ed. Burlington, MA: Jones & Bartlett Learning,
+2013, p 3.
+European Union, “Regulation on the Protection of Natural Persons With Regard to the Processing of Personal
+Data and on the Free Movement of Such Data, and Repealing Directive 95/46/EC (Data Protection Directive),
+2016/679.” April 14, 2016.
+Federal Bureau of Investigation, “Business E-Mail Compromise: The 12 Billion Dollar Scam,” July 2018.
+https://www.ic3.gov/media/2018/180712.aspx (accessed January 20, 2020).
+Federal Communications Commission, “Children’s Internet Protection Act (CIPA),” undated.
+https://www.fcc.gov/consumers/guides/childrens-internet-protection-act (accessed August 8, 2020).
+Federal Deposit Insurance Corporation, “Who Is the FDIC?” May 3, 2017.
+https://www.fdic.gov/about/learn/symbol/index.html (accessed April 29, 2020).
+Federal Financial Institutions Examination Council, “Annual Report 2019,” March 30, 2020.
+https://www.ffiec.gov/PDF/annrpt19.pdf (accessed April 29, 2020).
+Federal Risk and Authorization Management Program, “FedRAMP Security Assessment Framework,” November
+15, 2017.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.https://www.fedramp.gov/assets/resources/documents/FedRAMP_Security_Assessment_Framework.pdf
+(accessed May 16, 2020).
+Federal Trade Commission, “About the FTC,” Undated. https://www.ftc.gov/about-ftc (accessed April 29, 2020).
+Federal Trade Commission, “Children’s Online Privacy Protection Act of 1998,” undated.
+http://www.ftc.gov/ogc/coppa1.htm (accessed March 5, 2010).
+Federal Trade Commission, “Children’s Online Privacy Protection Rule: A Six-Step Compliance Plan for Your
+Business,” June 2017. https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-
+protection-rule-six-step-compliance (accessed March 24, 2020).
+Federal Trade Commission, “Children’s Privacy,” undated. https://www.ftc.gov/tips-advice/business-
+center/privacy-and-security/children%27s-privacy (accessed March 1, 2020).
+Federal Trade Commission, “ChoicePoint Settles Data Security Breach Charges; to Pay $10 Million in Civil
+Penalties, $5 Million for Consumer Redress,” January 26, 2006. https://www.ftc.gov/news-events/press-
+releases/2006/01/choicepoint-settles-data-security-breach-charges-pay-10-million (accessed April 27, 2020).
+Federal Trade Commission, “Complying With COPPA: Frequently Asked Questions,” March 2015.
+https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions
+(accessed February 1, 2020).
+Federal Trade Commission, “Consumer Data Broker ChoicePoint Failed to Protect Consumers’ Personal Data,
+Left Key Electronic Monitoring Tool Turned Off for Four Months,” October 19, 2009. https://www.ftc.gov/news-
+events/press-releases/2009/10/consumer-data-broker-choicepoint-failed-protect-consumers (accessed April
+27, 2020).
+Federal Trade Commission, “Federal Trade Commission, Consumer Financial Protection Bureau Pledge to Work
+Together to Protect Consumers,” January 23, 2012. https://www.ftc.gov/news-events/press-
+releases/2012/01/federal-trade-commission-consumer-financial-protection-bureau (accessed April 29, 2020).
+Federal Trade Commission, “Fighting Identity Theft With the Red Flags Rule, A How-To Guide for Business,” May
+2013. https://www.ftc.gov/tips-advice/business-center/guidance/fighting-identity-theft-red-flags-rule-how-
+guide-business (accessed August 8, 2020).
+Federal Trade Commission, “Google and YouTube Will Pay Record $170 Million for Alleged Violations of
+Children’s Privacy Law,” September 4, 2019. https://www.ftc.gov/news-events/press-releases/2019/09/google-
+youtube-will-pay-record-170-million-alleged-violations (accessed March 24, 2020).
+Federal Trade Commission, “Privacy and Data Security Update 2019,” February 25, 2020.
+https://www.ftc.gov/news-events/press-releases/2020/02/ftc-releases-2019-privacy-data-security-update
+(accessed May 1, 2020).
+Federal Trade Commission, Privacy of Consumer Financial Information (“Financial Privacy Rule”), Code of
+Federal Regulations, Title 16, sec. 313, May 24, 2000.
+Federal Trade Commission, Standards for Insuring the Security, Confidentiality, Integrity and Protection of
+Customer Records and Information (“Safeguards Rule”), Code of Federal Regulations, Title 16, sec. 314, May
+23, 2002.
+Federal Trade Commission, “Young Investor Website Settles FTC Charges,” May 6, 1999.
+https://www.ftc.gov/news-events/press-releases/1999/05/young-investor-website-settles-ftc-charges
+(accessed August 8, 2020).
+Feinman, Jay M. Law 101: Everything You Need to Know About the American Legal System. New York: Oxford
+University Press, 2006.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.FERPA SHERPA, “State Student Privacy Laws,” Last updated 2019. https://ferpasherpa.org/state-laws/
+(accessed March 24, 2020).
+Ferrara, Gerald R., et al. Cyberlaw: Your Rights in Cyberspace. Cincinnati, OH: Thomson Learning, 2001.
+Forbes, “America’s Largest Private Companies,” December 2019. https://www.forbes.com/largest-private-
+companies/list/#tab:rank (accessed April 11, 2020).
+Fortune, “The World’s Most Admired Companies,” October 2, 2000.
+http://money.cnn.com/magazines/fortune/fortunearchive/2000/10/02/288448/index.htm (accessed April 11,
+2020).
+Gallegos, Frederick, “Computer Forensics: An Overview,” Information Systems Control Journal 6 (2005): 16–19.
+Gartner, “Gartner Forecasts Worldwide Public Cloud Revenue to Grow 17% in 2020,” November 13, 2019.
+https://www.gartner.com/en/newsroom/press-releases/2019-11-13-gartner-forecasts-worldwide-public-cloud-
+revenue-to-grow-17-percent-in-2020 (accessed January 26, 2020).
+Gartner, “The Future of Employee Monitoring,” May 3, 2019. https://www.gartner.com/smarterwithgartner/the-
+future-of-employee-monitoring/ (accessed April 28, 2020).
+Google, “Content Delistings Due to Copyright,” Undated.
+https://transparencyreport.google.com/copyright/overview?hl=en (accessed April 30, 2020).
+Grama, Joanna, and Scott Ksander, “Recent Indiana Legislation Hopes to Stem Release of Personally Identifying
+Information,” Res Gestae 4 (December 2006): 50; reprinted in Indiana Civil Litigation Review, Vol. III, No. 2,
+Fall–Winter (2006).
+Happ, Christian, André Melzer, and Georges Steffgen, "Trick With Treat—Reciprocity Increases the Willingness
+to Communicate Personal Data," 2016. Computers in Human Behavior.
+https://www.researchgate.net/publication/298187172_Trick_with_Treat_-
+_Reciprocity_Increases_the_Willingness_to_Communicate_Personal_Data (accessed February 20, 2020).
+Harshbarger, William G., Jr., information technology security engineer, Purdue University. Interview by author.
+West Lafayette, Indiana, April 14, 2010.
+HathiTrust, “Statistics Information,” Updated daily. http://www.hathitrust.org/statistics_info (accessed April 30,
+2020).
+Hazelwood, Steven D., and Sarah Koon-Magnin, “Cyber Stalking and Cyber Harassment Legislation in the
+United States: A Qualitative Analysis,” International Journal of Cyber Criminology, July–December 2013, Vol 7
+(2): 155–168.
+Hirsch, Eric Donald, Joseph F. Kett, and James S. Trefil. The New Dictionary of Cultural Literacy. 3rd ed. New
+York: Houghton Mifflin Co., 2002.
+Holt, Thomas J., Adam M. Bossler, and Kathryn C. Seigfried-Spellar, Cybercrime and Digital Forensics: An
+Introduction. 2017.
+House of Representatives Committee on Oversight and Government Reform, “Federal Information Security:
+Current Challenges and Future Policy Considerations,” March 24, 2010.
+http://oversight.house.gov/index.php?option=com_content&task=view&id=4855&Itemid=28 (accessed April
+21, 2010).
+Houston Business Journal, “Enron Delists Stock as Financial Woes Continue,” January 18, 2002.
+http://www.bizjournals.com/houston/stories/2002/01/21/story3.html (accessed April 11, 2020).
+Houston Chronicle, “Jury Hears Ex-Enron CEO Curse in Wall Street Call,” February 2, 2006.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.https://www.chron.com/business/enron/article/Jury-hears-ex-Enron-CEO-curse-in-Wall-Street-call-
+1637608.php (accessed April 11, 2020).
+Identity Theft Resource Center, “End of Year Data Breach Report,” January 8, 2020.
+https://www.idtheftcenter.org/wp-content/uploads/2020/01/01.28.2020_ITRC_2019-End-of-Year-Data-Breach-
+Report_FINAL_Highres-Appendix.pdf (accessed August 8, 2020).
+Information Week, “War-Driving Pornographic Spammer Escapes Jail Time,” August 1, 2007.
+https://www.informationweek.com/war-driving-pornographic-spammer-escapes-jail-time/d/d-id/1057666?
+(accessed May 1, 2020).
+InfoWorld, “States Settle With ChoicePoint Over 2004 Breach,” May 31, 2007.
+https://www.infoworld.com/article/2662493/states-settle-with-choicepoint-over-2004-breach.html (accessed
+April 27, 2020).
+International Association of Computer Investigative Specialists, “About IACIS,” undated.
+https://www.iacis.com/about/ (accessed March 15, 2020).
+International Organization for Standardization, “ISO/IEC 27001:2013—Information Technology —Security
+Techniques—Information Security Management Systems—Requirements,” 2013.
+https://www.iso.org/standard/54534.html (accessed August 8, 2020).
+International Organization for Standardization, “ISO/IEC 27002:2013, Information Technology —Security
+Techniques—Code of Practice for Information Security Management,” 2013.
+https://www.iso.org/standard/54533.html (accessed August 8, 2020).
+Internet Crime Complaint Center, “2019 Annual Internet Crime Report,” 2019.
+https://pdf.ic3.gov/2019_IC3Report.pdf (accessed May 1, 2020).
+Internet Free Expression Alliance, “TITLE XVII—Children’s Internet Protection,” undated. http://ifea.net/cipa.pdf
+(accessed March 14, 2010).
+Internet World Stats, “Internet Usage Statistics: World Internet Users and Population Stats,” March 3, 2020.
+http://www.internetworldstats.com/stats.htm (accessed April 30, 2020)
+ISACA, “COBIT 5: A Business Framework for the Governance and Management of Enterprise IT,” 2012.
+http://www.isaca.org/COBIT/Pages/COBIT-5-Framework-product-page.aspx (accessed December 30, 2013).
+ISACA, “COBIT 2019: Introduction and Methodology,” 2018. https://www.isaca.org/resources.
+ISACA, Control Objectives for Sarbanes-Oxley: Using COBIT ® 5 in the Design and Implementation of Internal
+Controls Over Financial Reporting. 3rd ed. 2014. https://www.isaca.org/bookstore/cobit-5/psox3 (accessed
+August 8, 2020).
+Javelin Strategy and Research, “2013 Identity Fraud Report: Data Breaches Becoming a Treasure Trove for
+Fraudsters,” undated. https://www.javelinstrategy.com/brochure/276 (accessed November 24, 2013).
+Kaspersky, “Kaspersky Security Bulletin 2019: Statistics,” December 2019. https://securelist.com/kaspersky-
+security-bulletin-2019-statistics/95475/ (accessed March 15, 2020).
+Kesan, Jay, and Carol M. Hayes. Cybersecurity and Privacy Law in a Nutshell (Nutshells). St. Paul, MN: West
+Academic Publishing, 2019.
+Kidd, Donnie L., and William H. Daughtrey, Jr., “Adapting Contract Law to Accommodate Electronic Contracts:
+Overview and Suggestions,” Rutgers Computer and Technology Law Journal 26 (2000): 215.
+Kraft, Betsy Harvey. Sensational Trials of the 20th Century. New York: Scholastic Press, 1998.
+Kroger, John R. Convictions: A Prosecutor’s Battles Against Mafia Killers, Drug Kingpins, and Enron Thieves.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.New York: Farrar, Straus, and Giroux, 2008.
+Kroger, John R., “Enron, Fraud, and Securities Reform,” Colorado Law Review, Vol. 76, Issue 1 (2005): 57.
+Ksander, Scott L., chief information security officer, Purdue University. Interview by author. West Lafayette,
+Indiana, April 14, 2010.
+LaFave, Wayne, and Jerold H. Israel. Criminal Procedure. 2nd ed. St. Paul, MN: West Publishing Co., 1992.
+Landoll, Douglas J. The Security Risk Assessment Handbook. Boca Raton, FL: Auerbach Publications, 2006.
+Lonardo, Thomas, Doug White, and Alan Rea, “To License or Not to License Revisited: An Examination of State
+Statutes Regarding Private Investigators and Digital Examiners,” The Journal of Digital Forensics, Security
+and Law 4, no. 3 (2009): 35–56. Reprint. http://www.jdfsl.org/subscriptions/JDFSL-V4N3-Lonardo.pdf
+(accessed May 10, 2010).
+Mastercard, “What Merchants Need to Know About Securing Transactions,” Undated.
+https://www.mastercard.ca/en-ca/merchants/safety-security/security-recommendations/merchants-need-to-
+know.html (accessed April 29, 2020).
+Matt. 7:17-20, The Holy Bible, King James Version. Cambridge Edition: 1769; King James Bible Online, 2014.
+http://www.kingjamesbibleonline.org/ (accessed March 15, 2020).
+McCafferty, Anne, “Internet Contracting and E-Commerce Disputes: International and United States Personal
+Jurisdiction,” The Global Business Law Review 2 (2011): 95.
+McGraw, Gary, and Ed Felten, Securing Java. New York, NY: John Wiley & Sons, Inc., 1999. Also available at
+http://www.securingjava.com/ (accessed February 20, 2020). View Chapter 1, part 7.
+Microsoft Corporation, “Security Risk Management Guide,” March 16, 2006. http://technet.microsoft.com/en-
+us/library/cc163143.aspx (accessed May 1, 2010).
+Miller, Arthur R., and Michael H. Davis. Intellectual Property: Patents, Trademarks, and Copyright. St. Paul, MN:
+West Publishing Co., 2018.
+Missouri Court of Appeals, “Opinion: Major v. McCallister,” No. CD29871, December 23, 2009.
+https://www.courts.mo.gov/file.jsp?id=36294 (accessed January 26, 2020).
+Moeller, Robert R. Sarbanes-Oxley Internal Controls. Hoboken, NJ: John Wiley & Sons, Inc., 2008.
+National Conference of State Legislatures, “Data Disposal Laws,” January 4, 2020.
+https://www.ncsl.org/research/telecommunications-and-information-technology/data-disposal-laws.aspx
+(accessed April 27, 2020).
+National Conference of State Legislatures, “Privacy Protections in State Constitutions,” November 7, 2018.
+https://www.ncsl.org/research/telecommunications-and-information-technology/privacy-protections-in-state-
+constitutions.aspx (accessed April 28, 2020).
+National Conference of State Legislatures, “Security Breach Notification Laws,” March 8, 2020.
+https://www.ncsl.org/research/telecommunications-and-information-technology/security-breach-notification-
+laws.aspx (accessed April 27, 2020).
+National Conference of State Legislatures, “State Social Media Privacy Laws,” May 22, 2019.
+https://www.ncsl.org/research/telecommunications-and-information-technology/state-laws-prohibiting-access-
+to-social-media-usernames-and-passwords.aspx (accessed April 27, 2020).
+National Conference of State Legislatures, “State Social Media Privacy Laws,” October 30, 2018.
+https://www.ncsl.org/research/telecommunications-and-information-technology/state-spyware-laws.aspx
+(accessed April 27, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.National Credit Union Association, “About NCUA,” Undated. https://www.ncua.gov/about-ncua (accessed April
+29, 2020).
+National Institute of Standards and Technology, “FIPS Pub 199, Standards for Security Categorization of Federal
+Information and Information Systems,” February 2004. https://csrc.nist.gov/publications/detail/fips/199/final
+(accessed May 16, 2020).
+National Institute of Standards and Technology, “FIPS Pub 200, Minimum Security Requirements for Federal
+Information and Information Systems,” March 2006. https://csrc.nist.gov/publications/detail/fips/200/final
+(accessed May 16, 2020).
+National Institute of Standards and Technology, “FISMA Detailed Overview,” April 13, 2010.
+http://csrc.nist.gov/groups/SMA/fisma/overview.html (accessed April 17, 2010).
+National Institute of Standards and Technology, “Procedures for Developing FIPS (Federal Information
+Processing Standards) Publications,” May 21, 2018. https://www.nist.gov/itl/procedures-developing-fips-
+federal-information-processing-standards-publications (accessed May 16, 2020).
+National Institute of Standards and Technology, “SP 800-37, Revision 1, Risk Management Framework for
+Information Systems and Organizations,” December 2018.
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf (accessed May 16, 2020).
+National Institute of Standards and Technology, “SP 800-53, Revision 4, Security and Privacy Controls for
+Federal Information Systems and Organizations,” April 2013. https://csrc.nist.gov/publications/detail/sp/800-
+53/rev-4/final (accessed May 16, 2020).
+National Institute of Standards and Technology, “SP 800-53A, Assessing Security and Privacy Controls in
+Federal Information Systems and Organizations: Building Effective Assessment Plans,” December 2014.
+https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final (accessed May 16, 2020).
+National Institute of Standards and Technology, “SP 800-122, Guide to Protecting the Confidentiality of
+Personally Identifiable Information (PII),” April 2010. https://csrc.nist.gov/publications/detail/sp/800-122/final
+(accessed May 16, 2020).
+National Institute of Standards and Technology, “SP 800-30 (Rev. 1): Guide for Conducting Risk Assessments,”
+September 2012. http://csrc.nist.gov/publications/nistpubs/800-30-rev1/sp800_30_r1.pdf (accessed March
+31, 2014).
+National Institute of Standards and Technology, “SP 800-34 (Rev. 1): Contingency Planning Guide for Federal
+Information Systems,” May 2010. http://csrc.nist.gov/publications/nistpubs/800-34-rev1/sp800-34-rev1_errata-
+Nov11-2010.pdf (accessed March 31, 2014).
+National Institute of Standards and Technology, “SP 800-39: Managing Information Security Risk: Organization,
+Mission, and Information System View,” March 2011. http://csrc.nist.gov/publications/nistpubs/800-39/SP800-
+39-final.pdf (accessed March 31, 2014).
+National Institute of Standards and Technology, “SP 800-53 (Rev. 4): Recommended Security Controls for
+Federal Information Systems and Organizations,” April 2013. https://csrc.nist.gov/publications/detail/sp/800-
+53/rev-4/final (accessed August 8, 2020).
+National Institute of Standards and Technology, “SP 800-61 (Rev. 2): Computer Security Incident Handling
+Guide,” August 2012. https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final (accessed February 23,
+2020).
+National Library of Medicine, “Greek Medicine: The Hippocratic Oath,” Translated by Michael North, 2002.
+http://www.nlm.nih.gov/hmd/greek/greek_oath.html (accessed March 1, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.National Oceanic and Atmospheric Administration (NOAA), “Tornado Alley,” undated.
+https://www.ncdc.noaa.gov/climate-information/extreme-events/us-tornado-climatology/tornado-alley
+(accessed February 23, 2020).
+National Retail Federation, “Thanksgiving Weekend Draws Nearly 190 Million Shoppers, Spending Up 16
+Percent,” December 3, 2019. https://nrf.com/media-center/press-releases/thanksgiving-draws-nearly-190-
+million-shoppers (accessed February 21, 2020).
+National Vulnerability Database, NVD Dashboard. https://nvd.nist.gov/general/nvd-dashboard (accessed January
+19, 2020).
+New Vantage Partners, “Big Data and AI Executive Survey 2019,” January 2019. http://newvantage.com/wp-
+content/uploads/2018/12/Big-Data-Executive-Survey-2019-Findings-Updated-010219-1.pdf (accessed
+February 17, 2020).
+New York Times, “An Implosion on Wall Street,” November 29, 2001.
+http://www.nytimes.com/2001/11/29/opinion/an-implosion-on-wall-street.html (accessed April 11, 2020).
+New York Times, “Bush Signs Bill Aimed at Fraud in Corporations,” July 30, 2002.
+https://www.nytimes.com/2002/07/31/business/corporate-conduct-the-president-bush-signs-bill-aimed-at-
+fraud-in-corporations.html (accessed April 11, 2020).
+New York Times, “Jeffrey Skilling, Former Enron Chief, Released After 12 Years in Prison,” February 22, 2019.
+https://www.nytimes.com/2019/02/22/business/enron-ceo-skilling-scandal.html (accessed April 11, 2020).
+New York Times, “The World Once Laughed at North Korean Cyberpower. No More,” October 15, 2017.
+https://www.nytimes.com/2017/10/15/world/asia/north-korea-hacking-cyber-sony.html (accessed May 16,
+2020).
+New York Times Magazine, “The Great Cyberheist,” November 10, 2020.
+https://www.nytimes.com/2010/11/14/magazine/14Hacker-t.html (accessed May 1, 2020).
+Obama, Barack, “Remarks by the President on Securing Our Nation’s Cyber Infrastructure,” May 29, 2009.
+https://obamawhitehouse.archives.gov/the-press-office/remarks-president-securing-our-nations-cyber-
+infrastructure (accessed April 21, 2010).
+Office of the Comptroller of the Currency, “Who We Are,” Undated. https://www.occ.treas.gov/about/who-we-
+are/index-who-we-are.html (accessed April 29, 2020).
+Organization for Economic Cooperation and Development, “OECD Guidelines on the Protection of Privacy and
+Transborder Flows of Personal Data,” September 1980.
+http://www.oecd.org/document/18/0,3343,en_2649_34255_1815186_1_1_1_1,00.html (accessed February 6,
+2010).
+Oxford English Dictionary, “New Words List June 2006,” June 2006. https://public.oed.com/updates/new-words-
+list-june-2006/ (accessed April 28, 2020).
+Panetta, Leon E., “Remarks by Secretary Panetta on Cybersecurity to the Business Executives for National
+Security, New York City” (New York, NY: Oct. 11, 2012). http://www.gao.gov/assets/660/652170.pdf (accessed
+May 16, 2020).
+Patrick, Walter F., “Creating an Information Systems Security Policy” (SANS Institute, 2001).
+http://www.sans.org/reading_room/whitepapers/policyissues/creating_an_information_systems_security_policy_534
+(accessed January 21, 2010).
+PC World, “ChoicePoint Details Data Breach Lessons,” June 11, 2007.
+https://www.pcworld.com/article/132795/article.html (accessed April 27, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.PCI Security Standards Council, “About Us,” Undated. https://www.pcisecuritystandards.org/about_us/ (accessed
+April 29, 2020).
+PCI Security Standards Council, “PCI Data Security Standard, v 3.2.1,” May 2018.
+https://www.pcisecuritystandards.org/document_library (accessed April 29, 2020).
+PCI Security Standards Council, Payment Card Industry (PCI) Data Security Standard: Requirements and
+Security Assessment Procedures, Version 3.2.1, May 2018 (accessed May 1, 2020). The complete list of PCI
+DSS requirements is : https://www.pcisecuritystandards.org/index.htm.
+Peltier, Thomas R. Information Security Risk Analysis. Boca Raton, FL: Taylor & Francis Group, LLC, 2005.
+Pew Research Center, “Mobile Technology and Home Broadband 2019,” June 2019.
+https://www.pewresearch.org/internet/2019/06/13/mobile-technology-and-home-broadband-2019/ (accessed
+February 18, 2020).
+Pew Research Center, “Only 2% of Federal Criminal Defendants Go to Trial, and Most Who Do Are Found
+Guilty,” June 11, 2019. https://www.pewresearch.org/fact-tank/2019/06/11/only-2-of-federal-criminal-
+defendants-go-to-trial-and-most-who-do-are-found-guilty/ (accessed May 1, 2020).
+Pollitt, M., “A History of Digital Forensics,” 6th IFIP WG 11.9 International Conference on Digital Forensics,
+January 2010. https://hal.inria.fr/hal-01060606 (accessed March 15, 2020).
+Ponemon Institute, “The Cost of Cybercrime,” 2019. https://www.accenture.com/_acnmedia/pdf-96/accenture-
+2019-cost-of-cybercrime-study-final.pdf#zoom=50 (accessed April 29, 2020).
+Ponemon Institute, “2019 Cost of Data Breach Study: Global Analysis,” undated.
+https://www.ibm.com/security/data-breach (accessed February 17, 2020).
+Powers, William C., “Special Investigative Committee of the Board of Directors of Enron Corp.,” February 1,
+2002. http://i.cnn.net/cnn/2002/LAW/02/02/enron.report/powers.report.pdf (accessed April 11, 2020).
+Privacy Rights Clearinghouse, “Oversight Hearing on Financial Privacy and the Gramm-Leach-Bliley Financial
+Services Modernization Act: Testimony for U.S. Senate Committee on Banking, Housing and Urban Affairs,”
+September 20, 2002. https://privacyrights.org/resources/oversight-hearing-financial-privacy-and-gramm-
+leach-bliley-financial-services (accessed April 29, 2020).
+Prosser, William L., et al. Prosser and Keeton on the Law of Torts. 5th ed. St. Paul, MN: West Pub. Co., 1984.
+Public Company Accounting Oversight Board, “AU Section 230: Due Professional Care in the Performance of
+Work,” June 12, 2007 amendments. http://pcaobus.org/Standards/Auditing/Pages/AU230.aspx#ps-
+pcaob_8b4d2389-b14e-4358-a4b2-93e6360eb378 (accessed April 26, 2020).
+Public Company Accounting Oversight Board, Staff Preview of 2018 Inspection Observations, May 6, 2019.
+https://pcaobus.org/Inspections/Documents/Staff-Preview-2018-Inspection-Observations.pdf (accessed April
+18, 2020).
+Public Company Accounting Oversight Board, “2019 PCAOB Annual Report,” March 24, 2020.
+https://pcaobus.org/About/Administration/Documents/Annual%20Reports/2019-PCAOB-Annual-Report.pdf
+(accessed April 18, 2020).
+Red Flag Program Clarification Act of 2010, 15 U.S.C. 1681m(e)(4), Pub. L. 111-319, 124 Stat. 3457 (Dec. 18,
+2010).
+Regulations.gov, “Proposed Amendments to the Federal Rules of Civil Procedure,” undated.
+http://www.regulations.gov/#!docketDetail;D=USC-RULES-CV-2013-0002 (accessed May 1, 2020).
+Rideout, Victoria, and Michael B. Robb. The Common Sense Census: Media Use by Tweens and Teens, 2019.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.San Francisco, CA: Common Sense Media, 2019.
+Rosenzweig, Paul. Cyber Warfare: How Conflicts in Cyberspace Are Challenging America and Changing the
+World. Santa Barbara, CA: ABC-CLIO, LLC, 2013.
+Rudolph, Katie. Personal communication and unpublished manuscript on computer forensics. West Lafayette,
+Indiana, May 10, 2010.
+Rustad, Michael L. Internet Law. St. Paul, MN: Thomson Reuters, 2009, p 143.
+Scheb, John M., and John M. Scheb II. An Introduction to the American Legal System. Albany. NY: Delmar, 2002.
+Scientific Working Group on Digital Evidence, “About Us,” undated. https://www.swgde.org/ (accessed March 15,
+2020).
+Secureworks, “A Famous Data Security Breach & PCI Case Study: Four Years Later,” October 25, 2012.
+https://www.secureworks.com/blog/general-pci-compliance-data-security-case-study-heartland (accessed
+April 29, 2020).
+The Sedona Conference, “The Sedona Principles, Third Edition: Best Practices, Recommendations & Principles
+for Addressing Electronic Document Production,” 19 SEDONA CONF. J. 1 (2018).
+Solove, Daniel J., and Paul M. Schwartz. Privacy, Information, and Technology. 3rd ed. New York, NY: CCH
+Incorporated, 2011.
+Soma, John T., and Stephen D. Rynerson. Privacy Law. St. Paul, MN: Thomson/West, 2008.
+Sprague, Robert, and Corey Ciocchetti. “Preserving Identities: Protecting Personal Identifying Information
+Through Enhanced Privacy Policies and Laws,” Albany Law Journal of Science and Technology 19 (2009):
+91.
+Statista, “Facebook – Statistics & Facts,” November 20, 2019. https://www.statista.com/topics/751/facebook/
+(accessed January 26, 2020).
+Statista, “Proposed Budget of the U.S. Government for Cyber Security in FY 2017 to 2021,” February 2020.
+https://www.statista.com/statistics/675399/us-government-spending-cyber-security/ (accessed May 16, 2020).
+Statista, “Twitter – Statistics & Facts,” February 22, 2019. https://www.statista.com/topics/737/twitter/ (accessed
+January 26, 2020).
+Statista Digital Market Outlook, “Retail E-Commerce Sales in the United States From 2017 to 2023,” February
+2019. https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/ (accessed January 26,
+2020).
+Stim, Richard. Intellectual Property: Patents, Trademarks, and Copyrights. Albany, NY: Delmar, 2001.
+Stopbullying.gov, “What Is Cyberbullying?” May 30, 2019. https://www.stopbullying.gov/cyberbullying/what-is-it
+(accessed May 1, 2020).
+Swire, Peter P., and Sol Bermann. Information Privacy, Official Reference for the Certified Information Privacy
+Professional (CIPP). York, ME: International Association of Privacy Professionals, 2007.
+Target Corporation, “Target Confirms Unauthorized Access to Payment Card Data in U.S. Stores,” December 19,
+2013. https://corporate.target.com/press/releases/2013/12/target-confirms-unauthorized-access-to-payment-
+car (accessed April 29, 2020).
+Target Corporation, “Target Provides Update on Data Breach and Financial Performance,” January 10, 2014.
+Tasker, Ty, and Daryn Pakcyk, “Cyber-Surfing on the High Seas of Legalese: Law and Technology of Internet
+Agreements,” Albany Law Journal of Science and Technology 18 (2008): 79.
+Taylor, Laura. FISMA: Certification & Accreditation Handbook. Rockland, MA: Syngress Publishing, 2007.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.Taylor, Laura P. FISMA Compliance Handbook. 2nd ed. Waltham, MA: Elsevier, 2013.
+TechRepublic, “88% of Employees Have No Clue About Their Organization’s IT Security Policies,” January 11,
+2018. https://www.techrepublic.com/article/88-of-employees-have-no-clue-about-their-organizations-it-
+security-policies/ (accessed February 20, 2020).
+Thomas, Daphyne Saunders, and Karen A. Forcht, “Legal Methods of Using Computer Forensics Techniques for
+Computer Crime Analysis and Investigation,” Issues in Information Systems V, No. 2 (2004): 692.
+http://www.iacis.org/iis/2004_iis/PDFfiles/ThomasForcht.pdf (accessed May 12, 2010).
+Time, “Enron: Who’s Accountable?” January 13, 2002.
+http://content.time.com/time/magazine/article/0,9171,1001636,00.html (accessed April 11, 2020).
+Time, “Here’s What We Know So Far About Russia’s 2016 Meddling,” April 18, 2019.
+https://time.com/5565991/russia-influence-2016-election/ (accessed May 16, 2020).
+Tipton, Harold, and Micki Krause, eds. Information Security Management Handbook. 5th ed. Boca Raton, FL:
+Auerbach Publications, 2004.
+Uniform Law Commission, “About the ULC,” undated. http://www.uniformlaws.org/aboutulc/overview (accessed
+January 26, 2020).
+Uniform Law Commission, Uniform Electronic Transactions Act (UETA), 1999.
+https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=4f718047-
+e765-b9d8-6875-f7a225d629a8&forceDialog=0 (accessed January 26, 2020).
+Uniform Law Commission, Uniform Electronic Transactions Act (UETA) Fact Sheet, 1999.
+https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?
+DocumentFileKey=c5976d91-07e2-b3f8-9b1e-4450fe809c21&forceDialog=0 (accessed January 26, 2020).
+Uniform Law Commission, Uniform Electronic Transactions Act (UETA) Fact Sheet, 1999, sec. 2.
+https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?
+DocumentFileKey=c5976d91-07e2-b3f8-9b1e-4450fe809c21&forceDialog=0 (accessed January 26, 2020).
+U.S. Census, “American Community Survey, Presence and Types of Internet Subscriptions in Household Table
+B28002,” 2018. https://data.census.gov/cedsci/ (accessed April 28, 2020).
+U.S. Copyright Office, “Copyright Basics,” Circular 1, last revised December 2019.
+https://www.copyright.gov/circs/circ01.pdf (accessed August 8, 2020).
+U.S. Copyright Office, “I’ve Heard About a ‘Poor Man’s Copyright.’ What Is It?” Undated.
+https://www.copyright.gov/help/faq/faq-general.html#poorman (accessed April 30, 2020).
+U.S. Copyright Office, “More Information on Fair Use,” April 2020. https://www.copyright.gov/fair-use/more-
+info.html (accessed April 29, 2020).
+U.S. Copyright Office, “Registration Processing Times April 1-September 30, 2019,” 2019.
+https://www.copyright.gov/registration/docs/processing-times-faqs.pdf (accessed April 30, 2020).
+U.S. Copyright Office, “Reproduction of Copyrighted Works by Educators and Librarians,” Circular 21, last
+revised November 2009. http://www.copyright.gov/circs/circ21.pdf (accessed March 21, 2010).
+U.S. Department of Commerce, “Statistics of 2018 BIS License Authorization,” April 3, 2019.
+https://www.bis.doc.gov/index.php/documents/technology-evaluation/ote-data-portal/licensing-analysis/2453-
+2018-statistical-analysis-of-bis-licensing-pdf-1/file (accessed May 16, 2020).
+U.S. Department of Commerce, National Telecommunications and Information Administration, Report to
+Congress, “Children’s Internet Protection Act Study of Technology Protection Measures in Section 1703,”
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.August 2003. https://www.ntia.doc.gov/files/ntia/publications/cipareport08142003.pdf (accessed March 24,
+2020).
+U.S. Department of Education, “Dear Colleague Letter GEN -16-12,” July 1, 2016. https://ifap.ed.gov/dear-
+colleague-letters/07-01-2016-gen-16-12-subject-protecting-student-information (accessed March 24, 2020).
+U.S. Department of Education, “FERPA and the Coronavirus Disease 2019 (COVID-19),” March 2020.
+https://studentprivacy.ed.gov/resources/ferpa-and-coronavirus-disease-2019-covid-19 (accessed March 24,
+2020).
+U.S. Department of Education, “Legislative History of Major FERPA Provisions,” February 11, 2004.
+http://www2.ed.gov/policy/gen/guid/fpco/ferpa/leg-history.html (accessed February 16, 2010).
+U.S. Department of Health and Human Services, “Breach Notification Rule,” 2013. https://www.hhs.gov/hipaa/for-
+professionals/breach-notification/index.html (accessed February 1, 2020).
+U.S. Department of Health and Human Services, “Enforcement Results by Year,” April 3, 2019.
+https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/data/enforcement-results-by-
+year/index.html (accessed March 1, 2020).
+U.S. Department of Health and Human Services, “The HIPAA Privacy Rule,” 2015. https://www.hhs.gov/hipaa/for-
+professionals/privacy/index.html (accessed February 1, 2020).
+U.S. Department of Health and Human Services, “The Security Rule,” 2017. https://www.hhs.gov/hipaa/for-
+professionals/security/index.html (accessed February 1, 2020).
+U.S. Department of Health, Education, and Welfare, “Records, Computers and the Rights of Citizens: Report of
+the Secretary’s Advisory Committee on Automated Personal Data Systems,” July 1973.
+http://aspe.hhs.gov/datacncl/1973privacy/c3.htm (accessed February 6, 2010).
+U.S. Department of Homeland Security, Cybersecurity and Infrastructure Security Agency, “US-CERT Federal
+Incident Notification Guidelines,” 2017. https://www.us-cert.gov/incident-notification-guidelines (accessed May
+16, 2020).
+U.S. Department of Justice, “Former Student Sentenced for Causing Damage to University of Iowa Computer
+Network,” August 23, 2018. https://www.justice.gov/usao-sdia/pr/former-student-sentenced-causing-damage-
+university-iowa-computer-network (accessed February 23, 2020).
+U.S. Department of Justice, “Medical Clinic Worker Pleads Guilty to Aggravated Identity Theft and Wire Fraud,”
+January 30, 2020. https://www.justice.gov/usao-mdfl/pr/medical-clinic-worker-pleads-guilty-aggravated-
+identity-theft-and-wire-fraud (accessed March 1, 2020).
+U.S. Department of Justice, “Missouri Woman Indicted on Charges of Using MySpace to Cyber Bully 13-Year-Old
+Who Later Committed Suicide,” May 15, 2008.
+https://www.justice.gov/archive/usao/cac/Pressroom/pr2008/063.html (accessed May 1, 2020).
+U.S. Department of Justice, “Searching and Seizing Computers and Obtaining Electronic Evidence in Criminal
+Investigations,” 3rd ed. September 2009. https://www.justice.gov/sites/default/files/criminal-
+ccips/legacy/2015/01/14/ssmanual2009.pdf (accessed August 8, 2020).
+U.S. Department of Justice, “Summary of Major U.S. Export Enforcement, Economic Espionage, and Sanctions
+Related to Criminal Cases,” January 2018. https://www.pmddtc.state.gov/sys_attachment.do?
+sysparm_referring_url=tear_off&view=true&sys_id=6ae22ec1db2a9740c53a7d321f9619c4 (accessed May
+16, 2020).
+U.S. Department of Justice, Computer Crime and Intellectual Property Section, “Prosecuting Computer Crimes,”
+February 2007. https://www.justice.gov/sites/default/files/criminal-ccips/legacy/2015/01/14/ccmanual.pdf
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.(accessed August 8, 2020).
+U.S. Department of Justice, National Institute of Justice, “Electronic Crime Scene Investigation: A Guide for First
+Responders,” 2nd ed., April 2008. https://www.ncjrs.gov/pdffiles1/nij/219941.pdf (accessed August 8, 2020).
+U.S. Department of Justice, National Institute of Justice, “Forensic Examination of Digital Evidence: A Guide for
+Law Enforcement,” April 2004. http://www.ncjrs.gov/pdffiles1/nij/199408.pdf (accessed May 10, 2010).
+U.S. Department of Justice and Federal Bureau of Investigation, “Regional Computer Forensics Laboratory,
+RCFL Annual Report for Fiscal Year 2009,” 2009. https://www.rcfl.gov/file-
+repository/rcfl_nat_annual09.pdf/view (accessed August 8, 2020).
+U.S. Department of Labor, Bureau of Labor Statistics, “Forensic Science Technicians,” Occupational Outlook
+Handbook. https://www.bls.gov/ooh/life-physical-and-social-science/forensic-science-technicians.htm
+(accessed March 15, 2020).
+U.S. Executive Branch, “The National Strategy to Secure Cyberspace,” February 2003. http://www.us-
+cert.gov/reading_room/cyberspace_strategy.pdf (accessed April 24, 2010).
+U.S. Federal Bureau of Investigation, “A Brief History of the FBI,” undated. https://www.fbi.gov/history/brief-history
+(accessed March 15, 2020).
+U.S. Federal Bureau of Investigation, “Digital Evidence: Standards and Principles, Scientific Working Group on
+Digital Evidence (SWGDE) International Organization on Digital Evidence (IOCE), IOCE International
+Principles,” Forensic Science Communications, April 2000, Vol. 2, No. 2.
+https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/april2000/swgde.htm
+(accessed March 15, 2020).
+U.S. Federal Bureau of Investigation, “Melissa Virus,” undated. https://www.fbi.gov/history/famous-cases/melissa-
+virus (accessed May 1, 2020).
+U.S. Federal Bureau of Investigation, “Morris Worm,” undated. https://www.fbi.gov/history/famous-cases/morris-
+worm (accessed May 1, 2020).
+U.S. Federal Trade Commission, “Consumer Sentinel Network Data Book 2019,” January 2020.
+https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-data-book-
+2019/consumer_sentinel_network_data_book_2019.pdf (May 1, 2020).
+U.S. Federal Trade Commission, “eConsumer Statistics,” April 15, 2020.
+https://public.tableau.com/profile/federal.trade.commission#!/vizhome/eConsumer/Infographic (accessed May
+1, 2020).
+U.S. Federal Trade Commission, “FTC Completes Review of CAN-SPAM Rule,” February 12, 2019.
+https://www.ftc.gov/news-events/press-releases/2019/02/ftc-completes-review-can-spam-rule (accessed May
+1, 2020).
+U.S. Federal Trade Commission, “In the Matter of Facebook, Inc.,” April 28, 2020.
+https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc (accessed April 28, 2020).
+U.S. Government Accountability Office, “Cybersecurity: Progress Made but Challenges Remain in Defining and
+Coordinating the Comprehensive National Initiative,” GAO-10-338, March 5, 2010.
+http://www.gao.gov/products/GAO-10-338 (accessed April 23, 2010).
+U.S. Government Accountability Office, “Federal Information Security: Agencies and OMB Need to Strengthen
+Policies and Practices,” July 2019. https://www.gao.gov/assets/710/700588.pdf (accessed May 16, 2020).
+U.S. Government Accountability Office, “High Risk Series: Substantial Efforts Needed to Achieve Greater
+Progress on High Risk Areas,” March 2019. https://www.gao.gov/products/gao-19-157sp (accessed February
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.18, 2020).
+U.S. Government Accountability Office, “Information Security: Concerted Response Needed to Resolve
+Persistent Weaknesses,” March 24, 2010. http://www.gao.gov/new.items/d10536t.pdf (accessed April 23,
+2010).
+U.S. House of Representatives, Committee Oversight and Government Reform, “The OPM Data Breach: How
+the Government Jeopardized Our National Security for More Than a Generation,” September 7, 2016.
+https://republicans-oversight.house.gov/wp-content/uploads/2016/09/The-OPM-Data-Breach-How-the-
+Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf (accessed May 16, 2020).
+U.S. Office of Management and Budget, “Federal Cloud Computing Strategy,” Undated.
+https://cloud.cio.gov/strategy/ (accessed May 16, 2020).
+U.S. Office of Management and Budget, “Fiscal Year 2009 Report to Congress on the Implementation of the
+Federal Information Security Management Act of 2002,” March 2010.
+https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/FY09_FISMA.pdf (accessed
+August 8, 2020).
+U.S. Office of Management and Budget, “Fiscal Year (FY) 2018 Annual Report to Congress,” August 2019.
+https://www.whitehouse.gov/wp-content/uploads/2019/08/FISMA-2018-Report-FINAL-to-post.pdf (accessed
+May 16, 2020).
+U.S. Office of Management and Budget, “Memo M-03-22: OMB Guidance for Implementing the Privacy
+Protections of the E-Government Act of 2002,” September 26, 2003. https://www.whitehouse.gov/wp-
+content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-
+Government-Act-of-2002-1.pdf (accessed August 8, 2020).
+U.S. Office of Management and Budget, “Memo M-10-15: FY 2010 Reporting Instructions for the Federal
+Information Security Management Act and Agency Privacy Management,” April 21, 2010.
+https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-15.pdf (accessed August
+8, 2020).
+U.S. Office of Management and Budget, “OMB Circular A-130, Managing Information as a Strategic Resource,
+Section 5(f),” July 28, 2016.
+https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf (accessed May
+16, 2020).
+U.S. Office of Management and Budget, “OMB Memorandum M-17-12, Preparing for and Responding to a
+Breach of Personally Identifiable Information,” January 3, 2017.
+https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-12_0.pdf (accessed May
+16, 2020).
+U.S. Office of Management and Budget, “2019 Federal Cloud Computing Strategy,” undated.
+https://cloud.cio.gov/ (accessed January 26, 2020).
+U.S. Patent and Trademark Office, “A Guide to Filing a Design Patent Application,” undated.
+http://www.uspto.gov/patents/resources/types/index.jsp (accessed March 19, 2010).
+U.S. Patent and Trademark Office, “Data Visualization Center, Traditional Total Pendency,” April 2020.
+https://www.uspto.gov/corda/dashboards/patents/main.dashxml?CTNAVID=1004 (accessed April 30, 2020).
+U.S. Patent and Trademark Office, “FY 2019 Performance and Accountability Report,” November 2019.
+https://www.uspto.gov/sites/default/files/documents/USPTOFY19PAR.pdf (accessed April 30, 2020).
+U.S. Patent and Trademark Office, “General Information About 35 U.S.C. 161 Plant Patents,” undated.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.https://www.uspto.gov/patents-getting-started/patent-basics/types-patent-applications/general-information-
+about-35-usc-161 (accessed August 8, 2020).
+U.S. Patent and Trademark Office, “Trademark Basics,” undated.
+http://www.uspto.gov/trademarks/basics/index.jsp (accessed March 21, 2010).
+U.S. Patent and Trademark Office, “Trademark Manual of Examining Procedure, Section 1200,” October 2018.
+https://tmep.uspto.gov/RDMS/TMEP/current#/current/TMEP-1200d1e3042.html
+U.S. Securities and Exchange Commission, “About the SEC,” November 22, 2016.
+https://www.sec.gov/about.shtml (accessed April 26, 2020).
+U.S. Securities and Exchange Commission, “CF Disclosure Guidance: Topic No. 2, Cybersecurity,” October 13,
+2011. https://www.sec.gov/divisions/corpfin/guidance/cfguidance-topic2.htm (accessed April 26, 2020).
+U.S. Securities and Exchange Commission, “Commission Guidance Regarding Management’s Report on Internal
+Controls Over Financial Reporting,” Code of Federal Regulations, Title 17, sec. 241.
+https://www.sec.gov/rules/interp/2007/33-8810.pdf (accessed April 26, 2020).
+U.S. Securities and Exchange Commission, “Commission Statement on Implementation of Internal Control
+Reporting Requirements,” May 16, 2005. https://www.sec.gov/news/press/2005-74.htm (accessed August 8,
+2020).
+U.S. Securities and Exchange Commission, “Final Rule: Management’s Report on Internal Control Over Financial
+Reporting and Certification of Disclosure in Exchange Act Periodic Reports,” June 5, 2003.
+http://www.sec.gov/rules/final/33-8238.htm#iib3a (accessed April 26, 2020).
+U.S. Securities and Exchange Commission, “Form 8-K.” https://www.sec.gov/fast-
+answers/answersform8khtm.html (accessed April 11, 2020).
+U.S. Securities and Exchange Commission, “Staff Statement on Management’s Report on Internal Control Over
+Financial Reporting,” May 16, 2005. http://www.sec.gov/info/accountants/stafficreporting.htm (accessed April
+26, 2020).
+U.S. Securities and Exchange Commission, “Work Plan for the Consideration of Incorporating International
+Financial Reporting Standards Into the Financial Reporting System for U.S. Issuers, Final Report,” July 13,
+2012.
+http://webapp01.ey.com.pl/EYP/WEB/eycom_download.nsf/resources/ZRG_Emerging_Trends_Survay.pdf/$FILE/ZRG
+(accessed April 18, 2020).
+U.S. Supreme Court, Federal Rules of Evidence, Rules 701-706, undated.
+https://www.uscourts.gov/sites/default/files/federal_rules_of_evidence_-_dec_1_2019_0.pdf (accessed March
+15, 2020).
+Verisign, “The Verisign Domain Name Industry Brief,” March 2020. https://www.verisign.com/assets/domain-
+name-report-Q42019.pdf (accessed April 30, 2020).
+Verizon, “2019 Data Breach Investigation Report,” 2019. https://enterprise.verizon.com/resources/reports/dbir/
+(accessed February 23, 2020).
+Verizon Business, “2020 Data Breach Investigations Report,” undated.
+https://enterprise.verizon.com/resources/reports/dbir/ (May 22, 2020).
+VISA, “Information Security,” Undated. https://cw.visa.com/run-your-business/small-business/information-
+security/compliance-validation.html (accessed April 29, 2020).
+VISA, “PCI Compliance Helps Keep You and Your Customers Safe,” Undated.
+https://usa.visa.com/support/small-business/security-compliance.html (accessed April 29, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.VISA, “What to Do if Compromised,” October 1, 2019.
+https://usa.visa.com/dam/VCOM/download/merchants/cisp-what-to-do-if-compromised.pdf (accessed April
+29, 2020).
+Warren, Samuel, and Louis Brandeis, “The Right to Privacy,” Harvard Law Review 4 (1890): 193.
+Warsinske, John, et al. Official (ISC) 2 CISSP CBK Reference. Hoboken, NJ: Wiley, 2019.
+Watnick, Valerie, “The Electronic Formation of Contracts and the Common Law ‘Mailbox Rule,’” Baylor Law
+Review 56 (2004): 175.
+Welytok, Jill Gilbert. Sarbanes-Oxley for Dummies. Hoboken, NJ: Wiley Publishing, 2008.
+Whitcomb, Carrie Morgan, “An Historical Perspective of Digital Evidence: A Forensic Scientist’s Point of View,”
+International Journal of Digital Evidence 1, Issue 1 (2002): Reprint.
+http://www.utica.edu/academic/institutes/ecii/publications/articles/9C4E695B-0B78-1059-
+3432402909E27BB4.pdf (accessed May 12, 2010).
+White, James J., and Robert S. Summers. Uniform Commercial Code. 5th ed. St. Paul, MN: West Group, 2000.
+Winter, Cory S., “The Rap on Clickwrap: How Procedural Unconscionability Is Threatening the E-Commerce
+Marketplace,” Widener Law Journal 18 (2008): 249.
+Wood, Charles Cresson. Information Security Policies Made Easy. 8th ed. Houston: Pentasafe Security
+Technologies, 2001.
+World Intellectual Property Organization, “Berne Convention for the Protection of Literary and Artistic Works,”
+Undated. https://www.wipo.int/treaties/en/ip/berne/ (accessed April 30, 2020).
+World Intellectual Property Organization, “WIPO Arbitration and Mediation Center, 2019 Review,” April 8, 2020.
+https://www.wipo.int/amc/en/new/2019review.html (accessed April 30, 2020).
+Wu, Stephen S., ed. A Guide to HIPAA Security and the Law. Chicago: American Bar Association Publishing,
+2007.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:19:30.

@@ -1,0 +1,1604 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+Index
+Note: Page numbers followed by f, or t, indicate materials in figures, or tables, respectively.
+A
+AAFS. See American Academy of Forensic Sciences
+ABA. See American Bar Association
+abuse and neglect, 152
+ACA. See Affordable Care Act of 2010
+acceptable use case study, 380–382
+acceptable use policy (AUP), 368–372, 402
+acceptance, 287, 289–291, 297–298
+access contingency plans, 164
+access control standard, 166–167
+access to education record, 130–131
+AccessData Certified Examiner (ACE), 425
+accidental threats, 12
+accountability principle, 44
+ACE. See AccessData Certified Examiner
+ACPA. See Anti-Cybersquatting Consumer Protection Act
+Act of Congress, defined, 67
+active data collection, 57
+acts of God, 12
+actus reus, 320
+administrative procedure, 77
+Administrative Procedures Act (APA), 208
+administrative safeguards, 15, 17t, 162–164, 165t
+Administrative Simplification provisions, 145
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.admissible evidence, 426, 439–442
+advertising for service contracts, 307
+adware, 45
+affidavit, 264
+affiliated party, 99
+Affordable Care Act of 2010 (ACA), 145
+agency information security programs, 204–206
+AICPA. See American Institute of Certified Public Accountants
+Alabama Court of Appeals, 259
+A-I-C triad, 354
+ALE. See annualized loss expectancy
+algorithms, 232, 430
+ALI. See American Law Institute
+A&M Records, Inc. v. Napster, 279
+amendment of education records, 131
+American Academy of Forensic Sciences (AAFS), 431
+American Bar Association (ABA), 304, 425
+American Institute of Certified Public Accountants (AICPA), 190
+American Law Institute (ALI), 286
+American legal system, 64–72, 74
+Analyst Conflicts of Interest (Title V), 182
+annual notification, 130
+annual rate of occurrence (ARO), 398
+annualized loss expectancy (ALE), 398
+answer, 338
+Anti-Cybersquatting Consumer Protection Act (ACPA), 267, 332
+anti-harassment policies, 372–373, 380
+antivirus programs, 422
+APA. See Administrative Procedures Act
+appeal, 70
+appellate jurisdiction, 68, 69
+appropriation of likeness or identity tort, 42
+architectural works, 268
+Arizona law, 238
+ARO. See annual rate of occurrence
+arraignment, 324
+assets, 392–394
+assigned security responsibility standard, 163
+Assumption of Risk defense, 337
+attackers, 8, 13, 404
+attendance, 129
+audit, 80–81
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.audit committee, 195
+audit controls standard, 167
+Auditor Independence (Title II), 182
+AUP. See acceptable use policy
+authentication, 377–379
+authenticity, 300–301
+authorization, 154–155
+Authors Guild, 280
+Autoliv, 380–382
+availability, 5, 8–10
+B
+backdoors, 22
+backup site options, 411
+bad faith, 266, 267
+balance, 354
+balance sheet, 180
+bank examiner, 95
+Bank Secrecy Act of 1970, 89
+baseline, 310, 361
+BC. See business continuity plans
+behavioral notes, 130
+bench trials, 339
+Berne Convention, 271
+best evidence rule, 442
+beyond a reasonable doubt, 76
+BIA. See business impact analysis
+Bill of Rights, 65, 118
+biometric data, 34
+BIS. See Bureau of Industry and Security
+blog, 33
+board of directors (BOD), 356–357, 360, 365, 366
+BOD. See board of directors
+boilerplate terms, 307
+breach activities, 230
+breach notification, 232
+breach notification laws, 217, 226, 230–234
+breach notification policy, 217
+breach notification provisions, 160–161
+breach notification regulations, 227–234
+breach of contract, 292–294
+Brown v. Board of Education (1954), 78, 79
+browsewrap contracts, 305–306
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.burden-of-proof hierarchy, 77f
+burdens of proof, 76, 258
+Bureau of Industry and Security (BIS), 219
+business associate contracts standard, 164
+business associates, 147
+business associate’s agreement, 307
+business continuity (BC) plans, 205, 388, 407–412, 412f
+business impact analysis (BIA), 409
+business personnel, 391
+business planning hierarchy, 355f
+C
+Cable Communications Policy Act (1984), 40
+California Breach Notification Act, 228–230
+California Consumer Privacy Act (CCPA), 238
+California law, 230, 232, 238–239
+California Office of Privacy Protection, 41
+Cambridge Analytica, 51
+capacity online, legal, 297
+cardholder data, 107
+case law, 38, 73. See also common law
+causation, 320
+CCE. See Certified Computer Examiner
+CCFE. See Certified Computer Forensics Examiner
+CCL. See Commerce Control List
+CCPA. See California Consumer Privacy Act
+CCPA. See California Consumer Privacy Act
+censorship, 118
+Census Confidentiality law (1952), 39–40
+central incident response center, 211–212
+certification under SOX, 187–191
+Certified Computer Examiner (CCE), 424
+Certified Computer Forensics Examiner (CCFE), 424
+Certified Forensic Computer Examiner (CFCE), 424
+certified public accountants (CPAs), 184
+CFAA. See Computer Fraud and Abuse Act (CFAA) in 1984
+CFCE. See Certified Forensic Computer Examiner
+CFPB. See Consumer Financial Protection Bureau
+chain of custody, 427
+chattels, 344–345
+checklist test, 413
+checksum, 430
+C-I-A triad, 5, 5f, 354, 354f
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.chief information officer (CIO), 357
+chief information security officer (CISO), 206, 357
+chief technology officer (CTO), 357
+Child Online Protection Act (COPA), 120
+child privacy, 119
+children on the Internet, 116–119
+Children’s Internet Protection Act (CIPA), 27t, 115, 124–128
+Children’s Online Privacy Protection Act (COPPA), 27t, 115, 119–124, 297
+ChoicePoint data breach, 226–227
+choreographic works, 268
+CIO. See chief information officer
+CIPA. See Children’s Internet Protection Act
+circuit court, 136
+“Circumvention of Technological Protection Measures”, 275
+CISO. See chief information security officer
+City of Ontario v. Quon, 56
+civil law, 238
+civil procedure, 75, 338–339
+claim, 257
+clickstream, 45–46
+clickwrap contracts, 303–305
+cloud computing, 308–309, 308f
+CNSS. See Committee on National Security Systems
+COBIT. See Control Objectives for Information and related Technology
+COBRA. See Consolidated Omnibus Budget Reconciliation Act of 1986
+code analysis, 422
+code law, 74
+Code of Federal Regulations, 218
+cold site, 411
+collection limitation principle, 43
+collection step of investigation, 427–429
+Colorado law, 232
+Commerce Control List (CCL), 219
+commerce, use of trademark in, 262
+Commission Resources and Authority (Title VI), 182
+Committee of Sponsoring Organizations (COSO), 188–190
+Committee on National Security Systems (CNSS), 213
+common law, 41–43, 73
+communicable diseases, vital statistics and, 151–152
+communication, information and, 189
+communications constitute, 290
+Communications Decency Act (1996), 342
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.communications laws, interception of, 330
+comparative negligence defense, 337
+compensatory damages, 293, 337
+competitive edge, 25
+complaint, 338
+complete performance, 292
+compliance, 80–81, 366, 414, 414t
+compliance risks, 14
+composition of matter, 253
+computer crimes. See cyber crimes
+computer forensic examiner, 423–425
+computer forensics, 420–422, 422f
+Computer Fraud and Abuse Act (CFAA) in 1984, 326–327, 328t
+computer-generated records, 439
+Computer Maintenance Competition Assurance Act, 274, 277
+Computer Security Act (CSA), 194, 203
+computer systems, 421
+computer trespass, 318, 329
+computer use monitoring, 54–55
+computer worm, 21
+concurrent jurisdiction, 68, 69
+conduit defense, 276
+conference committee, 66
+confidential documents as confetti, 244
+confidentiality, 5–7
+conflicts of interest, 195, 392
+congress, 65
+Congressional Research Service, 235
+consent, 433
+consent exception, 437
+consequential damages, 293
+consideration, 291–292
+Consolidated Omnibus Budget Reconciliation Act of 1986 (COBRA), 144
+constitutional law, 36–38, 74
+consumer, 98
+consumer compliance task force, 95
+consumer financial information, 87, 90
+Consumer Financial Protection Bureau (CFPB), 96
+consumer goods, 90
+consumer services, 90
+content filtering, 125–126
+contingency planning, 164, 388, 401–414, 414t
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.continuity of operations, 205
+continuous monitoring, 390, 401
+contract form, 286–287
+contract law issues, emerging, 307–311
+contract legality, 288
+contract of adhesion, 301
+contract repudiation, 294
+contract types in cyberspace, 301–306
+contracting online, 295–297
+contracting parties, 307
+contracting principles, 286–294
+contracts, 23–24, 286, 310, 311
+contracts as regulators of behavior, 306–307
+contracts, role of, 285–313
+contractual capacity, 287
+contractual performance, 292–294
+contributory negligence defense, 337
+control activities, 189
+control documentation, 398–400
+control environment, 189
+Control Objectives for Information and related Technology (COBIT), 192
+Controlling the Assault of Non-Solicited Pornography and Marketing (CAN-SPAM) Act, 330–331, 346
+controls, 15
+cookies, 45–60
+COPA. See Child Online Protection Act
+COPPA. See Children’s Online Privacy Protection Act
+COPPA Rule, 119–121, 123, 124
+copyright, 251, 268–274
+Corporate and Criminal Fraud Accountability (Title VIII), 182
+Corporate Fraud and Accountability (Title XI), 182
+corporate fraud at Enron, 176–179
+corporate information privacy issues, 195–196
+corporate responsibility (Title III), 182
+Corporate Tax Returns (Title X), 182
+corrective safeguards, 17
+COSO. See Committee of Sponsoring Organizations
+COSO Framework, 188–190
+counteroffers, 289
+county recorder’s office, 236, 237
+court of appeals, 69, 71
+“court of last resort”, 69
+covered accounts, 103
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.covered entities, 145–146, 147
+CPAs. See certified public accountants
+credit unions, 93
+creditor, 103–104
+crime reporting, 415
+crimes, 319–321
+criminal history data, 34
+criminal law, 238, 318–325
+criminal laws in cyberspace, 326–334
+criminal procedure, 76–77, 323–325
+critical business processes, 409, 410
+criticism for service contracts, 307
+cryptographic key management practices, 242
+cryptography, 5
+CSA. See Computer Security Act
+CTO. See chief technology officer
+customer, distinct from consumer, 98
+CVS pharmacies, 169
+Cyber Monday, 374
+cybercrimes, 318, 326, 333–334
+CyberScope, 206
+cyberspace, contracts types in, 301–306
+cybersquatting, 266–267, 332
+cyberwar, 203
+D
+damages, 292–293, 337
+data breach law, 217
+data centers, 23
+data definition and use, 310
+data destruction policies, 374–375
+data disposal regulations, 242–244
+data privacy, 214
+data protection standard, 239–241
+data protection terms, 310–311
+data quality principle, 43
+data recovery, 411
+data recovery firms, 421
+data retention policies, 375–376
+Data Security Standard (DSS), 107–108, 109t, 234–236
+data-specific security and privacy regulations, 234–239
+data storage devices, 242
+data use, 306
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.Daubert test, 430–431
+DDoS. See distributed denial of service attack
+Deal v. Spears (1992), 53
+deceptive trade practices, 96
+decision tree, breach notification, 234f
+defamation, 42, 341–342, 346–347
+defendant, 324, 337–339
+deliberate threats, 13
+denial of service (DoS) attack, 9, 22–23
+denial of service (DoS) category, 405
+Department of Health and Human Services (HHS), 147, 151, 167, 170
+depositor, 92
+derivative work, 269
+descriptive trademarks, 264
+design patents, 253
+detective controls, 17
+device and media controls standard, 166
+dictionary attacks, 378
+digital collections, 280
+digital evidence, 421, 425–431
+Digital Millennium Copyright Act (DMCA), 274–278
+digital rights management (DRM), 274
+digital signature, 301
+Digital Wild West, 250
+digitized signature, 301
+dilution case, trademark, 266
+directory information, 132
+disaster, 407
+disaster recovery (DR) plans, 388, 407–412, 412f
+discharged, 292
+disciplinary records, 135–136
+disclosure, 132–133, 148, 154–155
+disclosure controls, 187, 188f
+disclosure of education records, 131–132
+discovery, 152, 325
+distinctive trademark, 261, 264
+distributed denial of service (DDoS) attack, 22
+district courts, 69
+diversity of citizenship jurisdiction, 69
+dividends, 177
+DMCA. See Digital Millennium Copyright Act
+docket, 35
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.doctrine of precedent, 78
+document retention under SOX, 185–187
+documentation of controls, 398–400
+domain name registrars, 267
+DoS. See denial of service attack
+DoS. See denial of service category
+Dow Chemical Co., 373
+DR. See disaster recovery plans
+dramatic works, 268
+drawings for patent, 256
+Driver’s Privacy Protection Act (1994), 40
+DRM. See digital rights management
+DSS. See Data Security Standard
+due process, 75, 323
+dumpster diving, 49
+duty of due care, 335
+duty to mitigate, 293
+E
+ECPA. See Electronic Communications Privacy Act 1986
+ED. See U.S. Department of Education
+EDGAR. See Electronic Data Gathering and Retrieval database
+education records, 129, 130–132
+educational purposes, fair use for, 273
+E-Government Act of 2002, 39, 215–217
+EHR. See electronic health record
+Electronic Communications Privacy Act 1986 (ECPA), 39, 330, 432, 436
+electronic contracts, 295, 296
+electronic data, 340
+electronic data collection, 435–439
+Electronic Data Gathering and Retrieval (EDGAR) database, 196–197
+electronic discovery, 340
+electronic health record (EHR), 156, 161
+electronic protected health information (EPHI), 161
+electronic record, 296
+electronic signature, 301
+Electronic Signatures in Global and National Commerce (E-SIGN) Act, 296
+electronically stored information (ESI), 340
+email communications, 298
+email monitoring, 53–54
+email via contract formation, 312–313
+employee environment support, 411
+employee privacy rights, 56–57
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.employee training, 390, 401
+employee’s personal computer, monitoring, 55
+EnCase Certified Examiner (EnCE), 424
+EnCE. See EnCase Certified Examiner
+encryption, 6
+encryption keys, 232, 241, 242, 428–429
+encryption regulations (states), 239–242
+encryption requirements, 232, 241
+end user license agreement (EULA), 302
+enforcement, 300
+Enhanced Financial Disclosures (Title IV), 182
+Enron, 176–179
+Entertainment Software Rating Board (ESRB), 117
+E-passport, 47
+EPHI. See electronic protected health information
+equitable remedy, 293
+E-Rate program, 125
+ESI. See electronically stored information
+ESRB. See Entertainment Software Rating Board
+E.U. See The European Union’s
+EULA. See end user license agreement
+The European Union’s (E.U.), 59
+evaluation standard, 164
+evidence collection, 432–439
+evidence silver platter doctrine, 433
+examination of a bank, 95
+examination step of investigation, 429–430
+examiner education task force, 95
+exculpatory evidence, 439
+executive branch, 67
+executive management, 392, 398, 401
+Executive Order, 212
+exigent circumstances, 435
+existence, 300
+exploits, 11
+export control laws, 218–219
+export control regulations, types of, 218
+exposure factor, 395
+external attackers, 8
+F
+Facebook, 23, 299, 342
+facilities recovery, 410
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.facility access controls standard, 164
+FACTA. See Fair and Accurate Credit Transaction Act of 2003
+failure to notify penalties, 232–233
+Fair and Accurate Credit Transaction Act of 2003 (FACTA), 103
+Fair Credit Reporting Act of 1970 (FCRA), 99
+fair information practice principles, 43
+fair use, 272–274
+Family Educational Rights and Privacy Act (FERPA), 27t, 115, 128–134
+Family Policy Compliance Office (FPCO), 133
+FCC. See Federal Communications Commission
+FCRA. See Fair Credit Reporting Act of 1970
+FDIC. See Federal Deposit Insurance Corporation
+federal agencies, 79, 80, 90
+federal agency employee, 215
+federal and state judicial systems, comparison of, 72t
+federal banking regulatory agencies, 91t
+federal breach notification law, 217, 234
+federal circuit, 69
+Federal Communications Commission (FCC), 48, 126, 128
+Federal Deposit Insurance Corporation (FDIC), 91t, 92
+Federal Financial Institutions Examination Council (FFIEC), 95
+federal funding, 128–129
+federal government, 64–70, 358–359
+Federal incident response (IR) center, 212
+Federal Information Processing Standards (FIPS), 207, 242
+Federal Information Security Management Act (FISMA), 380
+Federal Information Security Modernization Act (FISMA), 194, 204–213, 358, 391
+federal information systems, 214–219
+Federal Information Systems Management Act, 27t, 414t
+federal information technology (IT) systems, 202
+federal judiciary, 68–70
+federal laws, 38–40, 234
+federal legislation, 235
+federal question jurisdiction, 69
+federal registration symbol, 261
+Federal Rules of Criminal Procedure, 76
+Federal Rules of Evidence (FRE), 439
+Federal Trade Commission (FTC), 51, 80, 96–97, 102, 109–110, 116, 119, 124, 135, 169–170, 227, 297, 329,
+346
+Federal Trade Commission Red Flags Rule, 103–106, 106t
+federalism, 65
+fees for service contracts, 306
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.felonies, 319
+FERPA. See Family Educational Rights and Privacy Act
+FFIEC. See Federal Financial Institutions Examination Council
+Fifth Amendment (U.S. Constitution), 37
+filing fees for patent, 256
+financial information, 34
+financial institutions, 88–97
+financial reporting, 179–181
+financial risks, 14
+FIPS. See Federal Information Processing Standards
+First Amendment (U.S. Constitution), 36, 118
+first-party cookies, 45
+“first to invent” rule, 252
+FISMA. See Federal Information Security Management Act
+FISMA. See Federal Information Security Modernization Act
+flaming, 341
+FOIA. See Freedom of Information Act 1966
+forensic duplicate image, 429–430
+forensic examination ethical principles, 431
+Forensic Toolkit, 424
+forensics, 421
+Form 8-K, 180–181
+Form 10-K, 180
+Form 10-Q, 180
+form contracts, 286–287
+form of acceptance, 289–291
+form of offer, 288–289, 297–299
+Fourth Amendment (U.S. Constitution), 37, 432–435
+FPCO. See Family Policy Compliance Office
+FRE. See Federal Rules of Evidence
+Free Enterprise Fund, 186
+Freedom of Information Act 1966 (FOIA), 35, 38
+fruit of the poisonous tree doctrine, 439
+FTC. See Federal Trade Commission
+full interruption test, 414
+futures contract, 178
+G
+GAAP. See generally accepted accounting principles
+GAIT. See “Guide to the Assessment of IT Risk”
+GAO. See Government Accountability Office
+GAO high-risk web site, 359
+Gartner, Inc., 309
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.GCFA. See GIAC Certified Forensic Analyst
+GDPR. See General Data Protection Regulation
+GDPR. See General Data Protection Regulation
+General Data Protection Regulation (GDPR), 59
+generally accepted accounting principles (GAAP), 178, 185
+Genetic Information Nondiscrimination Act of 2008, 145
+genetic testing, 145
+GIAC. See Global Information Assurance Certification
+GIAC Certified Forensic Analyst (GCFA), 424
+Gideon v. Wainwright (1963), 325
+GIF. See Graphics Interchange Format
+GLBA. See Gramm-Leach-Bliley Act
+GLBA. See Gramm-Leach-Bliley Act Safeguards Rule
+Global Information Assurance Certification (GIAC), 336
+global positioning system (GPS) technology, 48–49
+good faith, 262
+Government Accountability Office (GAO), 359
+GPS. See global positioning system technology
+Gramm-Leach-Bliley Act (GLBA), 26, 27t, 97–103, 196, 231, 307, 376, 414t
+Gramm-Leach-Bliley Act (GLBA) Safeguards Rule, 240, 243
+grand jury, 324
+Graphics Interchange Format (GIF), 46
+Griswold v. Connecticut (1965), 37
+group health plans, 143, 146
+“Guide to the Assessment of IT Risk” (GAIT), 190, 192–193
+guidelines, 362–363
+H
+Hammer v. Amazon.com (2005), 341
+harassment, 344, 372–373
+harmful content, 118
+hash, 430
+HathiTrust, 280
+health information, 34, 141–143
+Health Information Technology for Economic and Clinical Health Act (HITECH), 144, 147, 156
+Health Insurance Portability and Accountability Act (HIPAA), 26, 27t, 143–170, 196, 217, 231, 307, 375, 414t
+health plan, 146
+healthcare, 140–141, 145, 147
+healthcare operations, 149–150
+healthcare provider, 146
+hearsay rule, 441
+HHS. See Department of Health and Human Services
+high-impact system controls, 211t
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.high-level policies, 360
+high security category, 210
+HIPAA. See Health Insurance Portability and Accountability Act
+Hippocratic Oath, 141
+HITECH. See Health Information Technology for Economic and Clinical Health Act
+hot site, 411
+human resources personnel, 392
+human threats, 12
+hung jury, 325
+I
+IACIS. See International Association of Computer Investigative Specialists
+ICANN. See Internet Corporation for Assigned Names and Numbers
+ICFR. See internal controls over financial reporting
+identification number, 34
+identification of children, 117
+identity theft, 49, 81, 87, 329
+Identity Theft Prevention Program, 104
+IEC. See International Electrotechnical Commission
+IFRS. See International Financial Reporting Standards
+IG. See inspector general
+IIED. See intentional infliction of emotional distress
+illegal contract, 288
+“I Love You” worm, 369
+IM. See instant messaging
+implementation specifications, 162–168
+import control laws, 218–219
+improper use category, 405
+inadmissible evidence, 426
+inadvertent disclosures, 158
+incident, 211–212, 402, 403
+incident handlers, 404
+incident reporter, 404
+incident response (IR), 205, 388, 402–407, 407f
+incidental disclosures, 158
+incomplete performance, 292
+inculpatory evidence, 439
+independent directors, 195
+Indiana law, 232
+indictment, 324
+individual participation principle, 44
+individual rights under the Privacy Rule, 155–156
+industry sector, 23
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.information, 5, 324
+information access management standard, 163
+information needs, 355–356
+information security, 3–27, 35, 81–82
+information security governance (ISG), 353–382, 358t
+information security governance (ISG) documents, 359–367
+information security management (ISM), 357, 358t
+information security managers, 392
+information security policies, 363–380
+information security professionals, 183
+information security program, 101, 240
+information security terms, contracts, 309–311
+information sharing, 50
+information sharing task force, 95
+information theft, 329–330
+informed consent, 154
+infringement of copyright, 271–272, 276–277
+infringement of patent, 257–258
+infringement of trademarks, 265–266
+initial hearing, 324
+injunction, 45
+inspector general (IG), 206, 207
+Inspector General Act of 1978, 207
+instant messaging (IM), 298
+integrity, 5, 7–8
+integrity controls standard, 167
+intellectual property (IP), 250–251, 377
+intentional infliction of emotional distress (IIED), 343–344
+intentional torts, 337–338
+interception of communications laws, 330
+internal attackers, 13
+internal controls over financial reporting (ICFR), 188, 190
+internal controls under SOX, 188–191, 188f, 190t
+International Association of Computer Investigative Specialists (IACIS), 423
+International Electrotechnical Commission (IEC), 18, 193–194, 358
+International Financial Reporting Standards (IFRS), 185
+International Information Systems Security Certification Consortium (ISC), 2, 336
+International Organization for Standardization (ISO), 18, 193–194, 358
+International Organization on Computer Evidence (IOCE), 423, 431
+international patents, 255
+international privacy laws, 59
+International Traffic in Arms Regulation (ITAR), 218
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.Internet browsers, 46
+Internet Corporation for Assigned Names and Numbers (ICANN), 267
+Internet Crime Complaint Center (IC3), 326
+Internet defamation, 341
+Internet e-commerce, 261
+Internet of Things (IoT), 250
+Internet safety policy, 127
+Internet Service Provider Liability for Torts, 342–343
+Internet service providers (ISPs), 33, 126, 274, 276, 343, 436
+Interstate Communications Act, 333
+Interstate Stalking and Prevention Act, 333
+intoxicated person, 288
+intrusion, 329
+inventions, 253–256, 260
+inventory search, 435
+investigation category, 405
+investigative process, 426–431
+IOCE. See International Organization on Computer Evidence
+IoT. See Internet of Things
+IP. See intellectual property
+IP interest, 251
+IR. See Federal incident response center
+IR. See incident response
+ISC. See International Information Systems Security Certification Consortium
+ISG. See information security governance
+ISG. See information security governance documents
+ISM. See information security management
+ISO. See International Organization for Standardization
+ISPs. See Internet service providers
+IT. See federal information technology systems
+IT operations, 411
+IT personnel, 392
+ITAR. See International Traffic in Arms Regulation
+J
+job lock, 143
+judicial branch, 67
+judicial review, 70
+jurisdiction, 67, 295, 321–323
+K
+Katz v. United States (1967), 37
+keys, 242
+keystroke loggers, 21, 45
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.Kundra, Vivek, 202
+L
+landmark court decision, 78
+Lanham Act, 261
+law enforcement, 229
+laws, 23, 27t, 73–77, 414t
+least privilege, 16
+legal capacity online, 297
+legal duties, 23
+legal entities, 251
+legal ownership, 250–251
+legal requirements, contract, 311
+legalese vs. plain language, 364
+legislative branch, 65–67
+legislative history, 237
+libel, 341
+Library of Congress, 275
+license, 269, 302
+likelihood, 394–398. See also exposure factor
+limited data set, 153–154
+limited jurisdiction, 68
+liquidated damages, 293
+literary works, 268
+loathsome diseases, 342
+Locard’s exchange principle, 423
+logic bombs, 21–22
+logical safeguards. See technical safeguards
+“long arm jurisdiction” tests, 343
+“Love Bug” worm, 369
+low-impact system controls, 211t
+low security category, 210
+M
+machine, 252
+machine-readable privacy policy, 216–217
+Mail Privacy Statute (1971), 40
+mailbox rule, 290
+Mala in se, 319
+Mala prohibita, 319
+malicious code category, 405
+malicious information security acts, 332–333
+malware, 20–21, 369
+mantrap, 16, 16f
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.manufactured products, 252–253
+MAO. See maximum acceptable outage
+Massachusetts data protection laws, 239–241
+material change, 159
+material term, 290
+maximum acceptable outage (MAO), 410
+maximum tolerable downtime (MTD), 410
+media analysis, 422
+medical identity theft, 140–141
+meeting of the minds, 291
+Melissa virus, 333
+mens rea, 320
+merchant, 107–108
+methodology, 192–193
+MIB Group, Inc., 142
+military uses, 420
+Miller test, 119
+minimum necessary rule, 155
+Minnesota Credit Union Network, 236
+Minnesota law, 235
+Minnesota Plastic Card Security Act, 236
+minor child, 148
+mirror image rule, 289
+mirrored site, 411
+misdemeanors, 319
+mobile devices, 370, 422
+Model Privacy Notice Form, 100–101f
+moderate-impact controls, 211t
+moderate security category, 210
+monitoring, 189, 390
+Morris worm, 20, 21, 326, 333
+motion picture and audiovisual works, 268
+MTD. See maximum tolerable downtime
+musical works, 268
+mutual agreement, 291
+MyDoom computer worm, 22
+N
+NASA v. Nelson (2011), 38
+National Conference of Commissioners on Uniform State Laws (NCCUSL), 286, 296
+National Credit Union Administration (NCUA), 91t, 93–94
+National Credit Union Share Insurance Fund (NCUSIF), 93
+National Cybersecurity and Communications Integration Center (NCCIC), 212
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.National Institute of Standards and Technology (NIST), 18, 25, 194, 204, 207–211, 213, 242, 380
+National Institutes of Health (NIH), 202
+national security information, 25–26
+national security systems (NSSs), 204, 212–213
+National Vulnerability Database (NVD), 13
+natural threats, 12
+NCCIC. See National Cybersecurity and Communications Integration Center
+NCCUSL. See National Conference of Commissioners on Uniform State Laws
+NCUA. See National Credit Union Administration
+NCUSIF. See National Credit Union Share Insurance Fund
+Nebraska, 71
+need to know, 15
+negligence torts, 335–337
+negotiation process, 289
+network analysis, 422
+network banner, 437
+networking equipment, 421
+Nevada law, 236, 237, 241–242
+New York Court of Appeals, 71
+New York law, 244
+New York State data disposal law, 243–244
+NIH. See National Institutes of Health
+NIST. See National Institute of Standards and Technology
+nolo contendere, 324
+nominal damages, 293
+non-breaching parties, 293
+nonaffiliated party, 99
+nonprofit organization, 195
+nonpublic personal information (NPI), 97–98
+nonrepudiation, 294, 300–301
+“notice and takedown” letter, 277
+Notice of Privacy Practices, 159
+NPI. See nonpublic personal information
+NSSs. See national security systems
+NVD. See National Vulnerability Database
+O
+oath for patent, 256
+Obama, Barack, 201
+objection, 441
+obscene material, 118
+obscenity, 118–119
+OCC. See Office of the Comptroller of the Currency
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.OCR. See Office for Civil Rights
+OCTAVE. See Operationally Critical Threat, Asset, and Vulnerability Evaluation
+OECD. See Organization for Economic Cooperation and Development
+OFAC. See Office of Foreign Assets Control
+off-duty computer monitoring, 55
+offer, 288–289
+offeree, 288–291
+offeror, 288
+Office for Civil Rights (OCR), 168, 169
+Office of Foreign Assets Control (OFAC), 219
+Office of Management and Budget (OMB), 204, 206, 210, 213
+Office of Personnel Management (OPM), 219–220
+Office of the Comptroller of the Currency (OCC), 91t, 94
+Official Gazette, 263
+Ohio law, 230
+Ohio Public Records Act, 135
+OMB. See Office of Management and Budget
+omission, 335
+online bank websites, 90
+online contracts, 295–297
+Online Copyright Infringement Liability Limitation Act, 274, 276–277
+online data gathering, 51
+online profiling, 46
+online service provider (OSP), 276
+openness principle, 44
+operational incident response team, 404
+operational planning, 355
+operational risks, 14
+Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE), 399
+operator contact information, 121
+OPM. See Office of Personnel Management
+opt-out, 99, 150
+Organization for Economic Cooperation and Development (OECD), 43
+organizational governance, 24
+organizations uses, 420–421
+original jurisdiction, 68
+OSP. See online service provider
+outsourcing, 23–24
+oversight, 191–192
+ownership, legal, 250–251
+P
+Palsgraf v. Long Island Railroad (1928), 336
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.pantomimes, 268
+parallel test, 413
+parental consent, 117, 122–123
+parental controls, 117
+parental rights, 122
+Paris Convention for the Protection of Industrial Property (1883), 255
+passive data collection, 58
+passwords, 15, 377–379, 428–429
+patch, 10
+Patent Cooperation Treaty (PCT), 255
+patent prosecution, 256
+patent troll, 257
+patentable, 253, 256f
+patents, 252–259
+patient information directory, 150
+payment, 117, 149–150
+Payment Card Industry (PCI), 234–236
+Payment Card Industry (PCI) Standards, 27t, 106–109, 109t, 414t
+payment in arrears, 104
+Payne v. Tennessee (1991), 78
+PCAOB. See Public Company Accounting Oversight Board
+PCI. See Payment Card Industry
+PCI. See Payment Card Industry Standards
+PCT. See Patent Cooperation Treaty
+Pen Register and Trap and Trace Statute, 330, 438–439
+pen register devices, 438
+people-based privacy concerns, 49–51
+persistent data, 430
+person, 251
+personal health record (PHR), 161
+personal identifying information, 243
+personal information, 4, 227, 228–232
+personal jurisdiction, 321–322
+personal property interest, 251
+personally identifiable information (PII), 39, 129, 131, 132, 133
+person/entity authentication standard, 167
+PHI. See protected health information
+phishing, 20–21, 49, 330–331
+PHR. See personal health record
+physical and environmental threats, 12
+physical safeguards, 16, 17t, 164–166, 166t
+PIAs. See privacy impact assessments
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.pictorial, graphic, and sculptural works, 268
+PII. See personally identifiable information
+piracy, 271
+plain language vs. legalese, 364
+plain view doctrine, 434
+plaintiff, 334, 335, 336, 337–338
+plant patents, 253
+Plant Variety Protection Act, 254
+Plastic Card Security Act, 236
+plea, 324
+pleadings, 35
+Plessy v. Ferguson (1896), 78
+policies, 24, 360–361
+policy development process, 363–367, 367f
+poor man’s copyright, 270
+pop-up advertisements, 45
+portrayal in false light privacy tort, 42
+potential loss, 394–398
+potential sources, 421
+Powers Report, 179
+PR. See public relations
+precedent, 78–79
+preemption, 66
+preexisting condition, 143, 144, 145
+preponderance of evidence, 76
+presentation step of investigation, 430–431
+preservation step of investigation, 426–427
+Pretexting Rule, 102–103
+preventive controls, safeguards, 17
+primary handler, 404
+“Principal Register”, 262, 264
+prior art, 254
+prior consideration, 292
+privacy, 32–35, 81–82
+Privacy Act (1974), 39, 214–215
+privacy concerns, 49–51
+privacy impact assessments (PIAs), 39, 216–218
+privacy law, 36–44
+privacy notices, 157
+privacy policies laws, 58
+privacy policy, 119, 121
+privacy protection, information systems, 57–59
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.Privacy Rule, 98–99, 100f, 101f, 147–161, 149, 150, 154–155
+privacy torts, 42–43, 345
+privacy violations, 345
+private cause of action, 160, 233–234
+private entities, 432
+privately held company, 177
+pro se, 312
+probative evidence, 440
+ProCD Inc. v. Zeidenberg (1996), 304
+procedural law, 75
+procedures, 361–362
+process, 253, 260
+productivity, 369, 374
+profit and loss statement, 181
+property interest, 250
+prosecutor, 76, 324
+prospectus, 182
+protected health information (PHI), 147–149, 150, 153–154, 155–156, 161
+protective sweep exception, 435
+provider exception, 437–438
+proxy servers, 125–127
+P3P, 216–217
+Public Company Accounting Oversight Board (PCAOB), 182, 183–185
+public company vs. private company, 177
+public disclosure of private facts privacy tort, 42–43
+public domain, 269
+public employees, 56
+public health, 162
+public records and privacy, 35
+public relations (PR), 415–416
+punitive damages, 293, 337
+purpose specification principle, 43
+Q
+qualitative risk analysis, 396, 399t
+quantitative risk analysis, 398, 399t
+R
+RA. See risk assessment
+Radio Frequency Identification (RFID), 47
+ransomware, 21
+real property interest, 251
+realized risk, 390–391
+reasonable information security professional, 336
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.reasonable person standard, 42, 334
+records, 185–187, 214, 243, 439
+recovery criticality, 409
+Red Flags Rule, 27t, 81, 103–106, 106t
+regulatory authorities, 79–80
+regulatory requirements, 311, 356
+remedial actions, 205
+remedies for copyright, 271–272
+remedies for patent, 257–258
+remedies for trademark, 265–266
+remedy, 292
+reports task force, 95
+representations and warranties for service contracts, 307
+repudiation, 294
+reputational risks, 14
+residual risk, 14
+Restatement (Second) of the Law of Torts, 343
+retaliation, 373
+RFID. See Radio Frequency Identification
+right to sue in federal court, 261
+risk acceptance, 15, 400
+risk analysis, 163
+risk assessment (RA), 189, 205, 390–400, 414t
+risk avoidance, 14, 400
+risk level matrix, 397t
+risk level outcomes, 398t
+risk management (RM), 356, 387, 389–401, 390f
+risk management framework (RMF), 208, 209f
+risk mitigation, 14, 400
+risk response, 390, 400
+risk transfer, 15, 400
+risks, 14–15
+RM. See risk management
+RMF. See risk management framework
+Robinson v. California (1962), 320
+S
+SaaS. See Software as a Service model
+safe harbor, 229
+safeguards, 15–17, 17t, 162–168
+Safeguards Rule, 99–102, 109–110
+sanctions, 373
+SANS Institute, 360
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.Sarbanes-Oxley Act (SOX), 27t, 181–192, 194–195, 391, 414t
+scans, probes, and attempted access category, 405
+SDN. See specially designated nationals
+seal program, 44
+search, 432
+search engine, 33
+search incident to lawful arrest, 435
+search warrants, 432–435
+SEC. See Securities and Exchange Commission
+seclusion privacy tort, intrusion into, 41
+Second. See Restatement (Second) of the Law of Torts
+secondary handlers, 404
+secondary meaning, 264
+securities, 177
+Securities and Exchange Commission (SEC), 98, 177, 191–192
+security awareness and training standard, 163, 205, 379–380, 401
+security breaches, 48–49
+security category, 210
+security controls, 205, 210
+security failures, 356
+security incident procedures standard, 163–164
+security management process standard, 163
+security of social networking sites, 50–51
+security-related certification, 336
+Security Rule, 159, 161–168
+security safeguards principle, 43
+seizure, 433
+self-representation, 325
+separation of duties principle, 10, 407
+service contracts, 306
+service of process, 338
+service provider, 102
+service provider liability, 279
+servicemark, 259
+settlement agreement, 110
+shoulder surfing, 6, 18, 49
+shrinkwrap contracts, 303
+silver platter doctrine, 433
+simulation test, 413
+single loss expectancy (SLE), 395
+single point of failure, 9
+slack space, 427
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.slander, 341
+SLE. See single loss expectancy
+small public company, 182
+Smith v. Maryland (1979), 38
+social engineering, 6–7, 19, 49. See also pretexting
+social networking sites, 50–51, 299
+Social Security numbers (SSNs), 32, 34, 40, 49, 202, 206, 236–238
+Software as a Service (SaaS) model, 308
+SORN. See system of records notice
+sound recordings, 268
+SOX. See Sarbanes-Oxley Act
+spam, 330–331
+spear phishing, 20
+special publications (SPs), 207
+specially designated nationals (SDN), 219
+specific performance, 293
+specification for patent, 256
+SPs. See special publications
+spyware, 21, 44–45
+SSNs. See Social Security numbers
+stakeholders, 365
+standard transaction, 147
+standards, 361
+Stare decisis, 78
+state breach notification acts, 27t
+state government, 70–72
+state laws, 40–41, 169, 329, 375, 376
+Statute of Frauds, 287
+statute of limitations, 313, 338
+statutory damages, 272
+statutory law. See code law
+storage devices, 421
+stored communication exception, 53
+Strassheim v. Daily, 322
+strategic planning, 355
+strategic risks, 14
+strict liability, 257
+strict liability torts, 334
+strong trademarks, 264
+Strunk v. United States (1973), 325
+student, 129
+student records, 133
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.students data, state laws protecting, 134
+Studies and Reports (Title VII), 182
+subject matter jurisdiction, 321
+subject matter law. See substantive law
+subordinate plans, 205
+substantial performance, 292
+substantive criminal law, 319
+substantive law, 75
+sunshine laws, 35
+supervision task force, 95
+“Supplemental Register”, 262, 264
+supplies recovery, 410
+Supremacy Clause, 71
+Supreme Court, 70
+surveillance systems task force, 95
+system of records notice (SORN), 215
+system/service risks, 14
+T
+tabletop test, 413
+tabletop walk-through test, 413
+tactical planning, 355
+target department store, 110–111
+targeted advertising, 46
+targeted phishing scams, 20
+technical safeguards, 15–16, 17t, 166–167, 167t
+technically feasible standard, 240
+technological and operational threats, 12
+technology-based privacy concerns, 44–48
+technology protection measure (TPM), 125–126, 128, 274–275
+telephone and voicemail monitoring, 52–53
+Telephone Harassment Act, 333
+telephone monitoring, 52–53
+Tenth Amendment, 70
+termination and breach of service contracts, 307
+terms in contract, 307
+terms of service agreement, 302
+terms of use agreement, 302
+testing and evaluation, agency’s information security program, 205
+text messaging, 298
+theft of information, 329–330
+Third Amendment (U.S. Constitution), 36
+third-party, 122
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.third-party company, 126
+third-party cookies, 45
+thisisyourdigitallife, 51
+threats, 12–14, 392–394, 394t
+thrifts, 94
+Title II. See Auditor Independence
+Title III. See corporate responsibility
+Title IV. See Enhanced Financial Disclosures
+Title IX. See White-Collar Crime Penalty Enhancements
+Title V. See Analyst Conflicts of Interest
+Title VI. See Commission Resources and Authority
+Title VII. See Studies and Reports
+Title VIII. See Corporate and Criminal Fraud Accountability
+Title X. See Corporate Tax Returns
+Title XI. See Corporate Fraud and Accountability
+TM symbol, 262
+top-level domain, 266
+tort, 41
+tort law, 334–339
+tort law actions in cyberspace, 341–345
+tortfeasor, 334
+tortious conduct, 334
+tort of outrage. See intentional infliction of emotional distress
+TPM. See technology protection measure
+trade secret, 258–259, 278–279
+trademark, 251, 259–266
+trademark registration, 261, 263–264
+traditional contracts, 295
+training employees, 401
+transitory communications safe harbor, 276
+transmission security standard, 167
+Transportation Security Administration (TSA), 7
+trap and trace devices, 438
+trap-door. See backdoors
+treatment activities, 150
+treble damages, 243
+trespass torts, 344–345
+trespasser exception, 438
+triage, 404
+trial court objections, 441
+Trojan horse, 21
+TSA. See Transportation Security Administration
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.Twitter, 299
+U
+UCC. See Uniform Commercial Code
+UDRP. See Uniform Domain Name Dispute Resolution Policy
+UETA. See Uniform Electronic Transactions Act
+unauthorized access category, 405
+unconscionable contracts, 288
+unfair trade practices, 96
+unicameral legislature, 71
+Uniform Commercial Code (UCC), 286, 294
+Uniform Domain Name Dispute Resolution Policy (UDRP), 267
+Uniform Electronic Transactions Act (UETA), 295, 296, 300
+uniform resource locator (URL), 266
+United States v. Barrows (2007), 55
+United States v. White (1971), 38
+unreasonable government search and seizure, 432
+updates of service contracts, 307
+URL. See uniform resource locator
+U.S. Attorneys, 323
+U.S. Census Bureau, 32, 39
+U.S. Congress, 65–66
+U.S. Constitution, 36–37, 65, 235, 318
+U.S. Copyright Office, 272, 277
+U.S. Courts of Appeals, 69
+U.S. Department of Commerce, 219
+U.S. Department of Education (ED), 128, 133, 135–136
+U.S. Department of Justice, 216, 331, 333
+U.S. Department of State, 218
+U.S. Department of Veterans Affairs (VA), 244
+U.S. federal court system, 70f
+U.S. Federal Reserve System (the Fed), 91–92, 91t, 92f
+U.S. National Security Information, 25–26
+U.S. Patent and Trademark Office (USPTO), 252–265
+U.S. state court system, 72f
+U.S. Supreme Court, 37–38, 67, 68t, 78, 118, 119, 124, 135
+U.S. v. Jones (2012), 48
+U.S.A. PATRIOT Act (2001), 436
+use, 148
+use, as defined in service contracts, 306
+use limitation principle, 43
+user credentials, 378
+user input, 117
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.USPTO. See U.S. Patent and Trademark Office
+utility patents, 253–254
+V
+VA. See U.S. Department of Veterans Affairs
+Vessel Hull Design Protection Act, 274
+Veterans Affairs Information Security Act of 2006, 245
+victim, 404
+video surveillance monitoring, 55–56
+viruses, 20
+Visa and Mastercard, 111
+vital statistics and communicable diseases, 151–152
+voice mail monitoring, 52–53
+voicemail monitoring, 52–53
+volatile data, 430
+voluntary agreements, 43–44
+voluntary organizations, 26
+vulnerabilities, 10–12, 11f, 392–394, 394t
+W
+walk-through test, 413
+warm site, 411
+Washington State personal data disposal law, 242–243
+weak trademarks, 264
+Web beacon, 45–46
+Web bug, 46
+WFH. See work made for hire
+Whalen v. Roe (1977), 38
+whaling, 20
+Wheaten v. Peters (1834), 37
+White-Collar Crime Penalty Enhancements (Title IX), 182
+window of vulnerability, 11
+WIPO. See World Intellectual Property Organization
+wireless technology, 47
+Wiretap Act (1968, amended), 39, 330, 437–438
+work made for hire (WFH), 269
+workforce security standard, 163
+workplace harassment, 372
+workplace monitoring, 52, 56–57
+workplace privacy, 51–57, 373–374
+workstation security standard, 165–166
+workstation use standard, 165
+World Intellectual Property Organization (WIPO), 255, 267, 274
+World Wide Web (WWW), 250
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.writ of certiorari, 69
+write blockers, 429
+wrongful conduct, type of, 319
+WWW. See World Wide Web
+Z
+zero-day vulnerability, 12
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.A triangle presents the three principles of information security,
+confidentiality, integrity, and availability, which are stated on each side of
+a triangle. Confidentiality, representing the security goal of protecting
+information from unauthorized access at all stages of its life cycle, is
+indicated by three boxes of D V D-R devices; integrity, representing the
+security goal of data correctness and accuracy, is indicated by a main
+server; availability, representing the security goal of making sure
+information systems operate reliably, is indicated by two desktop units
+accompanied by a monitor and a keyboard, and a server.
+Back to Figure
+The window is represented by a scale with, Day 0: Vulnerability is
+discovered, listed on the left end, and Day n: Vulnerability eliminated or
+mitigated, listed on the right end. Across the scale, Day 0 to Day n: period
+when vulnerability is susceptible to threat and exploit, is listed.
+Back to Figure
+There is a set of doors that leads to a secure area from an unsecured
+area. Two persons enter a mantrap, a controlled access area room,
+through this set of doors. On closure of this set of doors, the second set
+of doors open to a secured area, such as a research laboratory or data
+center.
+Back to Figure
+The U.S. Supreme Court, also termed the court of last resort, is at a
+higher level, and controls the 13 U.S. circuit courts of appeals or courts of
+appellate jurisdiction; the courts of appeals in turn control the 94 U.S.
+district courts or courts of original jurisdiction, asterisk. Text for asterisk
+reads, This figure does not include the structure for special courts of
+limited jurisdiction.
+Back to Figure
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.The State Supreme Court, also termed the state court of last resort,
+functions as the court of appellate jurisdiction, and final arbiter of issues
+of state law; state supreme court decisions on issues of U.S.
+constitutional or federal law are appealed to the U.S. Supreme Court. The
+State Supreme court is shown at a higher level and controls the state
+court of appeals or state intermediate appellate court, which is the court
+of appellate jurisdiction; the state courts of appeals in turn control the
+state trial courts, which are the courts of original jurisdiction.
+Back to Figure
+The three primary standards of proof are proof beyond a reasonable
+doubt, highest burden of proof as in criminal cases; clear and convincing
+evidence and preponderance of the evidence, moderate burden of proof
+as in civil cases; and not arbitrary or capricious, lowest burden of proof as
+in administrative cases.
+Back to Figure
+The Federal Reserve board of Governors controls the 12 regional Federal
+Reserve banks, located in Atlanta, Boston, Chicago, Cleveland, Dallas,
+Kansas City, Minneapolis, New York, Philadelphia, Richmond, San
+Francisco, and Saint Louis. The regional Federal Reserve banks control
+the 24 Federal Reserve branches, located throughout the U.S.
+Back to Figure
+The heading of the form is as follows. Facts: What does [Name of
+Financial Institution] do with your personal information? The form is
+divided into three tables, and a mail-in form. The first table consists of
+three rows and two columns, with the first column containing a one-word
+question, and the second column, the explanation. The row entries are as
+follows. Row 1: Why? Financial companies choose how they share your
+personal information. Federal law gives consumers the right to limit some
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.but not all sharing. Federal law also requires us to tell you how we collect,
+share, and protect your personal information. Please read this notice
+carefully to understand what we do. Row 2: What? The types of personal
+information we collect and share depend on the product or service you
+have with us. This information can include: Social Security number and
+[income]; [account balances] and [payment history]; [credit history] and
+[credit scores]. Row 3: How? All financial companies need to share
+customers’ personal information to run their everyday business. In the
+section below, we list the reasons financial companies can share their
+customers’ personal information; the reasons [name of financial
+institution] chooses to share; and whether you can limit this sharing. The
+column headings in the second table are as follows: Reasons we can
+share your personal information; Does [name of financial institution]
+share? and, Can you limit this sharing? The last two columns are empty
+to be filled in. The entries in the first column are as follows. Row 1: For
+our everyday business purposes— such as to process your transactions,
+maintain your account(s), respond to court orders and legal
+investigations, or report to credit bureaus. Row 2: For our marketing
+purposes— to offer our products and services to you. Row 3: For joint
+marketing with other financial companies. Row 4: For our affiliates’
+everyday business purposes— information about your transactions and
+experiences. Row 5: For our affiliates’ everyday business purposes—
+information about your creditworthiness. Row 6: For our affiliates to
+market to you. Row 7: For nonaffiliates to market to you. The row entries
+in the third table are as follows. Row 1: To limit our sharing. Call [phone
+number]—our menu will prompt you through your choice(s); Visit us
+online: [website]; Mail the form below. Please note: If you are a new
+customer, we can begin sharing your information [30] days from the date
+we sent this notice. When you are no longer our customer, we continue to
+share your information as described in this notice. However, you can
+contact us at any time to limit our sharing. Row 2: Questions? Call [phone
+number] or go to [website]. The mail-in form has two columns. The text in
+the first column read, Leave blank or [If you have a joint account, your
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.choice(s) will apply to everyone on your account unless you mark below.
+A checkbox, followed by the text, Apply my choices only to me]. The text
+in the second column read, Mark any/all you want to limit: A checkbox,
+followed by the text, Do not share information about my creditworthiness
+with your affiliates for their everyday business purposes. A checkbox,
+followed by the text, Do not allow your affiliates to use my personal
+information to market to me. A checkbox, followed by the text, Do not
+share my personal information with nonaffiliates to market their products
+and services to me. The text at the bottom of the form reads as follows,
+Name, an entry field; Address, an entry field, City, State, Zip, an entry
+field, Account Number, entry field, Mail to: [Name of Financial Institution]
+[Address1] [Address2] [City], [State] [ZIP].
+Back to Figure
+The table consists of four tables. The heading of the first table reads,
+Who we are. The row entry is as follows. Who is providing this notice?
+[insert]. The heading of the second table reads, What we do. There are
+two columns, with the question raised in the first column, and the second
+column holding the explanation. The row entries are as follows. Row 1:
+How does [name of financial institution] protect my personal information?
+To protect your personal information from unauthorized access and use,
+we use security measures that comply with federal law. These measures
+include computer safeguards and secured files and buildings. [insert].
+Row 2: How does [name of financial institution] collect my personal
+information? We collect your personal information, for example, when you
+[open an account] or [deposit money]; [pay your bills] or [apply for a loan];
+[use your credit or debit card]. [We also collect your personal information
+from other companies.] or [We also collect your personal information from
+others, such as credit bureaus, affiliates, or other companies.] Row 3:
+Why can’t I limit all sharing? Federal law gives you the right to limit only:
+sharing for affiliates’ everyday business purposes—information about
+your creditworthiness; affiliates from using your information to market to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.you; sharing for nonaffiliates to market to you. State laws and individual
+companies may give you additional rights to limit sharing. [See below for
+more on your rights under state law.] Row 4: What happens when I limit
+sharing for an account I hold jointly with someone else? [Your choices will
+apply to everyone on your account.] or [Your choices will apply to
+everyone on your account—unless you tell us otherwise.] The third table
+lists the definitions in one column, and the explanation in the next column.
+The row entries are as follows. Row 1. Affiliates: Companies related by
+common ownership or control. They can be financial and nonfinancial
+companies. [affiliate information]. Row 2. Nonaffiliates: Companies not
+related by common ownership or control. They can be financial and
+nonfinancial companies. [nonaffiliate information]. Joint marketing: A
+formal agreement between nonaffiliated financial companies that together
+market financial products or services to you. [joint marketing information].
+The fourth table shows the heading, Other important information, and the
+text below it reads, [insert other important information].
+Back to Figure
+The content from the world wide web, categorized as acceptable content
+allowed and unacceptable content blocked, is accessed through the
+internet, which then passes through a network security system, the
+firewall; the firewall connects to the proxy server that has a content filter
+blocking all content marked as unacceptable. Only the acceptable content
+is made available to all users of a facility.
+Back to Figure
+The six steps to protect federal I T systems are as follows: Categorize
+information systems; Select security controls; Implement security
+controls; Assess security controls; Authorize information systems for
+processing; and Continuously monitor security controls.
+Back to Figure
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.There are four blocks from left to right. The text in the first block reads,
+Notification required in 30 days following the discovery of a security
+breach. A vertical line separates the first and the second blocks, and is
+labeled Day 30. The text in the second block reads, Entity fined $1,000
+per day for failure to notify within this time period, lasts for 30 days. A
+vertical line separates the second and the third blocks, and is labeled Day
+60. The text in the third block reads, Entity fined $50,000 for each 30-day
+period for failure to notify within this time period which lasts for 180 days
+after notification date. A vertical line separates the third and the fourth
+blocks, and is labeled Day 180. The text in the fourth block reads, Entity
+may be fined $500,000 for failure to notify after this period.
+Back to Figure
+The decision tree begins with the question, Has there been a breach of a
+computer system or does the entity reasonably believe that a breach has
+occurred, being raised. If the reply is a No, no notification is required. If
+the reply is a Yes, the question, Did the computer system contain
+personal information, is raised. If the reply is a Yes, a check is done if the
+personal information was encrypted, if the reply is a Yes, no notification is
+required, but if personal information had not been encrypted, notification
+is likely required, and the question, Does the breach notification law allow
+substitute notification in some situations, is raised. If yes, a check is done
+if the substitute notification requirements have been met. If the reply is a
+No, affected individuals must receive written notice of security breach,
+and on a Yes, an alternate notice is provided according to the law.
+Back to Figure
+A triangle presents the three principles of information security,
+confidentiality, integrity, and availability, which are stated on each side of
+a triangle. Confidentiality, representing the security goal of protecting
+information from unauthorized access at all stages of its life cycle, is
+indicated by three boxes of D V D-R devices; integrity, representing the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.security goal of data correctness and accuracy, is indicated by a main
+server; availability, representing the security goal of making sure
+information systems operate reliably, is indicated by two desktop units
+accompanied by a monitor and a keyboard, and a server.
+Back to Figure
+The layer at the bottom of a pyramid is labeled strategic which involves
+setting of broad, long-range goals; in the middle is tactical planning,
+which involves the identification of specific, short-range objectives; and at
+the top is operational, where the setting or work standards and schedules
+are planned. An arrow points from bottom to top, with long-term planning,
+broad scope, indicated at the bottom, and day-to-day planning, specific
+scope, indicated at the top.
+Back to Figure
+The layer at the bottom of a pyramid is labeled policies which are the
+highest-level governance documents; in the middle is standards; and the
+top is labeled procedures which refer to step-by-step instructions. An
+arrow points from bottom to top, with broad scope, rarely change,
+indicated at the bottom, and specific scope, change frequently, indicated
+at the top.
+Back to Figure
+The seven steps in a policy development process are as follows: Policy
+development, stakeholder review, management approval, communication
+to employees, document compliance and exceptions, continued
+awareness, and maintenance and review.
+Back to Figure
+The four steps in the process are as follows: Implement policies and
+controls in response to risk analysis, train employees to respond to risk,
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.continuously monitor policies and controls for effectiveness, and risk
+analysis.
+Back to Figure
+The processes from top to bottom are as follows: Develop the D R and B
+C policy; conduct a business impact analysis; identify threats and
+potential controls; determine recovery strategy; and design and maintain
+the plan.
+Back to Figure
+The table shows four columns: safeguard type, preventive, detective, and
+corrective. Row entries are as follows. Row 1. Administrative,
+Organization hiring policy, Organization periodic background checks
+policy, Discipline policy. Row 2. Technical (Logical), Least privilege
+principle, Antivirus software, Updating firewall rules to block an attack.
+Row 3. Physical, Locks on doors to critical areas, Burglar alarms, Locking
+a door that was inadvertently left unlocked.
+Back to Table
+The table shows four columns: name, position, appointing president, and
+date term began. Row entries are as follows. Row 1. John G. Roberts,
+Chief Justice, George W. Bush, September 2005. Row 2. Clarence
+Thomas, Associate Justice, George H. W. Bush, October 1991. Row 3.
+Ruth Bader Ginsburg, Associate Justice, Bill Clinton, August 1993. Row
+4. Stephen Breyer, Associate Justice, Bill Clinton, August 1994. Row 5.
+Samuel Alito, Associate Justice, George W. Bush, January 2006. Row 6.
+Sonia Sotomayor, Associate Justice, Barack Obama, August 2009. Row
+7. Elena Kagan, Associate Justice, Barack Obama, August 2010. Row 8.
+Neil Gorsuch, Associate Justice, Donald Trump, April 2017. Row 9. Brett
+Kavanaugh, Associate Justice, Donald Trump, October 2018.
+Back to Table
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.The table shows four columns: security control area (F I P S 200), low-
+impact system controls (S P 800-53), moderate-impact controls (S P 800-
+53), and high-impact system controls (S P 800-53). Row entries are as
+follows. Row 1. Security control area (F I P S 200): Access control
+(wireless access controls). Low-impact system controls (S P 800-53):
+Federal agencies must establish use restrictions for wireless access,
+configuration requirements, and implementation guidance and authorize
+wireless access to an information system before allowing access.
+Moderate-impact controls (S P 800-53): In addition to implementing low-
+impact controls, the agency must also protect wireless access to the
+system using authentication and encryption. High-impact system controls
+(S P 800-53): In addition to implementing low- and moderate-impact
+controls, the agency must also identify users allowed to configure
+wireless networking capabilities and limit wireless communications to
+organization-controlled boundaries.
+Back to Table
+The matrix shows the likelihood and impact rating level. Data from the
+matrix, presented in the format, Impact, Likelihood: Rating, are as follows.
+Low, Low: Low. Low, Medium: Low–Medium. Low, High: Medium–High.
+Medium, Low: Low–Medium. Medium, Medium: Medium. Medium, High:
+Medium–High. High, Low: Medium–High. High, Medium: Medium–High.
+High, High: High.
+Back to Table
+The table shows six columns: vulnerability, threat source, threat, threat
+likelihood, threat impact, and risk level. Row entries are as follows. Row
+1. Data center has few physical security controls to prevent unauthorized
+access to data center hardware; Unauthorized users; Theft of data center
+hardware; Medium; High; Medium–high. Row 2. Failure to remove user
+accounts in a timely manner when an employee leaves the organization;
+Disgruntled terminated employees; Theft of sensitive company data;
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.High; High; High. Row 3. No access controls for sensitive files stored on I
+T resources; Curious employees; Review of data without need to know;
+Medium; Low; Low–medium.
+Back to Table
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:20:14.

@@ -1,0 +1,1719 @@
+CHAPTER
+10
+Intellectual Property Law
+NTELLECTUAL PROPERTY (IP) is the area of law that protects a person’s
+creative ideas, inventions, and innovations. It protects people’s ownership rights in
+their creative ideas, gives them the right to control the use of their creative ideas,
+and protects their ability to profit from those ideas. It also prevents other people from
+exploiting a person’s creative ideas.
+I
+IP protection in the United States has a long history. In fact, the U.S. Constitution
+recognizes the importance of protecting IP. This chapter reviews the major ways you
+can protect IP. It also reviews the role of information technology in IP issues.
+Chapter 10 Topics
+This chapter covers the following topics and concepts:
+Why intellectual property law is important
+What the concept of legal ownership is
+What the basics of patent protection are
+What the basics of trademark protection are
+What the basics of copyright protection are
+What the basics of the Digital Millennium Copyright Act (DMCA) are
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.What some case studies and examples are
+Chapter 10 Goals
+When you complete this chapter, you will be able to:
+Describe the importance of intellectual property law
+Explain the basic concept of legal ownership
+Explain how patents are used and what they protect
+Explain how trademarks are used and what they protect
+Explain how copyrights are used and what they protect
+Describe intellectual property concerns with respect to internet use
+Describe the Digital Millennium Copyright Act (DMCA) and what it
+protects
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.The Digital Wild West and the Importance of
+Intellectual Property Law
+It is hard to know who coined the term Digital Wild West. It is clear, however, that the
+term is a good description for the state of the World Wide Web (WWW, or “web”)
+today. Similar to the American “Wild West” in the latter half of the 19th century, the
+web still has a frontier. Its outer limits are unknown.
+The web and our use of it are still changing and evolving. More people are
+accessing the internet and using the web than ever before. World internet usage
+grew over 1,167 percent between the years 2000 and 2020. 1 Many different devices
+can access the internet, which has led to a new term, the Internet of Things (IoT).
+The IoT refers generally to the devices that collect and share data over the internet.
+Cell phones, smartphones, netbooks, and televisions all access the internet, as do
+healthcare devices, fitness trackers, home automation systems, and even
+appliances! People (and devices) can access the internet and web anytime, and
+from anywhere.
+NOTE
+The World Wide Web is a system of linked hypertext documents and other media that are connected
+through the internet. Even though we refer to them as one and the same, the internet and the World Wide
+Web are not the same. The internet is the infrastructure, whereas the web resides on the infrastructure.
+We are still exploring how to use the web. Organizations are learning how to
+effectively and efficiently conduct business online, although some businesses
+already conduct all of their commerce online. People are joining social networking
+groups and taking many aspects of their lives “online.” Many people share novel
+ideas and champion social causes online. Art and inventions are shared online as
+well.
+One traditional area of law that is adapting to new issues raised through
+technology is intellectual property (IP) law. Intellectual property (IP) is the area of
+law that protects a person’s creative ideas, inventions, and innovations once they
+are in a physical form. When materials are published on the web, they are in a
+physical form. Traditional legal concepts about IP ownership and how to protect it
+are applied to content on the World Wide Web.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Legal Ownership and the Importance of
+Protecting Intellectual Property
+A legal owner of property has the right to use it in any way he or she wants to, and
+the power to give those rights to another. This is a property interest. It means that
+the owner has certain rights to property, and a court will enforce those rights if
+necessary. There are several different types of property ownership:
+Real property interest—This type of property interest means that a person owns
+land or buildings.
+Personal property interest—This type of property interest means that a person
+owns physical possessions such as cars, books, and silverware.
+IP interest—This type of property interest means that a person owns some sort of
+creation. Creations include items such as art, designs, images, and inventions.
+NOTE
+Corporations and businesses also can own property. So can governments. In the context of property law, a
+person is a real person or other legal entity. Legal entities include corporations, businesses, private
+organizations, and governments.
+Owners of property can control how it is used. Ownership is an important concept for
+IP because an IP owner has certain exclusive rights. An owner, the person who
+created new works or inventions, is the only one who has these rights. Courts will
+enforce these rights, and can punish people who violate these rights.
+The federal government determines many IP law rules in the United States. The
+U.S. Constitution specifically grants the power to do this. The Constitution grants
+Congress the power to “promote the progress of science and useful arts, by securing
+for limited times to authors and inventors the exclusive right to their respective
+writings and discoveries.” 2 The drafters of the Constitution wanted to encourage
+innovation and discovery. To do this, they specifically said that authors and inventors
+must have the exclusive right to control their creations and inventions for a certain
+period.
+The exclusive right to control how creations and inventions are used is the main
+purpose of IP law. Creators have a right to control how their creations are used for a
+certain period of time depending upon the underlying nature of the creation. Different
+laws protect inventions and literary works for different periods.
+During the protected period, the creator or author of a work or invention is the
+only person who can use or reproduce it. This allows authors and inventors to profit
+from their creative efforts. People would not be encouraged to write new books or
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.create new inventions if they did not have an opportunity to profit from their efforts.
+IP law protects these efforts. It also encourages them to continue to create.
+Ultimately, this helps the economy.
+The federal law recognizes the following types of IP:
+Patents—Used to protect inventions such as machines, processes, designs, and
+specialized plants.
+Trademarks—Used to protect words, logos, symbols, or slogans that identify a
+product or service.
+Copyrights—Used to protect books, art, music, videos, computer programs, and
+other creative works.
+Each type of IP right is demonstrated in a different way. Each applies to different
+types of creations and inventions. They give protection for different lengths of times.
+They also have different requirements for establishing and enforcing IP rights.
+NOTE
+Trademarks have the longest protection period. They are protected as long as an owner continues to use it
+in commerce.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Patents
+A patent is an IP right granted by the federal government. The U.S. Patent and
+Trademark Office (USPTO) grants patents. The USPTO is an agency located in the
+Department of Commerce.
+NOTE
+The National Inventors Hall of Fame and Museum is located at the USPTO in Alexandria, Virginia.
+FYI
+Congress enacted the most recent version of U.S. patent law in the Patent Act of 1952. 3 Congress has
+amended this law several times. The most recent amendment to U.S. patent law was in 2011. In 2011, the
+America Invents Act (AIA) 4 introduced significant changes to U.S. patent law. Before March 2013, the
+United States followed a “first to invent” rule. This meant that the first person to invent something and
+show that it works could patent it. This rule had been in effect for more than 200 years.
+The AIA drastically changed this rule. Starting in March 2013, the U.S. adopted a “first to file” system. This
+means that the first person to file for a patent has priority over all other people who have a similar idea.
+The change in the filing rules is meant to encourage inventors to patent their ideas sooner. It is intended to
+encourage innovation. It also aligns the United States with other countries, most of which follow “first to
+file” rules.
+Patents are granted to encourage new and useful inventions. Patent owners
+have the right to keep others from making or using the patented invention. They also
+have the power to stop others from selling their invention. There are three basic
+types of patents:
+NOTE
+The USPTO granted 370,434 patents in 2019. Most of those patents were utility patents. 5
+Utility patents
+Plant patents
+Design patents
+Utility patents, which are issued for inventions and discoveries, are the most
+common type of patents. There are four main categories of utility patents:
+Machines
+Manufactured products
+Processes
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Compositions of matter
+Improvements on any of the items in the previous list can also be patented. Utility
+patents are granted for a 20-year term that begins running on the date that the
+patent is granted.
+Under patent law, a machine is an instrument or tool that completes a task by
+using moving parts. These parts interact with each other to accomplish a function.
+Machines are things such as lawnmowers, elevators, and automatic can openers.
+Devices that work because of an electrical process, such as computers, also fall into
+this category.
+NOTE
+A manufactured product is called an article of manufacture in patent law.
+Manufactured products are products without moving parts. A milk carton is an
+example of a manufactured product. Although a manufactured product may have
+moving parts, the moving parts do not act together to accomplish a task. A folding
+table, even though it has moving parts, is a manufactured product. It is not a
+machine.
+A process, also called a method, is a way of completing a task through a series of
+steps or actions. A process can be patented as a utility patent. A recipe might be
+patentable as a process, and some types of computer software may be patentable
+as processes as well.
+A composition of matter is a chemical compound consisting of two or more
+substances combined to make something new. Manufacturers patent new drugs
+under this subcategory of utility patents. Naturally occurring chemical compounds
+are not patentable. For instance, the air is not patentable.
+The second type of patent is plant patents. Plant patents are granted to an
+inventor who invents or discovers a new variety of plant. However, the inventor must
+prove that he or she can asexually reproduce the new plant. Asexual reproduction
+means that the plant is reproduced through cutting or grafting. Plants that grow from
+seeds do not reproduce asexually. Also, plants that are found in nature are not
+patentable. A plant patent can protect special kinds of hybridized plants or food
+crops. Plant patents, once granted, last for 20 years.
+The last type of patent is design patents. Design patents are granted for new
+and original ornamental designs for manufactured objects. A design is apparent in
+appearance. They are used to protect the visual appearance of an object. For
+example, a design patent could protect the design for china or silverware. A design
+must be new and different from other designs to be patentable in this way. Design
+patents are granted for 14 years.
+A design patent is different from a utility patent. Design patents protect only the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.appearance of an article, whereas a utility patent protects how the article works.
+Unless otherwise noted, this chapter discusses utility patents.
+Patent Basics
+Inventions or discoveries must be patentable in order to be protected. To be
+patentable, they must meet certain requirements. An inventor must meet all of the
+requirements in a patent application.
+Patent Requirements
+To be patentable, an invention or discovery must be:
+Novel
+Useful
+Non-obvious
+To be patentable, an invention or discovery must be novel. 6 This means that it must
+be a new invention or discovery. The USPTO will not issue a patent for an item that
+is not new. To be considered new, an invention must be different from the prior art,
+or public knowledge about an invention that existed before the date upon which a
+patent application is filed. An invention or discovery must include elements that
+make it different from the prior art. An invention or discovery that merely contains
+prior art is not new and is not patentable.
+The USPTO also looks at whether the invention was used in the United States or
+other countries before the date of the patent application. It also reviews whether the
+invention was patented or published in other countries. If people know about the
+invention or discovery in other places, then it is not new.
+NOTE
+A different federal law governs plants that grow from seeds. The Plant Variety Protection Act of 1970
+protects these types of plants. 7
+U.S. patent law does allow a limited exception to this general rule. It allows a 1-
+year grace period for inventions made available to the public, 9 which means that an
+inventor must file for a patent within 1 year of announcing the invention to the public.
+In some cases, an inventor may want to announce an invention or discovery before
+applying for a patent. Inventors do this to see if there is commercial interest in the
+invention. An invention or discovery is still patentable in the United States if the
+inventor files a patent application within 1 year of announcing it. The USPTO will not
+consider a patent application if it is submitted more than 1 year after the invention is
+announced.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.NOTE
+In order to be patentable, the subject matter of an invention or discovery also must be patentable. The
+U.S. Supreme Court held in Diamond v. Chakrabarty (1980) that patentable subject matter is “anything
+under the sun that is made by man.” 8 Some types of items are not patentable—including objects found in
+nature.
+Taking advantage of the 1-year grace period can be risky for an inventor because
+another person might see the invention and build upon it. If that person files for a
+patent before the first inventor, then the first inventor might lose the ability to patent
+his or her invention. This is because, in the United States, the first person to file for a
+patent has priority over all patents that claim a similar invention. In this example, the
+second inventor’s patent application contains material that is considered prior art
+when the first inventor files his or her patent application later. The rules for
+determining priority in a patent application are very tricky, which is why many
+inventors hire attorneys to help them navigate the patent process.
+NOTE
+Under the laws of many countries, if an inventor announces or sells an invention to the public before it is
+patented, it automatically becomes not patentable. The United States modifies this very strict rule with a
+limited 1-year grace period.
+The second patentability requirement is that an invention or discovery be useful. 10
+This requirement is also called utility. An inventor can meet this requirement by
+showing that the invention or discovery is beneficial to society. The inventor also
+must show that the invention actually works. The USPTO may reject patent
+applications that do not show that an invention or discovery is useful. It also can
+reject patent applications where the claimed usefulness seems implausible.
+The final patentability requirement is that the invention or discovery must be non-
+obvious. 11 This requirement is closely related to the “novelty” requirement. If an
+invention or discovery is not obvious, then it is patentable. Obvious inventions or
+discoveries are not patentable.
+FYI
+Judge Learned Hand was a U.S. federal court judge who served for the U.S. District Court for the
+Southern District of New York. He also served as a judge on the Second Circuit Court of Appeals. Courts
+and attorneys often quote his opinions on patent and copyright law. Judge Hand wrote very clearly on a
+complicated topic.
+How Do You Protect Inventions Internationally?
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.In the United States, inventors register their patents with the USPTO. However, the USPTO patent rights
+apply only to the United States. They do not protect patents in foreign countries. If a person or business
+wishes to protect an invention in other countries, a foreign patent is needed.
+Different countries have very different patent laws. Because countries have different patent laws, they enter
+into international treaties to try to put all inventors on an even playing field for protecting their inventions
+internationally.
+The Paris Convention for the Protection of Industrial Property (1883) was the first treaty to try to address
+patents on an international level. This treaty is important because it fixes the filing date of patent applications
+to the date that the inventor first files a patent application in his or her home country.
+The Paris Convention says that someone who files for a patent in his or her home country can use that filing
+date with other member nations to establish his or her patent’s priority in those nations. This protects an
+inventor’s “place in line” in other countries. This priority right is available for only 12 months after the very first
+patent application. If an inventor wants to protect an invention in other countries, he or she must file patent
+applications in those countries within 12 months of first filing for a patent in the home country. Inventors who
+do not file within 12 months lose their place in line for determining patent ownership.
+The United States joined the Paris Convention in 1887. The Paris Convention establishes only the priority
+filing date. It does not confer other benefits to member nations. Inventors still must follow all the other
+provisions of patent laws in other countries to protect their inventions internationally. It can be a very long and
+expensive process to file multiple patent applications within 1 year. The Patent Cooperation Treaty of 1970
+(PCT) attempts to streamline the application process. The World Intellectual Property Organization (WIPO),
+which is part of the United Nations, administers the PCT.
+The PCT was created to make international protection of patents easier by allowing an inventor to file for
+patent protection simultaneously in several member countries. The PCT allows inventors to file one
+international patent application. Inventors submit the international patent application to their national patent
+office or to the WIPO in some situations. This application then has the same effect as filing for a patent in
+member countries. The filing date for the international application is fixed in priority as soon as the application
+is submitted.
+Under the PCT process, an international patent application is subject to an international search. Examiners
+review the published documents in all member countries to see if there is any information that might affect the
+patentability of the invention. The search is very comprehensive.
+The PCT gives other benefits as well. Under the PCT, inventors have up to 18 months after they submit their
+international patent applications to decide whether they will pursue patents in other countries that are PCT
+members. If they do, the patent process is shortened because other countries will rely on the results of the
+international search in conducting their review of the patent application. In addition, the inventor is
+guaranteed patent protection as of the date of the original international application. This is important because
+many foreign countries grant patent protection only to the first inventor who files for a patent application.
+The United States joined the PCT in 1978. More than 150 countries have signed the treaty. You can read
+more at https://www.wipo.int/pct/en/.
+Sometimes this requirement is hard to understand. Many inventions or
+discoveries seem obvious once they are publicly announced or offered for sale.
+People often say, “Why did I not think of that?” when they see these types of
+products. Courts have recognized that an invention that seems obvious after it is
+created may meet the non-obvious requirement. That is the nature of some types of
+inventions. Judge Learned Hand even said, “It certainly cannot be necessary to
+repeat the well-known principle that it is no indication of noninvention that the device
+should seem so obvious after it is discovered.” 12
+The USPTO looks at prior art and how an invention is used to determine if it is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.non-obvious. An invention is non-obvious if a person with ordinary skill in the kind of
+technology used in the invention would not have discovered or invented it. The
+invention also must be sufficiently different from the prior art. It is important to
+remember that the USPTO reviews these elements based on the date of the
+inventor’s patent application.
+FIGURE 10-1 shows how the three patentability requirements work together.
+FIGURE 10-1
+Patentability requirements.
+The Patent Application Process
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.An inventor must submit a patent application to the USPTO to patent an invention or
+discovery. Patent prosecution refers to the actions the USPTO must complete in
+order to grant a patent. In March 2020, it took the USPTO almost 23 months to
+prosecute a patent application. 13 This is the period from submitting a patent
+application to receiving a decision on it.
+A patent application contains the following basic parts:
+Specification—The written technical description of the invention. The
+specification also contains information about how to make and use the invention.
+The specification must include enough information that a person with ordinary skill
+in the relevant area could make the invention based on the specification.
+Drawings—The pictorial description of the invention. The drawings must
+completely describe the invention or discovery. They help the USPTO understand
+the invention or discovery.
+Oath—The inventor must sign an oath that he or she is the first inventor of the
+item described in the patent application.
+Filing fees—There are different filing fees based upon the type of patent. There
+are also additional fees for large patent applications, search fees, and examination
+fees.
+A patent application specification must include at least one claim. A “claim” defines
+the part of the invention that is to be protected by the patent. A patent specification
+may have several different claims.
+NOTE
+USPTO employees are not allowed to apply for patents of their own. See U.S. Code, Vol. 35, sec. 4.
+Once the USPTO receives a patent application, it reviews it to make sure that it
+meets the patentability requirements. Patent Office examiners conduct this review.
+An examiner is a USPTO employee with special skills. U.S. law requires patent
+examiners to have sufficient “legal knowledge and scientific ability” to conduct this
+review. 14 After review, an examiner either rejects the application or issues a patent.
+NOTE
+The USPTO has a strong preference for patent applications to be electronically submitted. Applications
+that are submitted on paper require an additional processing fee.
+An inventor must pay patent maintenance fees once the USPTO issues a patent.
+This keeps the patent in force. If an inventor does not maintain a patent, then other
+people can take advantage of it. Patent maintenance fees are due at 3.5, 7.5, and
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.11.5 years after the original patent issue date.
+Infringement and Remedies
+When an inventor receives a patent for an invention or discovery, he or she has the
+exclusive right to keep others from using that invention. The inventor is the only one
+who can make, sell, or use it. This protection begins when the patent is issued and
+lasts for as long as the patent is valid. The federal government does not enforce
+patents. Instead, inventors must enforce their own rights. They must sue people who
+violate their patent rights, as well as people who make, use, or sell the patented
+invention during the patent period. They also may sue a person who makes, uses, or
+sells a substantially similar product.
+NOTE
+A patent troll is a person who owns a patent but does not intend to make, use, or sell the invention.
+Instead, patent trolls enforce their patent rights and file lawsuits against alleged infringers. The term is not
+complimentary. It refers to a person who is overly aggressive and opportunistic.
+A person who violates the IP rights of another is called an infringer. It does not
+matter if the infringer intended to violate the inventor’s patent. An inventor can hold
+an infringer liable for violating a patent even if the infringer acted unwittingly. This
+process, which is called strict liability, means that people can be held responsible
+for their actions even if they did not intend to cause harm.
+If inventors want to sue for patent infringement, they must do so in federal court
+because patents are governed by federal law. Federal district courts have original
+jurisdiction for patent infringement cases.
+Infringers have two basic defenses to an inventor’s claim of patent infringement:
+1. The patent is invalid.
+2. The patent is valid, but the alleged infringer did not violate the patent.
+The first defense is that the inventor’s patent is invalid for some reason. For
+example, a patent is invalid if an invention was publicly announced or sold for more
+than 1 year before the patent application. The infringer would argue that the patent is
+not valid because the inventor violated the 1-year grace period rule. An infringer also
+could argue that a patent is invalid if the inventor violated certain federal laws. It
+could also be argued that a patent is not valid if the inventor misleads the USPTO
+during the patent application process.
+Under patent law, an issued patent is presumed to be valid. 15 This means
+infringers cannot merely assert that a patent is invalid to defend themselves in a
+lawsuit. Instead, they must prove that the patent is invalid for some reason. This is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.called the burden of proof. The infringer has the burden of proving that an issued
+patent is invalid.
+The second defense is that an alleged infringer can argue that even if an
+inventor’s patent is valid, he or she did not violate it. The infringer can claim his or
+her products or inventions do not infringe upon the inventor’s patent. These cases
+can become very technical. Courts and jurors must review the technical
+specifications of products and patents to decide whether infringement occurred.
+Remedies in an infringement case include injunctive relief and damages.
+Inventors want the court to issue an injunction that orders the infringer to stop
+violating the inventor’s patent. This type of order means that the infringer can no
+longer make, use, or sell a product that infringes on the inventor’s patent.
+NOTE
+In the United States, the general rule is that each party in litigation will pay its own attorney’s fees. In some
+cases, courts can order the losing party to pay the winning party’s attorney’s fees. Courts usually award
+attorney’s fees as a penalty for bad behavior or frivolous lawsuits.
+NOTE
+In some instances, treble damages can be awarded if a defendant intentionally used the plaintiff’s
+trademark. 39
+Inventors also are entitled to money damages in an infringement case. Damages
+compensate the inventor for profits that he or she may have lost because of the
+infringer’s actions. In some cases, an inventor may be entitled to treble damages if
+the infringer willfully violated the inventor’s patent. 16 The inventor may also be
+entitled to recover his or her attorney’s fees in some cases. 17
+What Is the Difference Between Patents and Trade
+Secrets?
+Patents are IP rights that are granted under federal law. They grant exclusive rights
+to an inventor of an item for a certain period of time. A patent owner has the right to
+keep others from making or using the patented invention. He or she also has the
+power to stop others from selling their invention.
+A trade secret is similar. Trade secrets protect the formulas, processes,
+methods, and information that give a business a competitive edge. Trade secrets
+must have value to a person or business. Otherwise, there is no reason to protect it.
+A trade secret is a common law concept that has been codified under federal law
+and by many states. 18 To establish a trade secret, the information that is to be
+protected must:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.FYI
+Trade secret law is considered a part of IP law. However, it sometimes does not receive as much attention
+as patent, trademark, or copyright issues. This is because patent, trademark, and copyright protection are
+based on federal registration and public disclosure. Trade secret protection is based on secrecy and
+confidentiality. The study of trade secrets is sometimes minimized because the process for protecting trade
+secrets is so different.
+Have value—The information must have economic value. This means that it is
+valuable to the business that protects it. It also means that it would be valuable to
+competitors of the business. This also considers the money, time, and resources
+that the business put into developing the information. The more valuable the
+information, the more likely that it is a trade secret.
+Be unknown—The information must not be known outside of the business. If
+other companies or people know about the information, then it is not a secret. Any
+public awareness of the information can end its protected status.
+Be unascertainable—The information must not be easy to duplicate or even
+reverse engineer. If little effort is needed to ascertain the information, then it is
+unlikely to be considered a trade secret.
+Be protected—The information must be protected. This means that the business
+must take steps to make sure that it does not become accessible or known to the
+public. To protect the information, a business should use confidentiality and
+nondisclosure contracts when they share the information with others. The more a
+business protects the information, the more likely it is a trade secret.
+NOTE
+Unlike patents, trade secrets are not registered. A person or business does not have to meet any
+registration or procedural formalities to protect his or her trade secrets.
+Because they are kept secret, trade secrets can be protected for an unlimited time.
+To enforce their trade secrets, a person or business must take actions that protect
+them and keep them secret. For example, an Alabama Court of Appeals case dealt
+with the protection of trade secrets. In that case, documents that contained trade
+secret information were left in an unmarked box on the back seat of a company
+vehicle. The keys to the vehicle were not safeguarded. Many company employees
+potentially had access to the vehicle. In determining that the company did not take
+proper steps to protect its trade secrets, the Alabama Court of Appeals said, “We
+aren’t convinced that leaving allegedly confidential and sensitive documents in a
+cardboard box in a company vehicle for over one week . . . amounts to a reasonable
+step to ensure the secrecy of the information contained therein.” 19
+If a trade secret is stolen, then a person can pursue remedies allowed under the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.law against the thief. A person who violates a trade secret can be held responsible
+under civil and criminal law.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Trademarks
+A trademark is an IP right used to protect words, logos, and symbols that identify a
+product or service. Businesses spend a lot of money developing their trademarks. A
+trademark is used to distinguish between different products. A mark used to identify
+services is called a servicemark.
+NOTE
+The USPTO says the oldest U.S. trademark still in use was registered in 1884. The design is the word
+SAMSON with a picture of a man wrestling a lion. Samson Rope Technologies uses the trademark on its
+products. You can see the trademark at www.samsonrope.com.
+The laws for trademarks and servicemarks are the same. Trademarks and
+servicemarks are collectively called trademarks in many texts, including this one.
+Even the USPTO uses the term trademark to describe both types of marks.
+Trademarks represent a business’s commercial identity. Some marks are well
+recognized by the public. For example, the distinctive red bull’s-eye design of the
+Target Corporation identifies a retail department store. The bull’s-eye design is its
+registered trademark. The New York Times Company has used the trademarked
+slogan “All the news that’s fit to print” since 1896. It registered the slogan in 1958.
+The slogan still appears on the front page of The New York Times today.
+How Should an Invention or Process Be Protected?
+A person or business has to weigh many factors when considering whether to protect an invention through a
+patent or as a trade secret. They include:
+Whether the invention currently protected by trade secret is patentable. If it is, the person must review
+whether a patent provides better IP protection.
+What processes and controls can be used to make sure that only a limited number of people know
+about the invention. A person must make sure that everyone knows that an invention protected as a
+trade secret must be kept extremely confidential.
+How long the person wishes to protect the invention and the type of protection required.
+What Is the Invention?
+Trade secrets can be used to protect almost everything. One of the best-known examples of a trade secret is
+the Coca-Cola secret formula. The Coca-Cola Company even has an exhibit in its company museum about
+how it protects its trade-secret formula. Trade secrets also can be used to protect special ways to
+manufacture products or a process for conducting business.
+Patents are limited to protecting only certain types of inventions or discoveries. To be patentable, an invention
+or discovery must meet all patentability requirements. If an inventor fails to meet any one of the requirements,
+then the USPTO can deny the patent application.
+Advantage goes to: Trade secrets. Trade secrets can protect more types of inventions and discoveries.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.How Must the Invention Be Protected?
+The owner of a patent has the exclusive right to use the invention or discovery that is patented. That means
+that the owner can stop anyone else from using it. It is a violation of a patent to reverse engineer a product
+and recreate it. Only the patent owner can make the patented product.
+Under trade secret law, it is not a violation to reverse engineer a product. This means that a person can
+analyze products to try to determine their secrets. For instance, chemists have tried to figure out the Coca-
+Cola secret formula. So long as a person lawfully obtains the product, analyzing it to figure out its trade
+secrets is legal.
+Advantage goes to: Patents. Patents give greater protection against use than trade secrets.
+How Long Must the Invention Be Protected?
+A patent’s exclusive protection lasts only for the period of the patent. In most instances, this is 20 years.
+During this time, the inventor has the sole right to make, use, or sell the product. After the patented period is
+up, anyone may make the underlying product.
+Trade secret protection can last forever, as long as the trade secret is kept confidential. For example, the
+Coca-Cola formula has been kept secret for over 134 years. Businesses implement many different types of
+policies to keep trade secrets confidential. For example, they use access-control mechanisms in computer
+systems. They limit physical access based on need-to-know principles. They may even use separation-of-
+duty principles to make sure that no one person knows an entire trade secret.
+Advantage goes to: Trade secrets. Trade secrets can be protected longer.
+If a company patents a process, invention, or method, it may lose trade secret rights in it. Patent applications
+are made available to the public 18 months after they are filed. The only exception to this rule is if the
+inventor states that he or she is not filing for a patent abroad. The USPTO makes patent information available
+when a patent is issued. Once information is made available to the public, it no longer can be protected as a
+trade secret.
+Trademarks encourage brand loyalty. They also make it easy for customers to
+recognize products made by a particular manufacturer. They represent goodwill.
+Goodwill is the image and reputation a business has with its customers. Entities
+protect their trademarks from misuse because they want to protect their business
+and reputation.
+Both federal and state laws govern trademarks. Federal trademark protection is
+the most well-known. The federal government regulates trademark registration under
+the Commerce Clause powers granted by the U.S. Constitution. Congress enacted
+the first trademark law in the late 1800s. Today, the main federal law protecting
+trademarks is the Lanham Act (1946). 20 The Lanham Act allows for federal
+registration of trademarks. It also defines how trademarks can be protected. This
+chapter discusses federal trademark protection.
+NOTE
+The Lanham Act also is known as the Trademark Act of 1946.
+Trademark Basics
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Trademark protection rights belong to the first person who uses the trademark in
+commerce. This is different from patent and copyright laws, which award rights to the
+inventor or author. The first person or business to use the trademark in commerce
+will have certain common law rights to use the trademark. This is true under
+common law and state and federal trademark statutes. Entities that use trademarks
+in U.S. interstate commerce often register them with the USPTO. Entities that use
+trademarks only in one state may choose to register only in that particular state.
+The rise in internet e-commerce may mean that more businesses will pursue
+federal registration for their trademarks. This is because business conducted over
+the internet cannot really be limited to customers of only one state. If an entity wants
+to conduct business over the internet, it may want to register its trademarks with the
+federal government. Over 640,000 trademark applications were filed with the
+USPTO in 2019. 21
+There are several benefits to federally registering a trademark. They are:
+Notice of the date of first use—The filing date of the registration application
+gives the public notice about the use of the trademark. It establishes a priority date
+for determining who was the first person or company to use a particular trademark.
+It establishes evidence of ownership of the trademark.
+Right to sue in federal court—A person or entity who registers a trademark with
+the USPTO has the right to sue infringers in federal court. They also have the right
+to recover damages and costs associated with an infringement lawsuit. In some
+cases, they may be able to recover attorney’s fees. 22
+Limited ways to challenge the trademark—After 5 years of registration, a
+trademark can be contested only in limited ways. There are very few exceptions to
+this rule. 23
+Right to use the federal registration symbol—Only a federally registered
+trademark can use the federal registration symbol. 24 The symbol is an uppercase
+R in an enclosed circle or ® . A person violates federal law if he or she uses this
+symbol on a trademark that is not federally registered.
+A person must meet two basic requirements to register a trademark with the
+USPTO. They are:
+Use of the trademark in interstate commerce
+Distinctiveness of the trademark
+Use in Commerce
+First, the trademark must be used in interstate commerce. 25 A person uses a
+trademark in interstate commerce when it is placed on goods or services and sold to
+the public in several different states. The registration application must state when the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.trademark was first used in commerce.
+NOTE
+Trademarks that are not federally registered often carry the raised “TM” symbol, or ™, to show that a
+person or business claims the underlying trademark as its own. Trademarks registered under state laws
+may use this notation.
+A person may still register the trademark even if it is not used in interstate
+commerce at the time that the registration is filed. In this case, the person registering
+the trademark must show good faith intent to use the trademark in commerce in the
+future. “Good faith” means that a person honestly intends to use the trademark in
+interstate commerce.
+Under the law, the person must begin using the trademark within 6 months after
+the USPTO approves it. The USPTO can extend this period up to 2.5 years. 26 A
+person must notify the USPTO once it begins to use the trademark. At this point, the
+USPTO will issue the trademark registration.
+Distinctive
+The second basic requirement is that a trademark must be distinctive. 27 Almost
+anything used by a person to distinguish his or her goods and services from another
+person’s goods and services can be a trademark. Words, numbers, logos, and
+pictures can all serve as trademarks.
+NOTE
+The federal government can regulate interstate commerce only under its Commerce Clause authority. That
+is why a trademark must be used in interstate commerce to be federally registered. A trademark that is
+used only in one state can be registered under the state’s trademark law.
+The USPTO has two methods of registering trademarks. They are the “Principal
+Register” and the “Supplemental Register.” Strong trademarks, which are registered
+right away on the “Principal Register,” are inherently distinctive. This is a term of art
+in trademark law. Registration on the “Principal Register” is the main way of
+registering trademarks. It gives a trademark owner the greatest amount of rights
+under federal law.
+NOTE
+The trademark distinctiveness requirement is similar to the patent novelty requirement.
+Weaker trademarks can be registered on the “Supplemental Register.” These
+trademarks meet all of the registration requirements except that they are not
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.inherently distinctive. The only federal right granted by registering on the
+“Supplemental Register” is that the trademark owner may sue in federal court for
+trademark infringement. After 5 years of using the trademark, the owner may submit
+proof of trademark use and evidence that it has achieved secondary meaning. The
+USPTO will then move the trademark from the “Supplemental Register” to the
+“Principal Register.”
+Trademark Registration
+An applicant must submit a trademark registration application to the USPTO to
+register a trademark. In July 2020, it was taking the USPTO about 10 months to
+review trademark applications. 28 The USPTO encourages trademark applications to
+be filed electronically as the USPTO processes electronic applications faster than
+paper applications. To encourage electronic applications, the USPTO makes paper
+application forms available only by special request over the telephone.
+A trademark application must contain the following:
+Name and contact information for the owner of the trademark
+A drawing of the trademark
+A technical listing of the goods or services that the trademark represents
+Filing fee
+NOTE
+You can learn more about the USPTO’s Trademark Electronic Application System (TEAS) at
+http://www.uspto.gov/trademarks/teas/index.jsp.
+After the application is filed, it is forwarded to an examiner who reviews the
+application to determine whether it is complete. The examiner also reviews proof that
+the trademark is used in commerce. The examiner reviews the trademark to make
+sure that it is inherently distinctive. Finally, the examiner reviews other trademarks to
+search for conflicts.
+An examiner can reject a trademark for several reasons. 29 They include:
+The proposed trademark is a generic name for goods or services.
+The proposed trademark is descriptive of the applicant’s goods or services and
+there is no secondary meaning.
+The proposed trademark is similar to another trademark already registered, and
+use of it on the applicant’s goods or services is likely to cause customer confusion.
+The proposed trademark contains immoral, deceptive, or scandalous matter.
+The proposed trademark may disparage or falsely suggest a connection with
+persons (living or dead), institutions, beliefs, or national symbols.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.When the USPTO approves a trademark, it publishes the trademark in the Official
+Gazette, the USPTO’s official publication. The Official Gazette, which is published
+every week, includes a listing for trademarks and a listing for patents.
+NOTE
+You can see entries in the Official Gazette online at https://www.uspto.gov/learning-and-resources/official-
+gazette.
+The Official Gazette gives the public notice of new trademarks. Once the
+trademark is published, any party who has concerns about the trademark may
+contest it. These parties have 30 days from the date of publication in the Official
+Gazette to file an “opposition” to the registration. 30 An “opposition” is a proceeding
+before the Trademark Trial and Appeal Board that hears trademark disputes.
+If no one opposes the trademark, the USPTO issues a Certificate of Registration
+for it, if it is already used in interstate commerce. If the person registering the
+trademark has not used it in commerce, he or she must begin using it within 6
+months after the USPTO approves it. A person must notify the USPTO once he or
+she begins to use the trademark. The USPTO will then register the trademark.
+Strong Versus Weak Trademarks
+The USPTO “Principal Register” is for trademarks that are “inherently distinctive.” These are strong
+trademarks. Traditionally, trademarks are inherently distinctive if they do more than describe a good or
+service. Trademarks that are unrelated to a good or service and are fanciful, arbitrary, or suggestive are
+considered strong trademarks.
+The USPTO’s oldest registered trademark is a good example of a strong trademark. That trademark is the
+name SAMSON with a picture of a man wrestling a lion. It has nothing to do with the company’s product,
+which is rope. However, it is a strong trademark because it is inherently distinctive. Customers who see the
+trademark will immediately associate it with the Samson Rope Corporation.
+One of the best examples of an inherently distinctive trademark is the Apple Corporation’s rainbow-colored
+apple, which is their registered trademark. The trademark is inherently distinctive because it has nothing at all
+to do with the company’s product. When customers see the rainbow-colored apple with a bite taken out of it,
+they immediately think of Apple computers. This trademark would not have been inherently distinctive if an
+apple grower or a grocery store used it.
+Weak trademarks are not inherently distinctive. The most common type of weak trademark is a descriptive
+trademark. A trademark is descriptive when it describes the underlying product that it represents.
+Descriptive trademarks get protection when they achieve “secondary meaning,” or when the public
+associates the trademark with a particular good or service. Once a person can show that a trademark has a
+secondary meaning, it is entitled to full trademark protection.
+For example, the trademark Kellogg’s Raisin Bran is a descriptive trademark that describes a kind of
+breakfast cereal. This registered trademark of the Kellogg Company has achieved secondary meaning as a
+particular type of cereal. The trademark Carpetland, USA for a flooring store is also descriptive. This
+registered trademark of the Carpetland, USA Corporation also has acquired secondary meaning as a
+particular type of flooring store.
+If the USPTO determines that a trademark is descriptive and it has not yet achieved secondary meaning, that
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.trademark is listed on the “Supplemental Register.” The only federal right granted by registering on the
+“Supplemental Register” is that the trademark owner may sue in federal court for trademark infringement.
+After 5 years of using a trademark, the owner can submit paperwork to move the trademark from the
+“Supplemental Register” to the “Principal Register.”
+Some types of trademarks can never be registered. For example, generic trademarks cannot be registered.
+They are not eligible because they describe a class of products and are not unique. For example, the word
+butter cannot be trademarked because it describes a class of dairy products.
+The registration period for a trademark is 10 years for newly registered
+trademarks. Between the fifth and sixth year after a person first registers a
+trademark, he or she must submit an “Affidavit of Use.” 31 This document shows that
+the person or business is still using the trademark. After that, the Affidavit of Use
+must be filed again right before the end of the 10-year registration period. The
+person or business also must pay a maintenance fee. A person or business must re-
+register the trademark every 10 years to maintain protection of the mark. 32
+NOTE
+An affidavit is a written statement a person signs, swearing that the content in the affidavit is true. The
+person signs the affidavit in front of a notary public or other official allowed by law to administer oaths and
+witness signatures.
+Infringement and Remedies
+Trademark infringement is a violation of a person’s trademark rights. A trademark
+owner has the right to use the trademark in commerce in association with certain
+goods and services. This protection begins as soon as the owner starts using the
+trademark in commerce. If a trademark is registered under either federal or state law,
+then the owner of the trademark has certain other rights as well. Federal and state
+governments do not enforce trademarks. Instead, owners must enforce their own
+rights and sue people who violate their trademarks.
+FYI
+Although this section discusses federal law, you should remember that many of these same types of
+trademark infringement actions also could be pursued in state court. Trademark owners may have
+additional types of tort actions that they can pursue in state court.
+There are two main types of trademark infringement cases:
+Use of a similar trademark that is confusing or deceptive to the customer 33
+Use of a similar trademark that dilutes the value of a famous trademark 34
+In the first type of case, a trademark owner can sue another person who uses a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.similar trademark in a way that is “likely to cause confusion, or to cause mistake, or
+to deceive.” 35 The owner can bring this infringement action for innocent infringement
+and for willful infringement. The plaintiff, who is the trademark owner, has the burden
+of proof. The plaintiff must prove the following elements:
+The plaintiff owns a valid trademark.
+The defendant used a similar trademark in commerce.
+The defendant’s use of a similar trademark is likely to confuse consumers.
+NOTE
+Examples of famous trademarks include the Apple Computer, Coca-Cola, and Kleenex trademarks. They
+are all registered and used extensively across the United States. Most people recognize these trademarks
+and the associated brand of products.
+If a trademark owner has registered his or her trademark with the USPTO, that
+registration is proof of ownership of the trademark. A plaintiff can use the defendant’s
+own advertising materials to show that the defendant used the trademark in
+commerce. A plaintiff also can use these materials to show that the defendant’s use
+of the trademark was confusing in some way. The confusion created could exploit
+the plaintiff’s goodwill in his or her trademarks and products. That is, the defendant is
+using a similar trademark in the hopes of selling more products because of the
+plaintiff’s good commercial reputation.
+In reviewing whether a trademark is confusing, courts will compare the plaintiff’s
+and defendants’ trademarks. They will look at how similar the marks are. They will
+also look at the similarities between the goods and services that each trademark
+represents. They might also look at the defendant’s intent in using a similar
+trademark. If the court finds the defendant’s use of the trademark confusing, it can
+order the defendant to stop using the trademark.
+The second type of trademark infringement case is for trademark dilution. This
+type of infringement case specifically applies to “famous” trademarks, or ones that
+are very well-known. Only holders of famous trademarks can file a lawsuit for
+trademark dilution.
+In a dilution case, the trademark owner can sue for any use of a similar
+trademark that dilutes or tarnishes his or her trademark. Dilution occurs when a
+trademark is used to promote different goods. An example would be a Coca-Cola
+minivan or a Kleenex motorcycle. Customers would not be confused by the different
+use of the famous trademark. However, the value of the famous trademark is diluted
+when it is used with dissimilar products.
+The trademark owner also has a dilution case if the use of a similar trademark
+tarnishes a famous trademark. A trademark is tarnished when it is used in an
+unflattering light. For example, in 1996 the children’s toy store, Toys “R” Us, sued an
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.adult website with the domain name “adultsrus.” The court held that the defendant’s
+use of “adultsrus” to sell adult products diluted the “family” image and goodwill that
+Toys “R” Us had built in its products. The court ordered the defendants to stop using
+the “adultsrus” name. 36
+Remedies in an infringement case include injunctive relief and damages.
+Trademark owners want the court to stop infringers from using their trademarks in a
+confusing or diluting way. 37 Trademark owners also may be able to get damages for
+the defendant’s profits in using the trademark, their own damages, and costs of the
+litigation. 38
+Relationship of Trademarks on Domain Names
+The rise of e-commerce has created some interesting questions about trademark
+use. Today, people take it almost as a given that www.coca-cola.com will take you to
+the Coca-Cola Company’s website. Their domain name serves as their internet
+business address. Many companies try to use their business name or trademark as
+their domain name.
+NOTE
+At the end of 2019, there were over 362 million top-level domain name registrations. 40
+A domain name includes a top-level domain, represented by the .com, .net, or
+.gov at the end of the domain name. The second level is the information that comes
+directly to the left of .com, .net, or .gov. This is usually the place where a business or
+entity might want to use its name or trademark. To do this, the entity must register its
+domain name.
+A domain name is different from a uniform resource locator (URL). The domain
+name is only part of a URL. The complete URL is the actual internet address. A URL
+goes into much more detail than a domain name, providing much more information,
+including the specific page address, folder name, machine name, and protocol
+language, such as http://.
+Companies register their domain names and create websites to advertise and
+sell their products. They want their domain name to be recognizable to their
+customers. The first company to register a domain name has the right to use that
+name. Domain name registrars do not review a domain name to make sure that it
+does not infringe on a trademark. If a domain name is available for use, then they
+will accept registration for that name.
+In the mid to late 1990s, domain names were registered at a fast pace, and not
+all of these registrations were legitimate. Cybersquatting is the bad-faith registration
+of a domain name that is a registered trademark or trade name of another entity. A
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.trade name is the business name of an organization. Cybersquatters tried to register
+these names before the legitimate owners of the trademark or trade name. They also
+registered domain names based on these famous trademarks or trade names but
+used a common misspelling of those names.
+Registering a Domain Name
+A domain name is the common name after www that people use to refer to their websites. People register
+these names to grow their businesses and help others find their businesses on the internet. Domain names
+are simply internet addresses.
+Domain names must be registered with the Internet Corporation for Assigned Names and Numbers (ICANN),
+which coordinates the internet’s naming system. You cannot directly register a domain name with ICANN.
+Instead, you must register it with a domain name registrar. ICANN authorizes these registrars to accept
+domain name registrations and creates policies for how these registrations should be handled.
+ICANN and domain name registrars do not review whether a new domain name registration infringes upon a
+business or entity’s trademark. Instead, they accept registrations for domain names on a first-come, first-
+served basis. Trademark laws and ICANN’s Uniform Domain Name Dispute Resolution Policy (UDRP) are
+used to resolve domain name disputes regarding trademarks. You can view ICANN’s dispute resolution
+materials at https://www.icann.org/resources/pages/help/dndr/udrp-en.
+A cybersquatter registers trademarks or trade names to profit off of the other
+person’s trademark or trade name. They also register them in the hopes of selling
+the domain name to the trademark owner for large amounts of money, or to attract
+customers who were looking for a specific product or business. The cybersquatter
+then redirects the customer to other websites.
+NOTE
+Bad faith means a malicious or harmful motive for taking a certain action.
+Trademark owners have a legal right to protect their trademark, which includes
+protecting their trademarks from cybersquatters. Many people, businesses, and
+organizations were harmed by cybersquatters because they had to pay large
+amounts of money to get ownership of their trademarks. They sued cybersquatters
+to stop them from engaging in trademark infringement, which was a time-consuming
+and expensive process.
+NOTE
+The WIPO is an arbitrator under the UDRP. The WIPO reported a record number of domain name cases in
+2019. 42
+Congress created the Anti-Cybersquatting Consumer Protection Act (ACPA) in
+1999. 41 It was designed to stop people from registering domain names that were the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.trademarks of other entities and allows entities to sue others for cybersquatting. To
+prove their case, the plaintiff must show that the cybersquatter registered the
+trademark in bad faith with the intent to profit from the registration. Under the law, a
+plaintiff can recover damages and ask the court to issue an injunction that stops the
+cybersquatter from using the contested domain name. Courts also can award the
+contested domain name to the winning party.
+Trademark owners also can pursue a domain name dispute under the ICANN
+UDRP. This process may be faster than pursuing an action under the ACPA. Under
+the UDRP, a contested domain name may be disconnected or transferred to a
+winning plaintiff.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Copyright
+A copyright is an IP right. The U.S. Constitution establishes federal copyright
+protection. The first federal copyright law was established in 1790, and the most
+recent version of federal copyright law was the 1976 Copyright Act. 43 Copyright is
+protected under federal law; states are preempted from creating their own copyright
+laws.
+NOTE
+Federal law governs patent and copyright issues. State laws are preempted. This is because the
+Constitution granted the federal government the specific power to make laws to protect authors and
+inventors.
+The holder of a copyright has the exclusive right to do anything with the
+copyrighted work. The holder is the only one who can reproduce, perform, or sell the
+work. Copyright holders also have the power to keep others from using their
+copyrighted material.
+Almost anything can be copyrighted. You need to remember that most materials
+posted to the internet are protected by copyright. In addition, most informational and
+advertising materials posted on websites by businesses and organizations are
+subject to copyright. Blog posts and personal websites also are protected. When
+reposting information that you find on the internet, you need to make sure that you
+do not violate the owner’s copyright.
+Sometimes copyrighted materials are marked with an uppercase “C” in an
+enclosed circle or ©. The law does not require this. Even if the material is not
+marked, it may be copyrighted.
+Copyright Basics
+A copyright is used to protect almost any creative endeavor (called a “work”), such
+as books, art, music, videos, computer programs, and any other creative work.
+Works that can be copyrighted include:
+Literary works—This includes novels, newspapers, textbooks, and computer
+software.
+Musical works—This includes songs, scores for musicals, and jingles.
+Dramatic works—This includes plays, skits, monologues, and any music that
+might be included in the dramatic work.
+Pantomimes and choreographic works—This includes ballets or other
+expressions of dance. It also includes mime shows.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Pictorial, graphic, and sculptural works—This includes photographs,
+sculptures, fine art, and cartoons.
+Motion picture and audiovisual works—This includes movies and television
+shows.
+Sound recordings—This includes recordings of music, sound, and words.
+Architectural works—This includes building designs, blueprints, and drawings.
+NOTE
+Copyright protection is not available for names. You can read more about it at
+https://www.copyright.gov/circs/circ33.pdf.
+The categories are very broad. A work of authorship might be properly copyrighted in
+several different categories. For example, the advertising and information material
+that an organization posts on its website can be copyrighted as a literary work.
+Pictures on the website can be copyrighted as a pictorial or graphic work.
+Federal law grants copyright protection to “an original work of authorship fixed in
+any tangible medium of expression.” 44 To be eligible for copyright protection, a work
+must be both original and in a fixed form.
+A work is original if it is not copied from another source. If a work is not original, it
+is not eligible for copyright. Works that are created completely from publicly known
+facts, with no other original material, are not copyrightable.
+Unlike an invention or discovery that is patentable, copyrighted works do not
+have to be new or novel. They also do not have to be good or aesthetically pleasing.
+They simply have to be an author’s original expression of an idea.
+Copyright protection does not extend to mere ideas on their own. Instead, these
+ideas must be written down or put in a fixed format. This is why books are entitled to
+copyright protection, but ideas that are simply in the head of the author are not.
+Copyright also is not available for useful articles. Patents, however, may protect
+these types of articles, which can include clothing, furniture, machinery, and other
+items.
+Works that are in the public domain also are not copyrightable. The public
+domain refers to the body of works that are free for public use. This includes works
+where the copyright has expired, as well as works of the U.S. government such as
+the United States Code. It is important for you to remember that information that is
+available on the internet is not necessarily in the public domain.
+Copyright protection arises as soon as an original work is created in a fixed form.
+An author does not have to do anything to gain this protection. Instead, it arises as a
+matter of law. An author is not required to register a work to get copyright protection.
+Writers do not have to mark their work to get copyright protection.
+The owner of a copyright has the exclusive right to do anything with the
+copyrighted work. Subject to only a few exceptions, only the copyright owner can
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.reproduce, perform, or sell the work. 45 Copyright owners also have the power to
+allow others to use their copyrighted material by using a special kind of contract
+called a license. The law gives copyright holders the following broad rights:
+NOTE
+A derivative work is a work derived from an original work. For example, a movie based on a best-selling
+novel is a derivative work.
+To reproduce the copyrighted work
+To prepare derivative works based upon the copyrighted work
+To distribute copies or phonorecords of the copyrighted work to the public
+To publicly perform the copyrighted work
+To publicly display the copyrighted work
+NOTE
+A WFH situation is created via a contract.
+Copyright owners also have the power to keep others from using their copyrighted
+material. It is important to understand who the owner of a copyright is. Often the
+owner of a copyright is the person who created the original work. This is not always
+the case, however. For example, when an employee creates work for his or her
+employer, the employer typically is the owner of the copyright. Copyright law calls
+this situation a “work made for hire” (WFH).
+Other than in the employer/employee context, a WFH must be reflected in a
+written document. This document shows that a person has specifically
+commissioned a WFH. The document also reflects that the author agrees to work on
+a WFH and that copyright belongs to the person who commissioned the work. The
+following items are common works for hire: 46
+A contribution to a collective work
+A part of a motion picture or other audiovisual work
+A translation
+A supplementary work
+A compilation
+An instructional text
+A test and answer material for a test
+An atlas
+The length of copyright protection is determined through ownership. For original
+works created after January 1, 1978, a copyright lasts for the length of the author’s
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.life plus 70 years after the author’s death. If two or more authors prepare a work, the
+70-year period does not begin to run out until after the last author’s death. For WFH,
+a copyright lasts for 95 years from the publication of the work. In limited cases
+protection also could extend for 120 years from the creation of the work. Whichever
+period is shorter is the proper term. 47
+Copyright Registration
+Copyright protection arises automatically as soon as an original work of authorship is
+fixed. An author is not required to register a work to get protection. However, there
+are many reasons why an author may choose to register for copyright protection.
+The main reason for a person to register a copyright is so that the copyright can be
+enforced. An author who created a work in the United States may not file a lawsuit
+for copyright infringement without first registering the copyright with the U.S.
+Copyright Office. 48
+The law creates several other reasons to register a copyright. Registration
+creates a public record of the copyright. In addition, if a copyright is registered within
+5 years of publication, it creates a presumption of valid ownership. 49 This means a
+copyright is presumed to be valid, and the person challenging it must present proof
+that it is invalid.
+NOTE
+The U.S. Copyright Office is a unit of the Library of Congress.
+An author must submit copyright registration to the U.S. Copyright Office, which
+accepts both paper and electronic registration applications. It reports that it takes on
+average 3 months to process electronic applications, whereas it takes 6 months on
+average to process paper-based applications. 50
+NOTE
+The U.S. Copyright Office has prepared many documents to help people better understand copyright. You
+can see a list of those documents at https://www.copyright.gov/circs/.
+A person registers a work by submitting an application and a copy of the work.
+The applicant also must pay a fee. The only way to register a copyright is with the
+U.S. Copyright Office. Some people believe that mailing a copy of their work to
+themselves via U.S. mail is copyright registration or proof of ownership in the work.
+This is sometimes called a poor man’s copyright. However, this is not a valid way to
+register a copyright. To repeat: The only way to register a copyright in the United
+States is with the U.S. Copyright Office. 51
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.How Do You Protect Copyrights Internationally?
+The Berne Convention for the Protection of Literary and Artistic Works (1886), administered by the WIPO, is
+the main treaty regarding international copyright protection. The Berne Convention also states that any party
+to the convention agrees to protect the copyrighted works of foreign citizens at least as much as it protects
+the copyrighted works of its own citizens.
+More than 175 countries are members of the Berne Convention. 52 The United States became a member of
+the Berne Convention in 1989. It took a long time for the United States to join the Berne Convention because
+the convention requires member countries to provide a minimum level of copyright protection, and the United
+States had to rewrite its copyright laws to give these protections. The Berne Convention requires each
+member nation to recognize the following:
+A minimum term of copyright protection that is the life of the author plus 50 years
+Freedom from formalities such as notice or registration to recognize a copyright. Copyright protection
+arises automatically.
+Protection for certain moral rights of the author.
+Infringement and Remedies
+Copyright holders have exclusive rights in the work that they create. These rights
+arise when the work is created and continue for the length of the copyright. The
+federal government does not enforce copyrights. Authors must enforce their own
+rights and can sue people who infringe on their copyright. Liability for infringement is
+based upon strict liability. A copyright owner can hold an infringer liable for violating a
+copyright even if the infringement was not intentional.
+To pursue an action for copyright infringement, a plaintiff must prove ownership of
+the copyright. The plaintiff also must show that the defendant has infringed on that
+copyright. A plaintiff usually proves ownership of a copyright by showing a copyright
+registration as proof of the validity of the copyright.
+NOTE
+Piracy refers to unauthorized copying and distribution of electronic, musical, and audiovisual works.
+Copyright infringement cases are very rarely simple cases of a defendant directly
+copying a plaintiff’s work. To show that there has been an unauthorized reproduction,
+the plaintiff must show that the defendant had access to the copyrighted work.
+However, access to the copyrighted work alone is not enough to prove infringement.
+The plaintiff also must show that the plaintiff’s and defendant’s works are
+substantially similar.
+One of the most common tests used to determine substantial similarity is
+“whether a lay observer would consider the works as a whole substantially similar to
+one another.” 53 This is a fact-intensive inquiry. The court will look at all the ways in
+which the two works are similar. If the two works are substantially similar, then
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.copyright infringement has occurred.
+Remedies for copyright infringement are similar to remedies for infringements of
+other IP rights. A court can issue an injunction, which stops the infringer from
+violating the copyright holder’s rights. A court also can order a defendant to pay
+damages for violating a plaintiff’s copyright. A defendant also may be liable for
+statutory damages under copyright law. These damages are higher for willful
+copyright infringement. 54
+NOTE
+Statutory damages are damage amounts that the law specifies. Lawmakers specify statutory damages in
+cases where it might be hard for a party to prove the amount of actual damages.
+The most common way for a defendant to defend against a copyright
+infringement case is to argue that the plaintiff’s work is not original. A defendant also
+can present facts that the works are not substantially similar. Another defense in a
+copyright infringement case is that the use of the copyrighted work is allowed under
+the fair use doctrine.
+FYI
+Posting a URL to another person’s copyrighted materials on your own webpage is generally not
+considered copyright infringement. However, posting a copy of someone’s content on your own webpage,
+even if you acknowledge their work, may be copyright infringement. This is because only the owner of the
+copyright has the right to reproduce and distribute his or her copyrighted materials.
+Fair Use
+A copyright holder has a large number of rights in his or her original work. The scope
+of these rights is to encourage artistic expression. However, there are some
+limitations on a copyright holder’s exclusive rights. These limitations are a defense to
+copyright infringement. Fair use is one of the most common limitations.
+The law states that fair use of a copyrighted work is not copyright infringement. 55
+The law lists several examples of fair use. Fair use is permitted in these situations to
+promote free speech. The examples include uses for:
+NOTE
+The U.S. Copyright Office Fair Use Index is a searchable database of court opinions about fair use. You
+can learn more and access the index at https://www.copyright.gov/fair-use/.
+Criticism
+Comment
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.News reporting
+Teaching (including multiple copies for classroom use)
+Scholarship
+Research
+If portions of a copyrighted work are used for these purposes, then a defendant
+might have a defense against an owner’s claim of copyright infringement.
+The law also lists several technology-neutral factors that should be considered in
+determining whether a use should be considered fair use. They can be used to
+analyze the use of any type of creative work. The factors are: 56
+The purpose and character of the use—A use for nonprofit, educational, or
+comment purposes tends to favor fair use. A use that is for commercial or profit
+purposes tends to weigh against fair use.
+The nature of the copyrighted work—The more creative a work is, the more
+protection it will be afforded. Fair use tends to favor the use of facts and not the
+creative expression of an idea.
+The amount and substantiality of the work used—Use of a small amount of a
+copyrighted work tends to favor fair use. However, the use of a small part of a
+work that encompasses the substantial idea in that work weighs against fair use.
+The effect of the use upon the potential market—A use that has no effect on a
+potential market for a work tends to weigh in favor of fair use. A use of a work that
+has a major effect on the market is less likely to be considered fair use.
+Courts weigh these factors against one another to determine whether the use of a
+copyrighted work is fair use. If fair use is indicated, it may be a defense to a
+copyright infringement claim. Fair use cases are very difficult to decide. Courts must
+engage in a very detailed analysis to determine fair use.
+In 2009, the Second Circuit Court of Appeals reviewed a fair use case. 57 In that
+case, a book publisher created an illustrated biography about the history of the
+Grateful Dead rock band. As part of the book, it included pictures of concert posters.
+The plaintiff owned the copyrights to the posters and sued the book publisher for
+copyright infringement.
+The defendant argued that its use of the posters was allowed under the fair use
+doctrine. In reviewing the case, the Second Circuit held that the use of the
+copyrighted posters was fair use. It said that the use did not exploit the copyrighted
+works, but was instead transformative. This means that the purpose and character of
+the use were different from the original use of the copyrighted works. The posters
+were greatly reduced in size and used to commemorate events in the band’s history
+in a biographical fashion. As such, the use was different from the original use of the
+posters and could properly be considered fair use.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Fair Use for Educational Purposes
+Some people believe that the use of any copyrighted work by an educator is always fair use. However, this is
+not true. The educator must still review the fair use factors.
+For example, an education professor shares one short excerpt from a copyrighted academic journal article
+about teaching styles with students to illustrate a lesson. This activity is probably fair use. Analysis of the fair
+use factors shows:
+Use in an educational setting tends to favor fair use.
+The use of a scholarly journal article that contains facts tends to favor fair use.
+The use of a small amount of a copyrighted work tends to favor fair use.
+The use likely does not affect a potential market because it is being used in a restricted classroom
+setting.
+The same education professor prepares a newsletter for a website. The professor includes a copyrighted
+cartoon about teaching students in the newsletter to illustrate a humorous point. This activity probably is not
+fair use. The cartoon’s creator must give permission for the cartoon to be included in the newsletter. Analysis
+of the fair use factors shows:
+Use on a website for entertainment purposes tends to weigh against fair use.
+The use of creative works tends to weigh against fair use. A cartoon is a very creative work.
+The use of an entire work, such as a cartoon, tends to weigh against fair use.
+Use of the work could have a major effect on the cartoonist’s ability to market his or her products,
+especially because it is made available through the internet. This weighs against fair use.
+The rules for determining fair use can be very detailed. The U.S. Copyright Office has prepared fair use
+guidance for educators. You can read it at http://www.copyright.gov/circs/circ21.pdf.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Protecting Copyrights Online—The Digital
+Millennium Copyright Act (DMCA)
+In 1998, Congress passed the Digital Millennium Copyright Act (DMCA). 58 Congress
+created the DMCA to help protect copyrights in the digital world. It also contains
+provisions that help insulate internet service providers (ISPs) from the actions of
+their customers.
+DMCA Basics
+The DMCA has five titles. They are:
+Title I—This title implements two WIPO treaties. It contains provisions about
+technological measures used to protect electronic copyrighted works.
+Title II—This title is called the Online Copyright Infringement Liability Limitation
+Act. It limits the liability of online service providers for copyright infringement by
+users.
+Title III—This title is called the Computer Maintenance Competition Assurance
+Act. It allows computer technicians to make a copy of a computer program for
+maintenance or repair.
+Title IV—This title contains miscellaneous provisions.
+Title V—This title is called the Vessel Hull Design Protection Act. It creates a new
+form of IP protection for the design of vessel hulls.
+Titles I, II, and III are discussed in this section.
+Technology Protection Measures
+Title I of the DMCA implements two WIPO treaties: the WIPO Copyright Treaty and
+the WIPO Performances and Phonograms Treaty. The DMCA amended the
+Copyright Act (1976) to extend U.S. copyright law to creative works made by citizens
+in other countries. These changes were required as part of the WIPO treaties.
+NOTE
+Many college students are aware of the DMCA because of its Title II copyright infringement provisions.
+The WIPO treaties required two major changes. The first is that members of the
+treaties must prevent people from bypassing technological measures used to protect
+copyrighted works. Many digital products, such as DVDs, video games, electronic
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.books, and websites, use access controls to protect certain types of content. For
+example, a website might password protect some sections so that only registered
+members can get to those sections.
+The technology measures and tools that some businesses use to protect their
+content are referred to as digital rights management (DRM). Many large businesses
+in the entertainment industry use DRM to protect their digital works.
+The DMCA forbids people from accessing protected copyrighted content by
+bypassing these access controls. They may not tamper with content protected by
+technological access controls. This provision intends to protect content that is
+transmitted electronically from copyright infringement. In addition, a person is not
+allowed to make or sell devices that would allow other people unauthorized access
+to a copyrighted work that is protected by these types of access controls. 59
+Second, the DMCA also forbids the sale of devices that would allow other people
+to bypass technological controls to copy a copyrighted work. However, the DMCA
+does not prohibit people from actually bypassing technological controls on their own
+to copy a work. This is because copying might be necessary to use parts of a work
+under the fair use doctrine.
+There are some exceptions to these anti-circumvention measures. 60 It may be
+possible for a person to bypass technological controls that prevent unauthorized
+access in these instances. Each of these exemptions has additional detailed terms
+that are described only briefly here. The exemptions include the following:
+NOTE
+The provisions forbidding bypassing technological measures are called the “Circumvention of
+Technological Protection Measures.” You also may hear these referred to as the DMCA anti-circumvention
+measures.
+Nonprofit libraries, archives, and educational institutions may bypass technology
+protection measures to make a good faith determination that they wish to obtain
+authorized access to the work.
+A person who has lawfully obtained a computer program may bypass technology
+protection measures to identify and analyze elements of the program in order to
+make sure it is compatible with other programs.
+A person may bypass technology protection measures and create tools to do so to
+research and identify weaknesses in encryption technologies.
+A person may bypass technology protection measures to protect children from
+certain material on the internet.
+A person may bypass technology protection measures when those measures are
+capable of collecting or sharing personally identifying information about a person’s
+online activities.
+A person may bypass technology protection measures and create tools to do so
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.for testing the security of a computer system or network. The owner of the system
+must specifically authorize the testing.
+Title I criminalizes the act of bypassing technological measures. A person who
+willfully violates the technology protection measures for profit can be held criminally
+liable. Penalties include both prison time (up to 10 years is possible) and monetary
+fines (up to $1,000,000 is possible). The law makes nonprofit libraries, archives, and
+educational institutions entirely exempt from its criminal liability provisions. 61
+FYI
+Title I also allows the Library of Congress to issue administrative exemptions. These exemptions are
+allowed when technology protection measures substantially limit the ability of people to make non-
+infringing uses of copyrighted materials. The Library of Congress must issue administrative exemptions
+every 3 years. You can read the administrative exemption rules at http://www.copyright.gov/1201/.
+Online Copyright Infringement
+Title II of the DMCA is called the Online Copyright Infringement Liability Limitation
+Act. It limits the liability of an online service provider (OSP) for its customers’
+copyright infringement. 62 Online service providers lobbied hard for these provisions.
+They were concerned that they could be held liable for their users’ actions under
+some secondary liability legal theories. In these theories, an OSP could be held
+liable for a user’s actions if the OSP knew about them and contributed to them. This
+was worrisome to service providers whose entire function was to provide services to
+customers.
+DMCA exempts OSPs from copyright infringement claims that result from the
+conduct of their customers if certain criteria are met. If they meet these criteria, they
+fall into a safe harbor. If an OSP qualifies for a safe harbor exemption, only the
+individual infringing customer is liable for monetary damages. The OSP’s service or
+network, through which the customer engaged in the copyright infringement, is not
+liable. The DMCA provides safe harbors for common OSP activities. 64 They are:
+NOTE
+An OSP, as defined by the DMCA, 63 is a provider of online services or network access. An ISP is also an
+OSP.
+Transitory communications (providing network communications services)
+System caching
+Storage of information on systems or networks at the direction of users (hosting)
+Providing information location tools (search engines)
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.The safe harbors do not require an OSP to monitor the content posted or transmitted
+by the OSP’s users for copyright infringement. To take advantage of any of the safe
+harbor provisions, the OSP must develop a policy of terminating the accounts of
+repeat copyright offenders. OSPs also must not interfere with any technological
+measures that copyright owners use to protect their copyrights. OSPs must also
+meet additional criteria for three of the safe harbors.
+Under the transitory communications safe harbor section, an OSP is not liable for
+copyright infringement by its customers simply because the OSP provides digital
+transmissions, routing, or connections for the communicating content. 65 To use this
+safe harbor, an OSP must show the following:
+Someone other than the OSP initiated the transmission of content.
+The transmission was carried out through an automated process.
+The OSP does not select who receives the transmitted material except as an
+automatic response to the request of another person.
+No copy of the transmission is retained in a manner that makes it available to
+other recipients.
+OSPs transmit the material through its system without modification of its content.
+NOTE
+The transitory communications safe harbor is commonly called the conduit defense. This is because the
+OSP is merely providing a conduit for its users to communicate through. ISPs often rely on this safe
+harbor.
+This provision protects the OSP from user-initiated communications that the OSP
+automatically processes. In these situations where an OSP is merely transmitting
+material, it will not be liable for the alleged copyright infringement of system users.
+DMCA Takedown Notices
+Under the DMCA, if a copyright owner wishes to have allegedly infringing material removed from an OSP’s
+network, the copyright owner must send a notice and takedown letter to the OSP’s specified agent. DMCA
+requires each OSP to specify an agent who will receive these notices and respond to them.
+The U.S. Copyright Office maintains a list of DMCA agents. You can find this list at
+https://www.copyright.gov/dmca-directory/.
+A DMCA “notice and takedown” letter must be in writing and contain the following elements: 66
+A physical or electronic signature of the copyright owner or representative
+Identification of the copyrighted work
+Identification of the infringing material that is to be removed, along with sufficient information to enable
+the ISP to locate it
+Contact information for the complaining party
+A statement that the complaining party has a good faith belief that the use of the copyrighted work is not
+authorized by the copyright owner or the law
+A statement that the information is accurate and that, under penalty of perjury, the complaining party is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.authorized to act for the copyright owner
+After receipt of a valid notice, the OSP must notify the user and remove or disable access to the allegedly
+infringing material. If a user believes that the takedown is in error, the DMCA gives users an opportunity to
+require that the OSP reinstate the materials.
+Under the information storage and information location tools safe harbor
+provisions, an OSP also must show that users control what material they post online.
+OSPs also must show that they do not have actual knowledge of users’ infringing
+activities. OSPs must show that they do not profit from the user’s infringing activities.
+OSPs further must show that they take down or block access to infringing material
+when they receive proper notice from a copyright owner.
+Computer Maintenance
+Title III of the DMCA is called the Computer Maintenance Competition Assurance
+Act. It allows computer repair technicians to make temporary, limited copies of
+computer software while they are repairing a computer. The computer must already
+have a copy of the software program on it. These new copies cannot be used in any
+manner and technicians must delete them when the repair job is over. The DMCA
+allows a technician to make these copies to assist in repairing the computer. 67
+DMCA Unintended Consequences
+It has been over 20 years since the DMCA was enacted. Nonetheless, it still raises
+some concerns about unintended consequences. Most of the concerns are about the
+provisions of DMCA Title I and Title II. They include:
+Fears that Title 1 provisions will suppress legitimate activities such as research.
+Fears that the Title II provisions overburden OSPs.
+Title 1 Concerns
+There are many concerns about the anti-circumvention technology protection
+measures specified in Title I. Many scientists, educators, and industry groups are
+concerned that these provisions will stifle research. This is because of the criminal
+penalties that are attached to violating these provisions. There is already some
+indication that this concern is not unreasonable.
+In 2001, the U.S. Federal Bureau of Investigation (FBI) arrested a security
+researcher from Russia for publishing software that bypassed access controls on e-
+books. This was allegedly a violation of DMCA’s technology protection measures.
+The researcher was arrested after making a presentation about the security issues
+at the Def Con conference in Las Vegas. Both the researcher and the Russian
+company that he worked for were charged under the DMCA. The charges against
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.the researcher were dropped. In 2002, a jury acquitted the Russian company of
+charges that it violated the DMCA.
+Other complaints about these provisions center on the fact that the anti-
+circumvention provisions hinder fair use and, therefore, free speech. These
+complaints ask about what happens when DRM-protected materials enter the public
+domain. How can they be properly used in the public domain if there are no available
+tools to remove DRM protection?
+NOTE
+To acquit means to find a person not guilty of the crimes with which he or she was charged.
+Title II Concerns
+There are also concerns with Title II of the DMCA. Many people argue that it places
+too much of a burden on OSPs in responding to “notice and takedown” letters from
+copyright holders. Because the OSP must act on the notice to maintain its safe
+harbor protection, it might take down material inappropriately. Taking down material
+in such a broad manner could hamper free speech. Since the enactment of the
+DMCA, Google has received almost 5 billion requests to delete URLs that point to
+infringing content. 68
+NOTE
+You can read Google’s Transparency Report, https://transparencyreport.google.com, to learn more about
+the number of copyright claims that it receives.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.Case Studies and Examples
+The following case studies show how the concepts discussed in this chapter are
+used. These case studies are real-world examples of how IP laws are applied.
+Trade Secrets
+In 2008, the U.S. government charged a design engineer with stealing trade secrets
+from Intel about its newest microprocessor. The value of the trade secrets was
+estimated at $1 billion.
+The engineer worked at Intel in Massachusetts. He resigned from his job at the
+end of May 2008 and told Intel that he would use his accrued vacation time for 2
+weeks until his final day at work. His employment with Intel would officially end on
+June 11, 2008. The engineer did not tell Intel that he had a new job with an Intel
+competitor, which he started on June 2, 2008.
+Intel heard rumors that the engineer had accepted employment with its
+competitor. The company began to review logs to see his network activities during
+his last 2 weeks with the company. It notified law enforcement once it discovered
+that the employee had accessed sensitive company documents.
+NOTE
+You can read the Department of Justice press release about the case at
+https://archives.fbi.gov/archives/boston/press-releases/2012/former-intel-employee-sentenced-to-prison-
+for-stealing-valuable-computer-chip-manufacturing-and-design-documents.
+The U.S. FBI investigated the incident. Their investigation showed that the
+engineer remotely accessed the Intel system several times between June 8 and
+June 11, 2008. He downloaded highly sensitive Intel documents that contained data
+relating to the design of the new chip. However, the FBI found no evidence that he
+had disclosed or used the information that he downloaded from Intel.
+In April 2012, the engineer pleaded guilty to charges of wire fraud for illegally
+accessing the Intel system and downloading documents. He was sentenced to 3
+years in prison. The case highlights that even large companies must implement
+access control measures to protect their secrets.
+Service Provider Liability for Copyright Infringement
+Napster was an online music file-sharing software program. For a brief period in
+time, it was the most popular peer-to-peer program in use. Napster freely distributed
+its software, which allowed computer users to share their music collections online
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.with other computer users.
+In 1999, several music companies filed a lawsuit against Napster for copyright
+infringement under the DMCA. They argued that Napster users were directly
+infringing on their copyrights and that Napster was responsible for copyright
+infringement on several secondary liability theories. They argued that Napster
+engaged in copyright infringement as well because it provided the services used by
+its customers to engage in copyright infringement. The case, A&M Records, Inc. v.
+Napster, was filed in the U.S. District Court for the Northern District of California.
+Napster offered several defenses. It claimed that its activities fell within DMCA
+safe harbor provisions. These defenses were not successful after the district court
+determined that Napster failed to meet all the safe harbor requirements.
+NOTE
+The documentary Downloaded is about the quick rise and fall of Napster. How streaming services offer
+music today is influenced by the Napster story.
+The district court held that at least some of Napster’s users were engaging in
+activities that infringed upon the copyrights of others and that Napster knew about
+this activity. It also found that Napster provided services that its users used to
+engage in copyright infringement, as well as the fact that Napster profited financially
+from its users’ activities. Napster lost the case in district court.
+Napster appealed to the Ninth Circuit U.S. Court of Appeals, which upheld the
+district court’s decision. 69 The court ordered Napster to monitor the activities of its
+network and to block access to infringing material when notified by copyright owners.
+Napster shut down its service in July 2001 and declared bankruptcy in 2002. In
+2003, it sold all of its assets. The Napster case is one of the most famous cases
+about service provider liability for copyright infringement under the DMCA.
+Digital Collections
+In 2008, several U.S. college and university research libraries formed the HathiTrust.
+The HathiTrust digitizes and stores the printed collections of its partner libraries to
+preserve them. Several different organizations, such as Google and Microsoft, are
+partners in digitizing the collections. Since its creation, the HathiTrust has digitized
+over 17 million books and 6 billion pages. 70 You can see a list of participating
+institutions at http://www.hathitrust.org/community.
+The HathiTrust also provides access to this digitized content when a copyright
+holder has allowed it. It also provides access to digital resources where allowed by
+law, as in providing materials to individuals with visual disabilities, as well as access
+to works in the public domain.
+In September 2011, the Authors Guild sued the HathiTrust. The Authors Guild,
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.which helps writers learn about copyright and how to protect it, alleged that the
+HathiTrust was violating the copyright of guild members by creating a digital archive
+of copyrighted materials. They argued that the HathiTrust and its partners copied
+and provided access to the materials without the owners’ consent. The HathiTrust
+argued that the digitization of the materials was allowed under several different
+copyright law exceptions. It argued that its activities were fair use and fell under the
+preservation provision. In October 2012, a federal district court agreed with the
+HathiTrust and stated that the HathiTrust’s activities did not violate copyright laws.
+In November 2012, the Authors Guild appealed the case to the Second Circuit
+Court of Appeals, which heard oral arguments on October 30, 2013. In June 2014,
+the Second Circuit ruled in favor of HathiTrust. 71 It held the doctrine of fair use
+allowed HathiTrust to create a full-text searchable database of copyrighted works. It
+also held that HathiTrust could provide those copyrighted works in formats
+accessible to those with disabilities
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.CHAPTER SUMMARY
+IP protection is broad. It protects a person’s ownership rights in their creative
+ideas and gives them the right to protect their ideas and profit from them.
+These rights are exclusive to the owners of IP, who can take action against
+people who violate their IP rights.
+IP protection is particularly important to think about as more content
+becomes available on the internet. IP law protects ideas once they are in a
+physical form. When materials are published on the web, they are in a
+physical form. Traditional legal concepts about IP ownership are used to
+protect materials published on the internet.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.KEY CONCEPTS AND TERMS
+Affidavit
+Copyright
+Design patents
+Fair use
+Intellectual property (IP)
+Internet of Things
+Patent
+Patent prosecution
+Plant patents
+Prior art
+Public domain
+Servicemark
+Strict liability
+Trade secret
+Trademark
+Utility patents
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.CHAPTER 10 ASSESSMENT
+1. What intellectual property methods can be used to protect computer software?
+A.
+B.
+C.
+D.
+E.
+Patents
+Trademarks
+Copyrights
+Patents and trademarks
+Patents and copyrights
+2. What is strict liability?
+3. A design patent can be used to protect computer software.
+A. True
+B. False
+4. A utility patent has a ________year term.
+5. Which type of IP protection is mentioned in the U.S. Constitution?
+A.
+B.
+C.
+D.
+E.
+Patents
+Trademarks
+Copyrights
+Patents and trademarks
+Patents and copyrights
+6. What is the main difference between patents and trade secrets?
+A.
+B.
+C.
+D.
+E.
+A trade secret is public, whereas a patent is confidential.
+A trade secret protects a process, whereas a patent protects a machine.
+A trade secret is confidential, whereas a patent is public.
+A trade secret protects a machine, whereas a patent protects a process.
+None of these is correct.
+7. What are the two basic requirements to register a trademark with the USPTO?
+8. The USPTO publishes the Official Gazette to give public notice about patents
+and trademarks.
+A. True
+B. False
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.9. What must an author do to protect his or her copyrighted works?
+A.
+B.
+C.
+D.
+E.
+Mark it with a ©.
+Register it with the U.S. Copyright Office.
+Nothing, copyright protection is automatic.
+Pay a fee to the Library of Congress.
+None of these is correct.
+10. Which DMCA safe harbor is called the “conduit” exception?
+A.
+B.
+C.
+D.
+E.
+Transitory communications safe harbor
+System caching safe harbor
+Information storage safe harbor
+Information location tools safe harbor
+None of these is correct.
+11. Which type of IP protection is governed by federal and state law?
+A.
+B.
+C.
+D.
+E.
+Patents
+Copyrights
+Trademarks
+Patents and copyrights
+None of these is correct.
+12. What is the trademark registration period?
+A.
+B.
+C.
+D.
+E.
+10 years
+14 years
+20 years
+70 years
+None of these is correct.
+13. Why is it important to know who is the owner of a copyrighted work?
+14. What must a person show to prove trademark infringement?
+A. Ownership of a trademark
+B. That the defendant used a similar trademark in commerce
+C. That the defendant’s use of a similar trademark is likely to confuse
+consumers
+D. Ownership of a trademark and that the defendant used a similar trademark
+in commerce
+E. Ownership of a trademark, that the defendant used a similar trademark in
+commerce, and that the defendant’s use of a similar trademark is likely to
+confuse consumers
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.15. What is cybersquatting?
+A. When a person owns a patent but does not make, use, or sell his or her
+invention
+B. When a person registers a domain name that is a registered trademark or
+trade name of another entity
+C. When a person uses the copyrighted materials of another without
+appropriate acknowledgment
+D. When a person publicly advertises the sensitive confidential information of a
+business or other entity on the internet
+E. None of these is correct.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.ENDNOTES
+1. Internet World Stats, “Internet Usage Statistics: World Internet Users and
+Population Stats,” March 3, 2020. http://www.internetworldstats.com/stats.htm
+(accessed April 30, 2020).
+2. U.S. Constitution, Art. 1, sec. 8, cl. 8.
+3. U.S. Code, Vol. 35, sec. 1-376.
+4. Leahy-Smith America Invents Act, Pub. L. No. 112-29, 125 Stat. 284 (2011).
+5. United States Patent and Trademark Office, “FY 2019 Performance and
+Accountability Report,” November 2019.
+https://www.uspto.gov/sites/default/files/documents/USPTOFY19PAR.pdf
+(accessed April 30, 2020).
+6. U.S. Code, Vol. 35, sec. 102.
+7. Plant Variety Protection Act (1970), U.S. Code Vol. 7, sec. 2421, 2422, 2541.
+8. Diamond v. Chakrabarty, 447 U.S. 303 (1980).
+9. U.S. Code, Vol. 35, sec. 102(b).
+10. U.S. Code, Vol. 35, sec. 101.
+11. U.S. Code, Vol. 35, sec. 103.
+12. Hartford v. Moore, 181 F. 132 (S.D.N.Y. 1910).
+13. United States Patent and Trademark Office, “Data Visualization Center,
+Traditional Total Pendency,” April 2020.
+https://www.uspto.gov/corda/dashboards/patents/main.dashxml?
+CTNAVID=1004 (accessed April 30, 2020).
+14. U.S. Code, Vol. 35, sec. 7.
+15. U.S. Code, Vol. 35, sec. 282.
+16. U.S. Code, Vol. 35, sec. 284.
+17. U.S. Code, Vol. 35, sec. 285.
+18. U.S. Code, Vol. 18, sec. 1831-1839.
+19. William L. Jones et al. v. Peggy Hamilton, Alabama Court of Civil Appeals,
+Opinion, January 22, 2010. Available at:
+https://law.justia.com/cases/alabama/court-of-appeals-civil/2010/2081077.html
+(accessed April 30, 2020).
+20. U.S. Code, Vol. 15, sec. 1051 et seq.
+21. United States Patent and Trademark Office, “FY 2019 Performance and
+Accountability Report,” November 2019.
+https://www.uspto.gov/sites/default/files/documents/USPTOFY19PAR.pdf
+(accessed April 30, 2020).
+22. U.S. Code, Vol. 15, sec. 1114.
+23. U.S. Code, Vol. 15, sec. 1065.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+U.S. Code, Vol. 15, sec. 1111.
+U.S. Code, Vol. 15, sec. 1051.
+U.S. Code, Vol. 15, sec. 1051.
+U.S. Code, Vol. 15, sec. 1052.
+United States Patent and Trademark Office, “Data Visualization Center, Total
+Pendency,” April 2020.
+https://www.uspto.gov/dashboards/trademarks/main.dashxml (accessed July 11,
+2020).
+U.S. Patent and Trademark Office, “Trademark Manual of Examining Procedure,
+Section 1200,” October 2018.
+https://tmep.uspto.gov/RDMS/TMEP/current#/current/TMEP-1200d1e3042.html
+(accessed April 30, 2020).
+U.S. Code, Vol. 15, sec. 1063.
+U.S. Code, Vol. 15, sec. 1058.
+U.S. Code, Vol. 15, sec. 1059.
+U.S. Code, Vol. 15, sec. 1114.
+U.S. Code, Vol. 15, sec. 1125.
+U.S. Code, Vol. 15, sec. 1114.
+Toys “R” Us v. Akkaoui, 40 U.S.P.Q.2d (BNA) 1836 (N.D. Cal. Oct. 29, 1996).
+U.S. Code, Vol. 15, sec. 1116.
+U.S. Code, Vol. 15, sec. 1117.
+U.S. Code, Vol. 15, sec. 1117.
+Verisign, “The Verisign Domain Name Industry Brief,” March 2020.
+https://www.verisign.com/assets/domain-name-report-Q42019.pdf (accessed
+April 30, 2020).
+U.S. Code, Vol. 15, sec. 1125(d).
+World Intellectual Property Organization, “WIPO Arbitration and Mediation
+Center, 2019 Review,” April 8, 2020.
+https://www.wipo.int/amc/en/new/2019review.html (accessed April 30, 2020).
+Copyright Act (1976), U.S. Code, Vol. 17, sec. 101 et seq.
+U.S. Code, Vol. 17, sec. 102(a).
+U.S. Code, Vol. 17, sec. 106.
+U.S. Code, Vol. 17, sec. 101.
+U.S. Code, Vol. 17, sec. 302.
+U.S. Code, Vol. 17, sec. 411.
+U.S. Code, Vol. 17, sec. 410.
+U.S. Copyright Office, “Registration Processing Times April 1-September 30,
+2019,” 2019. https://www.copyright.gov/registration/docs/processing-times-
+faqs.pdf (accessed April 30, 2020).
+U.S. Copyright Office, “I’ve Heard About a ‘Poor Man’s Copyright.’ What Is It?”
+Undated. https://www.copyright.gov/help/faq/faq-general.html#poorman
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+(accessed April 30, 2020).
+World Intellectual Property Organization, “Berne Convention for the Protection
+of Literary and Artistic Works,” Undated.
+https://www.wipo.int/treaties/en/ip/berne/ (accessed April 30, 2020).
+Williams v. Crichton, 84 F.3d 581, 590 (2d Cir. 1996).
+U.S. Code, Vol. 17, sec. 504.
+U.S. Code, Vol. 17, sec. 107.
+U.S. Copyright Office, “More Information on Fair Use,” April 2020.
+https://www.copyright.gov/fair-use/more-info.html (accessed April 29, 2020).
+Bill Graham Archives v. Dorling Kindersley Ltd., 448 F.3d 605 (2d Cir. 2006).
+Digital Millennium Copyright Act, Pub. L. No. 105-304, 112 Stat. 2860 (1998),
+codified in scattered sections of U.S. Code Vol. 17.
+U.S. Code, Vol. 17, sec. 1201.
+U.S. Code, Vol. 17, sec. 1201.
+U.S. Code, Vol. 17, sec. 1204.
+U.S. Code, Vol. 17, sec. 512.
+U.S. Code, Vol. 17, sec. 512(k)(1).
+U.S. Code, Vol. 17, sec. 512.
+U.S. Code, Vol. 17, sec. 512(a).
+U.S. Code, Vol. 17, sec. 512(c)(3).
+U.S. Code, Vol. 17, sec. 117.
+Google,”Content Delistings Due to Copyright,” Undated.
+https://transparencyreport.google.com/copyright/overview?hl=en (accessed
+April 30, 2020).
+A&M Records v. Napster, Inc., 239 F.3d 1004 (9th Cir. 2001).
+HathiTrust, “Statistics Information,” Updated daily.
+http://www.hathitrust.org/statistics_info (accessed April 30, 2020).
+Authors Guild, Inc. v. HathiTrust, 755 F.3d 87 (2d Cir. 2014).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:47:13.

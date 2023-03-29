@@ -1,0 +1,1443 @@
+CHAPTER
+13
+Information Security Governance
+HIS CHAPTER DISCUSSES information security governance. It also discusses
+information security policies. An organization’s governance structure is an
+important part of its information security program. Governance focuses on the
+structure used to protect resources and data. This structure must support business
+needs and provide security. Strong governance helps create strong security
+programs.
+T
+Organizations use policies, standards, guidelines, and procedures to create their
+security program. These documents help guide employee conduct and state the
+organization’s rules for how information technology resources are secured. They
+also help protect an organization from legal liability.
+Chapter 13 Topics
+This chapter covers the following topics and concepts:
+What information security governance is
+What information security governance documents are
+What recommended information security policies are
+What some case studies and examples are
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.Chapter 13 Goals
+When you complete this chapter, you will be able to:
+Describe the key concepts and terms associated with information
+security governance
+Describe the goals of different information security governance
+documents
+Describe the different types of policies that can be used to govern
+information security
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.What Is Information Security Governance?
+For almost any organization, data is a valuable asset. Yet, over 50 percent of large
+corporations report that they do not treat data as a business asset. 1 An organization
+must find ways to use its data to meet its business goals, such as providing services
+to consumers and making a profit. It also must protect its data. This balance is key to
+an organization’s success. Failing to strike the right balance can harm the
+organization’s goals. Consider the following:
+An organization cannot market its products without access to customer lists.
+Customers may complain about incorrect electronic data.
+If confidential data is disclosed, an organization faces embarrassment.
+An organization’s executive management team is responsible for governing the
+organization. This means it is also responsible for information security
+governance (ISG), the executive management team’s responsibility to protect an
+organization’s information assets. ISG makes protecting information assets a
+business decision. To do this, an organization must align its information security
+goals to its business needs. ISG moves information security beyond technical
+decisions and makes security a strategic decision.
+NOTE
+The security goals of confidentiality, integrity, and availability are called the C-I-A triad or the A-I-C triad.
+Organizations use ISG to enhance their business. ISG makes sure that
+information security concepts are applied in a way that helps meet business goals.
+ISG also makes sure that there is proper accountability and oversight for meeting
+these goals. The C-I-A triad appears in FIGURE 13-1.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.FIGURE 13-1
+The C-I-A triad.
+Description
+Information Security Governance Planning
+ISG refers to executive management’s responsibility to provide strategic direction,
+oversight, and accountability for the security of its data and information technology
+(IT) resources. Their main duty is to make sure that the information security strategy
+supports its business goals.
+A common business goal is to make a profit. The organization must consider
+many factors that affect this goal. Business drivers are the forces that influence the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.organization’s business goals. They can be internal or external and include people,
+processes, and trends. Common business drivers may include the availability of raw
+materials and employees, the location of factories, and the costs of transporting
+products to market.
+An organization must balance business drivers to meet its goals. They do this
+during the business planning process. There are three types of business planning.
+They are:
+Strategic planning—This is long-term planning. Strategic planning focuses on
+preparing new approaches and planning for new products, technologies, or
+processes. It lays the groundwork for new business directions.
+Tactical planning—This is short- to medium-term planning. Tactical planning
+allows organizations to be responsive to market conditions. It allows them to take
+advantage of short-term or unexpected opportunities. Tactical plans are usually 6
+months or less in length.
+Operational planning—This is day-to-day planning. Operational planning
+focuses on the normal operations of an organization. It is responsive to daily
+issues.
+FIGURE 13-2 illustrates the different types of business planning.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.FIGURE 13-2
+Business planning hierarchy.
+Description
+The organization’s executive management team carries out strategic planning.
+This is when it determines the business’s goals. Once it determines its business
+goals, it must figure out how information security can help support these goals. It will
+use the same types of planning strategies to think about information security. This is
+ISG planning. When planning for information security, the organization must think
+about:
+Information needs—The organization must ask how it uses data to meet its
+business goals. It must then think about how information security can support this.
+For instance, if an organization conducts most of its business on the internet, it
+may need to focus its attention on techniques to ensure availability and integrity.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.Its IT systems must hold accurate data and be ready to conduct business.
+Regulatory requirements—The organization must know its regulatory landscape.
+It must know the data protection laws that it must follow. Often these laws focus on
+protecting the confidentiality of certain types of data.
+Risk management—The organization must adopt a risk management approach.
+It must know the information security risks that it faces. It also must prioritize that
+risk and decide how it will respond to it.
+Security failures—The organization must think about information security failures
+and how those failures might harm the business. For instance, it must consider the
+impact of a security breach, malware-infected IT resources, or unavailable data.
+There are many negative impacts of an information security failure. These include
+lawsuits and breach notification costs. An organization will certainly lose
+customers after an information security incident. This affects its bottom line.
+NOTE
+A 2019 survey found the average organizational cost of a data breach in the United States is almost $4
+million. 2
+An organization answers these questions to determine ISG strategic direction. It
+makes sure that its information security goals support its business objectives. This is
+the role of ISG.
+Common Information Security Governance Roles
+It is important to know who makes information security decisions, whether they are
+strategic, tactical, or operational. Not every organization has the same structure.
+Organizations can have different legal forms, such as corporations, partnerships, or
+limited liability companies. These legal forms are governed by state law. This section
+reviews ISG roles. You will be more likely to find the roles described here in larger
+organizations, such as corporations. Smaller organizations may not fill all of these
+roles; rather, they may combine many duties within one role. Nonprofit and
+educational organizations may also have different roles for people. These
+organizations tend to have structures with many shared responsibilities.
+Many different roles can make decisions about information security. The typical
+ISG roles are:
+Board of directors
+Chief information officer
+Chief information security officer
+Information security managers
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.The board of directors (BOD), an organization’s top governance group, runs the
+organization. A BOD is required by law to act with due care. It must make all of its
+decisions in the best interests of the organization. The BOD plans an organization’s
+strategic direction and determines its business goals. It makes sure that an
+organization uses its resources effectively to meet these goals. Finally, it makes sure
+that an organization acts legally. If an organization does not have a BOD, then its
+top-ranking executive group performs these duties.
+The BOD determines how information security will reduce risk and support
+business goals through strategic planning. The BOD issues high-level information
+security policies and delegates tactical and operational activities to other senior
+managers. The main duty of a BOD is governance for the organization and for
+information security.
+The chief information officer (CIO) is the organization’s senior IT official. The
+CIO focuses on strategic IT issues and defines the organization’s IT mission. It is the
+CIO’s job to keep the BOD advised about IT issues. CIOs are not usually involved in
+day-to-day IT operations. Their duties are strategic and tactical in nature. They often
+delegate responsibility for information security management (ISM) to a CISO.
+A CIO is not the same as a chief technology officer (CTO). A CIO is
+responsible for a company’s internal IT systems and focuses on the systems used to
+run the organization’s business. A CIO tends to be internally focused. In contrast, a
+CTO develops a company’s technology products. These are the products that the
+company delivers to its customers. A CTO tends to be externally focused.
+The chief information security officer (CISO) is the organization’s senior
+information security official. The role of the CISO is relatively new and continues to
+evolve. Depending on an organization’s structure, the CISO might report to the CIO.
+A CISO also could report to the organization’s chief financial officer (CFO). CISOs
+are responsible for an organization’s information security strategy. They also are
+very involved in tactical planning. However, they are not generally involved in daily IT
+operations.
+The CISO makes sure that the CIO and BOD understand information security
+threats and how to respond to those threats. The CISO may make information
+security policy suggestions to the BOD. A CISO also helps determine information
+security safeguards, and usually delegates functional and operational tasks to other
+managers.
+NOTE
+In March 2009, U.S. President Barack Obama appointed the first federal CIO, who was responsible for
+government IT spending.
+Information security managers are responsible for the functional management of
+an organization’s information security program. They manage the operational
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.activities and implement the controls specified by the CISO. These managers might
+also:
+Create information security standards, guidelines, and procedures
+Participate in risk assessments
+Manage the security infrastructure
+These roles work together. The higher-level roles make governance decisions,
+whereas the lower-level roles are responsible for carrying out ISM and operational
+activities.
+Information Security Governance and Management
+ISG and ISM are not the same thing. Although the terms are often used
+interchangeably, the distinction is subtle. You should keep in mind that sometimes
+the difference is not clear. Many organizations use one or both terms to refer to all
+ISG and ISM activities. Many activities have both ISG and ISM elements.
+ISG, which is handled by the BOD, CIO, and CISO, makes sure that security is
+used to support business goals. It offers a process for oversight and accountability
+and makes sure that there is a structure in place to direct information security
+activities.
+Creating an Information Security Governance Program
+There are many resources available to help organizations create an ISG program. The International
+Organization for Standardization (ISO) and International Electrotechnical Commission (IEC) have created a
+comprehensive standard to help guide this process. 3 The standard uses the term ISM system to refer to both
+ISG and ISM activities.
+The standard helps organizations create an ISM system by using a risk-based approach. It reviews how to
+operate, monitor, review, maintain, and improve the ISM system. It walks through each step and outlines the
+processes that an organization must consider at each step.
+Any organization can use this standard, as it is designed to be flexible to meet an organization’s needs. It can
+be especially helpful to organizations that have never managed information security on a strategic level. It is
+also designed to work with the ISO/IEC security controls standard called “ISO/IEC 27002:2013, Information
+Technology—Security Techniques—Code of Practice for Information Security Controls.”
+Organizations must review their ISM systems regularly. They need to know if their ISM controls are improving
+security. To do this, they must measure their effectiveness. The ISO/IEC has guidance on this as well. That
+document is titled “ISO/IEC 27004:2016 Information Technology—Security Techniques—Information Security
+Management—Monitoring, Measurement, Analysis, and Evaluation.”
+This standard helps organizations review their ISM system. It helps organizations create control
+measurements and analyze the measurements. The process helps organizations decide if their policies or
+controls need to be changed.
+ISM, the organization’s day-to-day security operations, is the visible part of ISG
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.activities. It makes sure that ISG policies are put into practice. ISM maintains the
+organization’s overall security posture. ISG states what that posture must be. TABLE
+13-1 compares ISG and ISM.
+TABLE 13-1 Comparison of Information Security Governance and Information
+Security Management
+INFORMATION SECURITY GOVERNANCE INFORMATION SECURITY MANAGEMENT
+Strategic and tactical Tactical and operational
+Creates policies and strategy Implements policies and strategy
+Ultimate compliance authority and oversight Day-to-day management and authority
+BOD, CIO, CISO CISO and information security managers
+Information Security Governance in the Federal
+Government
+Congress created the Federal Information Security Modernization Act (FISMA) to
+protect federal data and IT resources. 4 Federal agencies fall under the executive
+branch of the U.S. government and report to the president of the United States. U.S.
+federal agencies must comply with FISMA.
+FISMA requires each federal agency to develop an information security program
+and name a CISO to lead the program. The program must assess the agency’s
+information security risk, include plans to reduce that risk, and provide security
+awareness and training activities to employees. Agencies must report on their
+FISMA compliance progress each year. They send these reports to the Government
+Accountability Office (GAO).
+NOTE
+You can view the GAO high-risk website at https://www.gao.gov/highrisk/overview.
+Information security is a high priority for the federal government. Since 1997, the
+GAO has included protecting the nation’s information systems and cyber critical
+infrastructure on its “high risk list.” Issues are high-risk if they are vulnerable to fraud,
+waste, abuse, or mismanagement. The GAO publishes the list every 2 years. 5
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.Information Security Governance Documents
+An organization’s ISG documents form the basis of its information security program.
+They document the organization’s commitment to information security. They are
+used to address:
+The organization’s information security goals
+How the organization protects its own data
+How the organization protects the data of others
+Compliance with legal and regulatory requirements
+Employee information security responsibilities
+Consequences for failing to meet responsibilities
+Organizations use policies, standards, guidelines, and procedures to create their
+security program. These documents work together to support information security
+goals. A formal policy is the highest-level governance document. Standards are the
+next level. Then procedures. Guidelines provide security advice. The documents
+move from the general (policies) to the more specific (procedure). FIGURE 13-3
+shows how these documents work together.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.FIGURE 13-3
+Information security governance documents.
+Description
+For purposes of this discussion, these documents are collectively referred to as
+“ISG documents” or “policies.” You should keep in mind that the term policies is often
+used in a very generic way. It is used to describe the entire suite of ISG documents.
+It will be clear from the text when the term is used in the generic way.
+NOTE
+ISG documents are administrative safeguards.
+Policies
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.A formal policy is executive management’s high-level statement of information
+security direction and goals. They are the top level of governance documents and
+help minimize risk by laying out the organization’s information security strategy.
+High-level policies are approved by an organization’s BOD.
+The BOD uses policies to set forth its information security goals. They also state
+compliance expectations. Not all organizations will have the same types of high-level
+policies. They are unique to each organization. Each organization develops policies
+by reviewing its regulatory landscape, taking into account the size and complexity of
+the organization and its IT systems. They also think about how information security
+can be used to help meet business goals.
+Policies must be drafted with care. Policy elements vary among organizations.
+However, there are some common elements to all policies. They include:
+Policy statement—States the expected behavior, actions, or outcomes. It is a
+clear statement of permitted or forbidden actions.
+Policy exclusions—Lists situations or people who are not covered by the policy.
+For the most part, there should not be many exclusions in a high-level policy.
+Policy rationale—States the reason why the policy exists. This includes the legal
+or regulatory reasons for the policy. A policy might be drafted in response to
+information security threats.
+Policy definitions—Defines terms that have special meaning. Terms with
+common definitions do not need to be defined.
+Who is affected by the policy—States the people, units, or departments affected
+by the policy. In a high-level policy, this usually is all of the organization’s
+employees.
+Who must follow the policy—Lists who must follow the policy as part of their job
+responsibilities, or if some people have special policy responsibilities because of
+their job duties.
+Compliance language—States how the organization will enforce the policy. It
+also states what happens to units and employees who fail to follow the policy.
+Related documents—Lists other documents that are related to the policy.
+Standards or procedures that support the policy should be listed in this section.
+Policy contact—Lists the person who is responsible for answering questions
+about the policy.
+Policy history—Lists historical data about the policy. This section should list
+revision and review dates.
+High-level policies are concise and tightly worded so that they are easy to
+understand. A high-level information security policy states the organization’s
+information security expectations. They should be written in a way so that all
+employees can understand them. These high-level documents do not usually include
+explanations about how to meet those expectations. Supporting documents, such as
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.standards, guidelines, and procedures, provide that detail.
+FYI
+The SANS Institute has a policy web page that gives drafting advice. It also has sample policies. You can
+view this resource at http://www.sans.org/security-resources/policies/.
+Policy documents tend to go through a lengthy development and review process.
+The process can be very time consuming because policies are high-level
+governance documents from executive management. They have a broad scope and
+address the whole organization. Most policy development processes include multiple
+levels of review so that other leaders within the organization have a chance to
+comment on the policies while they are being developed. These leaders will tell
+executive management how the policy will affect their units or departments.
+Policies are rarely changed because they contain language that sets forth
+general expectations. The broad goals stated in a policy should not need to be
+changed often. Standards and procedures are used to provide flexibility and are
+easier to change. An organization can easily update these documents in response to
+changing technology conditions.
+Standards
+Standards support high-level policies and state the activities and actions needed to
+meet policy goals. They are just below policies in the ISG documents hierarchy.
+Standards are more specific than policies. Standards may require employees to take
+(or refrain from) certain actions and often state a minimum level of behavior or
+actions that must be met to comply with a policy. This is called a baseline.
+Standards are technology neutral. They do not refer to specific technologies or
+products. Instead, they refer to the safeguards and controls an organization should
+use to protect data and IT resources.
+Several different ISG levels can create standards. They are usually created at the
+CIO or CISO level. However, an organization’s BOD is not usually involved in
+creating standards. An organization usually develops standards with input from
+information security managers because they have overall organizational
+responsibility for implementing information security. They are the subject matter
+experts in what it will take to implement the standard.
+Procedures
+Procedures are the lowest level of ISG documents. They are step-by-step checklists
+that explain “how” to meet security goals or conduct security-related activities.
+Organizations often tailor their procedures to a certain type of technology. They also
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.can be limited to the activities of specific departments or end users.
+Procedures usually only address single tasks. They are designed to be flexible so
+they can change as technology changes. Information security managers usually
+create procedures, although a CIO or CISO may sometimes review procedures. For
+the most part, however, procedures are department- or technology-specific
+documents.
+Governance Documents Work Together
+Policies, standards, and procedures work together to protect information security. Policies set forth the
+general expectation. Standards further define those expectations. Procedures tell end users how to comply
+with the expectations. An example might work as follows:
+Policy Statement: All employees must use multifactor authentication to access organizational IT resources.
+Standard Statement: Employees may use any of the multifactor authentication solutions provided by the
+information security department to access IT systems. Employees may use either the business-provided
+authenticator application on their mobile device or may use a physical token device.
+Procedural Statement: To obtain the authentication application or a physical token device, employees must
+come to the technology center between 8:00 a.m. and 5:00 p.m. from Monday through Friday. Employees
+must bring their employee identification card and a state-issued identification card to receive access to the
+application or their token.
+In this example, an employee knows what the expectation is (“multifactor authentication”), how the
+expectation is defined (“technology provided by the information security department”), and how to meet the
+expectation (“go to the technology center”).
+Guidelines
+Guidelines are the most flexible type of ISG document. Organizations can issue
+guidelines for several reasons. They issue guidelines to:
+Encourage employees to adopt good information security practices
+Educate employees about security threats and how to respond to them
+Encourage employees to take action in areas that the organization cannot
+An organization can use guidelines to give information security advice. They can
+recommend actions that an employee can apply on his or her own. The guidelines
+help employees adopt behaviors that improve information security. Sometimes they
+address specific kinds of employee behavior. They also might address a specific
+security issue. For example, an organization might create a guideline to help
+employees learn how to avoid social engineering attacks.
+Organizations might issue guidelines to address issues that they cannot control
+through technical measures or organizational authority. This is where the
+organization needs its employees to help it protect IT resources. They hope that they
+can encourage employees to read the guidelines and take individual action.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.For example, an organization may allow its employees to access its IT systems
+from home because it increases productivity. It allows employees to work from home
+on days when they otherwise would not be working. (For example, if a parent stays
+home to care for a sick child or if an office is closed due to a global health
+pandemic.) Employees may use their home personal computing equipment to
+complete their work in these situations. However, the organization must safeguard its
+IT resources from security threats introduced by this activity, such as malware that
+might be on an employee’s home computer that could be transmitted to the
+organization’s IT resources.
+The organization has no real way to make employees use good security
+practices at home. It has no real authority to require employees to protect their home
+computers. To encourage employees to secure their home computers, the
+organization can issue a guideline. The guideline outlines security safeguards that
+employees can use at home. Following the guideline benefits employees because it
+helps them secure their own personal data. It also helps protect the organization’s IT
+resources if the employee follows the recommended practices. Both the employee’s
+computer and the organization’s IT resources are protected. It is a winning situation
+for everyone.
+Creating Information Security Policies
+Each type of ISG document has a different role and focus. They might be directed at
+different audiences. They might address similar issues from different standpoints.
+However, they do share some similarities. These similarities include:
+They must be easy to understand.
+They must have a well-defined scope.
+They must be regularly reviewed.
+They must be communicated to all employees.
+First, the documents must be easy to read. All employees must be able to
+understand them. Even if the subject matter deals with legal issues, the document
+itself should be free from legalese. The documents should not use technical jargon.
+The only time it is OK to use complex language is when it is needed to help
+employees know their responsibilities. Otherwise, these documents must be
+understandable so that employees can follow them.
+Second, ISG documents must have a clear scope. They must clearly address a
+specific aspect of the organization’s security program. Employees should not have to
+consult many high-level documents to determine the organization’s stance on a
+single issue. Ensuring that policy scope is clearly outlined helps employees follow
+the policy.
+Third, the organization must regularly review its ISG documents. Information
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.security does not exist in a vacuum. Risks change. Laws change. Technology
+changes. An organization must respond to these changes in its security program. To
+do this, they must review their ISG documents on a regular basis to make sure that
+they are current.
+Finally, an organization must communicate the ISG documents to its employees.
+Employees cannot follow policies that they do not know about. Good communication
+makes sure that employees view ISG documents as business enablers.
+Organizations can communicate ISG documents to employees in several ways.
+They can use newsletters, in-person and online training, or company-wide email
+messages. Many communication mechanisms should be used to make sure that
+employees know about the ISG documents.
+Policy Development Process
+An organization should create a structured ISG document development process. It
+may even want to consider writing a “policy on policies” to specify the formal
+process. A formal process gives many units, departments, and stakeholders the
+opportunity to comment on a policy. This is very important for high-level policies that
+apply to the whole organization. A formal process also makes sure that final policies
+are communicated to employees. It also provides organizations with a way to make
+sure that policies are reviewed regularly.
+Legalese Versus Plain Language
+Legalese is an unflattering term used to describe legal writing. Legalese is language that uses too many legal
+phrases and many Latin terms. It usually has long sentences with many commas that are dense and hard to
+read. Lawyers are needed to translate documents written in legalese.
+There is a growing trend in the legal profession to write documents in plain language. This means that
+documents are written in the language that people use when they speak to help make documents more
+understandable. People can understand these documents faster. They also are less likely to misunderstand
+them.
+The trend is to use plain language to write formal documents. However, legalese appears in high-level
+policies on a regular basis because these documents are formal governance documents. An organization’s
+legal counsel often writes them.
+Legalese can make it hard to understand some very simple concepts. This is frustrating for people who need
+to follow the policies. Some examples of legalese and plain language follow. Are there other ways that you
+can make these policy statements easier to read?
+Example 1—Consent
+Legalese: All users of the organization’s information technology resources, as a condition to the use of such
+resources, specifically consent to the general rights of the organization as specified herein.
+Plain Language: All users of the organization’s IT resources agree to the terms of this policy.
+Example 2—Least Privilege
+Legalese: Any access permitted hereunder shall be the minimum access required in order to protect the
+organization’s interests.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.Plain Language: Access to IT resources is limited to the minimum amount needed.
+Example 3—Warranties
+Legalese: The organization makes no warranties of any kind with respect to the organization’s information
+technology resources it provides. The organization will not be responsible for damages resulting from the use
+of the organization’s information technology resources, including, but not limited to, loss of data resulting from
+delays, non-deliveries, missed deliveries, or service interruptions caused by the negligence of an
+organization employee, or by any user’s error or omissions. The organization specifically denies any
+responsibility for the accuracy or quality of information obtained through the organization’s information
+technology resources.
+Plain Language: The organization provides IT resources “as is.” The organization makes no promises about
+service level or data accuracy. The organization is not responsible for errors. Use of IT resources is at a
+user’s own risk.
+In general, a policy development process should include the following steps:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Development
+Stakeholder review
+Management approval
+Communication to employees
+Documentation of compliance or exceptions
+Continued awareness activities
+Maintenance and review
+The need for a new ISG document is determined in the development phase. The
+BOD, CIO, or CISO might decide that there is a need for a high-level policy. An
+information security department might also notice situations that require a new high-
+level document to guide the organization. The idea for a new ISG document really
+can come from anywhere in an organization. This section focuses on how high-level
+policies are created. However, a similar development process is recommended for
+other ISG documents, such as standards and procedures, as well.
+Once a policy need is identified, the BOD must determine the goals of the policy.
+To do this, it reviews several areas. It looks at its use of IT resources and reviews the
+data that it is legally required to protect. It considers its business objectives. An
+organization’s CIO or CISO will give advice about information security issues. The
+BOD also might consider how other companies in the same industry approach a
+certain type of issue. After this review, the BOD establishes the policy goals.
+An organization must take care when it drafts high-level policies. It must make
+sure that a new high-level policy does not conflict with any previously issued policy.
+Stakeholders must review the draft when it is finished.
+FYI
+In drafting an ISG document, it is important to be consistent. A writer should use consistent grammar,
+punctuation, and format. This makes the document more readable. It also makes it easier for employees to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.understand the document.
+At the next step, stakeholders review the ISG draft documents. Stakeholders are
+interested parties. They are employees and departments that will be affected by the
+new policy. They also may be subject matter experts in the underlying policy subject
+matter. IT resource managers also will review the document at this point. They do
+this to make sure that they can implement technical controls to meet the policy.
+This also is the step where legal counsel, risk management, and audit will review
+the document. These groups make sure that the document meets the organization’s
+regulatory needs. Risk management and audit departments will want to make sure
+that they can measure policy compliance actions. Legal counsel makes sure that the
+document helps protect the organization from legal liability. The organization may
+revise the policy many times during this step.
+The policy must be signed when it is in final form. The BOD must always review
+and sign high-level information security policies. Their support is crucial for a
+successful information security program. They do not always sign lower-level
+documents. The executive with authority over certain tasks may sign lower-level
+documents; for example, a CIO or CISO might sign standards or guidelines.
+Departmental managers and supervisors may sign procedures for their specific
+areas. Each organization will make its own rules about who needs to approve and
+sign each level of ISG document.
+The next step, the communication step, is the most critical step in the
+development process. Communication is necessary to make sure that all employees
+know about the new policy. It helps employees know where to find resources to
+follow the policy. Organizations can communicate new policies in several different
+ways. Internal newsletters, memos, and company-wide emails can all be used to
+inform employees about a new policy.
+As part of the overall development process, an organization must measure policy
+compliance. It must know how departments act to meet policy requirements. It also
+must note any exceptions to compliance. An organization can show compliance by
+documenting the following:
+When the ISG document was approved
+How and when it was communicated to employees
+Actions departments took to meet the responsibilities stated in the ISG document
+Deviations from the requirements in the ISG document
+Sometimes departments might request an exception to a policy. They can
+request an exception for several reasons. For example, a policy might state a
+technical control that an IT system cannot meet for a very legitimate reason. Or it
+might require an action that a business unit cannot take because of some other
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.regulatory requirement.
+Organizations must have a formal way to review policy exception requests. For
+example, the BOD must review, approve, and document each high-level policy
+exception request. A BOD might assign this role to an upper management official
+with technology expertise such as a CIO or CISO. Exception requests from
+standards and procedures might be handled by the CIO or CISO as well.
+An organization must carefully consider exception requests. This is because
+every policy exception weakens the organization’s overall security posture. There
+are two main reasons to grant a policy exception request. The first is when following
+the policy negatively affects the organization’s business objectives. This might
+happen when a policy control interferes with a critical business process.
+NOTE
+Compliance is an ongoing process that organizations must continuously monitor.
+The second reason to approve an exception request is when the cost to comply
+with the policy is more than the cost of noncompliance. For example, an organization
+may grant an exception request if a particular IT resource is incapable of technically
+meeting a policy requirement. It might do this if buying new equipment is too
+expensive. In those cases, the organization still must implement controls to protect
+the IT resource. The policy exception request must document how an area will use
+compensating controls to meet the spirit of the policy.
+The development process must continually educate employees about policy
+compliance. Ongoing security training and awareness are required to keep
+employees aware of their responsibilities. An organization must build regular policy
+awareness activities into its day-to-day routine. For example, they can be included in
+other training programs, such as workplace safety programs.
+Finally, an organization must review its ISG documents on a regular schedule.
+They must make sure the documents continue to reflect business and information
+security goals. Sometimes internal or external factors change so much that an
+organization must change its policies. At this point, it can either update its policy or
+withdraw it and create a new one. A BOD demonstrates due diligence and
+reasonable care when it regularly reviews its policies. FIGURE 13-4 shows the policy
+development process.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.FIGURE 13-4
+Policy development process.
+Description
+An organization can adjust the development process if necessary. For example, it
+might need to create a new policy to respond to a new law. It can step that policy
+through the development process quickly, then go back and review the document
+once the urgent regulatory need has passed. In addition, the process can be
+shortened for some ISG documents. Standards and procedures that apply to one
+department only may go through an expedited review process. This is because there
+may not be as many people who need to comment on them.
+An organization uses ISG documents to support its business objectives and
+information security goals. These policies form the basis of an information security
+program. They also set the tone for a culture of information security awareness.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.Recommended Information Security Policies
+Information security policies will vary greatly across organizations because all
+organizations are different. They have different business goals. Their security needs
+are not the same. Their cultures are different.
+The list of information security issues to address in a policy is endless. However,
+all organizations face some basic security issues. They should create policies to
+address these issues. The basic policies that organizations should consider include:
+Acceptable use policies
+Anti-harassment policies
+Workplace privacy and monitoring policies
+Data retention and destruction policies
+Intellectual property policies
+Authentication and password policies
+Security awareness and training policies
+These policies address use of IT resources and the data in those resources. Often
+information security and human resources (HR) departments will work together on
+some of these policies. Business and auditing offices might help administer some of
+these types of policies.
+Acceptable Use Policies
+An organization uses an acceptable use policy (AUP) to tell employees how to
+properly use organizational IT resources. Organizations should consider drafting an
+AUP because IT resources are valuable business assets. They are often expensive
+to buy and maintain. They also contain data that is valuable to the organization.
+Organizations provide employees access to IT resources to support business
+goals. In addition to system access, many organizations give their employees email
+accounts and internet access. Some also give their executives mobile devices.
+Although employees are supposed to use these resources for business purposes,
+that is not always the case. Employees can use these resources in many non-
+business ways. Some of these uses include:
+Sending and receiving personal emails at a work email address
+Chain mail and hoax email messages sent around the office
+Non-business internet use (such as online shopping)
+Accessing social networking sites during work hours
+Downloading free software (or pirated software) for business or non-business use
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.File sharing throughout a workplace or over the internet
+Improper use of an organization’s IT resources can be costly. It can result in
+information security compromises, introduce malware onto IT systems, or lead to
+unintentional data loss. An organization might be legally responsible for an
+employee’s misuse of IT resources in some instances. Non-business use of IT
+resources can also distract employees and can lead to lost productivity.
+An AUP can help prevent some of these issues. An AUP is a code of conduct
+that states permitted uses of IT resources. It also lists prohibited actions. Finally, it
+states the consequences for violating the acceptable use rules. An AUP is one of the
+most important information security policy documents. It can help prevent a wide
+range of activities that could harm the organization’s IT resources.
+An AUP can address several concerns including personnel, legal, and
+information security issues. HR departments like AUPs because they help promote
+workplace productivity. They also want to make sure that employees are not
+accessing or sharing objectionable electronic materials. Such behavior can cause
+severe disruptions in the workplace. In some instances, it also can subject the
+organization to liability for its employees’ actions. For instance, an employer can be
+held responsible in some cases where an employee is using IT resources to harass
+other individuals. AUPs give HR departments a rules-based reason to terminate
+employees who use IT resources inappropriately.
+Would an AUP Help in This Situation?
+The “I Love You” or “Love Bug” worm was discovered in May 2000. At the time, it was thought to be one of
+the largest and most destructive computer worms ever. It spread via email messages with “ILOVEYOU” in the
+subject line. The messages included an attachment disguised as a love letter. Once a user opened the
+attachment (and who would not open a love letter?), the worm infected the user’s computer. It sent itself to
+everyone in the user’s email address book and destroyed computer files. It also searched for sensitive
+information and sent it back to its creator.
+At one point, industry experts estimated that the worm affected computers at more than 80 percent of U.S.
+businesses. Could an information security policy have helped stop the spread of the worm? What if an AUP
+stated that employees could not open email attachments that they were not expecting? What if the
+consequence for opening that type of attachment included job termination? Would that have helped in this
+case?
+FYI
+Lost productivity is not a new issue for organizations. Coffee breaks and water-cooler chats have always
+been productivity concerns. The internet and ease of access to non-work-related information and
+entertainment is a relatively new nuisance.
+Legal departments use AUPs to help an organization meet regulatory
+responsibilities. They also use them to help limit an organization’s legal liability. For
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.instance, an AUP can state that employees may not use unlicensed software on
+their computers. This helps protect the organization from copyright infringement
+claims. An organization protects itself in these cases by pointing to its AUP and
+showing that the employee violated it. If the AUP forbids the action, the legal
+department has evidence that the employee acted in violation of company rules. This
+helps create a legal defense.
+Information security departments also are interested in making sure that an
+organization has a well-written AUP. Improper use of IT resources can have
+information security consequences. Employees surfing the internet, exchanging
+personal emails, or visiting social networking sites are consuming network
+bandwidth. They may be using valuable network storage space for non-business
+content such as music or pictures.
+Their activities also could introduce malware onto the organization’s IT systems.
+Malware could compromise data and have wide-ranging consequences. At a
+minimum, productivity is hampered while IT departments work to remove the
+malware. At its worst, the malware could transmit sensitive organizational
+information to external attackers. It also could expose personally identifiable
+information. The disclosure of that type of information could trigger state breach
+notification laws.
+AUPs also address internal employee threats. For example, employees can
+potentially use their access to IT resources to snoop, spy on, or steal from the
+organization. They also could spy on other employees. Disgruntled employees could
+use their access to sabotage IT resources and data. An AUP specifically prohibits
+these actions. An organization can fire an employee for violating an AUP.
+AUP Terms
+An organization protects against these concerns by having a written AUP. Some
+general terms that you see in AUPs include:
+IT resources are provided for business use only.
+Employees must use IT resources and data on them for business purposes only.
+Employees must not tamper with IT resources or data on those resources.
+Employees should not access any data they do not have a business reason to
+see.
+No personal use of organizational IT resources is allowed.
+Do not use IT resources to circumvent security measures.
+IT resources may be monitored to ensure employee compliance.
+Use of IT resources is evidence of the employee’s consent to the terms of the
+AUP.
+AUPs may also include terms about a particular type of IT resource, such as email or
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.internet use. Some organizations include these terms in one broad AUP. Other
+organizations may create a separate AUP for each type of technology. Common
+email and internet AUP terms include:
+1. Do not send email with sensitive organization information to external recipients.
+2. Do not send email with sensitive organization information to internal recipients
+unless they have a business need to have that information.
+3. Do not send email with offensive text, pictures, or links to offensive websites.
+Content is offensive if it is demeaning based on race, gender, national origin,
+disability, religion, or politics.
+4. Do not open email attachments from unknown senders. Do not open email
+messages with unexpected attachments.
+5. Do not click on embedded links in an email from unknown senders.
+6. Do not download files from the internet without permission from a business
+supervisor and the information security department.
+7. Do not use file-sharing applications or services without permission from a
+business supervisor and the information security department.
+8. Do not use IT resources to access the internet to view offensive material.
+9. Do not use IT resources to access the internet to visit social networking sites.
+10. Do not use IT resources for online shopping or any other personal activity.
+11. Do not use IT resources to engage in activity that violates the law.
+Mobile devices such as cell phones, smartphones, and personal digital assistants
+(PDAs) pose special information security threats. They are small, pocket-sized
+computing devices. Use of mobile phones is rising. A 2019 Pew Research Center
+report found that 96 percent of U.S. adults have cell phones or smartphones. Thirty-
+eight percent of U.S. adults mostly use their smartphones to access the internet. 6
+Many people buy their own mobile devices and use them for work purposes,
+although organizations sometimes give their employees mobile devices. These
+devices pose security threats because they can access or store an organization’s
+sensitive information. Employees can use these devices to browse the internet, send
+and receive email, and view documents. The computing capacity of these devices
+continues to grow. They can store large amounts of data. Many of the same types of
+malware that infect larger IT resources also can harm these devices.
+Mobile devices also are a vulnerability because of their portable nature. People
+can easily lose or misplace their mobile devices. They are also easy to steal. A lost
+or stolen mobile device can put an organization’s data at risk.
+An AUP places controls on the use of mobile devices for business purposes. In
+addition to terms about email and internet use, an AUP might have specific terms
+about mobile devices:
+Mobile devices that are used to access organizational resources or data must be
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.password protected.
+Mobile devices (whether provided by the organization or purchased by an
+employee and used for business purposes) must not store sensitive organizational
+information.
+Employees must immediately report the loss of a mobile device used to access
+organizational resources.
+Organizations typically make employees aware of their AUPs when the employees
+begin employment. They may print it in an employee handbook. Organizations may
+ask employees to read the AUP. They also might ask employees to sign an
+acknowledgment form that states the employee understands and agrees to follow
+the rules in the AUP. The acknowledgment also might state that an employee
+understands the consequences for failing to follow an AUP.
+Organizations should require employees to review the AUP yearly. They also
+must require that employees review the AUP any time it is revised. They may ask
+employees to sign a new acknowledgment form at that time. This helps the
+organization make sure that employees are aware of their responsibilities.
+Enforcement
+The 2007 Electronic Monitoring and Surveillance Survey found that 28 percent of
+employers have fired employees for email abuse. The same survey said that of
+those employees fired for email abuse, 64 percent were fired for violating company
+policy. 7 An AUP must specify the consequences for violating it. Consequences for
+violating an AUP can include:
+Suspension of access to IT resources
+Limited access to IT resources
+Employee reprimand
+Employment suspension
+Employment termination
+Referral to law enforcement
+Modest AUP violations may result in a reprimand or retraining on the AUP terms. In
+some cases, an organization may choose to suspend an employee’s access to IT
+resources for a period of time. Suspending access to IT resources can be a drastic
+response to a violation if an employee’s job role requires IT access. An organization
+could fire an employee for a particularly harmful AUP violation. AUP violations that
+amount to criminal conduct should be reported to law enforcement. For example, an
+organization should notify the police if an employee uses its IT resources to launch a
+malware attack.
+It can sometimes be hard for organizations to enforce their AUPs because many
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.AUPs require employees to change their behaviors. AUPs are especially hard to
+enforce if an organization has no technical methods to monitor compliance. Most
+organizations depend on employees to police their own behavior. They may have a
+procedure for employees to report AUP violations.
+Anti-Harassment Policies
+Workplace harassment is a serious issue. Harassment is unwanted verbal or
+physical conduct that demeans or threatens a person. Some examples include:
+Telling lewd, sexist, or racist jokes
+Making racially derogatory comments
+Making remarks about body shape, looks, or clothing
+Staring at people in a suggestive manner
+Making negative comments about a person’s religious beliefs
+Threatening a person or his or her family with harm
+Workplace harassment can violate federal law. This happens when the unwanted
+conduct is based on certain characteristics. The main law in this area is Title VII of
+the 1964 Civil Rights Act. 8 It forbids workplace discrimination based on race, sex,
+religion, disability, and ethnicity. These are called immutable characteristics. A
+person cannot change them.
+Title VII applies to most public and private employers. Employers with 15 or more
+employees must follow it. The law states that employers have a duty to prevent
+workplace discrimination, and to stop it if they know about it. Workplace
+discrimination and harassment claims are often tied together.
+Workplace harassment has always been a major issue for employers. The rise in
+internet and email communications in the work environment adds extra
+complications because they introduce a new way for harassers to communicate with
+victims. Emails shared among employees that have offensive, explicit, or violent
+content could lead to harassment claims. So could viewing offensive material from a
+work computer screen in a public area. Employee-downloaded screensavers on an
+organization’s computers can be a problem if they are offensive.
+These activities raise legal liability when other employees are offended or feel
+harassed. Employees also could make tort claims against an employer for intentional
+infliction of emotional distress.
+Employers use anti-harassment policies to help limit liability for workplace
+harassment. Many organizations develop no-tolerance policies. They often use their
+AUPs to forbid offensive use of IT resources as well. Many organizations do this.
+However, the issue is serious enough that organizations should have a separate
+anti-harassment policy. Although an anti-harassment policy is not specifically an IT
+policy, the use of IT to harass another must be addressed in an anti-harassment
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.policy. In addition to forbidding in-person harassment, the policy should state that an
+organization’s IT resources cannot be used to harass others.
+Anti-harassment policies should contain the following elements:
+Definition of harassment—It should define inappropriate conduct. This includes
+in-person and electronic interactions that are threatening, intimidating, or offensive
+in nature. Conduct is offensive if it is demeaning based on race, gender, national
+origin, disability, religion, or politics.
+Reporting—The organization must give employees a way to report harassment.
+The reporting method must include alternatives if the alleged harasser is a victim’s
+direct supervisor.
+Investigation—An organization must investigate harassment complaints. They
+must stop harassment when they have reasonable evidence that it is occurring.
+No retaliation—The organization must make sure that it does not retaliate against
+employees who file harassment complaints. Retaliation is an adverse employment
+action made for a non-job-related reason. An organization may not take an
+adverse employment action against an employee who files a harassment
+complaint just because that employee filed a complaint.
+Sanctions—The policy should state the consequences for violating the policy.
+Information security personnel may participate in a harassment investigation and
+investigate whether the organization’s IT resources hold evidence related to the
+claim.
+NOTE
+In 2000, Dow Chemical Co. fired 74 employees for sending emails with pornography and violent images. It
+also disciplined more than 400 additional employees for similar actions. Dow had policies that prohibited
+employees from sending such emails.
+The law allows victims to recover damages from their harassers. They also might
+be able to recover damages from the harassers’ employers if they failed to respond
+to harassment complaints. The law allows victims to receive compensatory
+damages. They also can receive punitive damages in some cases, which can be
+substantial.
+Workplace Privacy and Monitoring Policies
+Workplace privacy addresses an employee’s privacy rights at work. It is a
+controversial issue, because employees do not want to have their activities
+monitored. It can create feelings of distrust in a workplace.
+Workplace privacy and monitoring is an area of law that is changing rapidly. For
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.the most part, however, U.S. employees have few privacy rights in their use of an
+organization’s IT resources. An organization may monitor an employee’s work email
+and internet use in many instances. Monitoring is usually allowed if there is a
+legitimate business reason for it. Legitimate reasons to monitor email and internet
+access include:
+Assessing employee productivity
+Monitoring operational use of IT resources
+Monitoring policy compliance
+Monitoring the use of the organization’s intellectual property
+Investigating allegations of wrongdoing
+Managing risk and protecting against legal liability
+The information security department is often involved in workplace monitoring
+activities. This department has the knowledge and ability to carry out an
+organization’s desire to monitor IT resource use.
+Does Cyber Monday Pose a Productivity Problem?
+Black Friday, the day after the U.S. Thanksgiving holiday, is the traditional start of the winter holiday shopping
+season. Stores and retailers often have sales on this day to encourage shoppers to visit stores and spend
+money.
+Cyber Monday, the first Monday after the Thanksgiving holiday, is the cyber-equivalent to Black Friday. Many
+retailers noticed an increase in online sales on this day. They suggested that this was because employees
+used their employer’s computers and high-speed connections to shop online when they returned to work after
+the holiday. The National Retail Foundation reported that 83.3 million shoppers shopped online on Cyber
+Monday in 2019. 9
+How should an organization deal with Cyber Monday? What are the problems that it poses for productivity?
+What are the problems that it poses for information security?
+Employers usually win employee legal challenges against monitoring of business
+email and internet use. To win these challenges, organizations must show that they
+had a legitimate business reason for monitoring IT resources. They also must show
+that they conducted the monitoring in a proper way.
+Workplace privacy and monitoring policies are often combined together. They
+inform employees that:
+Their use of IT resources is not private.
+Their use of IT resources is monitored.
+Well-written policies give employees clear notice that they have no expectation of
+privacy in an organization’s IT resources. They give an employee notice that their
+use of IT resources will be monitored. They also might state why an organization
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.monitors its IT resources. Finally, they should state that an organization does not
+waive its right to monitor IT resources even if it chooses not to do so all the time.
+Data Retention and Destruction Policies
+Data retention and destruction is a hot topic for many organizations. Data retention
+policies state how data is controlled throughout its life cycle. Laws and
+organizational policies help determine retention periods.
+Data destruction policies state how data must be destroyed when it reaches
+the end of its life cycle. Organizations must destroy paper and electronic data when
+it is no longer needed. For electronic data, this means destroying it in primary and
+backup storage systems.
+For both types of data, it means destroying it in such a way that it cannot be
+recovered. Data destruction policies are influenced by federal and state laws.
+These policies help organizations cope with the large amounts of data that they
+use and produce. Without these policies, records management can be difficult. An
+organization might not know what types of data it has. It might not be able to find
+data when it needs it for business reasons. It might use too many resources to store
+data for longer than it must. Storage space for both paper and electronic data is a
+valuable resource.
+Even if an organization has information security controls in place, data is still a
+vulnerability. It is vulnerable to external threats such as natural disaster or hackers. It
+is also vulnerable to unintentional acts committed by employees. For instance,
+employees can easily delete emails that they should keep. They also can save email
+that should have been deleted because there was no business reason to retain it.
+In order to create data retention and destruction policies for electronic data, an
+organization must know how its IT resources work. They must know what data is
+stored on its IT systems. They also must know how to retrieve that data from these
+systems. Finally, they must know how to remove data from these systems.
+Employee awareness is critical for successful data retention and destruction
+policies. Employees need to be well educated on data retention requirements. They
+also need to know how to properly file and maintain data that the organization must
+retain. Finally, they need to understand proper destruction methods. This is very
+important to avoid accidental disclosures of either paper-based or electronic media.
+Data Retention Policies
+Data retention policies define the types of data that an organization has. They also
+address where data is stored and how it is protected. They specify how long different
+types of data must be retained. These policies also are called document retention
+policies.
+Different types of data have different retention periods. This period is usually
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.driven by a combination of federal and state laws. It is also influenced by business
+needs. Externally, many federal and state laws govern what organizations can do
+with their data. These laws also state how long certain types of data must be kept.
+For example, organizations that are subject to the Health Insurance Portability and
+Accountability Act (HIPAA) have to retain certain types of data for 6 years. 10
+Laws are not the only factor affecting data retention. Organizations also have to
+think about data retention if they become involved in a lawsuit. Most federal and
+state courts have procedural rules that require organizations to maintain data if they
+are party to a lawsuit. This rule might apply even before an actual lawsuit. For
+example, an organization must retain paper and electronic data in situations where
+litigation against it is reasonably anticipated. If an organization does not maintain this
+data, it can be sanctioned by a court. Maintaining electronic data for this purpose
+can be very difficult. There are special rules to follow to maintain electronic evidence
+that might be used in a lawsuit. They are called E-discovery rules.
+NOTE
+State laws might require governmental agencies to retain financial or other types of data for different
+lengths of time. This is to meet state auditing requirements or comply with open records laws.
+In addition to legal requirements, organizations keep data for business purposes.
+They keep it to conduct business, market products, or to recover from a disaster.
+Organizations also preserve some types of data indefinitely. This might be because it
+has legal, fiscal, research, or historical value.
+Data retention policies help an organization manage these competing concerns.
+A cross-functional team helps review and determine data retention requirements.
+This team should include experts who understand the legal requirements. Experts
+who know how the organization creates data should be on the team as well. The
+team must include experts who know the organization’s IT systems. This team must
+understand how the organization uses data and threats to that data.
+Data retention policies need to include the following elements:
+Types of organizational data
+Where that data is stored
+How that data is protected
+Legal, business, historical, or other reason for keeping that data
+How long the data should be retained
+A data retention policy must be matched with a data destruction policy. An
+organization must destroy data that it no longer must keep for business, archival, or
+historical purposes.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.Data Destruction Policies
+An organization creates data destruction policies to make sure that it destroys data
+properly. An organization’s data destruction process must work hand-in-hand with a
+data retention policy. The data destruction policy must include the following:
+Identify data ready for destruction.
+Specify proper destruction methods for different kinds of data or storage media.
+Provide validation procedures to make sure data is properly destroyed.
+Provide consequences for improper destruction.
+Legal requirements can influence an organization’s data destruction policy. For
+example, the Gramm-Leach-Bliley Act (GLBA) requires that paper documents
+holding customer information be destroyed. 11 It also states that data must be
+destroyed in such a way that it cannot be read or reconstructed. The law also
+requires that electronic data be destroyed or completely erased. State laws also may
+require organizations to destroy data in a certain way.
+Data destruction policies must be consistently followed. This is important for
+normal maintenance reasons. It is easy to destroy data when it is done on a regular
+basis. Following a consistent process is critical if an organization is involved in a
+lawsuit. It helps protect an organization from claims that it intentionally destroyed
+evidence.
+State Law Data Destruction Requirements
+Some state laws require specific data destruction methods. The State of Indiana has this type of law. All
+business in the state must follow the law requiring that they properly dispose of the unredacted personal
+information of their customers. This information includes a customer’s Social Security number (SSN) or
+certain types of financial account information. The law applies to both paper and electronic information.
+The law requires that information be disposed of in a way that makes it unreadable or unusable. It says that
+proper disposal methods include shredding, incinerating, mutilating, and erasing.
+The state can fine a business that does not comply with the law, imposing fines that range from $500 to
+$10,000 per violation. You can read Indiana’s data disposal law at
+http://iga.in.gov/legislative/laws/2019/ic/titles/024#24-4-14.
+Intellectual Property Policies
+Intellectual property laws protect people’s or organizations’ ownership rights in their
+creative ideas. It gives them the right to protect their ideas and profit from them.
+These rights are exclusive to the owners of intellectual property. They can act
+against people who violate these rights.
+Intellectual property policies are very important for most organizations. There are
+two main reasons why an organization should consider an intellectual property
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.policy. They are:
+To protect its own intellectual property
+To make sure that its employees respect the intellectual property rights of others
+Organizations have large amounts of data that they use in carrying out their
+business. This may include information protected by patents, copyrights, and
+trademarks. It also can include information protected as a trade secret. Because it is
+important to the viability of the organization, an organization must protect it.
+An organization uses a policy to specify the intellectual property that it owns. As
+in an AUP, so too in a policy governing the use of its intellectual property; an
+organization will want to state its expectations:
+That the organization’s intellectual property may be used only for authorized
+business purposes
+That the organization’s intellectual property may not be disclosed outside the
+organization
+Whether the intellectual property may be removed from the building, copied onto
+removable media, or stored in cloud computing infrastructure
+What the rules are for using the organization’s name or trademarks in
+correspondence
+There is an information security component to protecting the organization’s
+intellectual property. For example, an organization’s electronic proprietary and trade
+secret data must be secured against internal misuse. It also must be secured against
+external attack.
+The second reason for an intellectual property policy is to make sure that an
+organization does not violate the rights of others. An organization can be held liable
+for the infringing activities of its employees. For example, an organization will want to
+make sure that its employees honor software licensing agreements. It will want to
+make sure that employees do not use software without a valid license to do so. It
+also must make sure that employees do not copy or distribute unauthorized copies
+of software. The organization also will want to make sure that employees do not
+share or download pirated software onto organizational computers.
+Authentication and Password Policies
+Authentication controls are among the most basic types of information security
+controls that an organization can use to protect its IT resources. Authentication is
+the process whereby a user proves his or her identity to access an IT resource.
+Good authentication provides controlled access to an organization’s IT resources.
+The user does this by presenting credentials. User credentials are used to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.access IT resources. They usually include a username and one of the following:
+Something a user knows—This includes passwords, passphrases, and personal
+identification numbers (PINs).
+Something a user has—This includes tokens, smart cards, and digital
+certificates.
+Something a user is—This includes biometric data such as a fingerprint or retina
+scan.
+Organizations can implement authentication methods in many ways. Some ways are
+more complicated and expensive than others. For example, biometric authentication
+can be very expensive. Organizations also can choose to implement multifactor
+authentication. This type of authentication requires employees to use two or more
+different types of credentials to access IT resources.
+Many organizations choose to implement passwords. This is because they can
+easily implement them. They also are relatively inexpensive to use. Employees
+generally are familiar with using passwords. Employees may be unfamiliar with other
+types of authentication methods, such as using biometric data.
+There are several problems with using passwords as the only authentication
+method. An organization’s IT resources are vulnerable if a password is
+compromised. A password can be compromised if an employee shares his or her
+password. It also can be compromised through a phishing or dictionary attack.
+NOTE
+A dictionary attack tries to crack passwords by running through words or phrases listed in a dictionary.
+Strong passwords help combat dictionary attacks.
+Organizations implement authentication and password policies in an attempt to
+reduce risk caused by password use. Sometimes these types of policies are stand-
+alone policies, but they also can be included as a policy statement in an
+organization’s main information security policy if it has one. These types of policies
+state the user credential rules that employees must follow. Some policies state that
+an organization’s IT department will never ask employees to share their passwords.
+These policies often include password creation rules. For example, they may state
+the number of characters that a password must have.
+Would You Share Your Password for Chocolate?
+Researchers at the University of Luxembourg studied whether or not people would be willing to exchange
+their passwords for chocolate. In a fascinating social engineering study, they found that the timing of the gift
+(before or after the request to share the password) and gender of the recipient were important. Men were
+more likely to share their passwords if given chocolate right before being asked to share their passwords.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.About 30 percent of the participants in the study shared their passwords with the researchers. 12 The study
+did not verify whether people were sharing valid passwords. It is possible that the survey results could be
+influenced by chocolate lovers sharing fake passwords.
+Other common password policy statements include:
+Passwords should not be written down. If they must be written down, that paper
+should be stored in a secured place.
+Passwords must never be shared with anyone, including trusted colleagues,
+friends, or family members.
+Passwords must not contain dictionary words.
+Passwords must not include a user’s name or parts of his or her name.
+Employees must create strong passwords that meet the organization’s character
+and complexity requirements.
+Passwords expire after a certain period and must be changed.
+New passwords must be different from the previous password or parts of the
+previous password.
+Passwords may not be reused for a specified period.
+Passwords must not be inserted into email messages or other forms of electronic
+communication.
+Information security departments also can create their own policies for how
+passwords should be used within IT resources. For instance, they might specify that
+passwords should never be stored in IT resources as cleartext. These policies might
+require that system authentication take place via encrypted channels. These also
+might specify that a password cannot be displayed on screens as cleartext when an
+employee enters it. This would help prevent shoulder surfing attacks. Where
+possible, passwords should expire automatically, and employees should be
+prompted to create new ones.
+Security Awareness and Training
+A 2016 survey asked about corporate information security policies. A total of 8,000
+people participated in the survey. Of these, 88 percent of the employees surveyed
+did not know about their organization’s information security policies. 13
+An important part of any information security program is the training and
+awareness component. This is because employees play a large role in meeting
+information security goals. Employees often view information security training as a
+waste of time. As one author writes, “Given a choice between dancing pigs and
+security, users will pick dancing pigs every time.” 14
+Employee behavior can help protect data and IT resources. It also can be
+harmful. Employees who are not aware of their responsibilities pose a threat. They
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.may engage in risky online activities that could harm the organization’s IT resources.
+Their actions also could disclose data. They can subject an organization to liability.
+Training and awareness activities help reduce this threat.
+A high-level awareness and training policy or policy statement lets employees
+know that the BOD supports information security educational activities. Similar to
+authentication policies, sometimes these types of policies are stand-alone policies,
+or they can be included as a policy statement in an organization’s main information
+security policy if it has one.
+Creating an Information Security Awareness Program
+Many organizations struggle with information security training and awareness. This includes the U.S. federal
+government. FISMA requires federal agencies to implement security awareness training as part of their
+overall information security programs.
+The National Institute of Standards and Technology (NIST) created guidance for training and awareness
+activities. NIST Special Publication 800-50, “Building an Information Technology Security Awareness and
+Training Program,” was published in 2003. It steps organizations through how to design and implement a
+training and awareness program. It also discusses how to develop training material. Finally, it provides advice
+on how to review the program’s effectiveness.
+Any organization can use the NIST guidance to help create an information security awareness program.
+An information security awareness and training policy or policy statement should
+include the following elements:
+Why security awareness and training are important
+Who has overall responsibility for the policy
+Who provides training and awareness activities
+Which employees must take part in training activities
+How often training must take place
+What the consequences are for not participating in required training
+BOD support of training activities is vital. It makes sure that employees understand
+that training is important and makes them take it seriously.
+A variety of training and awareness events are necessary to reach employees.
+Organizations can use multiple training tools to help their employees know about
+security policies.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.Case Studies and Examples
+The following case study shows how the concepts discussed in this chapter are
+used.
+Acceptable Use Case Study
+Autoliv is a seatbelt and airbag technology company. In 1998, Autoliv’s employee
+handbook included several policies. It stated employee rules of conduct, including an
+anti-harassment policy. It also included a computer AUP. Autoliv gave this handbook
+to all of its employees.
+Autoliv’s general rules of conduct stated:
+“Each employee is required to be familiar with these rules and with additional rules
+which apply to particular jobs and operations. In addition, each employee is
+expected to maintain conduct consistent with job efficiency and accepted
+standards of behavior for a business environment. Deviation from those standards
+may be cause for disciplinary action.”
+“Disciplinary action may be taken for violation of any single rule or combination of
+rules, or for other improper conduct or unsatisfactory performance, and may
+include any of the following actions: 1) Employee Discussion; 2) Notice of Caution;
+3) Involuntary Suspension; 4) Termination.”
+Autoliv’s anti-harassment policy stated that the company did not “tolerate or permit
+illegal harassment or retaliation of any nature within our workforce.” Its computer
+AUP prohibited non-business uses of company email. It also prohibited “conduct that
+reflects unfavorably on the corporation.” 15
+In 1998, Autoliv investigated employee use of its email system because of
+system performance issues. It found that email use was causing the performance
+issues and determined that the bulk of email use was not business related.
+In June, Autoliv sent an email to all of its employees reminding them about
+company policy. It said: “E-mail is to be used for business only. We do not wish to
+‘police’ the e-mail system, so your cooperation would be appreciated. Please refrain
+from sending/receiving these types of messages as it is interfering with legitimate
+business e-mail.”
+Autoliv sent another reminder email to its employees in September 1998. This
+email warned that an employee could be fired for AUP violations.
+In January 1999, Autoliv sent another email to its employees. This email stated
+that it was a violation of the AUP to share chain letters, jokes and stories, and non-
+business-related announcements. It also instructed employees to delete those types
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.of emails and not forward them.
+A former employee complained to Autoliv that she had received harassing emails
+from two current employees. Autoliv investigated. It learned that one employee had
+sent 11 non-business email messages. These messages included jokes, photos, and
+short videos that were sexually explicit. It found that another employee had sent 25
+non-business email messages with similar content. Autoliv immediately fired both
+employees.
+NOTE
+You can learn about the company at http://www.autoliv.com.
+The fired employees filed for unemployment benefits. Autoliv contested this
+request. A state can deny unemployment benefits if an employee is fired for “just
+cause,” which means that there is a legally sufficient reason for firing an employee.
+Autoliv said that it had just cause for firing the two employees.
+At the unemployment hearing, the employees admitted that they had received
+Autoliv’s handbook. They also stated that they knew about the anti-harassment
+policy. They said they probably had received the three emails about email abuse, but
+claimed they deleted these emails without reading them. They argued that their firing
+was not “just” because they did not know they could be fired for sending non-
+business emails.
+The Utah Department of Workforce Services found that Autoliv did not have just
+cause to fire the employees because the employees said they did not know that they
+could be fired for their behavior. They were awarded benefits.
+Autoliv appealed the agency’s decision to the Workforce Appeals Board. It lost its
+appeal. Autoliv appealed the decision to the Utah Court of Appeals. Autoliv argued
+again that the employees had plenty of knowledge that they could be fired for their
+actions.
+Think about the following:
+What do you think the Utah Court of Appeals decided?
+What facts support Autoliv’s argument that the employees had knowledge that
+their conduct was unacceptable?
+What facts support the employees’ argument that they did not have knowledge
+that their conduct was unacceptable?
+Do you think sending offensive emails is a “flagrant violation of a universal
+standard of behavior”?
+Could Autoliv make any changes to its general rules of conduct, anti-harassment
+policy, or computer AUP that would make employee email responsibilities clear?
+The Utah Court of Appeals reversed the decision of the Workforce Appeals Board. It
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.held that Autoliv did have just cause to fire the employees. In its opinion the court
+stated: “There are two ways to establish that a claimant had knowledge: 1) the
+employer must have provided a clear explanation of the expected behavior or a
+written policy regarding the same; or 2) the conduct involved is a flagrant violation of
+a universal standard of behavior.” 16
+The court held that the employees’ email activities had violated a universal
+standard of behavior. It wrote, “We conclude that in today’s workplace, the email
+transmission of sexually explicit and offensive jokes, pictures, and videos constitutes
+a flagrant violation of a universal standard of behavior.” 17
+You can read the court’s opinion at http://caselaw.findlaw.com/ut-court-of-
+appeals/1369016.html.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.CHAPTER SUMMARY
+ISG provides strategic direction for an information security program.
+Organizations must protect data in a way that supports their business goals.
+They use high-level policies to state their information security goals. These
+policies set forth employee responsibilities. An organization can address
+information security issues in many different policies.
+Standards, guidelines, and procedures are used to support policies. They
+explain how employees meet policy goals. A training and awareness
+program is a key part of an information security program. It helps make sure
+that employees are aware of their duties.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.KEY CONCEPTS AND TERMS
+Acceptable use policy (AUP)
+Authentication
+Baseline
+Board of directors (BOD)
+Chief information officer (CIO)
+Chief information security officer (CISO)
+Chief technology officer (CTO)
+Data destruction policies
+Data retention policies
+Guidelines
+Information security governance (ISG)
+Information security management (ISM)
+Multifactor authentication
+Operational planning
+Policy
+Procedures
+Stakeholders
+Standards
+Strategic planning
+Tactical planning
+User credentials
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.CHAPTER 13 ASSESSMENT
+1. What is a policy?
+A. An overall statement of information security scope and direction
+B. A minimum threshold of information security controls that must be
+implemented
+C. A checklist of steps that must be completed to ensure information security
+D. A technology-dependent statement of best practices
+E. Recommended actions and operational guides
+2. What is information security governance?
+3. What type of policy would an organization use to forbid its employees from
+using organizational email for personal use?
+A.
+B.
+C.
+D.
+E.
+Privacy policy
+Intellectual property policy
+Anti-harassment policy
+Acceptable use policy
+Monitoring policy
+4. What is software piracy?
+A.
+B.
+C.
+D.
+E.
+Unauthorized copying of software
+Unauthorized distribution of software
+Unauthorized use of software properly purchased by an organization
+All of these are correct.
+None of these is correct.
+5. What is information security management?
+6. Employer monitoring of employee electronic communications can be a normal
+term of employment if advance notice is given.
+A. True
+B. False
+7. What is a standard?
+8. Which law states requirements for federal agency information security
+governance?
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.A.
+B.
+C.
+D.
+E.
+FISMA
+FERPA
+HIPAA
+GLBA
+FIPPS
+9. A guideline is a list of mandatory activities that must be completed to achieve an
+information security goal.
+A. True
+B. False
+10. Which role is usually the most senior information technology official in an
+organization?
+A.
+B.
+C.
+D.
+E.
+CFO
+CISO
+CTO
+CIO
+None of these is correct.
+11. What is a procedure?
+12. Which management layer has overall responsibility for information security
+governance?
+A.
+B.
+C.
+D.
+E.
+CIO
+CISO
+Board of directors
+Employees
+Information security managers
+13. What is the final step in the policy development process?
+A.
+B.
+C.
+D.
+E.
+Maintenance and review
+Management approval
+Continued awareness activities
+Communication to employees
+Stakeholder review
+14. What factors drive data retention policies?
+A. Legal requirements
+B. Business need for information
+C. Historical need for information
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.D. Storage space requirements
+E. All of these are correct.
+15. What is a valid reason for allowing an information security policy exception?
+A. The cost of implementing security policy is too high.
+B. The cost of compliance with the policy is more than the cost of
+noncompliance.
+C. It is not technically feasible to implement the policy.
+D. End users believe that the policy makes their work harder.
+E. It is too difficult to implement the policy.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.ENDNOTES
+1. New Vantage Partners, “Big Data and AI Executive Survey 2019,” January
+2019. Available at http://newvantage.com/wp-content/uploads/2018/12/Big-
+Data-Executive-Survey-2019-Findings-Updated-010219-1.pdf (accessed
+February 17, 2020).
+2. Ponemon Institute, “2019 Cost of Data Breach Study: Global Analysis,” undated.
+Available at https://www.ibm.com/security/data-breach (accessed February 17,
+2020).
+3. International Organization for Standardization, “ISO/IEC 27001:2013,
+Information Technology–Security Techniques–Information Security Management
+Systems–Requirements,” 2013. Available at
+https://www.iso.org/standard/54534.html (accessed July 25, 2020).
+4. Federal Information Security Management Act of 2002, Title III of the E-
+Government Act of 2002, U.S. Code Vol. 44, sec. 3541 et seq. (2012).
+5. U.S. Government Accountability Office, “High Risk Series: Substantial Efforts
+Needed to Achieve Greater Progress on High Risk Areas,” March 2019.
+Available at https://www.gao.gov/products/gao-19-157sp (accessed February
+18, 2020).
+6. Pew Research Center, “Mobile Technology and Home Broadband 2019,” June
+2019. Available at https://www.pewresearch.org/internet/2019/06/13/mobile-
+technology-and-home-broadband-2019/ (accessed February 18, 2020).
+7. American Management Association, “The Latest on Workplace Monitoring and
+Surveillance,” April 8, 2019. Available at https://www.amanet.org/articles/the-
+latest-on-workplace-monitoring-and-surveillance/ (accessed February 21, 2020).
+8. Civil Rights Act of 1964, Pub. L. No. 88-352, 78 Stat. 241, codified as amended
+in scattered sections throughout U.S. Code Vols. 2, 28, and 42 (2012).
+9. National Retail Federation, “Thanksgiving Weekend Draws Nearly 190 Million
+Shoppers, Spending Up 16 Percent,” December 3, 2019. Available at
+https://nrf.com/media-center/press-releases/thanksgiving-draws-nearly-190-
+million-shoppers (accessed February 21, 2020).
+10. Health Insurance Portability and Accountability Act of 1996 (HIPAA), Pub. L. No.
+104-191, codified at U.S. Code Vol. 42, sec. 1320d (2012).
+11. Gramm-Leach-Bliley Act (1999), Title V of the Financial Services Modernization
+Act of 1999, Pub. L. No. 106-102, 113 Stat. 1338, codified at U.S. Code Vol. 15,
+sec. 6801, et seq. (2012).
+12. Happ, Christian, André Melzer, and Georges Steffgen, “Trick With Treat—
+Reciprocity Increases the Willingness to Communicate Personal Data,” 2016.
+Computers in Human Behavior. Available at
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.13.
+14.
+15.
+16.
+17.
+https://www.researchgate.net/publication/298187172_Trick_with_Treat_-
+_Reciprocity_Increases_the_Willingness_to_Communicate_Personal_Data
+(accessed February 20, 2020).
+TechRepublic, “88% of Employees Have No Clue About Their Organization’s IT
+Security Policies,” January 11, 2018. Available at
+https://www.techrepublic.com/article/88-of-employees-have-no-clue-about-their-
+organizations-it-security-policies/ (accessed February 20, 2020).
+McGraw, Gary, and Ed Felten, Securing Java. New York, NY: John Wiley &
+Sons, Inc., 1999. Also available at http://www.securingjava.com/ (accessed
+February 20, 2020). View Chapter 1, part 7.
+Autoliv ASP, Inc. v. Department of Workforce Services, 29 P.3d 7 (Utah Ct.
+Appeals, 2001). All quoted statements are from this case.
+Autoliv, 29 P.3d at 11.
+Autoliv, 29 P.3d at 12–13.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:47:46.

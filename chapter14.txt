@@ -1,0 +1,1485 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+CHAPTER
+14
+Risk Analysis, Incident Response, and
+Contingency Planning
+ISK MANAGEMENT IS an important information security tool. The risk
+management process helps an organization understand the risks,
+vulnerabilities, and threats that it faces each day. It helps the organization
+understand its security posture. It also helps the organization know where to
+strengthen that posture. An organization cannot meet its information security goals if
+it does not understand its risks. It may not be able to properly protect its resources
+and data.
+R
+This chapter focuses on information technology (IT) risk management. It reviews
+fundamental risk concepts and how they are applied. It explains how organizations
+use risk management to help them create their other contingency plans.
+Chapter 14 Topics
+This chapter covers the following topics and concepts:
+How to plan for contingencies
+What risk management is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.What three types of contingency planning are
+What incident response (IR) is
+What some special considerations are
+Chapter 14 Goals
+When you complete this chapter, you will be able to:
+Describe the risk assessment (RA) process
+Describe how to create an incident response (IR) plan
+Describe the business continuity (BC) planning process
+Describe how to create a disaster recovery (DR) plan
+Explain the differences between RA, IR, BC planning, and DR
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Contingency Planning
+Organizations must plan for many events. Contingency plans do not focus just on an
+organization’s information technology (IT) assets. Instead, the field has grown to
+include all types of planning to make sure that an organization can continue to
+operate in the event of an interruption, emergency, or disaster. In recent years, the
+United States has seen several dramatic events that highlight the need for all types
+of contingency plans: the September 11 terrorist attacks of 2001, the northeastern
+U.S. power-grid failure in 2003, the H1N1 flu outbreak in 2009, Hurricane Sandy in
+2012, and power blackouts caused by California wildfires in 2019.
+When organizations talk about contingency plans, they are talking about holistic
+plans. These are plans that cover the whole organization and all of its processes.
+They identify operations that are critical to the business’s survival and recovery.
+These plans must include IT resources and operations. Many organizations store
+their data and records electronically. Many of them have grown dependent on their IT
+resources and the automated processes those resources provide. Thus, focusing on
+how to protect and recover IT assets is an important contingency planning
+component. This is especially important for small organizations. For example, some
+studies indicate that 43 percent of cyberattacks target smaller businesses. 1
+This chapter discusses contingency planning processes as they relate to IT
+resources. The different planning processes discussed in this chapter are:
+Incident response (IR) planning
+Disaster recovery (DR) planning
+Business continuity (BC) planning
+The scope of any kind of contingency planning is very broad. It can range from
+planning for life safety issues to how to conduct business without electricity. This
+chapter focuses on only one narrow piece: planning for the security of IT resources.
+Although all contingency plans have different goals, the foundation for these
+processes is the same. In order to prepare contingency plans, organizations must
+analyze and plan for the IT risks that they face. The risk analysis and foundation
+process helps an organization understand how it needs to protect its IT resources.
+An organization cannot make any contingency plans until it understands the risks to
+its IT resources.
+FYI
+This chapter talks about risk management, incident response, and contingency planning. Risk
+management and contingency planning are used to protect IT resources. Incident response is a type of
+contingency planning that an organization uses to react to attacks against its IT infrastructure. Disaster
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.recovery (DR) and business continuity (BC) plans are contingency plans that help an organization
+continue business operations following a disaster.
+It is important to remember that protecting IT resources is not the only goal of a contingency plan. It is not
+even the most important goal. Natural and man-made events disrupt thousands of lives each year. The
+most important goal of any type of contingency plan is to preserve human life. Continuing business
+operations and restoring data are secondary goals.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Risk Management
+The National Institute of Standards and Technology (NIST) says that risk
+management is “a complex, multifaceted activity that requires the involvement of the
+entire organization.” 2 Risk management (RM) helps an organization identify the
+risks that it faces. It also makes sure that organizations respond to risk in a cost-
+effective manner. Organizations use RM to support their business goals.
+One of the main goals of RM is to protect the organization’s bottom line. When
+risk is realized, it negatively affects an organization’s profits. RM helps an
+organization align its information security practices to its business goals. It makes
+sure that an organization spends its limited resources wisely and in ways that
+enhance business goals. An organization uses RM to plan and prioritize its
+information security activities.
+For example, suppose an organization has a database that holds customer data.
+The database is critical to the organization’s business. It uses the information in the
+database to develop products for its customers. The database also holds marketing
+information. The organization would be harmed if it did not have access to this
+resource. Its development and marketing activities would be negatively impacted.
+The organization must protect this database.
+A risk analysis shows that the database is at risk because system administrators
+share a single administrator account with a weak password to access the database.
+This is a vulnerability. Therefore, the database is open to attack. If it is attacked, the
+confidentiality and availability of data on the resource are compromised. Attackers
+could steal this data. They also could harm the database so that the organization
+could not use it. The risk analysis shows that the vulnerability (a single administrator
+account with a weak password), together with the threat (attackers) is very critical
+given the organization’s business.
+As part of its RM function, the organization must review the potential impact of
+this risk. The cost of a data breach could be quite high given the type of data in the
+customer database. The organization might have to notify its customers about the
+breach. It also might have to report the breach to its regulatory authorities. Those
+agencies could fine the organization for failing to secure its data. Its customers could
+sue it as well. The organization could lose current and future customers. It also faces
+its own operational issues if that database is not available for a certain period.
+Once the organization identifies the risk and potential impact, it can take steps to
+mitigate it. In this example, the organization must reduce the risk posed by a single
+shared account with a weak password. It can require its system administrators to
+use different accounts, with multifactor authentication, to access this critical
+resource. It also can configure its systems to enforce authentication requirements
+technically. Finally, it can make sure that it backs up its customer data properly. In
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.this short example, the RM process identified a risk to a resource. It offered different
+options for addressing the risk. In addressing the risk the organization was able to
+secure an important resource. Therefore, it was able to protect its business
+operations and bottom line.
+FYI
+The RM process described in this chapter is very similar to the risk management framework used by the
+U.S. federal government. An organization could easily use that framework to protect its IT systems. The
+NIST has created guidelines that federal agencies use to implement this framework.
+Each step in the RM process supports an organization’s business goals. The
+most basic RM process includes the following steps:
+Risk assessment—Identify the threats and vulnerabilities to the organization’s IT
+resources. Determine the impact of those threats and vulnerabilities.
+Risk response—Use policies and controls to respond to risk. An organization
+responds to risk according to its business strategy.
+Employee training—Train employees on known threats and vulnerabilities.
+Training can help avoid risk.
+Continuous monitoring—Monitor the organization’s policies and controls for
+continued effectiveness. Update policies and controls that are not effective.
+FIGURE 14-1 shows this basic RM process.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.FIGURE 14-1
+Risk management process
+Description
+The RM process and information learned during that process can form the basis
+for an organization’s contingency plans. In a basic sense, contingency plans are an
+organization’s response to very narrow risk assessments. For example, BC and DR
+plans are detailed contingency plans that respond to the risks of natural or man-
+made disasters. These risks are discovered during the RM process.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Risk Assessment Process
+A risk assessment (RA) identifies the threats and vulnerabilities to IT resources. It
+reviews the probability of those threats and vulnerabilities actually happening. This is
+called a realized risk. Then the RA reviews the potential harm from a realized risk.
+Finally, the RA identifies policies and controls that could respond to the potential risk.
+Risk response is the action taken by an organization to reduce realized risk to an
+acceptable level. The amount of risk that is left over after realized risk is reduced is
+called residual risk.
+The RA is a tool in the risk management process that provides executive
+management with the data that it needs to make smart decisions about information
+security controls. Without an RA, the executive management team has no way to
+know if the controls and policies that it implements are needed or cost effective. For
+example, an organization could spend a lot of money implementing a control to
+respond to a perceived threat. Without an RA, the organization does not know
+whether the cost of the control is reasonable given the probability and potential of
+the underlying risk. The organization may be making a poor decision if it spends
+more money to respond to a risk than the actual cost of the realized risk itself. An RA
+helps the organization know where to spend money to respond to and mitigate
+information security risk.
+There are several different methods for conducting a risk assessment. Some of
+them will be discussed in this chapter. In general, all methodologies have similar
+basic steps. The basic steps in a RA are:
+Inventory the assets included in the assessment
+Identify threats and vulnerabilities to those assets
+Categorize likelihood of occurrence and potential loss
+Document where controls are needed
+Risk Assessment Team
+An RA team must include people in several different roles throughout an
+organization. Even though the RA focuses on risks to IT systems, it is not sufficient
+to only include IT personnel on the team. IT personnel may not know about all of the
+organization’s critical business processes. For the same reason, it is not enough to
+include only business personnel on an RA team. Business personnel may not
+appreciate the technology processes that support business operations. The RA team
+members should represent all areas involved in a business process workflow.
+FYI
+Many laws have RA components. The Federal Information Security Modernization Act (FISMA) and the
+Sarbanes-Oxley Act (SOX) are two of them. The risk assessments required in these types of laws are very
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.narrowly tailored to the systems and processes that are covered by the law. The RA processes described
+in this chapter are more general.
+RA team members should include:
+Business personnel—These people are responsible for business process
+operations. They know the steps that must be completed in each business
+process. They also can describe how they use IT systems to accomplish their job
+duties.
+IT personnel—These people run the organization’s various IT systems. This
+group also might include the IT system owner. These personnel understand how
+their IT systems work and are responsible for maintaining those resources. They
+also would be responsible for implementing any changes to IT systems.
+Information security managers—These people run the organization’s
+information security program. They have knowledge about information security
+threats and vulnerabilities. They also know how threats and vulnerabilities can be
+mitigated.
+Human resources personnel—These people understand how to deal with
+people issues. They can offer advice and input on how to address human-based
+threats and vulnerabilities. They also will be able to assist with awareness training
+after the RA is complete.
+Executive management—These people make sure that the RA team has the
+support and resources that it needs to complete the assessment. They can hold
+business units accountable for participating in the assessment. They also can
+make sure that the RA remains properly scoped to its original goal.
+Members of the team must be objective. They must be willing to take a hard look at
+an organization’s business objectives and processes for risk potential. They must do
+the same thing for IT resources. Members of the team must avoid conflicts of
+interest. In the RA context, a conflict of interest is a situation where a member’s
+responsibilities as part of the RA team might conflict with his or her job
+responsibilities. A conflict of interest prevents the team member from meeting his or
+her RA responsibilities.
+In many cases, team members are picked because they work in a certain area
+that is being reviewed as part of an assessment. These members are helpful in
+making sure that the whole RA team understands how these areas work. However,
+these members may not be as objective in assessing vulnerabilities, threats, and
+risks in their areas. These team members will have to work hard to be objective
+throughout the whole RA process. An organization must remove members from the
+RA team if they are unable to be objective.
+NOTE
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.In general, a conflict of interest is any situation where a person’s private interests and professional
+obligations collide. In these situations, independent observers might question whether a person’s private
+interests improperly influenced his or her professional decisions.
+Some organizations hire consultants to help with an RA. Consultants are not
+employees of the organization. They help in a risk analysis by bringing objectivity to
+the team. They also help by bringing risk analysis expertise to the process. They can
+hurt the team if they do not quickly learn how an organization’s business processes
+and IT systems work. They also can hurt the team if they are not respectful of an
+organization’s culture.
+An RA team is responsible for collecting information about assets and risks. It is
+also responsible for reporting the assessment results to an organization’s executive
+management.
+Identifying Assets, Vulnerabilities, and Threats
+An RA must be narrowly scoped. Otherwise, it can grow too large for the RA team to
+manage. If it is too large, the team will have a hard time determining the risks that
+the organization must address. A good practice is to conduct a focused RA. Rather
+than doing an assessment of the organization’s whole IT infrastructure, the RA team
+should review one infrastructure component at a time. This way the team can better
+manage the RA and produce better overall results.
+The scope of the RA must be clearly stated in an RA project plan. RA team
+members can refer back to the project plan anytime they are asked to consider a
+new system or process as part of the RA. If the new system or process is not within
+the scope of the project plan, then the team should not consider it. Executive
+management must approve the project plan before the RA team begins to work.
+After the organization approves the scope of the RA, the RA team must identify
+all the assets that are within the scope of the assessment. This inventory must
+include the IT resources. The inventory also must include a listing of the personnel
+who run business processes that are in the scope of the RA. It also must contain the
+data included in those processes. For instance, an organization decides to conduct a
+RA of its email infrastructure. For this assessment, the RA team must consider not
+only the operation of the organization’s email servers, but also whether employees
+are sending confidential data via email. Depending upon how the RA team defines
+the project, mobile devices that send and receive email could be outside of the
+scope of the assessment.
+NOTE
+Many RA projects have a project manager. This person is in charge of making sure that the RA moves
+forward in a timely manner. The project manager is not necessarily a participant on the RA team. Instead,
+this person helps the RA team meet their project goals and final deliverables.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.The RA team should consider many assets for the inventory. Assets to be
+considered include:
+Personnel
+Data
+Hardware and software
+Physical facilities
+Business process workflows
+Current controls that help safeguard any assets
+It is important to identify all assets that are associated with the RA project. The
+RA team must list assets that are critical to business functions because they also
+must identify threats and vulnerabilities to those assets. The RA team must identify
+vulnerabilities and threats in order to determine the risk to the organization’s assets.
+For IT resources, the organization needs to know how vulnerabilities and threats
+might affect confidentiality, integrity, and availability.
+A vulnerability is a weakness or flaw in an IT system. Information security is
+compromised when vulnerabilities are exploited. An exploit is a successful attack
+against a vulnerability. There are many different kinds of vulnerabilities, but they fall
+into four broad categories: people, process, facility, and technology vulnerabilities.
+Vulnerabilities can be design mistakes. They also can be configuration mistakes.
+Threats are anything that can cause harm to an information system. They are
+successful exploits against vulnerabilities. A threat source carries out a threat or
+causes it to take place against a vulnerability. A threat source can be a person or a
+circumstance. Similar to vulnerabilities, threats also fall into four broad categories:
+human, natural, technology and operational, and physical and environmental.
+Threats can be deliberate or accidental.
+Threat sources act upon vulnerabilities. TABLE 14-1 shows examples of
+vulnerabilities and threats.
+TABLE 14-1 Examples of Vulnerabilities and Threats
+VULNERABILITY
+THREAT SOURCE
+THREAT
+Data center has few physical
+security controls to prevent
+unauthorized access to data
+center hardware Unauthorized users (e.g.,
+criminals, terminated employees,
+curious employees) Theft of data center hardware
+Theft of data
+Damage or destruction of
+hardware or data
+Failure to remove user accounts
+in a timely manner when an
+employee leaves the organization Terminated employees Access to IT resources and theft of
+sensitive company data
+Destruction of data
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.
+Review of data without need to
+knowNo access controls for sensitive
+files stored on IT resources
+Curious employees
+Review of proprietary data
+Invasion of privacy of other
+employees and/or customers
+Unauthorized modification of data
+Theft of data
+The RA team must put forth a good-faith effort to identify as many vulnerabilities
+and threats as possible. It can do this in several ways. For vulnerabilities that are
+internal to the organization, the team could interview employees in areas that are
+part of the assessment. The team also could send a questionnaire to a sampling of
+employees to ask questions that are relevant to the assessment. The RA team also
+should review the organization’s policies and procedures. The team could use
+automated scanning tools to look for vulnerabilities in its IT systems.
+The RA team also must learn about vulnerabilities and threats that are external to
+the organization. They can review industry guides and can use NIST guidance to
+learn more about information security issues and controls. The RA team can review
+information from the U.S. government and other industry experts. The SANS
+Institute has one of the largest collections of information security resources in the
+world. (See www.sans.org for more information.) The team also can review known
+system problems listed in the National Vulnerability Database (NVD). (See
+https://nvd.nist.gov/home.)
+It is not possible for the RA team to identify every security vulnerability or threat.
+This is because technology changes so rapidly. For example, zero-day exploits are a
+type of exploit that is hard for an organization to prepare for. An organization can
+only prepare for zero-day exploits generally. It is hard to prepare for or assess
+specific zero-day exploits because they are exploited so quickly after they are
+discovered.
+Likelihood and Potential Loss
+A risk is the likelihood that a threat will exploit a vulnerability and cause harm. The
+RA team is responsible for determining how likely it is that identified risks will occur.
+The team also must determine the potential loss or harm that the organization could
+have if the risk is realized. Likelihood and potential loss can be stated as either a
+qualitative measure or a quantitative measure. It depends on the risk methodology
+that the RA team uses.
+Quantitative Risk Analysis. Quantitative risk analysis attempts to use real
+numbers to calculate risk and potential loss. The organization assigns real numbers
+to the value of its assets. It also assigns real values to the cost of countermeasures
+and controls. One of the greatest advantages of a quantitative RA is that it provides
+an objective and monetary-based assessment of cost. It helps an organization
+understand both the cost of risk and the cost of controls. This type of RA allows
+management to directly compare the cost and benefits with recommended controls.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.One of the greatest disadvantages of quantitative risk assessments is that they are
+very difficult to administer.
+In a quantitative risk analysis, the RA team must assign a value amount to each
+of the organization’s assets. Several factors shape the cost of an asset, such as the
+cost of developing it and then the ongoing cost of maintaining the asset each year.
+The asset might have value that is hard to measure. For example, it might be hard to
+value the intellectual property that goes into creating and developing an asset. It is
+also hard to place a value on an asset that provides an organization with its
+competitive edge. Although quantitative risk analysis does give an organization
+actual money amounts for its assets, there is a subjective element to these values
+that is hard to measure. This is particularly true if an asset has intangible value.
+After the RA team determines the organization’s vulnerabilities and threats, it
+must determine exposure factor. The exposure factor is the percentage of asset
+loss that is likely to be caused by an identified threat. For example, an RA team
+determines that an organization’s data center is vulnerable to tornadoes. This is
+because the data center is located in the part of the midwestern United States
+known as “tornado alley.” 3 The RA team estimates that if a tornado struck the data
+center, it would be destroyed and the data center’s value would be reduced to zero.
+The exposure factor is 100 percent.
+The RA team determines that the same data center is also subject to a threat of
+fire. The RA team determines that if a fire were to occur, only 50 percent of the data
+center would be destroyed. (This is because the data center has a fire suppression
+system.) In this scenario, the exposure factor is 50 percent. Exposure factor also is
+called likelihood.
+Once the RA team determines the exposure factor, it must determine single loss
+expectancy (SLE). The SLE is the amount of money that an organization will lose if
+a risk is realized. In other words, it is the loss that an organization will suffer every
+time that risk occurs. SLE is often expressed as an equation:
+SLE = Asset value × Exposure factor
+In our data center example, suppose that the data center is relatively small and is
+worth $2 million. The SLE for the data center being struck by a tornado is $2 million,
+whereas the SLE for the data center experiencing a fire is $1 million.
+The RA team also must figure out how many times a specific risk might occur
+during a 1-year time frame. This is called the annual rate of occurrence (ARO). An
+RA team can use historical data to determine this number, as well as perform
+research to understand the likelihood of risks within a certain area. For instance,
+police departments can provide information about crime statistics. Insurance
+companies can provide information about how often organizations are likely to
+experience a serious fire or other devastating incident. ARO is expressed as a
+number. It can range from zero (a threat will never take place) to any number greater
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.than zero. A risk that will happen only once a year has an ARO of one.
+In our example, the RA team estimates that a fire might strike its data center
+once every 20 years. The ARO for that event is 1/20, or .05. The RA team estimates
+that a tornado might strike its data center once every 15 years. The ARO for that
+event is 1/15 or .067.
+ARO is used to calculate annualized loss expectancy (ALE). The ALE is the
+amount of loss that an organization can expect to have each year because of a
+particular risk. In a quantitative risk analysis, the ALE is the end-result number. An
+organization can use this number to determine how much money it should invest
+each year in controls to mitigate a particular risk. As a matter of good business
+practice, an organization should not spend more than the ALE amount each year on
+particular risks. ALE is often expressed as an equation:
+ALE = SLE × ARO
+In our example, the ALE for the tornado risk is $134,000 ($2 million × .067). The ALE
+tells the organization that it can afford to spend up to $134,000 per year to mitigate
+the potential loss caused by a tornado. The ALE for the fire risk is $50,000 ($1
+million × .05). The organization can spend up to $50,000 per year to mitigate
+potential fire loss. Spending more on controls than the ALE amount might be unwise
+from a business standpoint because the cost of the controls is then more than the
+cost of the risk. It does not make sense to spend more money on controls than the
+cost of the risk.
+Organizations also can use these formulas to determine the value of a control.
+The value of a safeguard to the organization can be determined by comparing the
+ALE before implementing a control to the ALE after implementing the control. This
+also can be expressed as an equation:
+Value of control = (ALE before safeguard) – (ALE after safeguard) – Cost of control
+These equations are used in quantitative risk analysis. Many vendors have created
+software products that can help RA teams perform these equations.
+Organizations often choose to do a quantitative RA because it computes risk in
+terms of money value. Sometimes executive management finds this information very
+helpful. It gives them concrete values upon which to measure the costs of risks and
+the effectiveness of controls. A quantitative risk analysis speaks the language of
+business: money.
+Qualitative Risk Analysis. Qualitative risk analysis uses scenarios and ratings
+systems to calculate risk and potential harm. Qualitative risk analysis does not
+assign money value to assets and risk. Instead, it uses descriptive categories to
+express asset criticality, risk exposure (likelihood), and risk impact.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.One of the greatest advantages of this method is that it is relatively easy to use. It
+does not require RA team members to have specialized financial knowledge. It also
+does not require them to deduce the costs of assets, controls, and potential harm.
+One of the biggest disadvantages of qualitative risk assessments is that they are
+very subjective. The opinions of members of the RA team can highly influence the
+results of the RA.
+Qualitative risk analysis is scenario-based. In this type of assessment, the RA
+team considers a specific vulnerability or threat. The team then considers a scenario
+based on it. As team members walk through the scenario, they think about how the
+scenario will affect business operations and resources. The team members will use
+their own experiences to determine threat likelihood. They can also use industry
+resources.
+The RA team will create likelihood and impact categories to help them classify
+and compare different risks. These categories are usually based on either a numeric
+rating system (scale of 1 to 10) or a low-medium-high standard.
+Risk exposure categories classify the likelihood of certain risks. An RA team
+might use the following categories to determine risk exposure:
+Low—Events that are unlikely to happen within a year
+Medium—Events that are somewhat likely to happen within a year
+High—Events that are likely to happen within a year
+Risk impact is determined the same way. Impact categories classify the harm to an
+organization if a risk is realized. The RA team might use the following impact
+categories:
+Low—A realized risk will have little or no effect on the organization. The
+organization will experience light disruption to its business processes. It will incur
+only low costs related to lost productivity and data and will not experience
+reputational loss.
+Medium—A realized risk will have a moderate effect on the organization. The
+organization may experience moderate disruption to its business processes. It will
+incur moderate costs related to loss productivity and data and a moderate
+reputational loss.
+High—A realized risk will have a severe effect on the organization. The
+organization may experience severe disruption to its business processes. It will
+experience high costs related to loss productivity and data, and its reputational
+loss will be significant.
+The RA team also will need a way to compare likelihood and impact levels to
+determine overall risk level. The RA team will use the overall risk level to determine
+where the organization should apply controls. An organization will not want to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.implement costly controls on a system that has low exposure and impact results.
+However, it will want to implement controls where there is a high likelihood rating and
+a high impact rating. It must create a method to analyze likelihood and impact rating
+levels. It uses this analysis to determine the priority of issues that the organization
+must address. TABLE 14-2 shows a generic risk level matrix.
+TABLE 14-2 Risk Level Matrix
+Description
+Organizations use their risk level matrix to determine the priority of the risks that
+they must address. TABLE 14-3 shows how the results of a qualitative risk analysis
+might look. It uses the vulnerabilities and threats from Table 14-1. In this example,
+the RA team would first recommend that the organization implement controls to
+remove user accounts for terminated employees in a timely manner. This is because
+the risk level for that vulnerability is higher than the others listed in the table.
+TABLE 14-3 Risk Level Outcomes
+Description
+The problem with qualitative risk assessments is that the organization has no
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.way to determine the amount of money to spend on controls. It also has no way of
+knowing if it is spending too much on a control relative to the actual loss that it could
+have because of a realized risk. For some organizations, this is a significant failure
+of a qualitative risk analysis. This is one reason why an organization might prefer to
+complete a quantitative risk analysis. TABLE 14-4 compares the features of
+qualitative and quantitative risk assessments.
+TABLE 14-4 Qualitative and Quantitative Risk Assessment Comparison
+Positive Aspects
+Negative Aspects
+QUALITATIVE RISK
+ASSESSMENT QUANTITATIVE RISK
+ASSESSMENT
+Easy to administer
+Does not require formal
+knowledge to administer
+Calculations are simple
+Scope of the assessment can be
+changed easily if necessary Measures the money cost of a risk
+Very objective, can be used to
+make cost-benefit decisions
+Easy for executives and financial
+managers to understand
+No measure of money cost of risk
+Very subjective, cannot be used
+to make cost-benefit decisions Hard to administer
+Requires formal knowledge to
+administer
+Calculations are complex
+Must put effort into valuing assets
+(and that value may be hard to
+calculate)
+Very difficult to change the scope
+of the RA
+Document Needed Controls
+The final part of an RA is to document where security controls are needed. The RA
+team does this by reviewing the results of its assessment. In a quantitative risk
+analysis, the RA team has a list of risks that it can prioritize by ALE and ARO. The
+RA team should review risks with high ALEs and high AROs to recommend controls.
+Through a qualitative risk analysis process, the RA team has a list of risks
+organized by potential harm. The risk level is based on the classifications that the RA
+team used for risk likelihood and impact. The RA team should look at high and
+medium risk levels to recommend controls.
+An RA team needs to suggest controls to executive management. It must identify
+risks that are high priorities. It also should identify controls that can mitigate or
+eliminate those risks. If the RA team performed a quantitative analysis, it should
+include a cost-benefit analysis for each of its suggested controls. If the team
+performed a qualitative analysis, it should show how the suggested control affects
+the overall risk level for a specific threat or vulnerability.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Risk Assessment Methods
+There are several different RA processes to choose from. Some vendors offer software that organizations
+can use to complete RAs. This sidebar describes some of the RA methods you might hear about in the
+information security profession.
+NIST “SP 800-30 (Rev. 1): Guide for Conducting Risk Assessments” is a qualitative RA method. Any type of
+organization can use it. It describes several tasks to be completed in the RA process. You can view this NIST
+guide at http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf.
+ISO 31010:2019, “Risk Management – Risk Assessment Techniques,” offers guidance on how to assess risk
+in several different ways. You can learn more at https://www.iso.org/standard/72140.html.
+Another framework developed in Britain is the M_o_R framework. This framework describes the processes
+that need to be put in place to implement risk management. You can read more at
+https://www.itgovernance.co.uk/m_o_r.
+Carnegie Mellon University’s Software Engineering Institute developed OCTAVE (Operationally Critical
+Threat, Asset, and Vulnerability Evaluation). OCTAVE is a qualitative RA process that is designed to be self-
+directed. It allows organizations to align security operations to business strategy. You can learn about
+OCTAVE at https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=309051.
+Thomas Peltier developed the Facilitated Risk Analysis and Assessment Process (FRAAP) in 1993. It is a
+three-step process based on ISO/IEC 27001 that helps organizations identify risks and threats.
+The Microsoft Corporation describes a risk analysis process that contains both quantitative and qualitative
+elements in its “Security Risk Management Guide.” It created this guide in 2006. You can learn about it at
+http://technet.microsoft.com/en-us/library/cc163143.aspx.
+Executive management reviews the RA team’s report as it makes business
+decisions. It will use the report as part of its information security governance (ISG)
+activities. The organization must make sure that its response to the risks identified in
+the RA team’s report supports its business objectives. The executive management
+team shows due care and due diligence when it responds to issues that are raised in
+a risk assessment.
+Risk Response
+Executive management must decide how an organization responds to risk. Risk
+response is the actions taken by executive management to reduce risk to an
+acceptable level. Executive management must apply the most appropriate controls
+to decrease its risk. The organization’s risk response must be cost-effective. It also
+should have a limited impact on the organization’s business.
+NOTE
+Controls reduce the harm posed by vulnerabilities or threats. They may eliminate or reduce risk of harm.
+They are also called safeguards or countermeasures.
+Executive management must prioritize how it will respond to risks. It should
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.respond quickly to the risks that have the greatest potential to harm business goals.
+Executive management must assess each risk individually, as an organization will
+not handle all risks in the same manner.
+Executive management can use several approaches to respond to risk. They are:
+Risk avoidance—The organization applies controls or takes other action to
+completely avoid a particular risk. This strategy removes all risk caused by a
+particular vulnerability or threat. For example, executive management could
+decide that the risks posed by a function in an IT system outweigh the benefit of
+that function. It could instruct system owners to disable that function in order to
+avoid the risk. The risk caused by that function is completely eliminated.
+Risk mitigation—The organization applies controls or takes other action to
+reduce a particular risk. This strategy does not eliminate all harm that could be
+caused by that risk. Instead, it reduces the risk to an acceptable level. The risk
+that is left over is called residual risk. For example, executive management could
+decide that the risks posed by a function in an IT system could be lessened if
+access to that function was limited. The organization could use access controls to
+limit access to that function to only a few trusted employees. The risk caused by
+that function is reduced because fewer people have access to it.
+Risk transfer—The organization takes no action against a particular risk. Instead,
+it passes its risk to another entity that bears the risk of loss. Usually an
+organization transfers risk of loss to an insurance company. It can purchase a
+cyberliability insurance policy to insure against specific risks. For example, the
+organization could purchase insurance to cover losses because of unauthorized
+access to IT systems. These types of policies are called technology errors and
+omissions policies.
+Risk acceptance—The organization takes no action against the potential risk. It
+makes an intentional decision to do nothing. Executive management may choose
+this strategy if the cost of the risk is less than the cost to avoid, mitigate, or
+transfer the risk.
+Training Employees
+The RM process includes educating employees about risk and how to avoid it. Often
+employees contribute to an organization’s risk by engaging in behavior that puts the
+organization and its data at risk. Risk can be reduced if employees understand why
+certain behaviors are not allowed or acceptable. The organization can use policies to
+help direct employee behavior. Risk is reduced when employees behave according
+to company policy.
+Security awareness training is an important part of any information security
+program. It is required to keep employees aware of their security responsibilities. An
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.organization must include security education in its day-to-day routine.
+Continuous Monitoring
+Organizations must always monitor their information security risk. They also must
+monitor the controls that they put in place to respond to that risk. This is an ongoing
+process. Because technology changes quickly, executive management must be
+diligent reviewing its risk and response to that risk.
+NOTE
+Executive management can implement administrative, technical, or physical controls to avoid or mitigate
+risk.
+Many laws require organizations to continually assess their risk. For example, the
+Gramm-Leach-Bliley Act (GLBA) Safeguards Rule requires covered financial
+institutions to conduct RAs to identify risks to customer information as part of their
+information security program. Covered financial institutions must apply controls to
+respond to identified risks. They also must assess their current controls to make sure
+that they are effective. Financial institutions also must review their information
+security programs on a regular basis.
+NOTE
+Many U.S. laws require federal agencies and other organizations to engage in regular RA and
+management activities.
+The Health Insurance Portability and Accountability Act (HIPAA), FISMA, and
+SOX also require covered organizations to conduct regular risk assessments.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Three Types of Contingency Planning
+One of the most important things about conducting an RA is that it forces an
+organization to think “What if?” An organization must plan for the risks that it accepts
+or cannot avoid, mitigate, or transfer. It creates contingency plans to limit the
+financial loss it might experience because of an adverse event. Contingency plans
+help to minimize the length of time that services and processes are interrupted. They
+also help minimize customer impact because of a serious event.
+The three main types of contingency plans are:
+Incident response (IR) plans
+Disaster recovery (DR) plans
+Business continuity (BC) plans
+An organization creates these plans to respond to events that might negatively affect
+IT resources and business processes. Keep in mind that this chapter discusses
+these types of contingency plans from an information security perspective. These
+plans can have a much larger scope than just IT.
+It is also important to remember that the most important goal of any type of
+contingency plan is to preserve human life. Other goals are secondary.
+Incident Response Planning
+An organization uses its incident response (IR) process to react to attacks against
+its IT infrastructure. Having an IR process is important because it helps make sure
+that an organization can recover from security incidents. Organizations that are able
+to recover quickly from incidents are more likely to be able to continue business
+operations. IR is also called incident handling.
+NOTE
+IR is a reactive term that describes how an organization responds to an incident. Incident handling is a
+proactive term that describes how an organization manages an incident. Organizations may use both
+terms interchangeably.
+IR describes how an organization:
+Detects information security incidents
+Determines the cause of the incident
+Mitigates the damage caused by the incident
+Recovers from the incident
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.An incident is any event that involves the organization’s equipment, data, or other
+resources. An incident must adversely affect the confidentiality, integrity, and/or
+availability of the organization’s data and IT systems. The intent of the threat source
+does not matter. An incident includes malicious attacks, as well as the harmful acts
+of well-meaning employees. Incidents are usually violations of the organization’s
+policies, accepted security practices, or the law.
+Organizations encounter several information security threats each day. Each one
+of these can be an incident if it adversely affects the security of an organization’s
+resources and data. You hear about these incidents in the media nearly every day.
+For example, in 2015 a student installed keystroke loggers on computers at his
+university to gather username and password information from university professors.
+The student then used that information to change his grades in the university’s
+computer system. The university discovered the hack through logging and audit
+review security measures. In 2018 the student was sentenced to 4 months in prison,
+2 years of supervised probation, and ordered to pay restitution to the university for
+unauthorized access and damage to its computer network. 4
+When the university discovered that records had been improperly modified, it
+would have declared an information security incident and formed a team to respond
+to the system intrusion. That team would have been responsible for determining the
+damage that the incident caused, finding the source of the incident, mitigating the
+damage caused by the incident, and recovering the computer systems affected by
+the incident.
+The student hacker’s conduct was most likely a violation of the university’s
+acceptable use policy (AUP). Many organizations have these policies to define
+acceptable behaviors for the use of its IT resources. In this case, the student
+hackers violated policies and also broke the law.
+Based upon what we know about this case from publicly available information,
+we know that the university involved did the following:
+Detecting the incident—The university used normal information security
+practices such as logging and audit review to discover that information in an IT
+system had been changed.
+Determining the cause of the incident—These same measures, and most likely
+computer forensic analysis, helped the university discover that the cause of the
+incident was student hackers who had installed a keystroke logger.
+Mitigating the damage caused by the incident—The university was able to
+restore the changed data because it made regular data backups.
+Recovering from the incident—The university restored data and, likely,
+hardened its systems to prevent this type of incident from happening again in the
+future.
+One of the most important parts of IR is documentation. An organization must
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.document every incident that it encounters. That way it can refer to its
+documentation if it encounters a similar incident in the future.
+Incident Response Team
+The IR team is responsible for creating the organization’s IR policy and plan. This
+team has a different focus from that of the operational information security
+employees who will follow the IR plan and respond to incidents. Often the IR team
+will include many information security team members. Similar to an RA team, the IR
+planning team must include advisors from several departments across the
+organization.
+The IR team may help draft the initial IR policy and create the plans that define
+the organization’s IR structure. Even though IR is often an information security
+responsibility, other departments may need to participate in an IR process. The
+information security team may have to interact with many of these departments
+when handling an incident.
+For instance, the operational team will be involved if there is an incident involving
+a physical trespasser to the organization’s data center. The operational team most
+likely will involve the organization’s physical security personnel in handling the
+incident because the incident included actual trespass onto the organization’s
+property. IT personnel will be involved to see if any equipment has been stolen, and
+internal audit and legal counsel will be involved if any equipment or data are stolen.
+Human resources (HR) personnel could become involved if it appears that the
+trespasser is a former employee. Marketing and communications personnel could
+become involved if the facts of the incident trigger the laws that require security
+breach notification.
+The IR team is responsible for making sure that the procedures are in place to
+help all of these different departments work together. They must be able to respond
+quickly and efficiently in the event of an incident. The operational information
+security team needs to know whom they can contact in each department for help.
+The IR team’s planning puts this structure in place.
+The IR planning team should include information security and IT representatives.
+It also should have members from physical security, HR, and internal audit. Legal
+counsel should be included on the team to address any legal or regulatory issues.
+The IR team will help the organization create its IR policy. These policies are very
+specific to an organization’s structure and culture. Similar to all information security
+policies, the IR policy is a statement of executive management’s commitment to the
+IR process. The policy should state the purpose and goals of IR. It also should
+define what an incident is. The policy must set forth, at a high level, the
+organization’s operational IR structure. It should define the roles and responsibilities
+within this structure. The IR policy also can contain information about how to
+measure the effectiveness of the IR process.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.IR Plan Process
+Once the organization approves its IR policy, the IR team can continue to define the
+IR plan. The IR policy contains the overall IR goals, whereas the IR plan contains the
+procedural elements that are necessary to meet those policy goals. Operational
+information security teams will follow the IR plan to fulfill their IR job duties. In this
+section, the term incident handlers will be used to refer to the operational teams that
+respond to an incident.
+An IR plan is specific to a particular organization. However, most IR plans have
+five basic parts. They are:
+Incident triage
+Investigation
+Containment or mitigation
+Recovery
+Review
+The triage phase is the first phase in the IR process. In this phase, a potential
+incident is initially assessed. It is at this point that the primary handler will verify
+whether an adverse event meets the definition of an incident. The primary handler is
+the person who is in charge of coordinating an organization’s response to an
+information security incident. This person is often a member of the organization’s
+information security team.
+NOTE
+The word triage is most commonly associated with the medical profession. It is the process of sorting and
+prioritizing patient care based on the severity of a patient’s condition.
+The Operational Incident Response Team
+An organization often plans and coordinates IR at a high level within an organization. A cross-functional
+team, called the IR team, puts the IR plan into place. The responsibility for the daily operations of the IR plan
+often falls to an organization’s information security team and other IT personnel.
+There are several different roles involved in IR, which are reviewed briefly here. You may find these terms
+used in resources describing how to plan and implement an IR program:
+Victim—The person or resources that are targeted in an incident. The victim is often the organization
+and its IT resources and data.
+Attacker—The person or mechanism that caused the incident.
+Incident reporter—The first person or mechanism that reports an incident. The incident reporter does
+not have to be a person. An automated intrusion detection system (IDS) can be an incident reporter. A
+person who notices an unusual incident and reports it is also an incident reporter.
+Primary handler—The person who is in charge of coordinating the response to a particular incident.
+This person is responsible for making sure that the IR process is documented. Often this person is a
+member of the organization’s information security department. If an organization does not have a
+dedicated information security department, this is the person with information security job duties.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Secondary handlers—These are the personnel involved in investigating, responding to, and
+recovering from an incident. Secondary handlers include technicians, analysts, and operational staff
+who take part in handling the incident. Legal counsel and an organization’s internal auditors also can be
+secondary handlers. The type of secondary handlers involved in IR depends on the nature of the
+incident.
+Not all events are information security incidents. The event must have an
+adverse effect on the confidentiality, integrity, and/or availability of an organization’s
+IT resources or data. For example, it might be an incident if an employee mistakenly
+deletes a critical file needed for processing the organization’s weekly payroll
+because the employee has compromised the availability of needed data. It might not
+be an information security incident if the employee mistakenly deleted a non-critical
+file. (Although it certainly would be a business process issue.) The primary handler
+decides whether a reported event is actually an incident.
+If an event is an incident, the primary handler must classify it, which can be done
+in several ways. They can be sorted based on threat source. An example would be
+whether the incident occurred because of an internal threat or an external threat.
+Incidents also can be sorted based upon the type of vulnerability or threat that is
+exploited.
+Organizations may use any method for sorting incidents. For example, some
+organizations must use guidance prepared by NIST. 5 The U.S. Department of
+Homeland Security’s National Cybersecurity and Communications Integration Center
+(NCCIC) uses IR categories that are based on NIST guidance. The NCCIC is the
+federal government’s IR center and is sometimes referred to as the United States
+Computer Emergency Readiness Team (US-CERT). All federal agencies must report
+information security incidents to the NCCIC/US-CERT. The NCCIC/US-CERT’s
+incident categories are:
+Category 1: Unauthorized Access—Unauthorized access is technical or physical
+access to an IT system without permission. An agency must report these incidents
+even if data is not compromised.
+Category 2: Denial of Service (DoS)—Any event that prevents the normal
+operation of IT resources such that use of those resources is harmed.
+Category 3: Malicious Code—Any event that involves the use of malicious code to
+successfully infect, breach, or compromise IT resources. These events include
+viruses, worms, and Trojan horses.
+Category 4: Improper Use—Any event that is a violation of the agency’s AUP or
+other related policies.
+Category 5: Scans, Probes, and Attempted Access—Any event where an IT
+resource is scanned or probed in an attempt to access or identify the agency’s IT
+systems.
+Category 6: Investigation—This category is for unusual events that do not fall into
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.one of the other categories. These incidents require more review because they are
+odd or potentially harmful.
+The classification of an incident may change as the incident is investigated because
+the organization learns more about the incident as the investigation progresses.
+Incidents also should be sorted based upon potential severity. Severity is assessed
+based upon the perceived level of impact to the confidentiality, integrity, and
+availability of an organization’s IT resources or data. The severity of an incident also
+may change. Organizations often classify severity on a low-medium-high scale. An
+organization might classify severity as follows:
+Low—The adverse effect on the confidentiality, integrity, or availability of the
+organization’s data or IT resources is limited. A low-impact event causes little or no
+damage.
+Medium—The adverse effect on the confidentiality, integrity, or availability of the
+organization’s data or IT resources is moderate. A medium-impact event results in
+significant damage to assets.
+High—The adverse effect on the confidentiality, integrity, or availability of the
+organization’s data or IT resources is severe. A high-impact event results in major
+damage to assets.
+Classifying the nature and severity of an incident helps incident handlers know which
+incidents require priority handling. If the incident handlers must respond to multiple
+incidents, classification promotes efficiency. It also makes sure organizations
+respond to incidents according to the incident’s potential to hurt the organization.
+Classification also helps incident handlers know which incidents to escalate to
+management.
+Investigation is the second phase in the IR process. During this phase, the
+incident handlers learn about the incident and its source, as well as the impact that
+the incident is having on the organization. The incident handlers must find all the
+resources that are affected by the incident. They also must contact other areas as
+needed to fully understand the scope of the incident. The IR policy and plan let the
+incident handlers know who they must contact.
+The incident handlers must keep management informed of their IR activities. It is
+important that management be informed in case there are any regulatory
+requirements that need to be considered as the organization responds to the
+incident. For example, if an incident involves the disclosure of the protected health
+information of more than 500 people, HIPAA requires that the organization notify the
+Department of Health and Human Services about the disclosure. 6 Executive
+management, in consultation with legal counsel, must make the final decisions about
+contacting third parties or the media.
+It is also important during the investigation phase for the incident handlers to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.follow the organization’s own internal policies. If handlers are investigating an
+incident that might be a crime, it is important that the team follow good evidentiary
+practices. If an incident appears to be a crime, the incident handlers must contact
+law enforcement according to the terms of the IR plan.
+The organization must begin the containment phase almost as soon as an
+incident is reported. During this step, incident handlers must take steps to limit the
+damage caused by the incident. They will use different methods to contain an
+incident depending upon its nature. For example, if the incident is a self-propagating
+virus, incident handlers may remove an infected system from the organization’s
+network. If the incident is a particularly authentic-looking phishing email, incident
+handlers might issue an alert or other notification to the organization’s employees.
+The alert would tell the employees not to respond to a phishing email. Incident
+handlers might use several different tactics to mitigate an incident.
+The organization repairs and recovers its IT resources and data during the
+recovery phase. The IT resources and data should be repaired in such a way that
+they are not vulnerable to the same type of incident again. This is called hardening.
+In addition to hardening damaged IT resources, the organization must harden
+resources that are similar to the damaged resources. This makes sure that similar
+resources are not harmed by similar incidents.
+After an IT resource is repaired, it should be tested for any additional
+vulnerabilities or weaknesses before it is put back into production. The recovery and
+repair method will depend upon the nature of the incident.
+All stages in the IR process must be fully documented. The primary incident
+handler is responsible for making sure that each step in the process has been fully
+documented. This is important because the IR planning team can review the notes
+from the incident handlers to determine whether the IR plan worked as intended. The
+IR planning team will want to know which part of the plan worked well, and which
+parts need to be improved for the future. During the review stage, both the incident
+handlers and the IR planning team can review the documentation to learn:
+NOTE
+As a general information security best practice, a repaired IT resource should not be tested by the same
+person that repairs or recovers it. This is a separation of duties best practice to make sure that
+vulnerabilities and weaknesses are not overlooked.
+Dollar amount spent in handling the incident
+Dollar amount spent to prevent similar incidents in the future
+Loss of staff time in handling the incident
+How the response to the current incident compares with similar incidents in the
+past
+Recommendations on policy and procedural changes because of lessons learned
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.from the incident
+The review phase is often overlooked because it is easy for an organization’s
+employees to go back to their normal operational duties after an incident. The IR
+planning team must make sure that the review process is formally required by policy.
+The IR process is shown in FIGURE 14-2. As described in this section, many of
+the stages overlap with one another. The lines between each stage can be indistinct
+at times.
+FIGURE 14-2
+Incident response plan phases.
+Disaster Recovery and Business Continuity Planning
+DR and BC plans help an organization respond to a disaster. A disaster is a sudden,
+unplanned event. Disasters negatively affect the organization’s critical business
+functions for an unknown period. The difference between a disaster and an incident
+is subtle. A disaster severely affects the organization’s infrastructure and interrupts
+critical business functions. An incident tends to refer to service failures that affect the
+confidentiality, integrity, and/or availability of the organization’s data and IT systems.
+An incident may become a disaster in some situations.
+NOTE
+It helps to think of an incident as an event that an organization can deal with during its normal operations.
+A disaster is an event that completely disrupts those normal operations.
+Examples of disasters include natural threats and deliberate, human-made
+threats. Natural threats are uncontrollable events. They include earthquakes, fires,
+and flood. Human-made threats include sabotage and terrorist activities. Threats that
+can evolve into a disaster also include equipment, electrical, and communications
+infrastructure failure. Disasters are not predictable. Organizations cannot control
+these types of threats. All they can do is take measures to try to limit the damage
+caused by these events. Organizations also can make plans to respond to these
+types of events.
+DR plans focus on how an organization recovers its IT systems after a disaster.
+These plans focus on IT systems only. They are the organization’s immediate
+response to restoring critical IT resources after a devastating disaster or event. DR is
+largely a function of IT and is part of a larger BC plan.
+BC plans focus on how the organization continues its business during and after a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.disaster. These plans tend to be more comprehensive. They cover all parts of a
+business, not just IT systems. These plans address the period between the disaster
+and a return to normal operations.
+The formal distinction between DR and BC plans is eroding. This is because
+organizations rely on IT systems for many of their critical functions. Some
+organizations build their whole business model on their IT systems. Today, most
+organizations consider DR and BC to be the same thing. You may find the terms
+used interchangeably. Most references recognize that a DR plan must be part of a
+comprehensive BC plan.
+In this chapter, DR and BC plans will be discussed together, unless it is
+necessary to differentiate between the two. If it is necessary to differentiate between
+the two types of plans, the distinction will be made clear in the text.
+DR/BC Team
+The DR/BC team is responsible for creating an organization’s DR/BC policy and
+plans. Similar to the RA and IR teams, this team must include members from many
+areas of the organization. The people who are going to be responsible for carrying
+out the plan in the event of a disaster also should be included on the team.
+A DR/BC plan is an organization-wide plan; however, specific departments may
+have secondary DR/BC plans. These department-level plans must be consistent with
+the organization’s DR/BC plan. An organization’s overall DR/BC plan has several
+goals:
+Ensure that the organization’s employees are safe.
+Minimize the organization’s amount of loss.
+Recover critical business systems and infrastructure within a certain period.
+Resume critical business operations within a certain period.
+Repair or replace damaged facilities.
+Return to normal operations.
+The DR/BC team will help the organization create its DR/BC policy. These policies
+are very specific to an organization’s structure and culture.
+A DR/BC team must include members from IT, HR, executive management,
+physical security, and legal counsel. It also must include the managers or owners of
+critical business processes. The team also should include the employees, and their
+backups, who will be in charge of directing the organization’s activities in a real
+disaster. It is important that backup personnel be included in case the people with
+primary DR/BC responsibilities are not available in a disaster.
+One thing to keep in mind for DR/BC plans is that disasters are not always limited
+to the organization. A disaster in a geographic region may mean that both the
+organization and its employees will be affected by it. Employees must personally
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.respond to the same disaster. If employees must respond to the disaster at home
+with their own families, they may not be in a position to help the organization
+respond to the disaster as well. An organizational DR/BC plan must acknowledge
+this risk.
+DR/BC Plan Development
+Many of the steps in the DR/BC planning process are similar to the RA and IR
+planning processes. Contingency planning is a part of risk management. The steps
+in the DR/BC planning process are:
+Develop the DR/BC policy.
+Conduct a business impact analysis.
+Identify threats and potential controls.
+Determine recovery strategy.
+Design and maintain the plan.
+The DR/BC team must make sure that policies and plans are in place that help the
+organization complete these steps. The DR/BC policy is a statement of executive
+management’s commitment to the BC planning that should state the purpose and
+goals of DR/BC. The policy should define DR/BC roles and responsibilities. The
+policy should include the organization’s resource requirements for any DR/BC plan.
+After a DR/BC policy is approved, the DR/BC team must conduct a business
+impact analysis (BIA). A BIA identifies key business operations. It also identifies the
+resources that support those operations. The DR/BC team uses a BIA to estimate
+how long those critical operations and resources can be offline before the
+organization’s entire business is negatively affected.
+To complete a BIA, the DR/BC team must:
+Identify critical business processes—The BR/DR team must identify the
+organization’s critical business processes. There is no master list of processes
+that are critical to all organizations. Each organization is different. Some critical
+processes might include payroll, attendance scheduling, and customer service
+activities.
+Identify IT resources that support critical business processes—The BR/DR team
+must identify the resources that support its critical business processes. Resources
+can include the organization’s communications infrastructure. They also can
+include individual IT systems and components.
+Determine how long IT resources can be offline—The DR/BC team must identify
+the effect on business organizations if a resource is disrupted or damaged and a
+critical process cannot run.
+Determine recovery criticality—The DR/BC team must prioritize how the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.organization will handle IT resources and business processes following a disaster.
+A BIA closely resembles a risk assessment. Many of the same tools and techniques
+used in an RA are used to complete a BIA. The team can interview employees
+throughout the organization to learn about its many business processes. The team
+also could send a questionnaire to a sampling of employees. The questionnaire
+could ask questions about business processes and resources.
+Once the DR/BC team determines the organization’s critical processes and
+resources, it must figure out how long those processes and resources can be offline
+before the organization experiences irreparable harm. This period is called
+maximum tolerable downtime (MTD). Some processes and systems are so critical
+that they can be down only for a few minutes before an organization suffers
+irreparable damage. If these processes are offline longer than the MTD, the
+organization might fail. Processes and systems that are not essential to business
+operations may have an MTD of days or weeks.
+The DR/BC team must determine the order in which IT resources will be
+reviewed and restored following the disaster. It uses the results of the BIA to make
+this determination. If an organization must resume a business process within a short
+period, it will need to make sure that it can put people and processes in place to
+recover the process within that period. The priority list of processes and resources
+helps executive management make recovery strategy decisions.
+NOTE
+Some resources use the term maximum acceptable outage (MAO) in place of MTD. The two terms mean
+the same thing.
+After the BIA is complete, the DR/BC team must identify threats and potential
+controls. This step is very similar to a risk assessment. In fact, the organization may
+have completed this exercise as part of an RA. If so, the DR/BC team can use those
+results at this step. The DR/BC team must identify the threats to the organization
+that have disaster potential. It also must identify potential controls to respond to
+those threats. These controls try to reduce the possibility of the organization
+experiencing a disaster. If a disaster cannot be avoided, these controls may lessen
+the amount of damage to the organization.
+For example, an organization’s data center may be located in an area prone to
+tornadoes. If the organization cannot move its data center, it may try to fortify it. The
+organization might try to make the data center more resistant to wind-related
+damage to protect its business processes.
+Some common preventative controls that an organization can implement include:
+Fire detection and suppression systems
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Installing backup generators or uninterruptible power supplies
+Offsite storage of system backup media
+Frequent backups of critical data
+Extra equipment inventories for critical IT resources
+The DR/BC team also must determine a recovery strategy. It consults with executive
+management to do this. An organization’s recovery strategy addresses the
+resources that it must recover after a disaster and the order in which those
+resources must be recovered. An organization will have to consider a wide variety of
+recovery strategies.
+An organization must prepare recovery strategies for its:
+Critical business processes—The organization must plan for recovering its
+business processes. It must understand all the workflow steps needed to complete
+a business process. It must know the resources and supplies needed to support
+these processes.
+Facilities and supplies—The organization must make sure that it has a plan to
+restore its main facility. It also must restore the utilities needed to support that
+facility. Utilities include telecommunications and electrical infrastructure.
+Backup Site Options
+It is rare when an organization experiences a disaster that forces it out of its main facility for a long time.
+However, the organization still must plan for this possibility. It must have a location to which it can move its
+operations, which is called a backup site. An organization has several planning options for a backup site. It
+is important for you to know the differences between them.
+A mirrored site, a fully operational backup site, actively runs the organization’s IT processes in parallel
+with the organization’s main facility. In this way, a mirrored site is a redundant facility. An organization can
+immediately transfer all of its IT operations to the mirrored site, which is already staffed with the
+organization’s employees. This is the most expensive type of backup site to maintain. This type of backup
+site is appropriate for organizations that have a low MTD for critical processes. This type of backup site
+supports high availability.
+A hot site is an operational backup site that has all of the equipment and infrastructure that an
+organization needs to continue its business operations. The equipment in the hot site is fully compatible
+with the organization’s main facility. A hot site can become operational within minutes to hours after a
+disaster. However, it is not staffed with people, and it does not process data in parallel with the main
+facility. If needed, the organization must bring data backups to the hot site facility. A hot site, although
+expensive to maintain, may be the best choice for an organization that can afford some, but not a lot, of
+downtime.
+A warm site is a compromise between a hot site and a cold site. A warm site is space that contains some,
+but not all, of the equipment that an organization will need to continue operations in the event of a
+disaster. The warm site is partially prepared for operations, in that it has electricity and network
+connectivity. This type of site is more expensive than a cold site.
+A cold site is a backup site that is little more than reserved space. It is the most inexpensive type of
+backup site, as it does not have any equipment or hardware set up. Although it will have electrical service,
+it most likely will not have network connectivity. It can take weeks for an organization to get a cold site
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.ready for business operations. An organization will have to acquire equipment and infrastructure to make
+the site operational.
+Employee environment—The organization must have plans in place for
+supporting its employees during a disaster. This means making sure that it has
+ways to communicate with employees during a disaster. The organization also
+must have plans in place to manage employee responsibilities until the
+organization can return to normal operations.
+IT operations—The organization must have plans in place to resume its IT
+operations. This means making sure that infrastructure components are in place
+so that business can resume. The organization will want to have contracts with its
+vendors so that it can get replacement equipment quickly.
+Data recovery—The organization must have a way to recover its data and
+operational information, as well as retrieve data from offsite storage facilities. It
+also must have plans to retrieve paper-based information from its main facility.
+A recovery strategy also must include the people that will implement it. A team with
+specialized skills and knowledge must head each recovery area. For example, the
+organization’s storage administrators should serve on the team in charge of data
+recovery. Each team must have a leader.
+Once an organization develops its DR/BC plan, it must monitor and update it in
+response to changing conditions. An organization must update its plan anytime its
+business processes or technology change. It must update the plan any time key
+personnel change. Organizations put contingency plans in place so that they can
+respond to events that adversely affect them. It is not enough to create a plan and
+put it away on a shelf for use “just in case.”
+A DR/BC plan helps an organization respond to a disaster. These plans are an
+important part of an organization’s risk management activities. The DR/BC planning
+process is shown in FIGURE 14-3.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.FIGURE 14-3
+DR/BC planning process.
+Description
+Testing the Plan
+Organizations must test their contingency plans on a regular basis to make sure that
+the plan accounts for all critical business functions and processes. It also should test
+its contingency plans to make sure that the plans do not have any deficiencies. An
+organization must correct plan deficiencies.
+Contingency plan testing has several objectives. They include:
+Help employees become familiar with and accept the DR/BC plan.
+Train employees how to respond during an emergency.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Identify weaknesses or deficiencies within the plan.
+Make sure that all of the checklists and procedures needed to implement the plan
+are created and in place.
+Make sure that all the resources and supplies needed to implement the plan are in
+place and are operational.
+Make sure that all communications mechanisms work properly.
+Make sure that all DR/BC teams are able to work well together.
+NOTE
+In the DR/BC plan context, a single point of failure is a step in the plan or an assumption within the plan
+that is critical to the performance of the entire plan. If that step or the assumption fails, then a critical
+portion of the plan, or the entire plan, could fail. Identifying single points of failure is a critical part of testing
+contingency plans.
+Through testing, an organization can learn that it is missing key business process
+areas. It also can identify single points of failure within the plan and take steps to
+correct them. Any changes that are made to the DR/BC plan as part of the test
+review must be fully documented. Changes to the plan also must be communicated
+to all members of the organization.
+There are five ways to test DR/BC plans. These tests also could be used to test
+an organization’s IR capability.
+A checklist test is one of the most basic types of DR/BC tests. In this type of
+test, the DR/BC team makes sure that supplies and inventory items that are needed
+to execute the DR/BC plan are in place. This type of test makes sure that sufficient
+supplies are stored at backup facilities. It also makes sure that the organization has
+enough reference copies of the DR/BC plan and that all copies have current
+information.
+A walk-through test is often used with a checklist test. In this type of test, the
+DR/BC team “walks through” the entire DR/BC plan. They study each area of the
+plan to make sure that all of the assumptions and tasks stated in it are correct. This
+type of test also helps the people who are responsible for executing the DR/BC plan
+become very familiar with it. This type of test is sometimes called a tabletop walk-
+through test or tabletop test because the members of the team will sit around a table
+as they study the plan.
+A simulation test is a more realistic version of a walk-through test. In this type of
+test, the organization role-plays a disaster scenario. The scope of these types of
+tests has to be carefully defined so that they do not negatively affect normal
+business activities. This test is designed to measure the effectiveness of employee
+notification procedures. Depending upon the scope of the test, an organization might
+try to measure how fast it can set up its backup site. It also could measure how fast
+its vendors can provide additional equipment.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.FYI
+Organizations with critical business functions that affect many customers tend to be serious about DR/BC
+planning and testing. AT&T has a Network Disaster Recovery Team, whichis responsible for restoring
+voice and data network communications to an area that is affected by a disaster. The team conducts four
+DR exercises each year. It was deployed in 2017 to respond to wildfires in California. You can read about
+the team’s efforts at https://www.business.att.com/solutions/family/network-services/network-disaster-
+recovery.html.
+A parallel test is designed to test the organization’s IT recovery processes. In
+this type of test, the organization tests its ability to recover its IT systems and its
+business data. The organization brings its backup sites online. It will then use
+historical business data to test how those systems operate. In this test, the
+organization tests both data processing and data recovery. During the test, the
+organization continues normal business operations at its main facility. The test is
+conducted using historical data.
+A full interruption test is designed to test the organization’s entire DR/BC plan.
+This test involves a scenario that destroys or severely damages the organization’s
+main facility. The organization must transfer all business and IT functions to its
+backup site. In this type of test, all normal business operations stop. Operations are
+shut down at the main site. They must be transferred to the backup site using the
+processes stated in the DR/BC plan.
+A full interruption test is the most expensive kind of contingency plan test. It can
+help the organization learn a lot about its DR/BC plan’s effectiveness. However, it
+also has the potential to negatively affect the organization’s business. If the
+organization cannot get business operations resumed at the backup site, then the
+test itself can create a disaster situation for the organization. Organizations
+undertake these types of tests with great care.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Special Considerations
+Risk management and contingency planning activities make good business sense.
+They help an organization prepare for threats and events that harm its ability to meet
+its business goals. Organizations that engage in these activities understand their
+information security posture and know where they have weaknesses. They also
+know the threats to the confidentiality, integrity, and availability of their IT resources
+and data.
+Addressing Compliance Requirements
+For many organizations, RM and contingency planning are not just good business
+practices. Sometimes they are required by law. Many laws require the organizations
+they cover to complete risk assessments and create contingency plans. TABLE 14-5
+reviews some laws that have these requirements.
+TABLE 14-5 Laws With Risk Assessment and Contingency Plan Requirements
+RISK ASSESSMENT
+REQUIRED?
+NAME OF LAW
+DR/BC PLAN REQUIRED?
+Gramm-Leach-Bliley Act
+Consumer financial information Yes Yes
+Payment Card Industry
+Standards*
+Companies that accept credit
+cards for payment Yes Yes
+Health Insurance Portability and
+Accountability Act
+Protected health information Yes Yes
+Sarbanes-Oxley Act
+Corporate financial information Yes Implied if contingency plans are
+indicated as an internal control
+required to secure financial
+reporting processes and systems
+Federal Information Systems
+Modernization Act
+Federal information systems Yes Yes
+*The Payment Card Industry (PCI) Standards are not a law. Organizations that wish to accept credit cards for
+payment of goods and services must follow these standards. Banks that process credit card information enforce
+PCI compliance.
+When to Call the Police
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.Children learn the basics of “when to call 9-1-1” at a very early age. Children are
+taught to call the police or emergency responders when:
+Someone’s life is in immediate danger
+When smoke or fire is present
+When emergency medical help is needed
+When a crime is being committed
+These are good rules for an organization as well. Organizations should include rules
+for when to call law enforcement or emergency responders in their contingency
+plans.
+Must People Report Crime?
+Under common law, in general, a person has no duty to report a crime that he or she witnesses. For
+purposes of the law, an organization is considered a “person.” Thus, most organizations also have no
+obligation to report crimes they witness.
+There are some instances where people are required by law to report crimes, however. For instance, in the
+United States most people are required to report crimes where children or vulnerable adults are in danger.
+These laws require people to report suspected abuse and neglect to law enforcement.
+Some U.S. states have laws that require IT workers to report the discovery of child pornography on
+computers. They must report the discovery to law enforcement. The IT worker must have discovered the
+pornography within the scope of his or her employment. An IT worker is not required to search for this type of
+material. However, if it is discovered, he or she must report it. At the time that this was written, at least 12
+states had such laws. 7
+Most organizations should report any criminal activity that involves their IT
+resources or data. It is important to contact law enforcement right away to start
+investigating the crime.
+Sometimes it is hard to know if a crime is committed. If the organization
+experiences a data breach, it is likely that a crime upon the organization was
+committed. Possible crimes include trespass, theft of data, theft of resources,
+unauthorized access, and similar crimes.
+One of the most important reasons to promptly report crimes involving IT
+resources is so that forensic evidence can be collected. This type of evidence can be
+used to investigate computer crimes. However, this type of evidence is very volatile
+and must be preserved properly.
+One of the things that organizations must account for in their contingency plans is
+the fact that communications systems will likely be overloaded in a regional disaster
+or emergency. It may take time to contact first responders, as well as extra time to
+receive their assistance. In regional natural disaster situations, people are usually
+discouraged from calling emergency responders unless a person’s life is in
+immediate danger. This is to keep emergency phone lines, such as 9-1-1 trunk
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.telephone lines, from being overloaded with calls.
+Public Relations
+An organization’s contingency plans must consider its public relations strategy.
+Public relations (PR) is a marketing field that manages an organization’s public
+image. It includes marketing the organization’s products and services, as well as
+protecting the organization’s reputation and image. PR includes responding to crises
+that threaten that image.
+An organization’s PR team develops communication strategies. These strategies
+are used to guide communications with employees, customers, and stakeholders.
+Coordinating an organization’s public message is sometimes difficult under normal
+business operations. It is even more difficult in an emergency. A PR strategy for
+emergencies must consider:
+Who is authorized to make comments on the organization’s behalf?
+Who is authorized to approve the contents of comments shared with the public?
+How often should information be shared with the public?
+How should information be shared with the public?
+How should information be shared if normal communications methods are
+unavailable in an emergency?
+It is important that an organization have a PR strategy for emergencies. The
+organization must make sure that information is given to stakeholders in a reliable
+and organized manner. It also must make sure that reliable information is
+communicated to employees. An organization’s reputation can suffer if it does not
+share enough information or shares it in a chaotic manner. Its reputation also can be
+harmed if the organization distributes conflicting information from different sources.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.CHAPTER SUMMARY
+This chapter reviewed risk management and contingency planning concepts.
+The RM process helps an organization understand the risks that it faces
+each day. It also helps organizations strengthen their security posture in
+response to threats and vulnerabilities. Many laws require organizations to
+use RM concepts to create information security programs.
+This chapter also reviewed different types of contingency plans. An
+organization uses contingency plans to limit financial loss because of an
+adverse event. Contingency plans help minimize the length of time that an
+organization’s services and critical processes are interrupted after an
+emergency.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.KEY CONCEPTS AND TERMS
+Annual rate of occurrence (ARO)
+Annualized loss expectancy (ALE)
+Business continuity (BC) plans
+Business impact analysis (BIA)
+Checklist test
+Cold site
+Conflicts of interest
+Disaster
+Disaster recovery (DR) plans
+Exposure factor
+Full interruption test
+Hot site
+Incident
+Incident response (IR)
+Maximum tolerable downtime (MTD)
+Mirrored site
+Parallel test
+Public relations (PR)
+Qualitative risk analysis
+Quantitative risk analysis
+Realized risk
+Residual risk
+Risk assessment (RA)
+Risk management (RM)
+Simulation test
+Single loss expectancy (SLE)
+Walk-through test
+Warm site
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.CHAPTER 14 ASSESSMENT
+1. A parallel test uses current processing data to test IT system operation.
+A. True
+B. False
+2. Which item is not part of the risk management process?
+A.
+B.
+C.
+D.
+E.
+Risk analysis
+Risk response
+Continuous monitoring
+Training employees
+All of these are parts of the risk management process.
+3. What does a risk assessment do?
+4. Which type of contingency plan test is the least expensive?
+A.
+B.
+C.
+D.
+E.
+Full interruption test
+Parallel test
+Simulation test
+Checklist test
+None of these is correct.
+5. Which type of risk analysis uses real numbers to calculate risk?
+A.
+B.
+C.
+D.
+E.
+Quantitative
+Qualitative
+Quasi-quantitative
+Quasi-qualitative
+None of these is correct.
+6. The ________ is the percentage of asset loss that is likely to be caused by an
+identified threat.
+7. How is annualized loss expectancy calculated?
+8. What is the main benefit of a qualitative risk assessment?
+A. Measures the money cost of a risk
+B. Scope of the assessment can be easily changed
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.C. Easy to administer
+D. All of these are correct.
+E. None of these is correct.
+9. Which of the following is a qualitative risk assessment methodology?
+A.
+B.
+C.
+D.
+E.
+OCTAVE
+ARO
+MTD
+BIA
+None of these is correct.
+10. Which risk response eliminates all risk of harm posted by a threat or
+vulnerability?
+A.
+B.
+C.
+D.
+E.
+Risk transfer
+Risk mitigation
+Risk acceptance
+Risk avoidance
+None of these is correct.
+11. Which type of contingency plan reacts to attacks against an organization’s IT
+infrastructure?
+A.
+B.
+C.
+D.
+E.
+BC plan
+DR plan
+IR plan
+BC and DR plans
+None of these is correct.
+12. A(n) ________ is an event that adversely affects the confidentiality, integrity,
+and/or availability of an organization’s data and IT systems.
+13. A(n) ________ is a sudden, unplanned event that negatively affects the
+organization’s critical business functions for an unknown period.
+14. Which backup site is a fully operational backup site?
+A.
+B.
+C.
+D.
+E.
+Mirrored site
+Hot site
+Warm site
+Cold site
+None of these is correct.
+15. A business impact analysis identifies key business operations and resources.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.A. True
+B. False
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.ENDNOTES
+1. Verizon, “2019 Data Breach Investigation Report,” 2019. Available at
+https://enterprise.verizon.com/resources/reports/dbir/ (accessed February 23,
+2020).
+2. National Institute of Standards and Technology, “Special Publication 800-39:
+Managing Information Security Risk: Organization, Mission, and Information
+System View,” March 2011. Available at
+http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf
+(accessed February 23, 2020).
+3. National Oceanic and Atmospheric Administration (NOAA), “Tornado Alley,”
+undated. Available at https://www.ncdc.noaa.gov/climate-information/extreme-
+events/us-tornado-climatology/tornado-alley (accessed February 23, 2020).
+4. U.S. Department of Justice, “Former Student Sentenced for Causing Damage to
+University of Iowa Computer Network,” August 23, 2018. Available at
+https://www.justice.gov/usao-sdia/pr/former-student-sentenced-causing-
+damage-university-iowa-computer-network (accessed February 23, 2020).
+5. National Institute of Standards and Technology, “Special Publication 800-61
+(Rev. 2): Computer Security Incident Handling Guide,” August 2012. Available at
+https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final (accessed February
+23, 2020).
+6. Code of Federal Regulations, Title 45, sec. 164.408 (2013).
+7. Holt, Thomas J., Adam M. Bossler, and Kathryn C. Seigfried-Spellar,
+Cybercrime and Digital Forensics: An Introduction. New York, NY: Routledge,
+2017.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-28 22:15:00.
