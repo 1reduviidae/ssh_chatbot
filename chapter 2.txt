@@ -1,0 +1,1558 @@
+CHAPTER
+2
+Privacy Overview
+RIVACY IS AN area of growing importance for people and organizations. This
+growth roughly corresponds with the growth of the internet, which has made it
+possible for people to share all types of information very quickly. Organizations
+collect and use information to conduct business, governments collect and use
+information to provide services and security for their citizens, and individuals share
+information to get goods and services. People also share information to network
+while looking for jobs and to catch up with old friends. However, this increased
+collection of information comes with questions about proper information use.
+P
+This chapter provides an overview of privacy issues. Because privacy is a very
+large field, it is impossible to discuss all of the unique and interesting issues in the
+field of privacy. For the most part, this chapter is limited to the areas where
+information technology and privacy meet. This chapter also will address general
+privacy concepts.
+Chapter 2 Topics
+This chapter covers the following topics and concepts:
+Why privacy is an issue
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.What privacy is
+How privacy is different from information security
+What the sources of privacy law are
+What threats to privacy there are in the Information Age
+What workplace privacy is
+What general principles for privacy protection exist in information
+systems
+Chapter 2 Goals
+When you complete this chapter, you will be able to:
+Describe basic privacy principles
+Explain the difference between information security and privacy
+Describe threats to privacy
+Explain the important issues regarding workplace privacy
+Describe the general principles for privacy protection in information
+systems
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Why Is Privacy an Issue?
+Advances in technology are forcing people to think about how their personal data is
+used and shared. To give some examples:
+A chef enters her email address on a website to buy a new blender. She then
+begins to receive junk email from many different appliance companies.
+A school district fires an elementary school teacher after parents complain to the
+school principal about unprofessional pictures on the teacher’s personal web
+page.
+A professor gives students a homework assignment. The students must use the
+internet to collect as much publicly available data as possible about a particular
+government official.
+An organization tracks how many users visit its website each day. It records the
+number of times users click on links on the homepage and tracks each user’s
+computer Internet Protocol (IP) address. It also tracks the web page that each
+user was on immediately before visiting the organization’s web page.
+A person buys an MP3 player at a thrift shop. The person later discovers that the
+MP3 player contains files on U.S. military personnel, including their Social Security
+numbers (SSNs).
+Advances in technology change how people live. For example, the discovery of
+electricity led to huge societal advances. Today, electrical service is a utility that
+many take for granted. The creation of the telephone allowed people to
+communicate over greater distances. Today, it seems unusual to find an adult who
+does not carry a smartphone that provides both voice and data services.
+The rise in internet use also has the potential to change how people live.
+According to U.S. Census Bureau data, it is estimated that over 88 percent of U.S.
+households had internet access in 2018. 1 You can expect that number to continue to
+grow.
+People use the internet for almost everything: learning, entertainment, and work.
+You can search the internet for almost any type of data. (In fact, almost every
+endnote in this book contains a reference to a website.) The internet is also used as
+a forum for sharing all types of information nearly instantaneously. The internet
+allows media companies to report on world events immediately. Anyone can publish
+anything to the world with just the click of a mouse.
+However, the rise of the internet has led to some privacy concerns:
+Increased access to information
+Increased amount of information
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Electronic tracking and monitoring
+This increased access to information has some complications. For example, anyone
+in the world can view information published on the internet. Therefore, even enemies
+of the government can view government information posted online. People can copy
+and use articles posted to the internet without the author’s permission. Blogs and
+pictures that appear on personal web pages for family and friends to view are
+sometimes available to anyone, anywhere.
+The amount of information on the internet is also a concern. Larger and more
+complex information systems allow businesses and governments to collect more and
+more individual data, which has led to the concept of Big Data. Big Data refers to
+large and complex data collections. Sophisticated applications review and analyze
+data collected from many sources. The owners of these systems can accumulate
+large amounts of data about people, which they can use for their own purposes. For
+example, they can create highly detailed individual profiles by combining their data
+with that of other systems. They also can sell the data they collect to third parties.
+Privacy issues are challenged by Big Data collections because the collections
+contain vast amounts of information from many different sources.
+NOTE
+A search engine is a program that retrieves files and data from a computer network. You use a search
+engine to search the internet for information. Google, the most used internet search engine, has become
+so popular that “to google”—meaning to search the internet for information—was added to the Oxford
+English Dictionary in June 2006. 2
+People leave electronic footprints in many places on the internet. Internet service
+providers (ISPs) maintain logs that track performance information. Websites track
+the actions of visitors to the site, and organizations may track and record the internet
+and email activities of employees. Service providers of all types back up their logs
+and data for disaster recovery purposes. These backups contain personal
+information. Many people do not know that their activities are recorded, stored, and
+monitored in so many different ways.
+Electronic tracking and monitoring also create privacy concerns. Many people
+believe that they are anonymous on the internet and that when they surf the internet
+or post information their actions are private. They are not.
+NOTE
+A blog is a personal, online journal. The word “blog” comes from the words web and log. A blog author
+uses this online journal to publish comments and personal observations.
+Most people want certain types of data kept secret. They believe that if they must
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.share their data, they should at least be able to control how the data is subsequently
+used. These beliefs form part of the basis of the concept of privacy.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.What Is Privacy?
+Privacy is a simple term that describes many different but related concepts. Writers
+spend a lot of time trying to define different types of privacy concepts, which is hard
+because privacy issues often overlap. There are two very general ways of thinking
+about privacy concepts:
+Freedom from government observation and intrusion
+Freedom to control one’s own personal information
+The rise of technology and the internet further complicates these simple definitions
+and our understanding of privacy issues.
+At its core in the technology realm, privacy means that a person has control of his
+or her personal data. Control means that a person can specify whether he or she
+wants to share information and the purposes for which he or she wants to share that
+information. And, if the person decides to share information, control means that he or
+she should also have a say in how that data is collected, used, and shared. Control
+means that a person has a choice about when he or she is tracked and monitored.
+Privacy rights are individual rights that exist independent of any type of
+technology. Privacy is a large area of study. In particular, this chapter discusses
+personal data privacy concerns created or heightened because of an increase in
+electronic information gathering, storage, monitoring, and transmission.
+FYI
+A core privacy right for most Americans is the concept that the government’s power to interfere in the
+privacy of its citizens is limited. This means that people and their information must be free from
+unreasonable government intrusion. The government must not investigate a person or his or her personal
+information without a good reason. Courts spend a lot of time defining when governments are allowed to
+investigate their citizens.
+Types of Personal Information
+The types of information that a person considers private are usually very personal.
+However, what is very private information for one person may not be as private for
+others. Information that most people generally consider private includes the
+following:
+SSN or other identification numbers—This includes an individual’s driver’s
+license and passport numbers.
+Financial information—This includes bank and credit card account numbers.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.This also includes investment and retirement account information. Most people
+also consider the amount of money in these accounts private information.
+Health information—This includes diagnoses and prescription drug information.
+Most people consider information regarding mental illness to be highly sensitive
+and private.
+Biometric data—This type of data includes fingerprints, DNA analysis, and iris
+scanning. It also includes data about a person’s physical or behavioral traits.
+Security professionals and security equipment use biometric data to identify a
+particular person. Biometric data is special because it is unique to an individual
+and cannot easily be changed.
+Criminal history data—This includes criminal charges, the outcome of a criminal
+case, and any punishment that a person may have received.
+Public Records and Privacy
+Some types of information that people may consider private is actually publicly available information.
+Public records are records that the law states must be available to the public. Government entities create
+or file these types of records, most of which are available to the public free or for a small fee. Today most
+government agencies make these records available to the public via the internet, which makes it easier for
+the government to meet its legal requirements to make them available to the public. It also makes it easier
+for almost anyone to access the records. However, people often have little control over the content of
+public records and how others use the data.
+Laws determine whether a record is public or not. The law designates some records as public because
+there is a compelling interest in making them public, such as notifying people about government actions.
+Items that are often public records include the minutes of meetings of government agencies, real estate
+filings, and court records, including most types of criminal records. Sex offender registration lists are also
+public records in most communities, as are professional license records.
+Another type of public record is the court docket. A docket is the official schedule of a court and the
+events in the cases that are pending before a court. Many federal, state, and local court systems publish
+dockets online. Electronic dockets may even include the actual documents filed in a court case, which are
+called pleadings. Pleadings can contain data about civil lawsuits and criminal actions, as well as personal
+information.
+Family data—This includes information about family members and relationships.
+Other—This includes any other information that a person wants to keep secret.
+Often this type of information may embarrass a person if released to the public.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.How Is Privacy Different from Information
+Security?
+Information security and privacy are closely related. However, they are not the same.
+Privacy is defined here as an individual’s right to control the use and disclosure of
+his or her own personal information. This means individuals have the opportunity to
+assess a situation and determine how their data is used. Information security, in
+contrast, is the process used to keep data private.
+NOTE
+The U.S. Freedom of Information Act (FOIA) governs access to public records of the U.S. federal
+government. Most states have similar laws for the public records of state government and agencies. These
+types of laws often are called “sunshine” laws because they shine light onto the inner workings of
+government agencies.
+Just because information is secure does not mean it is private. Likewise, just
+because information was collected in a privacy-protective way does not mean it is
+secure. Privacy with respect to information systems means that people have control
+over and can make choices about how their information is collected, used, stored,
+and shared. Information security concepts and controls are used to carry out those
+choices. Privacy cannot exist in information systems without security.
+We are still learning about how privacy and information security concepts work
+together as our technology and regulatory environment becomes more complex.
+Today information security and privacy practitioners need to have a fundamental
+understanding of both topics to be effective.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.What Are the Sources of Privacy Law?
+Most people consider the right to privacy to be a fundamental human right. Several
+different sources define the scope of this right to privacy. In the United States these
+sources include:
+Constitutional law
+Federal law
+State law
+Common law
+Voluntary agreements
+Constitutional Law
+The U.S. Constitution, the source of legal authority for the U.S. government, states
+the relationship between the federal government and the states. It also provides
+some authority for certain individual rights retained by all U.S. citizens. For example,
+constitutional rights are basic individual rights recognized in the U.S. Constitution.
+Most people consider privacy to be a basic constitutional right. Yet, the U.S.
+Constitution does not use the word privacy anywhere. However, you can piece
+together the constitutional right to privacy from several different provisions. U.S.
+Supreme Court cases have interpreted the scope of this right. When we talk about a
+constitutional right to privacy, we are most often referring to the right to be free from
+government observation and intrusion.
+The following amendments to the U.S. Constitution contribute to the right to
+privacy:
+First Amendment, which reads, “Congress shall make no law respecting an
+establishment of religion, or prohibiting the free exercise thereof; or abridging the
+freedom of speech, or of the press; or the right of the people peaceably to
+assemble, and to petition the government for a redress of grievances.” U.S.
+Constitution, amend. 1.
+This amendment sets forth the right to freedom of religion, speech, the press,
+and assembly. Within these rights is the implicit right of freedom of thought, which
+has a privacy component.
+Third Amendment, which reads, “No soldier shall, in time of peace be quartered in
+any house, without the consent of the owner, nor in time of war, but in a manner to
+be prescribed by law.” U.S. Constitution, amend. 3.
+This amendment means that the government cannot force people to house
+government soldiers in their homes. This gives people a limited right to privacy in
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.their homes.
+Fourth Amendment, which reads, “The right of the people to be secure in their
+persons, houses, papers, and effects, against unreasonable searches and
+seizures, shall not be violated, and no warrants shall issue, but upon probable
+cause. . . .” U.S. Constitution, amend. 4.
+This amendment truly forms the basis for many of the privacy rights that
+Americans enjoy today. This amendment protects against unreasonable
+government searches and seizures.
+NOTE
+The Constitutional Convention adopted the U.S. Constitution in 1787, which applies to all the states in
+the country. It is both the oldest written constitution still in use by any nation today as well as the
+shortest constitution.
+Fifth Amendment, which reads, “No person shall be . . . compelled in any criminal
+case to be a witness against himself. . . .” U.S. Constitution, amend. 5.
+This amendment provides several protections. Many people know it for its
+“right to remain silent.” One interpretation is that it protects the privacy of one’s
+thoughts.
+Each of these amendments sets forth general elements that are part of an overall
+right to privacy. The U.S. Supreme Court first acknowledged that a person has an
+interest in being “let alone” in 1834 in a case called Wheaten v. Peters (1834). In
+1890, Samuel Warren and Louis Brandeis more fully explained this right to privacy in
+their article “The Right to Privacy.” This article referred to a right they called “the right
+to be let alone.” Legal cases today still refer to the phrase “the right to be let alone,”
+which now includes the idea that people have the right to be free from intrusions by
+the government.
+The first U.S. Supreme Court decision to state a constitutional right to privacy
+was Griswold v. Connecticut (1965). In this case, the Supreme Court found that the
+right to privacy was a fundamental right that was present in the Constitution.
+Subsequent Supreme Court cases have further defined the scope of this right.
+In Katz v. United States (1967), the U.S. Supreme Court held that the Fourth
+Amendment of the U.S. Constitution protects a person’s right to privacy. The holding
+meant that the right of privacy belongs to the individual and not just locations (such
+as a person’s home). In this case, Charles Katz was convicted of illegal gambling.
+He had used a public payphone to place his bets, and the government listened to his
+telephone conversations through a listening device attached to the phone booth,
+even though the government did not have a warrant to listen to the conversations.
+The conversations were later used as evidence to convict Katz. The U.S. Supreme
+Court held that Katz’s right to privacy was not diminished just because he used a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.public payphone booth. Justice Harlan, in his concurring opinion in this case, used
+the famous term “a reasonable expectation of privacy.”
+NOTE
+The first 10 amendments to the constitution, called the Bill of Rights, outline specific limits on government
+power. You can learn more about the U.S. Constitution and view a high-resolution copy at
+https://www.archives.gov/founding-docs/constitution.
+FYI
+In U.S. Supreme Court cases, the Court writes a “majority opinion” that explains the decision of the court.
+It also explains how the justices arrived at their decision. A “concurring opinion” is one that agrees with the
+court’s majority decision. The justice or justices writing the concurring opinion may have a different
+explanation for how they reached the same decision that the majority decided. A “dissenting opinion”
+disagrees with the majority opinion. The justice or justices writing the dissenting opinion explain why they
+disagree with the majority.
+“A reasonable expectation of privacy” is a belief regarding private places that
+society recognizes as valid. Courts use the idea of a reasonable expectation of
+privacy to determine whether an ordinary person would believe he or she was in a
+private place. If a person believes that he or she is in a private place, then there are
+limits on the government’s ability to observe or interfere with the person while he or
+she is in that space. For instance, people have a reasonable expectation of privacy
+in their homes. This is why government agencies usually must have a search
+warrant before searching a person’s home. However, people do not have a
+reasonable expectation of privacy when they are out on a public street.
+In Whalen v. Roe (1977), the U.S. Supreme Court specifically recognized a right
+of “informational privacy.” This right focuses on the ability to control information. This
+case reviewed a New York law that created a state database of the names and
+addresses of patients who were prescribed narcotic drugs, based on mandatory
+information provided by doctors. The New York law was challenged on the basis that
+it unconstitutionally infringed on a right to privacy.
+The Supreme Court upheld the validity of the New York law, noting that the law
+included procedures that properly protected the privacy of information included in the
+database. However, the Court did not reject the possibility that some types of
+government data collection would be improper. The Court wrote, “We are not
+unaware of the threat to privacy implicit in the accumulation of vast amounts of
+personal information in computerized data banks or other massive government files.”
+As early as 1977 the Court recognized the future privacy concerns inherent in Big
+Data collections.
+Other Supreme Court cases have continued to define the scope of the
+constitutional right to privacy. United States v. White (1971) found that there is no
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.right of privacy in information voluntarily shared with another person. In Smith v.
+Maryland (1979), the Court found that there is no right to privacy in electronic
+communications’ routing information. In NASA v. Nelson (2011), the Court found that
+performing background checks on contract NASA employees does not violate any
+constitutional right to information privacy. And in Carpenter v. United States (2018),
+the Court ruled that the government must get a warrant before accessing a person’s
+cell phone location data.
+NOTE
+Case law refers to the decisions courts make in the cases they decide. Most high-level courts, such as the
+U.S. Supreme Court and the highest-level state courts, publish their opinions on cases. These opinions
+contribute to the body of case law, which is a part of common law.
+Federal Law
+Federal laws are the laws that a country’s federal government creates. No
+comprehensive data privacy law exists in the United States. Similar to the laws that
+regulate information security, U.S. federal laws that address information privacy are
+also industry-based. These laws put limits on the use of personal information based
+on the nature of the underlying data. Congress has enacted laws to protect various
+types of data, some of which are described in this section.
+NOTE
+The U.S. Code, the official record of U.S. laws, outlines the laws of the United States and is published
+every 6 years. The U.S. Code is available online at https://www.govinfo.gov/app/collection/uscode.
+Freedom of Information Act (1966) 3
+This Act establishes the public’s right to request information from federal agencies,
+including paper documents and electronic records. The law applies to federal
+executive branch agencies and offices, which must comply with the law and provide
+requested information. There are nine FOIA exemptions; data in these categories do
+not have to be provided to the requester. Agencies are required to provide
+information to the public about how to make a FOIA request. Anyone can file a FOIA
+request. For more information on FOIA, see http://www.foia.gov.
+Privacy Act (1974) 4
+This Act applies to records created and used by federal agencies. It states the rules
+for the collection, use, and transfer of personally identifiable information (PII) and
+requires federal agencies to tell people why they are collecting personal information.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Federal agencies also must provide an annual public notice, which must describe
+their record-keeping systems and the data in them. The Act also requires federal
+agencies to have appropriate administrative, technical, and physical safeguards to
+protect the security of the systems and records they maintain.
+E-Government Act (2002) 5
+This Act requires the federal government to use information technologies that protect
+privacy. The Act requires federal agencies to conduct Privacy Impact Assessments
+(PIAs), which are done when an agency develops information technology systems to
+collect and process individually identifiable information. A PIA makes sure that
+systems are evaluated for privacy risks. The law also requires privacy protection
+measures to secure the data in the systems. Federal agencies also must post their
+privacy policies to their websites.
+Electronic Communications Privacy Act (1986) 6
+This Act sets out the provisions for access, use, disclosure, and interception of
+electronic communications, including telephone, cell phones, computers, email,
+faxes, and texting. The government cannot access these types of communications
+without a search warrant. This Act is an amendment to the original Wiretap Act and
+expands that act’s privacy protections. The Act includes three parts:
+The Wiretap Act
+The Stored Communications Act
+The Pen Register Act
+The Act was extensively updated by the 2001 Uniting and Strengthening America by
+Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act (USA
+PATRIOT Act).
+The Wiretap Act (1968, amended) 7
+These statutes forbid the use of eavesdropping technologies without a court order.
+The law protects all email, radio communications, data transmission, and telephone
+calls. Amendments to the original Wiretap Act include protection for electronic
+communications.
+Census Confidentiality (1952) 8
+This law requires the U.S. Census Bureau to keep census responses confidential.
+The statute also forbids the Bureau from disclosing any data allowing a person to be
+individually identified. The law states that census responses can be used only for
+statistical purposes that do not show individual or household personal data. A
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.“census” is a count of the population of a country.
+In the United States, people are required by law to respond to the census. People
+were allowed to respond to the 2020 U.S. census online, marking the first time that
+an online response option was offered for a decennial census. The 2020 U.S.
+Census is also unique because many of the deadlines for responding to the census
+were extended because of the COVID-19 nationwide public health emergency.
+NOTE
+The mailbox restriction rule, adopted in 1934, 10 allows only the U.S. Postal Service to put postal mail in a
+person’s physical mailbox at his or her home. This rule is the reason why other commercial delivery
+services cannot deliver parcels to mailboxes.
+Mail Privacy Statute (1971) 9
+This law protects U.S. postal mail from being opened by another without the
+recipient’s consent. Domestic mail can be opened without consent only if there is a
+valid search warrant for that mail. This law only applies to postal mail.
+Cable Communications Policy Act (1984) 11
+This Act is not specifically about privacy, but it does contain privacy provisions. It
+states that cable companies must provide a yearly written privacy notice to each
+customer that informs the customers about the cable company’s data collection and
+disclosure practices. Cable providers also must ask their customers for permission
+before using the cable system to collect personal information. In addition, the Act
+requires cable providers to get customer consent before they disclose customer
+data. However, consent is not required if the disclosure is required by a court order.
+Driver’s Privacy Protection Act (1994) 12
+This Act requires states to protect the privacy of personal information contained in
+motor vehicle records. Protected information includes any personal data in the
+record, such as the driver’s name, address, phone number, SSN, driver’s license
+identification number, photograph, height, weight, sex, and date of birth.
+The U.S. Congress passed the Driver’s Privacy Protection Act, introduced by
+Senator Barbara Boxer of California, in 1994. One of Senator Boxer’s reasons for
+introducing the Act was the 1989 murder of a California actor. A stalker obtained the
+actor’s address from the California Department of Motor Vehicles, then later went to
+the actor’s home and killed her.
+State Laws
+State constitutions are the documents that form the individual state governments and
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.are the highest form of law for state governments. They apply to the people who live
+in a particular state.
+Eleven state constitutions recognize a right to privacy: Alaska, Arizona,
+California, Florida, Hawaii, Illinois, Louisiana, Montana, New Hampshire, South
+Carolina, and Washington. 13 These state constitutions provide clear privacy
+guarantees. The Montana state constitution reads, “The right of individual privacy is
+essential to the well-being of a free society and shall not be infringed without the
+showing of a compelling state interest.” 14
+The California state constitution notes, “All people are by nature free and
+independent and have inalienable rights. Among these are enjoying and defending
+life and liberty, acquiring, possessing, and protecting property, and pursuing and
+obtaining safety, happiness, and privacy.” 15 In general, California has been a leader
+among states in enacting laws that recognize and protect the privacy rights of its
+citizens.
+The State of New York was the first state to add a right of privacy into its statutes
+after Warren and Brandeis published their article “The Right to Privacy.” 16 Many
+states have since written a right of privacy into their laws.
+Other states have recognized a right of privacy through their case law. In 1905,
+for example, the Georgia Supreme Court recognized a right to privacy, 17 making it
+the first state to recognize, through case law, a right to privacy implicit in its own
+Constitution.
+State governments also create laws to protect data. For example, all 50 states,
+the District of Columbia, Guam, Puerto Rico, and the Virgin Islands have enacted
+breach notification laws. 18 These laws require an organization to notify state
+residents if it experiences a security breach that involves the personal information of
+the residents.
+States also have industry-specific laws that protect certain types of data, such as
+financial, health, and motor vehicle information. For example, as of this writing, 26
+states have enacted laws to prevent employers from asking employees for their
+social media passwords. 19
+Common Law
+The U.S. Supreme Court did not specifically recognize a constitutional right to
+privacy until 1965. However, U.S. common law recognized certain privacy torts as
+early as 1902. A tort is some sort of wrongful act or harm that hurts a person. Tort
+law governs disputes between individuals. In a tort case, the injured party may sue
+the wrongdoer for damages.
+Common law is a body of law developed through legal tradition and court cases.
+For the most part, the U.S. common law is a body of law and legal principles
+inherited from England. Common law changes very slowly. It develops as judges
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.decide court cases.
+Four privacy torts still exist today, and most states give either common law or
+statutory recognition to these torts. Statutory recognition means that the state has
+included the tort in the written laws of the state. The four privacy torts are:
+Intrusion into seclusion
+Portrayal in a false light
+Appropriation of likeness or identity
+Public disclosure of private facts
+Intrusion Into Seclusion
+The intrusion into seclusion privacy tort is the act of invading a person’s private
+space. The intrusion into private space takes several forms: It can be a physical
+intrusion, but it can also be an intrusion through electronic means, such as using an
+eavesdropping device. The intrusion must be highly offensive to a reasonable
+person. In this tort, the legal wrong occurs as soon as the private space is invaded.
+Understanding what constitutes a private space is important for this tort.
+NOTE
+The California Office of Privacy Protection, created in 2000, protects the privacy rights of state residents.
+California was the first state to create this type of agency, which has an extensive website that includes
+privacy tips and consumer information. In 2013 the office disbanded and its privacy-protective functions
+moved to the California Department of Justice.
+In 2009, the Supreme Court of Ohio found that people have a reasonable
+expectation of privacy in their cell phones. 20 This is because cell phones can hold
+large amounts of personal data. Other courts have held that people have a
+reasonable expectation of privacy in the data stored on their personal computers.
+This is especially true if they take steps to protect the data, including encrypting the
+data or using a password to protect the computer.
+NOTE
+A search warrant is a court order. A judge issues a search warrant after the government proves that it has
+probable cause to believe that criminal activity is taking place. Probable cause is a burden of proof.
+Portrayal in a False Light
+The portrayal in a false light privacy tort involves publishing highly offensive private
+information about an individual to create a bad impression. The information
+published is true, but it is published in an offensive way. This tort often is confused
+with defamation, which is another type of tort that involves maliciously saying false
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.things about another person.
+The portrayal in a false light privacy tort occurs when a person’s photograph or
+image is used to create a bad impression. For example, taking a picture for a
+magazine of a person standing outside of a bar might create the impression that the
+person is a customer, which might be offensive if the person holds a position of high
+respect in the community. In this case, the person photographed could sue for
+invasion of privacy based on portrayal in a false light.
+In 1993, the Alabama Supreme Court reviewed a false light case. 21 In that case,
+a greyhound racetrack took a picture of a group of men sitting together, which was
+later used in advertising materials. The men sued for false light. The Alabama court
+held that the men did not state a claim for false light because they were in a public
+place. The court said there was nothing offensive about sitting at the track. It also
+said that the men consented to the taking of the photograph because they did not
+move or object when the photographer appeared and began taking pictures. These
+types of torts are very dependent on the facts and circumstances of each case.
+Appropriation of Likeness or Identity
+The appropriation of likeness or identity privacy tort, the oldest privacy tort, involves
+appropriating, or taking, an individual’s name or likeness without that person’s
+consent for financial gain. This tort often occurs with public figures if their likeness is
+used without their permission to sell a product or service. Court cases have held that
+likeness includes identifiable characteristics of a person, including his or her voice or
+mannerisms.
+In 1992, a Samsung advertisement featured a robot dressed in a blond wig and
+evening gown hosting a futuristic version of a popular game show. Vanna White, a
+game show host, sued Samsung for appropriating her identity for commercial gain. 22
+She successfully argued that being a game show host on a popular game show was
+her identity. She won the case.
+NOTE
+The reasonable person standard is a legal concept used to describe an ordinary person. This fictitious
+ordinary person represents how an average person would think and act. Courts use this standard to
+determine if the conduct that is complained about in a lawsuit is offensive to an ordinary person. Conduct
+is wrongful if a reasonable person finds it offensive.
+Public Disclosure of Private Facts
+The public disclosure of private facts privacy tort involves the publication of
+embarrassing private facts. The facts publicized must be so embarrassing that a
+reasonable person would be offended by their publication. The disclosures must be
+true. Also, they must be truly private. Facts published as part of the public record are
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.not private. Many courts have applied a “newsworthy” defense to this tort, which
+allows the media to report on newsworthy incidents without fearing a lawsuit for
+public disclosure of private facts.
+The Maryland Court of Appeals has held that the publication of a criminal “mug”
+shot is not a privacy violation based on the public disclosure of private facts privacy
+tort. 23 This is because the mug shot is originally published as part of the public
+record.
+NOTE
+All of the privacy torts can be waived by consent. A person may not bring a tort action against an alleged
+wrongdoer if he or she permits the privacy invasion. Those who give permission for use of their likeness,
+intrusion into their private space, or publication of facts about them cannot later claim that they were
+harmed.
+Voluntary Agreements
+Protecting personal data privacy grows harder as technology advances. People must
+understand their privacy choices in order to protect their data. Governments and
+organizations must understand the information that they need to provide.
+Organizations use fair information practice principles to help specify how they
+collect and use data. However, organizations are not legally required to follow these
+principles; instead, they use them to make sure they are properly informing people
+about their data collection practices.
+The U.S. Department of Health, Education, and Welfare developed the “Code of
+Fair Information Practice Principles” in 1973 because there was no federal law that
+protected personal data. These principles stated that there should be no secret
+record-keeping systems. The principles also required that individuals have a way to
+find out if information is collected about them, because individuals must have a way
+to correct inaccurate data. These practices eventually formed the basis for the 1974
+federal Privacy Act.
+In 1980, the Organization for Economic Cooperation and Development (OECD)
+adopted the “OECD Guidelines on the Protection of Privacy and Transborder Flows
+of Personal Data” to protect personal data. They are an extension of the 1973 U.S.
+fair information practices. The United States was actively involved in creating the
+OECD guidelines, which help guide privacy legislation for OECD members. These
+guidelines were revised in 2013. The OECD continues to provide recommendations
+on how to implement the guidelines in today’s complex technology environment.
+NOTE
+The OECD was established in 1961 to promote a market economy. There are 36 members. The United
+States has been a member since 1961.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.The OECD guidelines contain eight privacy principles:
+The Collection Limitation Principle—Individuals must know about and consent
+to the collection of their data. This is sometimes known as the data minimization
+principle.
+The Data Quality Principle—Any data collected must be correct.
+The Purpose Specification Principle—The purpose for data collection should be
+stated to individuals before their data is collected.
+The Use Limitation Principle—Data should be used only for the purposes stated
+when it was collected.
+The Security Safeguards Principle—The collected data must be protected from
+unauthorized access.
+The Openness Principle—People can contact the entity collecting their data to
+discover where their personal data is collected and stored. This is sometimes
+known as the data transparency principle.
+The Individual Participation Principle—People must know if data about them
+has been collected. People also must have access to their collected information.
+The Accountability Principle—The entity collecting data must be held
+accountable for following the privacy principles.
+Compliance with fair information practice principles is encouraged through voluntary
+membership in self-regulating organizations. Organizations often choose to regulate
+themselves to keep governments from making laws that would limit their behavior.
+Organizations can participate in a seal program to show their compliance with fair
+information practice principles.
+NOTE
+You can read the Better Business Bureau accreditation standards here: https://www.bbb.org/bbb-
+accreditation-standards. How do these voluntary standards help protect consumer privacy? What makes
+up the fair information practice principles evidenced in the BBBOnline standards?
+A seal program, run by a trusted third-party organization, verifies that an
+organization meets industry-recognized privacy practices. If the organization meets
+the required standards, then it is allowed to display a privacy seal on its website. The
+seal, an image that customers recognize, is used to signify a trustworthy
+organization. Common seal programs in the United States are WebTrust, TRUSTe,
+and the Better Business Bureau.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.What Are Threats to Personal Data Privacy in
+the Information Age?
+Privacy concerns existed before technology became an issue. It seems, however,
+that privacy concerns are more urgent now because of advances in technology. This
+is because people often have very little control over how their data is collected, used,
+and shared electronically. People are concerned about how much information is
+collected about them and how their data will be used later. The rise in electronic
+communications makes people wonder how private their lives truly are. This section
+discusses some of today’s privacy concerns.
+Technology-Based Privacy Concerns
+Technology-based privacy concerns are caused by advances in technology. These
+concerns arise because of the types of data that can be collected with various
+technologies.
+Spyware
+Spyware, a type of malware, is any unwanted software that secretly gathers
+information about a person or system and shares it with an unknown third party.
+Spyware poses a threat to personal data privacy because of the nature of the
+information and the secret manner in which it collects that data. Spyware can easily
+record very personal information such as account numbers, usernames, and
+passwords. These programs also can record internet search queries and other
+personal data.
+FYI
+Spyware, keystroke loggers, and adware raise privacy concerns because they are secretly downloaded
+onto a user’s computer. People have no control over the software or data it collects. Some users
+unknowingly agree to download this type of software onto their computers when the programs are part of a
+legitimate software application that a user wants to download. When users agree to End-User License
+Agreements (EULAs), they may also agree to install the spyware as well.
+Twenty states have laws that specifically address spyware. 24 Utah was the first
+state to enact an anti-spyware law, which was quickly challenged by an advertising
+company that argued the law unconstitutionally limited its right to advertise. A court
+granted an injunction, a formal order for someone to stop doing something, in the
+case. In this case, Utah was prohibited from enforcing its new anti-spyware law.
+Utah legislators then worked to revise the state anti-spyware law. Current Utah
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.law prohibits pop-up advertising that uses spyware to target the ads that users see
+on their computers. The law authorizes the Utah attorney general to prosecute
+violations. 25
+Adware is software that displays advertising to a user. It can display banner
+advertisements, redirect a person to other websites, or display pop-up
+advertisements on a person’s computer that open a new web browser window to
+display ads. Some types of adware are also spyware. This adware displays targeted
+advertisements based on secretly collected user information.
+NOTE
+A keylogger is a hardware device or program that records all keystrokes made on a keyboard or mouse.
+Cookies, Web Beacons, and Clickstreams
+A cookie is a small string of text that a website stores on a user’s computer. Cookies
+contain text—you cannot execute them the way you do a program file. Cookies are
+not considered spyware because they are not executable. A cookie by itself is not
+dangerous or a privacy threat. However, other individuals and companies can use
+cookies in ways that invade your privacy.
+There are two kinds of cookies:
+First-party cookies—Exchanged between a user’s browser and the website the
+user is visiting.
+Third-party cookies—Set by one website but readable by another site.
+Third-party cookies are set when the web page a user visits has content on it that
+is hosted by another server.
+Cookies are used for many things that most computer users consider beneficial. For
+example, they can be used by a website to remember information about visitors to
+the site. They also can save your settings if you “personalize” a web application that
+you regularly use.
+However, advertising companies that sell content and advertising to companies
+with a web presence often use third-party cookies. Advertisers can track their
+cookies over several websites and use the tracked information to create a profile of
+each user’s browsing habits. They then direct targeted advertisements to the users.
+This is a privacy concern.
+A web beacon is a small, invisible electronic file that is placed on a web page or
+in an email message that counts users who visit a web page. A web beacon, also
+called a web bug, can tell if a user opened an email message and took some action
+with it. It can also monitor user behavior. A clear GIF (Graphics Interchange Format)
+is a type of image format that is often used as a web beacon because clear GIFs are
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.invisible and very small.
+Web beacons recognize several different types of data. When you retrieve a web
+beacon, it recognizes your computer’s IP address, your browser, and the time you
+retrieved the beacon. Web beacons usually track users by a random identification
+number that contains no personally identifiable data.
+Spammers sometimes use web beacons to verify whether an email address is
+valid. If a recipient opens a spam message with a web beacon, information is
+returned to the spammer, which shows that the message was opened. An opened
+email message generally indicates a valid email address, which is valuable to a
+spammer. That way, they can send the email address even more junk mail.
+Web beacons cause privacy concerns because they secretly monitor user
+behavior as well as internet browsing patterns. Web beacons let website operators
+know which pages a user looks at. They also disclose the order in which the pages
+are viewed. Information tracked by web beacons and cookies, when combined, can
+potentially identify a computer user, which is a privacy concern.
+A clickstream is the data trail that an internet user leaves while browsing.
+Movements are recorded as a user moves through a website and clicks on links to
+request information. A clickstream is essentially a set of digital footprints that track
+an internet user’s steps.
+TIP
+Most modern internet browsers have privacy settings that allow you to choose whether to accept cookies
+from the websites you visit. You also can configure browsers to warn you before a cookie is accepted, and
+to block third-party cookies automatically. You should always use the most privacy-protective settings that
+your internet browser will allow, provided that you can still get your work done.
+Clickstream data, which can be recorded by websites and ISPs, helps
+webmasters learn how computer users are using their sites. For example,
+clickstream data can be used to determine the order in which users click on web
+pages or links on web pages. Clickstream data can be collected and stored. It can
+act as the basis for modifying websites for better user experience. Clickstream data
+also can make online advertising more effective.
+Many of the technologies described so far are used to create an online profile for
+a user. Online profiling is the practice of tracking a user’s actions on the internet to
+create a profile that contains information about the user’s online habits and
+preferences. It can be used to direct targeted advertising toward a specific user.
+Targeted advertising is advertising that is designed to appeal to a consumer’s
+specific interests.
+TIP
+You can try to avoid web beacons in email messages by not downloading messages that contain images.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.That is why many email programs prevent pictures from downloading automatically. The email program
+lets you decide whether to download images.
+A profile can contain very detailed information about the user’s online habits. One
+concern with online profiles is that they might contain PII. Many people believe their
+online actions should be private. Data for online profiles is often gathered without the
+user’s knowledge or consent, which is a privacy concern.
+Wireless Technologies
+We use several different wireless communication systems every day. In fact, many
+adults carry smartphones that incorporate two or more wireless technologies. The
+term wireless is used generally to refer to several different technologies that allow
+devices to connect to one another without wires. These technologies include:
+Radio Frequency Identification
+Bluetooth
+Near Field Communications
+Radio Frequency Identification (RFID) is a technology that uses radio waves to
+transmit data to a receiver. It is a way to identify unique items using radio waves.
+The main purpose of RFID technology is to allow “tagged” items to be identified and
+tracked. Sometimes you will hear devices that use this technology called a RFID tag
+or chip.
+You can incorporate RFID tags for many different uses:
+To track pets—A veterinarian inserts a small tag under the skin of a household
+pet. You can then identify and track the pet if it becomes lost.
+To track inventory—The anti-theft tags attached to clothing in department stores
+are RFID tags that can be used to catch and deter shoplifters. A librarian can
+place RFID tags in books to ensure that they do not leave the library without
+proper checkout.
+To track people or their trips—Some proximity card readers use RFID tags to
+“unlock” doors to allow the person carrying the card to enter secure areas. E-
+ZPasses used by many states to collect tolls on roads and bridges use this
+technology.
+Most RFID tags do not contain a battery. Instead, the tags are activated when a
+receiver is within range and sending out radio waves. The receiver initiates
+communication with the tag, which responds with self-identifying data. It is possible
+for unauthorized persons to read the information that the tag sends if transmission
+between the receiver and tag is not secured or protected.
+Individuals have very little control over the information contained on an RFID tag.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.RFID technology poses privacy concerns in that it can track a person’s movements
+and daily habits. You do not need an RFID tag inserted under your skin to be tracked
+by RFID technology. Cell phones, purses and briefcases, and driver’s licenses or
+credit cards can be equipped with RFID tags as well. This tracking can be
+completely secret if you do not know that the items you are carrying contain an RFID
+tag.
+NOTE
+The U.S. federal government has been issuing the U.S. Electronic Passport, also known as E-Passport,
+since 2007. This passport is the same as a regular U.S. passport, but it has an RFID tag placed in the
+back cover that stores the passport holder’s personal information and a digital photograph. It also contains
+a digital signature to protect the chip from being altered. The government has taken several steps to help
+protect the personal information on the E-passport. You can read about those steps at
+https://www.dhs.gov/e-passports.
+Information exposure is also a concern. Information contained on an RFID tag
+can be exposed to unauthorized individuals if the communication channel between
+the tag and receiver is not secure. Individuals usually have no control over these
+channels and are unable to take steps to secure them.
+Bluetooth, a short-range wireless communication, was designed to replace data
+cables that connect devices to one another. Bluetooth connectivity can be found in
+many different devices such as laptop computers, cell phones, speakers, fitness
+trackers, and headphones. As long as devices are Bluetooth compatible, they can
+“pair” or connect to one another. They do not need Wi-Fi or cellular data networks to
+connect. However, Bluetooth devices must be near one another to connect. Once
+devices are connected, they can share data quickly with one another.
+Similar to RFID, information tracking and exposure is a concern with Bluetooth
+use. In addition, Bluetooth connections are often visible to other Bluetooth users in
+the vicinity. This can make Bluetooth devices easily identifiable targets for hackers.
+Near Field Communication (NFC) is a short-range wireless technology that
+works only when two electronic devices are about 5 centimeters apart. Similar to
+Bluetooth, NFC does not need to use Wi-Fi or a cellular network. Because devices
+have to be very close together for NFC to work, concerns about information
+exposure are somewhat mitigated. NFC is used for tasks such as making mobile
+payments from a mobile device.
+GPS Technology
+A global positioning system (GPS) uses satellites above the Earth to compute the
+location of a GPS receiver. GPS receivers can be incorporated into many devices
+and use several different satellites to calculate time and location. For example, they
+are used in automobile navigation units. Runners use GPS receivers built into heart
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.rate monitors to help measure the distances that they have run. GPS units are built
+into many cell phones to help locate cell phone users in an emergency. Cell phone
+applications also use GPS technology to track other users and family members.
+GPS technology raises many of the same issues as RFID technology. GPS
+technology precisely tracks a receiver’s every step. Thus, a person with GPS
+technology enabled on a cell phone can be tracked every minute of every day. GPS
+units also are placed in cars. Individuals may not know that their cars or cell phones
+have GPS units that track their every move. People have very little control over the
+location information that a GPS unit can track and provide.
+NOTE
+The Federal Communications Commission (FCC) Enhanced 911 (E911) initiative requires cell phone
+carriers to be able to pinpoint their customers’ locations within 100 meters. This allows emergency
+responders to reach cell phone users more quickly in a crisis. GPS is one of the technologies used to help
+pinpoint customer location.
+In 2012, the U.S. Supreme Court held that installing a GPS unit on a car is
+considered a search under the Fourth Amendment to the U.S. Constitution. 26 In U.S.
+v. Jones (2012), the government initially got a search warrant to install the GPS
+device on the defendant’s car. However, government agents did not follow the terms
+of that search warrant when they installed the device. The Court held that, for the
+installation of the GPS unit to be valid, police officers must get a search warrant and
+execute it properly.
+Security Breaches
+The Privacy Rights Clearinghouse maintains a list of U.S. security breaches that
+involve records that contain personal information. The clearinghouse began
+collecting this data in January 2005. As of October 2019, the site reported that over
+10 billion records have been involved in security breaches. The list is available at
+https://privacyrights.org/data-breaches.
+A security breach is a compromise of any security system that results in the loss
+of PII. After a breach, unauthorized individuals potentially can access data in the
+system. Any organization can experience a security breach. Security breaches can
+be caused by direct external attacks, poor internal safeguards, or both. Breaches
+can occur within computer systems, as well as when physical security systems, such
+as a perimeter gate or fence, are compromised.
+NOTE
+Security breach fatigue is the idea that consumers receive too many data breach notifications and no
+longer take action to protect themselves when they receive a breach notification.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Security breaches are a large privacy concern. Organizations store vast amounts
+of personal information. One security breach has the potential to expose the
+personal information of a large number of people. This data can be used to commit
+identity theft and other types of fraud. Most people are upset when organizations
+entrusted with their personal information experience a security breach. Every U.S.
+state has a breach notification law that requires organizations to notify customers in
+the event of a breach. Customers can then monitor their financial accounts and
+personal data to protect them from misuse.
+People-Based Privacy Concerns
+People-based privacy concerns are caused by people’s actions. These concerns are
+raised when people compromise others’ privacy. They also are caused when people
+take actions that compromise their own data privacy. Many information security
+attacks can also result in privacy violations. They include:
+Phishing—Phishing is a form of internet fraud in which attackers attempt to steal
+valuable information, usually via email. Phishing scams are a privacy concern for
+both individuals and organizations. For the individual, a successful phishing attack
+can result in the loss of personal information. For organizations, if an employee
+responds to a scam with username and password information, the organization
+can experience a large data breach. That breach can involve customers’ personal
+information.
+Social engineering—Social engineering attacks rely on human interaction. They
+involve tricking people to gain sensitive information.
+Shoulder surfing—Shoulder surfing occurs when an attacker looks over the
+shoulder of another person to discover sensitive information.
+In each of these types of attacks, attackers are trying to get data they do not have
+permission to have, often in an attempt to get PII to exploit. Chapter 1 discusses
+these information security attacks further.
+Dumpster diving, another threat to data privacy, involves sifting through trash to
+discover personal information. It is an issue because individuals and organizations
+dispose of personal information in unsecure ways. Thieves then steal PII to commit
+identity theft. Shredding documents before placing them in the trash is a safe
+disposal method.
+In May 2009, a New York law firm was preparing to move. The firm hired a
+document destruction company to help it dispose of old client files, many of which
+contained PII on clients. The personal information included medical records, SSNs,
+and other personal data. Six dumpsters full of intact client files ended up on the
+street. Media outlets reported that several people were noticed rummaging through
+the bins and looking at documents.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Social Networking Sites
+Personal data privacy is not compromised just by the actions of third parties. People
+can harm their own privacy by participating in online social networks, which have the
+potential to expose a lot of personal information. Social networking sites are
+website applications that allow users to post information about themselves. These
+sites promote interaction between people.
+Some social networking sites are employment-based and promote professional
+networking. They allow users to post their work history and information and connect
+with other users in the same industry or across industries. Other social networking
+sites are purely social. They allow users to share snapshots of their lives with family
+and friends. Users often share large amounts of highly personal data on social
+networking sites. Some social networking sites are hobby-based and allow users
+with similar interests to share information. Common social networking sites include
+Facebook, Twitter, LinkedIn, Instagram, and Pinterest.
+Social networking has two main privacy concerns:
+Information (over) sharing
+Security
+Information (Over) Sharing. On social networking sites, users share lots of
+information about themselves in a virtually unlimited forum, such as details about
+their daily schedules, finances, and family members. Some social networking sites,
+particularly those that are hobby-based, allow for very detailed sharing about specific
+topics. For instance, genealogy platforms often contain a social networking function
+that can allow users to share ancestry and even genetic data. Oversharing can put
+people and their safety at risk. Thieves can use this information to stalk them, steal
+from a person’s home, or target them for identity theft.
+Most social networking sites allow users to control some privacy settings.
+However, users may not be knowledgeable about all of the settings. Sometimes the
+privacy settings on social networking sites are difficult to understand. If they are hard
+to understand, users may not use them. People often do not realize how much
+information is available on the internet through social media sites and that other
+users have access to that information.
+A fugitive from New York State was caught in Terre Haute, Indiana, in February
+2010. Police tracked him down because he posted his workplace on his social
+networking profiles. Police arrested him at his job, then posted this message on his
+Facebook account: “It was due to your diligence in keeping us informed that now you
+are under arrest.”
+Security. Another privacy concern about social networking sites is their security.
+Many sites allow users to add applications (called “apps”) and other third-party
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.software to their profiles. These applications enhance the social networking
+experience through providing games and ways to connect with other users of the
+same social network. If these applications do not use proper security practices,
+personal information can be exposed. A compromise in an application can disclose
+data stored on a user’s profile. Social networking users often have little control over
+information used or shared by these types of applications.
+NOTE
+Creeping means to track someone on social media through viewing all of a person’s social media sites to
+understand what is going on in his or her life. Some people consider creeping to be as intrusive as
+stalking, which is a crime. Others consider it to be less intrusive and similar to snooping.
+In 2018, the Cambridge Analytica scandal showed that the relationship between
+social media users, social media platforms, and applications on social media
+platforms can be particularly complex. In the scandal, data-analysis firm Cambridge
+Analytica was accused of improperly acquiring and using the data of 50 million
+Facebook users without the users’ consent. Cambridge Analytica got the Facebook
+user data in 2014 through an app called thisisyourdigitallife. The terms of service for
+the app said that personal information was not collected, but that was a lie. The
+collected data was then later used by Cambridge Analytica to provide voter profiling
+and targeted advertising services during the 2016 U.S. presidential election.
+Cambridge Analytica was able to access the data by taking advantage of the access
+permissions that Facebook granted to applications.
+Because of the scandal and its fallout, Cambridge Analytica went bankrupt. In
+addition, the U.S. Federal Trade Commission (FTC) investigated Facebook. In 2019
+the FTC imposed a $5 billion penalty on Facebook for violating consumer privacy. 27
+The FTC also filed a complaint against Cambridge Analytica. You can read more
+about the scandal in the FTC’s December 2019 opinion, located at
+https://www.ftc.gov/enforcement/cases-proceedings/182-3107/cambridge-analytica-
+llc-matter.
+Online Data Gathering
+The internet has made it much easier to learn personal details about people. People
+can search the internet for data on their neighbors, coworkers, family members,
+prospective dates, and public figures. Almost every person has some sort of digital
+presence. Social networking sites, personal web pages, media websites, and
+government public records databases can be easily reviewed for personal
+information. Although there are legitimate uses for viewing online personal data, it
+also can be used to harass and threaten victims.
+Many of the privacy concerns discussed in this section existed before the
+internet. They just did not exist on the same level as they do now. Today it is trivial to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.discover personal information about other people. Identity theft is one of the fastest-
+growing crimes, because it is becoming easy to find and misuse others’ personal
+information. Identity theft occurs when a person’s PII is used without permission to
+commit other crimes.
+NOTE
+Up to 10 million Americans are victims of identity theft each year, according to the FTC. You can learn
+more about identity theft at https://www.ftc.gov/news-events/media-resources/identity-theft.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.What Is Workplace Privacy?
+Workplace privacy is a term that describes privacy issues in the workplace. Privacy
+can be implicated in several ways in the workplace. For example, hiring, firing, and
+performance reviews all have potential privacy concerns, and how employers
+interact with employees in these matters can have privacy implications.
+As a rule, most U.S. employees have very little expectation of privacy in their
+workplaces. Very few states have enacted laws about workplace privacy issues,
+although some states may have laws relating to general issues, such as telephone
+wiretapping. Not all states have considered the impact of those laws in the
+workplace.
+Employers can use technology, such as electronic communications, to make
+workers more productive. Employers provide employees with equipment to use at
+work. This equipment includes desktop and laptop computers, cell phones,
+telephones, voicemail, email, and internet access. These technologies allow
+employers a greater opportunity to monitor how their employees are working each
+day. This is called workplace monitoring.
+This section will discuss the following types of monitoring:
+Telephone and voicemail monitoring
+Video surveillance monitoring
+Computer use monitoring (including internet access)
+Email monitoring
+For the most part, workplace monitoring is permissible in the United States. Courts
+are just beginning to address the limits of an employer’s ability to monitor
+employees. Employers usually are permitted to monitor their employees so long as
+the employer has a legitimate business reason to do so. However, employers have
+great discretion in determining legitimate business reasons for monitoring.
+Workplace monitoring is legitimate when used to measure employee productivity
+and workplace safety. It is also legitimate when used to protect employer assets and
+prevent theft. Workplace monitoring can also properly be used to:
+Ensure that employees are properly using the organization’s sensitive data
+Verify that employees are not violating other policies (such as acceptable use
+policies)
+Protect the company from liability for bad acts committed by employees
+Telephone, Voicemail, and Email Monitoring
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Some organizations monitor employee telephone, voicemail, and email
+conversations as a part of routine activities. One reason to do this is to make sure
+the employees are providing good customer service. Employees have few
+protections from this type of monitoring.
+Telephone and Voicemail Monitoring
+An employer’s right to monitor telephone conversations must be reviewed under
+federal and state law. Federal protection for electronic communications is found in
+the Electronic Communication Privacy Act (ECPA). It also protects telephone calls.
+Under this law, generally the use of eavesdropping technologies to record a
+telephone conversation requires a court order.
+However, telephone conversation monitoring in the ordinary course of business
+may be allowed without a court order. To use this ECPA exception, an employer
+must state a legitimate business interest in monitoring telephone calls. Employers
+also must show that the monitoring occurred on equipment provided by a
+communications service provider.
+NOTE
+Gartner estimates that almost 80 percent of companies will be monitoring their employees in some way in
+2020. 28
+Courts tend to give employers deference when reviewing their legitimate
+business reason for monitoring. In most cases, the reason is met if the monitoring is
+even slightly related to business matters. Employee telephone calls with customers
+about services or products that the employer provides clearly relate to business
+matters and can be monitored. Monitoring telephone calls for quality control
+purposes also is a legitimate business purpose.
+For monitoring to stand up in court, an employer must show that the monitoring
+took place on equipment supplied by its phone system service provider. The
+equipment used to monitor calls must be more than a simple tape recorder. In Deal
+v. Spears (1992), the Eighth Circuit Court of Appeals found that a recorder
+purchased at a consumer electronics store did not qualify as ordinary telephone
+equipment. 29 The court held that even though the employer’s reason for monitoring
+was legitimate (the prevention of theft), the exception was not met. The monitoring
+was a violation of federal law.
+Federal law allows monitoring only when the conversation clearly relates to the
+employer’s business. Employers must immediately stop monitoring a call once they
+determine that it is personal. Personal calls are outside of the ordinary course of
+business.
+However, employers may always monitor employee telephone calls when the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.employee gives consent. In this case, an employer must provide notice of the
+monitoring. It also must show that its employees consented to the monitoring.
+Employers can prove that they gave notice by putting their monitoring policy in the
+employee handbook. They can show that an employee consented to monitoring by
+having employees sign an acknowledgment form. There is no violation of the ECPA
+if an employee gives the employer permission to monitor the employee’s call.
+Most state laws have wiretap statutes that are based on federal law. There may
+be subtle differences from state to state. In Delaware, for example, employers must
+provide written notice before monitoring calls. 30 In Connecticut, all parties to the
+conversation must give consent before a call can be monitored. 31
+There is far less regulation with employer monitoring of stored voicemail
+messages. Under federal law, employers that provide electronic communication
+services may access messages once they are stored in their computer or telephone
+systems, which they can do without notifying employees. If an employer owns the
+telephone system, then it may legally access stored voicemails.
+Email Monitoring
+Email monitoring is very similar to telephone conversation monitoring. The federal
+wiretap laws in place for monitoring telephone conversations also apply to
+intercepting email conversations. Similar to telephone conversations, real-time email
+monitoring may be permitted in some instances. An employer may intercept
+employee email using equipment furnished by the provider of electronic
+communication services. However, an employer must have a legitimate business
+purpose for intercepting email.
+Email monitoring does raise some questions that are different from telephone
+conversation monitoring. For instance, email is different because it can be stored
+indefinitely on the employer’s equipment. Under federal law, stored electronic
+communications can be accessed by the organization that provides the electronic
+communications service. This “stored communication” exception is very broad. If the
+employer provides the email service, then it may properly access stored emails from
+that service.
+Under federal law, employee consent always permits an employer to monitor an
+employee’s email. State laws generally permit email monitoring in a manner that is
+similar to telephone monitoring. There may be occasional variations among the
+states. In Delaware, for example, employers must provide written notice before
+monitoring email communications.
+Court cases generally have found that employers are free to read email
+messages when the employer provides the email account. These courts sometimes,
+but not always, consider whether the email was intercepted for a legitimate business
+reason or if it was viewed from its storage location.
+Sometimes employees access their private, web-based email accounts from
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.employer-provided equipment. This is a different issue from employers’ monitoring of
+work-provided email. Employers who access private email accounts may run into
+problems with the federal law, even if the employee has accessed that private
+account from a work-provided computer, because the ECPA prohibits employers
+from accessing an employee’s personal email account. Courts have found that
+employers act inappropriately if they use computer-monitoring equipment to obtain
+usernames and passwords to employee personal accounts. If the employer then
+accesses those private email accounts without permission, it is considered an ECPA
+violation.
+Computer Use Monitoring
+Employers may monitor employee computer and internet use for many reasons. In
+addition to the business reasons already mentioned, employers may monitor
+computer and internet use to discourage inappropriate online conduct at work. This
+could include discouraging online shopping during work hours or viewing adults-only
+websites.
+Employees generally do not have any reasonable expectation of privacy in their
+use of employer-provided resources. An employer generally is allowed to monitor an
+employee’s use of work-provided computers and internet access. This monitoring
+includes reviewing files and software on the computer. It also includes tracking
+internet use and the web pages that an employee visits.
+An employer can monitor computer or internet use in many ways:
+Employing keystroke loggers to monitor keystrokes made in a certain period, or
+the number of websites visited
+Tracking how much time employees spend in software applications provided for
+work purposes to measure productivity
+Using software programs to measure employee time spent on the internet.
+Employers can also block employee access to some web pages to limit the types
+of sites that employees can access from work.
+There is no federal prohibition against employer computer or internet-use monitoring
+when the employer provides the equipment to the employee. Computer and internet
+monitoring is permitted in most states. Connecticut 32 and Delaware 33 are notable
+exceptions. These states require employers to give notice before monitoring
+computer use.
+Many questions are unanswered concerning the limits of employer computer use
+and internet monitoring. Court opinions provide little guidance. Employees that
+challenge employer computer monitoring claim that the monitoring infringed upon
+their reasonable expectation of privacy in the use of the work computer. Different
+courts in different areas have come to different conclusions.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Some courts have ruled that an employee never has any privacy in employer-
+provided computers. Other courts have decided that an employee may have a
+reasonable expectation of privacy in employer-provided computers. These cases are
+very fact-dependent. For instance, if an employee keeps the computer in his or her
+locked office and uses a password to protect the machine, he or she might have a
+reasonable expectation of privacy in the work computer. Courts also look at whether
+the employer had a written policy that gave employees notice of monitoring.
+Monitoring an Employee’s Personal Computer
+A potential question also arises when employers allow employees to use their own personal equipment at
+work. In United States v. Barrows (2007), an employee brought his personally owned laptop computer to
+work, which he connected to his employer’s network. He used the computer at work in an open workspace
+area and did not password-protect his computer. While he was away from his desk, another employee
+accessed his computer and found illegal materials.
+The Tenth Circuit Court of Appeals held that the employee did not have a reasonable expectation of privacy
+in his personal computer. 34 There was no expectation of privacy because he had connected the computer to
+his employer’s computer network. The court also said the employee had no expectation of privacy in the
+machine because he used it in an open area, left it on when he was not using it, and took no steps to
+password-protect the machine.
+Off-Duty Computer Monitoring
+Computer use and internet monitoring create individual privacy concerns. For
+example, internet monitoring can be invasive. People use the internet to research
+many things, and sometimes very sensitive things. An employer who monitors
+internet use might inadvertently learn very personal things about an employee.
+Another privacy concern is the monitoring of an employee’s off-duty internet
+activity. Employers can easily search the internet for information related to potential
+and current employees. They can view employee postings on blogs, web pages, or
+email lists, as well as comments made in response to media articles.
+Many large employers have fired employees for online comments made on their
+own time when those comments are related to the employer’s business. Often the
+employer is most worried about social media posts that could harm the employer’s
+reputation. For example, in 2004 Delta Airlines fired a flight attendant for pictures
+that she posted on her personal website. The flight attendant was wearing her Delta
+Airlines uniform in the posted pictures. She later sued Delta for firing her. The case
+was ultimately settled, but the terms are confidential.
+NOTE
+A majority of states limit the ability of an employer to fire an employee for off-duty activity. Most of these
+laws deal with activities such as alcohol or cigarette use. These laws state that an employer cannot fire an
+employee for use that was both off-duty and away from the employer’s premises.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Video Surveillance Monitoring
+Employers may want to use video surveillance to monitor their employees. They can
+use video surveillance to protect against workplace theft, as well as protect
+workplace safety and monitor productivity.
+Workplace video surveillance monitoring generally is allowed if employees are
+given notice. Employers must have a legitimate business reason for the surveillance.
+Employers must not use video surveillance to monitor places where employees have
+a reasonable expectation of privacy. Areas considered private include restrooms,
+employee lounges, or private offices. Employers must be careful when using hidden
+video surveillance, because it can be a privacy violation if the person under hidden
+surveillance has a reasonable expectation of privacy in the area under surveillance.
+Some states have laws that set limits on what employers may videotape, and
+employers can run into complications with federal and state wiretapping laws if video
+surveillance also includes audio recording. Audio recording can trigger the wiretap
+acts.
+Special Rules for Public Employees
+Some special rules exist for workplace monitoring of public employees. Public
+employees are employees that work for the federal, state, or local government.
+Individuals in public employment have some extra privacy protections because their
+employer is the government. The federal constitution protects individuals from
+interference by the government. State employees have similar extra protections
+because of rights provided in state constitutions.
+Workplace Monitoring and Employee Privacy
+In City of Ontario v. Quon (2010), the U.S. Supreme Court overturned a federal appeals court holding that an
+employee’s privacy rights are violated if his employer reads personal text messages sent on an employer-
+provided device.
+In the case, a California police officer was provided with an employer-issued pager. The police department
+had a general computer, internet, and email use policy that stated the use of the equipment was limited to city
+business. The police department did not have a formal policy about text messaging. Officers were told that
+text messages sent on the pager would not be reviewed so long as the officers reimbursed the department
+for charges that went above the service contract amount.
+The police officer, in this case, was a heavy user of the pager. He always paid the police department for the
+excess use amounts. Eventually, the police department decided to audit pager use to determine whether the
+basic service contract amount needed to be increased.
+The police department requested transcripts of the text messages sent from the pagers, which the pager
+service provider gave the police department. The department reviewed the transcripts of the police officer’s
+text messages. The police officer sued, stating that reading the messages violated various federal laws and
+his right to privacy.
+The Ninth Circuit Court of Appeals said that the police officer had a reasonable expectation of privacy in the
+text messages sent from his pager. The court based its decision on the fact that the department said there
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.would be no review of pager text messages. The police department appealed that ruling.
+In June 2010, the U.S. Supreme Court ruled that reviewing the police officer’s text messages did not violate
+federal law or the police officer’s privacy rights. The Court held that the police department’s audit of pager
+use was not intrusive and was for a legitimate purpose. The Court also found that the police officer did not
+have a reasonable expectation of privacy in the text messages.
+Although this case deals with a public employee, it does help provide clarity for all employers on the
+acceptable limits of electronic communications monitoring. One thing that the case does help highlight is that
+all employers must have very clear policies on the use of electronic communication devices. You can read the
+Supreme Court’s decision in this case at http://www.supremecourt.gov/opinions/09pdf/08-1332.pdf.
+The Fourth Amendment protects federal employees from unreasonable
+government search and seizure. Therefore, the federal government must provide
+employees with notice if it intends to monitor the electronic communications of its
+employees. Even though the government might have to take additional steps to
+make sure that employee monitoring is legal, courts have recognized the
+government’s right to engage in workplace surveillance for legitimate business
+reasons.
+Workplace monitoring continues to be a sensitive issue for both employers and
+employees. Employers typically win legal challenges against workplace monitoring
+practices, especially if the monitoring is for a legitimate business purpose. To protect
+their own personal privacy, employees must assume that equipment provided by
+their employers is for work activities only. Employees should not engage in personal
+computer and internet activities on an employer’s computer if they wish to protect
+their privacy.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.What Are General Principles for Privacy
+Protection in Information Systems?
+Designing information systems in ways that protect data privacy is very important.
+Customers will be loyal to organizations that protect privacy. Organizations must
+understand how their customers feel about data privacy. Even though people are
+sharing more information than ever before, some feel that their privacy is under
+attack. Organizations must keep in mind that people want to control their personal
+data.
+Organizations can use the fair information practice principles discussed earlier in
+this chapter to help define the best way to approach privacy. Many information
+system activities impact personal data privacy. Data collection, storage, use,
+retention, and destruction practices must be reviewed to make sure that privacy is
+ensured at each stage in the data life cycle. The steps in the data life cycle (shown in
+FIGURE 2-1) are:
+FIGURE 2-1
+The data life cycle.
+Data collection
+Data use
+Data storage
+Data retention
+Data destruction
+In the data collection phase, organizations must clearly state the types of data that
+they need to collect. They also must determine how they are going to collect data
+from their customers. Active data collection practices that are obvious to the
+customer should be used. Customers are aware of active data collection practices.
+The use of web-based forms clearly indicates to a customer that data collection
+activities are taking place. Customers understand what data is being collected
+because they are providing the information.
+Organizations should avoid passive collection methods. Passive data collection
+happens secretly when an organization uses devices such as cookies and web
+beacons. Customers may not know that data collection is occurring with these
+collection methods.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.Organizations must make sure that they use the data that they collect in ways
+that the customer has approved. They should use the data for no purpose other than
+what was specified when the data was collected. Information systems will need
+configuration so that the collected data is available only for its approved use.
+Organizations also must make sure that only authorized individuals have access to
+the data. Data must not be disclosed to employees who have no business need for
+the data.
+Organizations also must ensure that they know how the collected data is used
+within the system. Data must not change when processed in the system.
+Organizations also will want to include system checks that verify that the personal
+data collected remains accurate.
+Systems sometimes allow customers to create “accounts” that hold their personal
+data. The organization must ensure that it uses appropriate access control measures
+for those accounts. These measures protect accounts from unauthorized access.
+Organizations should also verify that records are updated accurately.
+Finally, organizations must keep track of where collected personal data is stored
+in their systems. Appropriate safeguards are needed to protect the stored data.
+Organizations may choose to encrypt the collected personal data to protect it from
+disclosures or security breaches. Employers also should use safeguards to make
+sure that employees do not store the data on removable media. Personal data must
+be stored securely to protect it from disclosure.
+Organizations should retain personal data only as long as it is needed. Laws and
+organizational policies specify the appropriate retention periods. An organization
+must dispose of the data when the retention period expires, using a method that
+destroys old data in both primary and backup storage systems.
+Privacy Policies
+Organizations that collect personal data from customers should develop a privacy
+policy. This policy clearly explains all the protections the organization uses at each
+stage in the data life cycle, informs customers about personal data collection
+practices, and explains how the organization uses the data that it collects. The policy
+manages the privacy expectations of customers and the security obligations of the
+organization.
+International Privacy Laws
+The United States does not have a comprehensive data privacy law, although many
+other nations that conduct business with the United States do have such laws. This
+difference can make business transactions hard at times.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.NOTE
+The United Nations has a webpage that shows worldwide data protection and privacy legislation:
+https://unctad.org/en/Pages/DTL/STI_and_ICTs/ICT4D-Legislation/eCom-Data-Protection-Laws.aspx
+European nations recognize privacy as a basic human right. The European
+Union’s (E.U.) General Data Protection Regulation (GDPR) is a revolutionary and
+comprehensive data privacy law. 35 The GDPR, which was approved in 2016 and
+came into force in May 2018, sets limits on the collection and use of personal data
+belonging to an E.U. data subject. The law also grants significant rights to E.U. data
+subjects. One of the most famous rights is the right to be forgotten. Under this
+provision, data subjects can request that organizations permanently delete the data
+subject’s personal information.
+NOTE
+Under the E.U. GDPR, a data subject is any identified or identifiable natural person. The data subject does
+not have to be an E.U. citizen. They just have to be physically present in the E.U.
+The GDPR is revolutionary because it attempts to regulate organizations outside
+of the E.U. that collect the data of E.U. data subjects. Organizations located in the
+E.U. must comply with the GDPR. In addition, organizations that offer goods or
+services to people in the E.U. or that collect data on people located in the E.U. also
+must follow the law, even if the organization is not located in the E.U. The GDPR has
+a very broad scope because it applies to organizations both inside and outside the
+E.U. Organizations that fail to follow the GDPR are subject to very large fines.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.CHAPTER SUMMARY
+Privacy is a right that people no longer are taking for granted. People want to
+have control over their personal information. They want to be able to choose
+how third parties collect, use, and store their information. The growth in
+electronic communication and data transfer has changed how individuals
+view privacy and how organizations must protect it. Organizations must use
+information security principles to make sure they respect a person’s
+individual privacy choices.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.KEY CONCEPTS AND TERMS
+Adware
+Biometric data
+Blog
+Bluetooth
+Clickstream
+Common law
+Cookie
+Defamation
+Docket
+Dumpster diving
+Fair information practice principles
+Global positioning system (GPS)
+Identity theft
+Near Field Communication (NFC)
+Online profiling
+Personally identifiable information (PII)
+Pleadings
+Pop-up advertisements
+Privacy
+Public employees
+Public records
+Radio Frequency Identification (RFID)
+Reasonable person standard
+Seal program
+Search engine
+Security breach
+Social networking sites
+Targeted advertising
+Tort
+Web beacon
+Workplace privacy
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.CHAPTER 2 ASSESSMENT
+1. What does a seal program verify?
+A.
+B.
+C.
+D.
+E.
+That an organization meets recognized privacy principles
+That an organization meets recognized legal principles
+That a third party is trusted
+That a website does not use cookies
+None of these is correct.
+2. What techniques are used to create a list of the web pages that a computer user
+visits?
+A.
+B.
+C.
+D.
+E.
+Adware, malware, and phishing
+Malware, cookies, and web beacons
+Web beacons, clickstreams, and spyware
+Malware, spyware, and cookies
+Clickstreams, cookies, and web beacons
+3. Which amendment protects against unreasonable searches and seizures?
+A.
+B.
+C.
+D.
+E.
+First
+Third
+Fourth
+Fifth
+Seventh
+4. Privacy refers to a person’s right to control personal data.
+A. True
+B. False
+5. What is the source of legal authority for the U.S. government?
+A.
+B.
+C.
+D.
+E.
+The United States Code
+The common law
+Supreme Court decisions
+The U.S. Constitution
+The Declaration of Independence
+6. Which of the following is not a privacy tort?
+A. Intrusion into seclusion
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.B.
+C.
+D.
+E.
+Portrayal in a false light
+Appropriation of likeness or identity
+Defamation
+Public disclosure of private facts
+7. The OECD privacy protection guidelines contain ________ privacy principles.
+8. Which principle means that an individual should be told the reason for data
+collection before the data is collected?
+A.
+B.
+C.
+D.
+E.
+The collection limitation principle
+The purpose specification principle
+The use limitation principle
+The openness principle
+The accountability principle
+9. What are the two types of cookies?
+A.
+B.
+C.
+D.
+First-party and third-party cookies
+Active and passive cookies
+First-party and second-party cookies
+Rational and irrational cookies
+10. What is a web beacon?
+A.
+B.
+C.
+D.
+E.
+Text stored on a computer user’s hard drive
+A small, invisible electronic file
+A pop-up advertisement
+Executable code
+A data trail left by a computer user
+11. Employer monitoring of employees in the workplace is generally allowed.
+A. True
+B. False
+12. To monitor telephone conversations, an employer must use equipment provided
+by a phone system service provider and have ________.
+13. Why is biometric data unique?
+A.
+B.
+C.
+D.
+It can be used to identify a person.
+It is data about a person’s physical traits.
+It can be used to commit identity theft.
+It cannot easily be changed.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.E. None of these is correct.
+14. Which of the following is not a people-based privacy threat?
+A.
+B.
+C.
+D.
+E.
+Social engineering
+Web beacons
+Shoulder surfing
+Dumpster diving
+Social networks
+15. What is used to ensure privacy?
+Biometric data
+Encryption
+Information security
+Monitoring
+Online profiling
+A.
+B.
+C.
+D.
+E.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.ENDNOTES
+1. U.S. Census, “American Community Survey, Presence and Types of Internet
+Subscriptions in Household Table B28002,” 2018.
+https://data.census.gov/cedsci/ (accessed April 28, 2020).
+2. Oxford English Dictionary, “New Words List June 2006,” June 2006.
+https://public.oed.com/updates/new-words-list-june-2006/ (accessed April 28,
+2020).
+3. U.S. Code Vol. 5, sec. 552.
+4. U.S. Code Vol. 5, sec. 552a.
+5. U.S. Code Vol. 44, various sections.
+6. U.S. Code Vol. 18, sec. 2701.
+7. U.S. Code Vol. 18, sec. 2510.
+8. U.S. Code Vol. 13, sec. 9.
+9. U.S. Code Vol. 39, sec. 3623.
+10. U.S. Code Vol. 18, sec. 1725.
+11. U.S. Code Vol. 4, sec. 551.
+12. U.S. Code Vol. 18, sec. 2721.
+13. National Conference of State Legislatures, “Privacy Protections in State
+Constitutions,” November 7, 2018.
+https://www.ncsl.org/research/telecommunications-and-information-
+technology/privacy-protections-in-state-constitutions.aspx (accessed April 28,
+2020).
+14. Montana Constitution, art. II, sec. 10.
+15. California Constitution, art. 1, sec. 1.
+16. New York Civil Rights Law, art. 5. sec. 50–52 (1903).
+17. Pavesich v. New England Life Ins. Co., 50 S.E. 68 (Ga. 1905).
+18. National Conference of State Legislatures, “Security Breach Notification Laws,”
+March 8, 2020. https://www.ncsl.org/research/telecommunications-and-
+information-technology/security-breach-notification-laws.aspx (accessed April
+27, 2020).
+19. National Conference of State Legislatures, “State Social Media Privacy Laws,”
+May 22, 2019. https://www.ncsl.org/research/telecommunications-and-
+information-technology/state-laws-prohibiting-access-to-social-media-
+usernames-and-passwords.aspx (accessed April 27, 2020).
+20. State v. Smith, Slip Opinion No. 2009-Ohio-6426 (Oh. 2009).
+21. Schifano v. Greene County Greyhound Park, Inc., 624 So.2d 178 (Ala. 1993).
+22. White v. Samsung Electronics of America, Inc., 989 F.2d 1512 (9th Cir. 1992).
+Did you know that the famous wheel in the Wheel of Fortune gameshow weighs
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+2,400 pounds?
+Pemberton v. Bethlehem Steel Corp., 502 A.2d 1101 (Md. App.), cert. denied,
+508 A.2d 488 (Md.), cert. denied, 107 S.Ct. 571 (1986).
+National Conference of State Legislatures, “State Social Media Privacy Laws,”
+October 30, 2018. https://www.ncsl.org/research/telecommunications-and-
+information-technology/state-spyware-laws.aspx (accessed April 27, 2020).
+Spyware Control Act, Utah Code, title 13, ch. 40 sec. 13-40-101 to 401 (2004);
+repealed and reenacted in 2010 as the Utah E-Commerce Integrity Act.
+United States v. Jones, 132 S.Ct. 945 (2012).
+U.S. Federal Trade Commission, “In the Matter of Facebook, Inc.,” April 28,
+2020. https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-
+inc (accessed April 28, 2020).
+Gartner, “The Future of Employee Monitoring,” May 3, 2019.
+https://www.gartner.com/smarterwithgartner/the-future-of-employee-monitoring/
+(accessed April 28, 2020).
+Deal v. Spears, 980 F.2d 1153 (8th Cir. 1992).
+Delaware Code Title 19, ch. 7, sec. 705.
+Connecticut General Statutes Title 52, sec. 570d.
+Connecticut General Statutes Title 31, sec. 48d.
+Delaware Code Title 19, ch. 7, sec. 705.
+United States v. Barrows, 481 F.3d 1246 (10th Cir. 2007).
+European Union, “Regulation on the Protection of Natural Persons With Regard
+to the Processing of Personal Data and on the Free Movement of Such Data,
+and Repealing Directive 95/46/EC (Data Protection Directive), 2016/679.” April
+14, 2016.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:38:08.

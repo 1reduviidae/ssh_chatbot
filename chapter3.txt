@@ -1,0 +1,1057 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+CHAPTER
+3
+The American Legal System
+OR OVER TWO DECADES, the shows in the Law and Order franchise have
+been popular with television viewers. Each episode transports viewers into the
+world of American criminal law and process. A crime, investigation, and judicial
+process are neatly wrapped in a 1-hour episode, from the dramatic opening theme
+song with its scene-changing “clang” sound, to the final scene when justice is
+served. Law and Order episodes focus on criminal law, which is one aspect of the
+American legal system.
+F
+This chapter provides a high-level overview of the legal system in the United
+States. It is important for Americans to have a general understanding of this system
+because it affects us every day. We are bound by a system of laws that regulate our
+behavior and contribute to an ordered society. Laws reflect our values, and they
+evolve over time.
+The American legal system, its history, and its processes are a fascinating area
+of study. Many talented judges, attorneys, and law scholars have written excellent
+books about it. This chapter provides only an overview, but will outline a framework
+that can enable you to do further reading and research on this topic.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.Chapter 3 Topics
+This chapter covers the following topics and concepts:
+How the American legal system is organized
+What the sources of American law are
+What the types of law are
+What the role of precedent is
+What regulatory authorities are
+What the difference is between compliance and audit
+How security, privacy, and compliance fit together
+Chapter 3 Goals
+When you complete this chapter, you will be able to:
+Describe the American legal system
+Explain sources of law
+Distinguish between different types of law
+Explain the role of precedent
+Describe the role of regulatory authorities
+Explain the difference between compliance and audit
+Describe how security, privacy, and compliance fit together
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.The American Legal System
+The American legal system is composed of many distinct parts: federal and state
+governments, laws, and courts. Federal law exclusively governs some areas of the
+U.S. legal system; other areas depend on the subtle nuances of state law. Some
+parts of the legal system are based on written laws, called statutes or codes, which
+are developed by governments. Other areas of the law depend on principles
+developed from years of legal tradition and court decisions. There are two main
+types of laws. Civil law provides for the resolution of disputes between private
+individuals, organizations, or governments. Criminal law governs the prosecution of
+those charged with serious offenses against public order, such as murder.
+The basis for the American system of government, and the American legal
+system, is the U.S. Constitution.
+Federal Government
+The U.S. Constitution was ratified in 1789 and sets forth the structure of the U.S.
+federal government. Representatives from almost all of the states in existence at the
+time worked together to draft the Constitution. The state representatives realized that
+there were some areas in which a strong federal government was needed in order to
+keep the states united. However, the state representatives did not want a federal
+government that was too strong, nor did they want any one portion of the federal
+government to have too much power. These considerations help explain the current
+structure of the federal government.
+The U.S. Constitution calls itself “the supreme Law of the Land.” 1 It is the
+fundamental authority for the American federal system of government. The
+Constitution defines three co-equal roles in the federal government:
+Legislative
+Executive
+Judicial
+Eligibility Requirements for the President and Members of Congress
+The Constitution provides eligibility requirements for the president and members of Congress. The president
+must be a natural-born U.S. citizen and must be at least 35 years old. The president must have been a
+resident of the United States for at least 14 years at the time of election. 2
+Senators must be at least 30 years old. They must have been citizens of the United States for at least 9
+years. They must also be residents of the state from which they are elected. 3
+House members must be at least 25 years old. They must have been citizens of the United States for at least
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.7 years. They must also be residents of the congressional district from which they are elected. 4
+The legislative branch makes the laws, the executive branch enforces the laws, and
+the judicial branch reviews the laws to make sure they are constitutional. This is the
+“checks and balances” system that describes the relationship among the three
+branches of the federal government. Each branch of government has a separate
+sphere of authority (balances). The actions of each branch of government are
+subject to review by the other branches (checks).
+The U.S. Constitution also defines the relationship between the federal
+government and the states. At the time that the Constitution was drafted and ratified,
+people debated the appropriate relationship between the federal and state
+governments. The previous legal document that established the federal government,
+the Articles of Confederation, was too weak to keep the states joined together.
+However, an overly strong federal government was seen as an obstacle that would
+prevent states and individuals from controlling their own affairs. The states wanted to
+make sure that they retained the authority to control their own affairs. The
+Constitution contains specific provisions to reflect this divided authority.
+The Constitution also provides some of the fundamental rights of individuals.
+Individual rights are located primarily in the Bill of Rights, which was ratified in 1791.
+The term Bill of Rights refers collectively to the first 10 amendments to the
+Constitution. These amendments are the basis for the personal rights that
+Americans hold most dear:
+NOTE
+Rhode Island was the only original state that did not send representatives to the Constitutional
+Convention.
+Freedom of speech (First Amendment)
+Freedom of religion (First Amendment)
+Freedom from unreasonable search and seizure (Fourth Amendment)
+The right against self-incrimination (Fifth Amendment)
+NOTE
+Federalism is a term that describes the relationship between the states and the U.S. federal government.
+Legislative Branch
+The lawmaking authority of the legislative branch of the federal government is
+outlined in Article I, section 8 of the Constitution. Collectively, the legislative branch
+is called Congress. The federal government actually has limited lawmaking power.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.Congress cannot make any laws outside the scope that the Constitution specifically
+delegates to it.
+The U.S. Congress consists of two chambers: the U.S. Senate and the U.S.
+House of Representatives. The Senate has 100 members, two senators from each
+state. In this way, the Senate represents all states equally. The House of
+Representatives has 435 members. The House represents the population, as each
+Representative represents a congressional district. Congressional districts all have
+roughly the same number of people. The current number of people in each
+congressional district is 711,000. The congressional districts are redrawn after each
+decennial census and will next be redrawn after the 2020 census. Each state gets at
+least one representative no matter its total population size.
+Article I, section 8 of the Constitution lists the powers delegated to Congress,
+which are very broad. Congress has the power to:
+Declare war
+Establish the post office
+Maintain armed forces
+Coin (or print) money
+Regulate commerce
+Make other laws necessary for carrying out its constitutional duties
+The Commerce Clause grants Congress the power to regulate commerce between
+the states. 5 Congress uses this provision as justification to regulate trade, or any
+other commercial activity, between the states. Many Supreme Court cases have
+reviewed the limits of this power. In general, if an activity has the potential to affect
+the trade relations between the states, then Congress is able to legislate it.
+Congress also has the power to enact laws that are “necessary and proper” for
+carrying out its duties. 6 Congress can use the power implied in this section to
+legislate in several different areas.
+NOTE
+Preemption refers to the legal concept that means that a higher-ranking law will exclude or preempt a
+lower-ranking law on the same subject. This rule especially holds in the federal legislative context with
+respect to the Commerce Clause. States are preempted from making laws that may affect the trade
+relations between the states.
+The Constitution specifies the basic lawmaking process. A bill is the initial draft of
+a potential law. Both chambers of Congress must approve the same bill, and the
+president must sign it before it becomes a law. 7
+The procedural documents of both chambers describe the process for moving
+bills through each chamber. Once a bill is introduced, it is generally assigned to a
+specialty committee. The bill is revised during the committee process, which usually
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.includes hearings to determine why a law is needed in the first place. After the
+hearings, the committee votes on whether the bill should be sent to the full chamber
+for consideration. When a bill passes one chamber, it is forwarded to the other
+chamber for consideration.
+Once a bill passes both chambers, it goes to a conference committee made up of
+both senators and representatives. This committee reviews both the Senate and
+House of Representatives’ versions of the bill. This committee cannot substantially
+change the bills being compared, but tries to reach a compromise on both versions
+of the bill. When the committee reaches a resolution on the bill, they report back to
+their respective chambers. Each chamber votes on the bill again. If the original
+conference committee cannot reach an agreement, the bill may be assigned to a
+new conference committee or go back into committees of each chamber for
+additional revisions.
+The speaker of the House of Representatives and the president of the Senate
+sign all bills that pass in Congress before delivering them to the president. The
+president has 10 days to sign the bill. If the president does not sign it within 10 days,
+then it becomes law just as if the president had signed it.
+Executive Branch
+Article II establishes the power of the executive branch of government. The president
+of the United States, a nationally elected official, leads the executive branch of
+government. The president is also the commander-in-chief of the U.S. armed forces
+and is often considered the “face” of the United States.
+The president has the power to enforce the laws of the United States and the
+responsibility for maintaining the day-to-day operations of the U.S. government. The
+president also has the power to sign or veto any legislation that Congress passes.
+(Congress can then override a presidential veto with a two-thirds vote of both the
+House and the Senate.) Once the president signs the legislation, it becomes an Act
+of Congress, a federal law passed by the Congress and signed by the president.
+The president also appoints federal judicial, executive, and administrative
+officials. The Senate must approve some of the president’s appointees, such as
+Cabinet members or federal judicial appointees. The president also has the power to
+negotiate and enter into treaties with other countries. However, the U.S. Senate must
+ratify those treaties.
+NOTE
+Federal laws are published in the United States Code, which is published by the federal government every
+6 years. The current version was published in 2018. You can find online versions of the code at
+https://uscode.house.gov/.
+The role of the U.S. Cabinet is to advise the president. The Cabinet includes the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.U.S. vice president and the heads of 15 executive departments. President George
+Washington established the first Cabinet. Although the Constitution recognizes that
+the president should have advisers in executive departments, it does not specify the
+type or number of executive departments. Congress creates the executive
+departments.
+Judicial Branch
+Article III of the Constitution establishes the judicial branch of the federal
+government. This Article vests the judicial power of the United States in one
+supreme court. The U.S. Supreme Court is the highest court in the country.
+The U.S. Supreme Court is the only court specifically required by the U.S.
+Constitution. Congress has the authority to determine the actual number of Supreme
+Court justices; currently, there are nine. The president nominates the justices when
+there is a vacancy on the Court. The Senate must confirm the nomination. Supreme
+Court nominees are usually highly respected state or federal judges or highly
+respected attorneys.
+Supreme Court justices, similar to all federal judges, are appointed for life. They
+serve until their retirement, death, or removal. Supreme Court justices can be
+removed only if they are impeached and convicted by Congress. The Constitution
+requires that all federal court judges be appointed for life for a simple reason: to help
+promote an independent judiciary. The drafters of the Constitution did not want the
+review of law to be dependent upon popular political ideas. Instead, they wanted
+federal judges appointed for life, so that they could not be fired if their decisions were
+unpopular or not favorable to a particular political party. TABLE 3-1 lists the
+members of the U.S. Supreme Court as of January 2020.
+TABLE 3-1 Members of the U.S. Supreme Court as of January 2020.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.
+DescriptionStructure of the Federal Judiciary. It is important to understand how the different
+courts in the federal system relate to one another. Once this structure is understood,
+it can be applied generally to state judicial systems.
+Courts have the ability to hear only cases, or disputes, that are within their
+jurisdiction. Jurisdiction describes the types of cases that a court has the authority
+to hear. There are three main types of jurisdiction used to describe the function of a
+court:
+Original jurisdiction—The power of a court to hear the initial dispute between
+parties. These courts conduct trials. Usually trial courts have original jurisdiction.
+Concurrent jurisdiction—Jurisdiction that is shared by several different courts.
+Appellate jurisdiction—The power of a court to review a decision made by a
+lower court.
+In the federal court system, federal courts have limited jurisdiction. That means that
+they can hear only certain types of cases that fall within a limited subject matter. The
+jurisdiction of the federal courts is determined by the Constitution and laws made by
+Congress. Federal courts can hear only the following kinds of cases:
+Disputes regarding federal laws or constitutional issues
+Disputes between residents of different states where the amount of money in
+controversy is greater than $75,000 8
+A court cannot hear cases that fall outside its functional or subject matter jurisdiction.
+In addition to establishing the Supreme Court, Article III of the Constitution also
+gives Congress the power to make as many lower-level federal courts as needed.
+Under this power, Congress has established district courts, appellate courts, and
+some specialized courts.
+District courts are the lowest level of courts in the federal court system. There are
+94 judicial districts in the United States, with each state having at least one judicial
+district. Some states may be divided into many judicial districts, and each district
+may have more than one judge. The number of judges in a district is determined by
+the number of cases, or caseload, in the district. Usually only one judge hears a
+case at the trial court level.
+The district courts are the workhorses of the federal judicial system and serve as
+courts of original jurisdiction. They might hear disputes between parties or conduct
+criminal trials for violations of federal law. Each federal district court also has its own
+bankruptcy court. The Constitution gives the federal government the sole power over
+bankruptcy law.
+The next level of courts is the intermediate appellate courts. In the federal
+system, these courts are called the U.S. Courts of Appeals. There are 13 Courts of
+Appeals. The 94 district courts are grouped into 12 geographical circuits. There is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.also one circuit, called the Federal Circuit, which hears cases from specialized
+courts. The Courts of Appeals hear appeals from the district courts in their circuit.
+For example, the Seventh Circuit Court of Appeals hears cases from Illinois, Indiana,
+and Wisconsin. The home for the Seventh Circuit is in Chicago, Illinois. The number
+of judges in each circuit is determined by Congress. These courts usually hear cases
+in three-judge panels.
+NOTE
+Federal question jurisdiction refers to the power of federal courts to hear only disputes about federal
+laws or constitutional issues. Diversity of citizenship jurisdiction refers to the power of federal courts to
+hear only disputes between citizens of different states that are above a certain dollar amount.
+The Court of Appeals is a court of appellate jurisdiction. Courts of Appeals do
+not review the facts of a case, nor do they accept any additional evidence for the
+case. Instead, they review the record of the trial court only for mistakes of law.
+The highest level of court in any judicial system, state or federal, is often called a
+“court of last resort.” The highest court in the U.S. federal system is the U.S.
+Supreme Court, a court of appellate jurisdiction. For the most part, the Supreme
+Court decides cases on appeal from the U.S. Court of Appeals.
+The Supreme Court reviews the decision of the lower court to make sure that it
+complies with the law. The Supreme Court is under no obligation to review a
+decision from the U.S. Court of Appeals. A party has to ask the Supreme Court to
+review the case by using a petition called a writ of certiorari, which the Supreme
+Court justices review. The Court usually approves the petition if four of the nine
+justices decide that the Court should look at the case. The Court might decide to
+hear a case if it presents a question of whether a federal law is unconstitutional. It
+also might decide to hear a case if two or more of the federal appellate courts have
+ruled differently on the same question of federal or U.S. Constitutional law.
+The Supreme Court has exclusive original jurisdiction to decide cases about
+disputes between state governments. It exercises concurrent jurisdiction with
+federal district courts in some cases, and exercises this original jurisdiction very
+rarely. Most of the cases heard before the Supreme Court are appeals cases.
+The Supreme Court has the power to decide cases that involve questions about
+the federal Constitution and other federal laws. It can review both state and federal
+laws to make sure that those laws do not conflict with the U.S. Constitution. The
+authority to review laws in this way is called judicial review. The Supreme Court is
+the final authority on cases heard in the federal court system; as such, the decisions
+of the U.S. Supreme Court cannot be appealed. FIGURE 3-1 shows the structure of
+the U.S. federal court system.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.FIGURE 3-1
+Structure of the U.S. federal court system.
+Description
+NOTE
+In the law, an appeal is a formal request for a higher authority to review the decision of a lower court. Any
+party who is unhappy with the judgment received in a district court can appeal to the Court of Appeals for
+that district. The unhappy party must be able to show that the trial court made a legal error that affected
+the holding, or decision, in the case.
+State Government
+In negotiating and drafting the U.S. Constitution, state governments gave up some of
+their own power in order to create the federal government. They did this because the
+first system of government after the American Revolution that was organized under
+the Articles of Confederation did not work. That document did not create a national
+government that could require unity on subjects of common interest. The U.S.
+Constitution changed that relationship.
+Under the Constitution, powers that are not specifically granted to the federal
+government in the Constitution remain with the states. The Tenth Amendment to the
+Constitution formalized this relationship. The Tenth Amendment says, “The powers
+not delegated to the United States by the Constitution, nor prohibited by it to the
+States, are reserved to the States respectively, or to the people.” 9
+State governments existed before the federal government as we know it today.
+Similar to the federal government, most states are organized under a constitution,
+which may vary widely from the U.S. Constitution. Although the federal Constitution
+primarily describes the relationship between the federal government and the states,
+state constitutions primarily describe the relationship between a state and its
+citizens. For this reason, state constitutions often list many more individual rights
+than are listed in the federal Constitution. State constitutions also tend to be longer
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.than the federal Constitution. Finally, state constitutions are generally easier to
+change than the federal Constitution.
+There are typically three branches to most state governments, roughly aligned in
+the same manner as the federal government. Most state legislatures resemble the
+legislative branch of the federal government and have two different legislative
+chambers. A governor leads the state executive branch.
+State governments have the general authority to govern and make laws for the
+state and its citizens. However, this power is not absolute. The federal Supremacy
+Clause limits this broad power to make laws. 10
+The Supremacy Clause sets forth the rule that the federal Constitution, treaties,
+and federal law outrank any conflicting state laws. This clause means that the U.S.
+Constitution and federal laws are the highest laws in the land and states must follow
+the federal laws. The clause permits states to make their own laws only so long as
+those laws do not conflict with the U.S. Constitution or other federal laws. Because
+the U.S. Constitution limits the federal government in the types of laws that it can
+enact, there are still plenty of areas for state governments to legislate.
+NOTE
+The State of Alabama is widely recognized as having the longest state constitution. It has 799
+amendments. The current constitution, adopted in 1901, is the state’s sixth constitution.
+Most states have a judicial system that looks similar to the federal system, with a
+system of trial courts, appellate courts, and courts of last resort. The trial courts, the
+original jurisdiction courts for a state, are organized by geographical location, with
+county-level courts being the typical entry-level courts for hearing most disputes.
+Trial courts have the general authority to hear all sorts of cases, but they are usually
+limited to hearing disputes between citizens of the state.
+NOTE
+Only the state of Nebraska has a unicameral legislature, meaning it has only one legislative chamber. All
+other states have a bicameral legislature, meaning they have two chambers. The U.S. Congress is a
+bicameral legislature.
+States usually have two appellate courts: a state intermediate appellate court and
+a state supreme court. States usually only have one type of each court. The
+intermediate appellate courts hear appeals from the trial courts, whereas the state
+supreme court hears appeals from the appellate court. It is important to remember
+that not all states have the exact same structure, even though you can draw parallels
+when discussing structure in general. These courts may go by different names in
+different states. For example, the highest court in New York is called the New York
+Court of Appeals. In many states, the court of appeals is the intermediate appellate
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.court. FIGURE 3-2 shows the general structure of a state court system.
+FIGURE 3-2
+General structure of the U.S. state court system.
+Description
+The relationship between the state and federal court systems is very interesting.
+The U.S. Supreme Court has complete authority over courts in the federal system. It
+also has complete authority over interpretations of federal law and the U.S.
+Constitution. However, the Supreme Court has no authority over the organization or
+procedures used by state courts. The Supreme Court may not interpret issues that
+rely solely on state law or issues arising under state constitutions. Only the highest
+court in a state is allowed to make interpretations about that state’s law.
+Federal and state courts do not exist in separate spheres. State courts do have
+the power and authority to review cases that concern issues of constitutional or
+federal law.
+However, the state courts must yield to the superiority and previous decisions of
+the Supreme Court when doing so. The U.S. Supreme Court can review a state
+court case in the event that the case concerns a question of federal law or a federal
+constitutional issue. TABLE 3-2 compares the federal judicial system with a generic
+state judicial system.
+TABLE 3-2 A Comparison of the Federal and State Judicial Systems
+STATE JUDICIAL SYSTEM
+Courts of Original Jurisdiction
+Trial courts
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.
+FEDERAL JUDICIAL SYSTEM
+U.S. District CourtsTrial courts U.S. District Courts
+Courts of Appellate
+Jurisdiction Intermediate appellate courts Circuit Courts of Appeal
+Courts of Last Resort State supreme court U.S. Supreme Court
+Scope of Authority General authority to hear all
+disputes; authority is limited to
+disputes involving state citizens Cases must involve a federal
+question or involve disputes
+between citizens of different states
+and be over $75,000
+Authority of Court of Last
+Resort Final, unless the case involves a
+federal question; if so, case can
+be appealed to U.S. Supreme
+Court Final
+Courts of Original Jurisdiction
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.Sources of American Law
+The law is not secret, but it is complex. Many of the processes and procedures in the
+law have evolved over time. They are a combination of the will of the federal and
+state governments, longstanding traditions about right and wrong, and society’s
+values. It is no wonder that finding out what law applies to a particular situation is
+sometimes puzzling.
+This chapter has already discussed several sources of law:
+U.S. Constitutional law
+U.S. federal law
+State constitutional law
+State laws
+Now it is time to put these sources in context for the American legal system. This
+next section discusses the general sources of law and how they relate to one
+another.
+Common Law
+The common law is a body of law that is developed through legal tradition and court
+cases. The U.S. common law is a body of law and legal principles inherited from
+England that changes very slowly—it develops as judges decide court cases.
+Therefore, it is sometimes also known as case law or judge-made law.
+In the common law, courts decide cases by referring to established legal
+principles and the customs and values of society. They also look at decisions made
+in earlier cases to see if the cases are similar. If the cases are similar, a new case
+should reach a similar result. Finally, formal principles of logic and reason are used
+to help reach a decision when the result is unclear.
+Parties arguing a common law case use a similar approach. Attorneys may argue
+that the customs and values of society have changed such that a new result is
+appropriate. Attorneys also may attempt to distinguish the facts of the current case
+from the facts of earlier cases. In all instances, attorneys must use logic and reason
+to form the basis for their arguments.
+The American legal system generally follows the common law tradition. Many
+countries colonized by the English have adopted similar systems. After the
+Revolutionary War, common law grew in America and was heavily influenced by
+“new” American social and economic values. The common law has continued to
+evolve, and judicial decisions continue to influence it. The development of the
+common law continues so long as its decisions and conclusions are not in conflict
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.with other laws, such as constitutional documents or state and federal statutes.
+Common law principles are often included within the code law of the federal or
+state government. An example of this is privacy torts. There are four privacy torts
+that came to be recognized as torts through the evolution of common law. Courts
+gradually heard cases regarding issues related to the subject matter area of these
+torts. As they heard the cases, some courts would recognize the tort and allow the
+cause of action. Some would not. Gradually, many states adopted the four privacy
+torts and some states have even written the torts into their statutes.
+In the United States, the common law continues to be very influential in civil law
+areas such as torts, contract law, and property law.
+Code Law
+Code law is law that is enacted by legislatures. It is also sometimes called statutory
+law. This is the written law that is adopted by governments. In its truest form, code
+law attempts to state the complete system of law for a state or federal government.
+Citizens and members of the legal profession are all bound by the terms of the
+written law.
+In the United States, the common law and code law work together in most states
+to form the laws that society must follow. There has been a strong movement within
+the law to codify the common law. This is to help make sure that citizens understand
+the law. Many states have codified their common law criminal principles into written
+law. Some states also have codified parts of their civil (noncriminal) laws. Once a
+code or statute provision is made that addresses the common law, it supersedes the
+common law in that area. The principles and traditions of common law are
+transformed into a code of laws.
+NOTE
+No discussion of the law would be complete without a Latin phrase or two. Code law is called lex scripta,
+meaning law that is written down. Common law is called lex non scripta, meaning law that is not written
+down.
+Constitutional Law
+The U.S. Constitution is the final source of authority for issues involving U.S. federal
+laws. When federal laws are disputed, they are subject to scrutiny to determine
+whether the law is constitutional. If the law is not constitutional, it is invalid. If the law
+is constitutional, then it is the source of authority for its particular subject matter.
+NOTE
+Louisiana is the only state that does not base its law on common law principles. Instead, the laws of the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.state are based upon the Napoleonic Code, which is the French civil code.
+Similarly, state constitutions are the final source of authority for issues involving
+state law. So long as the state constitutional provision itself is not in conflict with the
+U.S. Constitution or federal law, then it will be the final decision on state laws. If a
+state law is constitutional (under both the state and, if challenged, U.S. Constitution),
+then it is the source of state authority for its particular subject.
+How Does It All Fit Together?
+The American legal system contains many different levels of written (codified) and
+unwritten (uncodified) laws. This is why it is sometimes hard to figure out what the
+“law” is with respect to a new situation. When an attorney or judge has to analyze
+the law that applies to a certain situation, he or she applies the rules of statutory
+construction for looking at an issue. The rules of statutory construction generally
+mean that the laws of the legislature (code law) are given greater deference than the
+laws of the courts (common law). If codes are in conflict with the common law, then
+the text of the code should control the outcome of the case. The problem in analysis
+occurs when a code has ambiguous terms.
+When reviewing a legal issue, an attorney or court might start by first reviewing
+whether the issue involves a question that can be answered by the U.S. Constitution
+or a state constitution. If the legal issue involves a question of federal law, the U.S.
+Constitution is the first authority that should be consulted. The same principle applies
+for questions of state law.
+If the legal issue cannot be resolved by looking at constitutional laws, the next
+step is to look at the code law. For federal issues, federal statutes would be
+reviewed. For state issues, state statutes would be reviewed. The attorney or court
+will look to see that the issue fits clearly within the scope of the code law. If the issue
+is clearly resolved by looking at code, then the analysis is complete.
+When the issue cannot be resolved by looking at the code, attorneys and lawyers
+turn to the common law to find the guidance needed to resolve the case. For federal
+issues, federal common law doctrine and federal court cases need to be reviewed.
+For state issues, state common law doctrines and court cases need to be reviewed.
+Key in the review of common law is the influential role of precedent, which is
+discussed later in this chapter.
+NOTE
+Legal issues are rarely resolved simply by looking at statutes. If they were, there would be little need for
+attorneys or courts. Often a statute is poorly written. For example, its terms and provisions could be
+ambiguous or open to interpretation. Sometimes statute writers simply do not anticipate the legal issue
+that is being considered. Attorneys and courts are needed to resolve ambiguities and new legal issues.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.Types of Law
+The legal system usually distinguishes between procedural law and substantive
+law. Substantive law is also known as subject matter law. Subject matter areas of
+law are areas in which an attorney might specialize. For instance, contract law, tort
+law, elder law, and intellectual property law are just some of the many different
+subject matter areas within the study of law. Attorneys often choose to specialize in a
+particular area of law simply because there are so many areas of study within the
+law.
+This section discusses the different types of procedural law. Procedural law deals
+with the processes that courts use to decide cases. Procedural areas of the law are
+designated to ensure due process, which means that all parties in a case are
+entitled to a fair and consistent process within the courts. There are three types of
+procedural law:
+Criminal
+Civil
+Administrative
+Civil
+Civil procedure deals with the procedures and processes that courts use to conduct
+civil trials. Civil trials concern claims between individuals. Substantive areas of law
+such as contract law and property law are civil law areas. The parties in these types
+of cases must follow civil procedure rules when bringing disputes to court.
+In the federal courts, a case begins when a complaint is filed with the court. A
+complaint is a court document that sets forth the names of the parties and the facts
+and legal claims. This is how a lawsuit begins.
+In the federal system, the rules outlining the civil trial process are found in the
+Federal Rules of Civil Procedure. These rules are made by the Supreme Court and
+approved by Congress. State courts also have rules for how civil trials are
+conducted. Often state rules are based upon the Federal Rules of Civil Procedure.
+These rules were last updated in 2018.
+NOTE
+The rules for civil procedure can be complicated. The Federal Rules of Civil Procedure has 86 regular
+rules (not including special rules for admiralty or maritime claims).
+Most civil trial cases must be proven by a preponderance of the evidence. This
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.is the lowest level of proof in a civil case. Preponderance of the evidence means that
+it is more probable than not that an action (or wrong) took place. Although it is
+simplistic to express this standard as a percentage, preponderance of the evidence
+means the probability of an action taking place is greater than 50 percent. Some civil
+cases, such as actions to terminate parental rights, use the “clear and convincing
+evidence” standard. To meet this standard, a party must convince a court that it is
+more likely than not that an action (or wrong) took place.
+Criminal
+Criminal procedure deals with the rules that courts follow in criminal law cases. It
+also includes the processes for investigating and punishing crimes. The federal and
+state governments have criminal codes. These codes specify the actions that
+constitute a crime.
+Crimes are wrongs against society and are prosecuted by the government
+against an alleged wrongdoer. The federal or state official with the power to pursue
+criminal cases is called a prosecutor.
+In the federal system, the rules outlining the criminal trial process are called the
+Federal Rules of Criminal Procedure. State courts also have rules for how criminal
+trials are conducted. Most states have rules that are modeled after the federal rules.
+Most criminal law cases are tried in front of a jury, which decides questions of fact.
+The judge’s role is to watch over the proceedings and decide questions of law.
+The standard of proof for most criminal cases is beyond a reasonable doubt.
+This is the highest level of persuasion that a prosecutor must meet. This burden is
+met when a prosecutor proves to a jury that there can be no reasonable doubt in the
+mind of a reasonable person that a defendant is guilty. The reasonable doubt
+standard does not mean that the reasonable juror is 100 percent convinced that a
+defendant is guilty. It does mean, however, that a juror must be fully satisfied that
+reasonable doubt has been eliminated.
+Burdens of Proof in the O.J. Simpson Trials
+The different burdens of proof for different types of cases can be confusing. The O.J. Simpson criminal and
+civil trials best illustrate the basic difference between criminal and civil law.
+In June 1994, Nicole Brown Simpson and Ronald Goldman were murdered. Five days later O.J. Simpson
+was arrested for those murders. Simpson pleaded “not guilty” to the charges in late July 1994. In October
+1995, a criminal jury announced that it found O.J. Simpson “not guilty” of the murders.
+In May 1995, the Goldman family and Nicole Brown Simpson’s estate filed civil wrongful death actions
+against O.J. Simpson. In February 1997, the civil jury found Simpson liable for the deaths of Ronald Goldman
+and Nicole Brown Simpson. Finding a defendant liable in a civil case is the rough equivalent of a guilty finding
+in a criminal case. It means that the defendant is held responsible for the action that is complained about.
+O.J. Simpson was found “not guilty” of murder in the criminal case, but he was found liable in the civil case.
+The reason for the apparently inconsistent results is that the murder case was tried in the criminal system
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.and the wrongful death case was a civil action. There are different burdens of proof in each system.
+A government has such a high burden of proof to meet in criminal cases because
+a criminal penalty usually includes jail time, financial penalties, or even a death
+sentence. These penalties infringe on fundamental rights to liberty, property, and life.
+Therefore, a government may impose these penalties only with very strong proof
+that a person has committed the crime.
+Administrative
+Administrative procedure sets forth the process under which administrative
+agencies make and enforce rules. The federal government and most states delegate
+some regulatory and enforcement functions to administrative agencies.
+Governments delegate some of these functions in very detailed ways and for very
+specific reasons. When governments delegate power in this way, it is possible to
+have an agency that creates rules (a legislative function), enforces rules (an
+executive function), and reviews rules (a judicial power). Agency power is a
+combination of the power of all three branches of government.
+The actions of these agencies are the focus of administrative procedure.
+Because these agencies are carrying out a function of the government, there must
+be processes put in place to ensure that all persons appearing before agencies are
+dealt with in a fair and consistent manner. At the federal government level, the
+Administrative Procedure Act (1946) helps define the federal administrative process.
+This act states the procedures for agency rulemaking, enforcement, and review.
+The Administrative Procedure Act also allows U.S. federal courts to review
+agency decisions. There is a different burden of proof for administrative cases. In
+these cases, an administrative decision is valid so long as it is not “arbitrary and
+capricious” or an abuse of the law. An arbitrary and capricious decision is one made
+without a reasonable connection between the facts of the case and the
+administrative outcome.
+FIGURE 3-3 shows the burden-of-proof hierarchy in administrative, civil, and
+criminal cases.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.FIGURE 3-3
+Burden-of-proof hierarchy.
+Description
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.The Role of Precedent
+The doctrine of precedent is one of the most important traditions in the American
+legal system. This doctrine means that courts will look at the decisions made in prior
+cases to determine the appropriate resolution for new cases.
+For example, the U.S. Supreme Court has the power to decide cases that involve
+questions about the federal Constitution and other federal laws. The Supreme Court
+is the final authority on cases heard in the federal court system. If other, lower courts
+in the federal system have a new case that concerns an issue that the Supreme
+Court has already addressed, those lower courts are required to follow the law as it
+was interpreted by the Supreme Court. State courts also must follow the decisions of
+the U.S. Supreme Court to the extent that the state court is reviewing issues that
+include U.S. constitutional or federal law.
+NOTE
+A case of first impression is a case for which there is no precedent. These cases raise a legal issue that
+has never before been decided.
+The doctrine of precedent also is referred to as the doctrine of stare decisis,
+which means “to stand by things decided” in Latin. Stare decisis means that lower
+courts must follow the decisions of the court above it so long as those decisions are
+relevant to the case that the lower court is deciding.
+Without precedent and its related concepts, there can be no predictability in the
+law. Precedent makes the law stable. The U.S. Supreme Court has recognized the
+value of precedent numerous times. In 1932, Justice Louis Brandeis stressed the
+importance of precedent when he wrote, “Stare decisis is usually the wise policy,
+because in most matters it is more important that the applicable rule of law be settled
+than that it be settled right.” 11 Precedent is used to ensure that laws are fairly and
+consistently applied.
+The doctrine of precedent is not absolute. Precedent can change when it is
+apparent that society’s values on a particular issue have changed. Precedent also
+can change when a high court finds that the application of precedent is
+unreasonable. In Payne v. Tennessee (1991), Chief Justice William Rehnquist wrote,
+“Adhering to precedent is usually the wise policy, because, in most matters, it is
+more important that the applicable rule of law be settled than it be settled right.
+Nevertheless, when governing decisions are unworkable or are badly reasoned, this
+Court has never felt constrained to follow precedent. Stare decisis is not an
+inexorable command; rather, it is a principle of policy and not a mechanical formula
+of adherence to the latest decision.” 12
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.NOTE
+A landmark court decision is a decision that establishes new precedent. Landmark cases can significantly
+change how the legal system views and interprets the law. Many of the cases discussed in this book are
+landmark cases.
+Overturning precedent is a milestone event for the law because it changes
+established legal principles. In essence, it changes the rules that judges and lawyers
+follow. Plessy v. Ferguson (1896) and Brown v. Board of Education (1954) are two
+cases that dramatically illustrate how precedent changes as society evolves.
+In Plessy v. Ferguson, the U.S. Supreme Court legalized racial segregation
+practices. These practices also were known as “separate but equal” practices. In this
+case, Homer Plessy boarded a train in Louisiana. Plessy was seven-eighths white
+and one-eighth black. He sat in the whites-only train car. Louisiana law considered
+Plessy to be black and required him to sit in the blacks-only train car. Plessy refused
+and was subsequently arrested.
+In Plessy, the plaintiff argued that these separate but equal practices violated the
+Fourteenth Amendment of the U.S. Constitution. The Fourteenth Amendment
+requires that all citizens be provided equal protection under law. In its decision, the
+Court held that separate but equal practices, such as having train cars segregated
+based upon race, were not inherently unequal. The Court stated that these practices
+did not violate the U.S. Constitution. For almost 60 years, “separate but equal” was
+the law. The court’s ruling was used to justify several discriminatory “Jim Crow”
+segregation laws used throughout the United States that segregated blacks and
+whites in schools, restaurants, restrooms, and public transportation. These laws
+were challenged again in the 1954 case, Brown v. Board of Education.
+The Brown case was a consolidation of five different cases from four different
+states that all addressed the same issue: racial segregation in public schools. In
+Brown, the plaintiffs argued that “separate but equal” practices were inherently
+unfair. They argued that in reality these practices perpetuated the inferior treatment
+of blacks and had a negative impact on black Americans. Plaintiffs, represented by
+the National Association for the Advancement of Colored People (NAACP),
+challenged the Court to overrule the precedent set in Plessy v. Ferguson.
+In Brown, a unanimous U.S. Supreme Court reversed its holding in Plessy. In
+Brown, Chief Justice Warren wrote, “We conclude that, in the field of public
+education, the doctrine of ‘separate but equal’ has no place. Separate educational
+facilities are inherently unequal. Therefore, we hold that the plaintiffs and others
+similarly situated for whom the actions have been brought are, by reason of the
+segregation complained of, deprived of the equal protection of the laws guaranteed
+by the Fourteenth Amendment.” 13
+The Brown decision was remarkable because the Court departed from the
+precedent set in Plessy. In fact, the Court specifically rejected the reasoning that it
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.had used to support its decision in Plessy. Brown established new legal precedent,
+that separate but equal laws are unconstitutional.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.Regulatory Authorities
+As discussed in the administrative procedure section, the federal government
+delegates some regulatory and enforcement functions to administrative agencies,
+typically subject matter expert agencies. These delegations are made because it
+would be impossible for Congress to make timely laws in some of the many different
+areas that are regulated by the federal government.
+According to the federal Administrative Procedure Act, an agency is any
+government authority besides Congress and the courts. Federal agencies fall under
+the executive branch of the government and are used to help carry out the day-to-
+day activities of the government. Agencies may have many different functions. For
+example, many of the laws in the United States are actually administered by
+regulatory agencies. These agencies create rules, enforce compliance, and hand out
+sanctions within their specified area.
+The president usually has the responsibility for overseeing the federal agencies.
+Federal agencies also can be created under other federal agencies. For instance,
+the U.S. Department of Agriculture oversees several different federal agencies.
+NOTE
+The oldest federal law enforcement agency is typically recognized as the U.S. Marshals Service, which
+was formed in 1789.
+Congress also can create independent agencies that report directly to it. One
+such independent federal agency is the Federal Trade Commission (FTC). Its
+mission is to promote consumer protection and eliminate practices that are harmful
+to competitive business in many areas of the economy. The FTC, created in 1914
+under the Federal Trade Commission Act, is one of the most important regulatory
+authorities for consumer and some business practices issues, including online
+business practices.
+The FTC reports to Congress on its actions. The FTC is led by five
+commissioners, who each serve a 7-year term. The commissioners are nominated
+by the president and confirmed by the Senate. The president also chooses one
+commissioner to act as chairman. To maintain the independence of the Commission,
+no more than three commissioners can belong to the same political party. The FTC
+has seven regional offices across the United States.
+Most federal agencies have the ability to make rules. The rulemaking authority of
+the FTC is described in the Federal Trade Commission Act, which states that the
+FTC can make “rules which define with specificity acts or practices which are unfair
+or deceptive acts or practices in or affecting commerce.” 14 The Act states the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.process for how the rules are made. After the FTC makes a rule, anyone who
+violates the rule can be sanctioned by the FTC.
+Regulatory authorities provide another type of law that must be considered when
+thinking about the American legal system. These administrative agencies have the
+power to create and enforce regulations that are considered equal to the law passed
+by the federal government. Individuals and organizations can be subject to penalties
+for violating agency rules.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.What Is the Difference Between Compliance
+and Audit?
+People often get compliance and audit confused, so it is helpful to understand these
+terms because you will encounter them often. Audit and compliance are often
+associated with legal activities, which is why they are included in this chapter.
+In the legal system, compliance is the action of following applicable laws and
+rules and regulations. Generally speaking, for an organization compliance involves
+not only following laws and regulations, but also following the organization’s own
+policies and procedures. Compliance must be documented. With respect to law, it is
+not enough to say that an organization is compliant. The organization must prove
+that it is compliant.
+Processes that might be used to demonstrate compliance include:
+Creating policies or other organizational governance documents to comply with
+legal or regulatory requirements
+Comparing compliance requirements against an organization’s daily practices, and
+modifying those practices as needed
+Developing and implementing monitoring systems in computer systems to alert the
+organization if security measures required by law or regulation are compromised
+Creating training and awareness activities that educate employees about
+compliance requirements
+Compliance not only includes the actual state of being compliant, but it also includes
+the steps and processes taken to become compliant. Compliance usually asks the
+questions: “What are the rules?” and “How must the rules be followed?” Compliance
+is demonstrated daily through processes and procedures.
+Audit is separate from compliance. An audit is an evaluation and verification that
+certain objectives are met. An audit can review laws, rules, regulations, policies, and
+procedures to ensure that an organization is complying with stated requirements.
+Audit looks at the processes that are put in place to meet compliance objectives and
+makes sure that those processes are accurate and are actually followed.
+Audits may occasionally be performed by independent organizations. An
+organization also can have an internal audit function that ensures that organizations
+are following its internal policies and procedures.
+An audit is an inspection at a fixed point in time. In the truest sense of the word,
+audits do not take place daily. An audit usually asks the questions: “Are the rules
+being followed?” and “How are the rules being followed?”
+Sometimes it is helpful to consider an example. Under the FTC’s Red Flags
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.Rule, 15 for instance, a covered organization is required to have a written identity theft
+prevention program. The program that is developed must provide for the
+identification, detection, and response to activities that could indicate identity theft.
+The compliance functions that must be met include:
+Identify activities that could indicate identity theft.
+Determine how the organization will detect such activities.
+Determine how the organization will respond to such activities.
+Create a written identity theft prevention program.
+Educate employees about their responsibilities in the identity theft prevention
+program.
+The questions that would be verified in an audit include:
+Did the organization properly identify activities that could indicate identity theft?
+Did the organization properly determine how it will detect such activities?
+Are the organization’s responses to activities appropriate to prevent identity theft?
+Did the organization create a written identity theft program?
+Was the identity theft program approved by management?
+Are employees meeting their responsibilities under the identity theft prevention
+program?
+Compliance is demonstrated by the processes and procedures that an organization
+uses to meet the law. Audit verifies that those processes and procedures actually do
+satisfy the legal requirements.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.How Do Security, Privacy, and Compliance Fit
+Together?
+Security, privacy, and compliance issues form a complicated web. Information
+security is the practice of protecting information to ensure the goals of confidentiality,
+integrity, and availability. Information security makes sure that accurate information is
+available to authorized individuals when it is needed.
+In contrast, privacy encompasses people’s right to have control of their personal
+data. Privacy means that a person has the right to specify how his or her data is
+collected, used, and shared. Information security practices can be used to make
+sure that a person’s privacy decisions are respected.
+NOTE
+Compliance requirements are often understood as the minimum level of action that a person or
+organization must take to meet legal or regulatory requirements. However, nothing prevents a person or
+organization from creating good information security or privacy practices that exceed legal minimum
+requirements. In fact, having good practices that exceed the minimum requirements set in applicable law
+or regulations is often seen as a competitive advantage.
+Organizations do not always do a good job of either information security or
+protecting privacy. For that reason, laws are enacted that force organizations to take
+a more structured approach to information security and privacy. To date, there have
+been no laws enacted in the United States that comprehensively address information
+security or data privacy. Instead, laws are made to protect certain types of
+information on an industry basis, such as laws regulating health data for the
+healthcare industry. Organizations that hold or process those types of information
+must follow the relevant laws. This text discusses some of these laws in the following
+chapters.
+When laws addressing information security or data privacy are enacted,
+organizations impacted by these laws must take actions to meet them. If an
+organization fails to meet its obligations, it can be subject to sanctions. Compliance
+is the action of following the applicable laws and rules and regulations. Compliance
+efforts are supported by documenting organizational controls and enhancing the
+capabilities of information systems to ensure information security.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.CHAPTER SUMMARY
+The American legal system, its history, and its processes regulate our
+behavior and contribute to an ordered society. Laws evolve over time. The
+American legal system is a reflection of the laws imposed by federal and
+state governments, longstanding traditions about right and wrong, and
+society’s values.
+Individuals and organizations must follow laws, rules, and regulations.
+Regulatory compliance is influencing security and privacy practices.
+Organizations must take a more structured approach to addressing
+information security and privacy issues in order to meet their compliance
+requirements.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.KEY CONCEPTS AND TERMS
+Administrative procedure
+Appellate jurisdiction
+Audit
+Beyond a reasonable doubt
+Civil procedure
+Code law
+Compliance
+Concurrent jurisdiction
+Criminal procedure
+Diversity of citizenship jurisdiction
+Due process
+Federal question jurisdiction
+Judicial review
+Jurisdiction
+Original jurisdiction
+Precedent
+Preemption
+Preponderance of the evidence
+Procedural law
+Substantive law
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.CHAPTER 3 ASSESSMENT
+1. What is the U.S. federal court of last resort?
+A.
+B.
+C.
+D.
+E.
+The U.S. Supremacy Court
+The U.S. District Court
+The Ninth Circuit Court of Appeals
+The Federal Court of Appeals
+The U.S. Supreme Court
+2. What is judicial review?
+A.
+B.
+C.
+D.
+E.
+The power of courts to review the decisions of other courts
+The power of courts to review laws
+The power of the president to review the decisions of the courts
+The power of Congress to review the decisions of the courts
+A variety show featuring people in wigs and black robes
+3. What is appellate jurisdiction?
+A.
+B.
+C.
+D.
+E.
+The power of some courts to review the decisions of others
+The power of courts to resolve disputes between individuals
+The process by which courts conduct civil trials
+The process by which courts conduct criminal trials
+The power of courts to declare a law unconstitutional
+4. What article of the U.S. Constitution sets forth the powers of the president?
+A.
+B.
+C.
+D.
+E.
+Article V
+Article IV
+Article III
+Article II
+Article I
+5. What is a case of first impression?
+A.
+B.
+C.
+D.
+E.
+The first case that court hears when it is in session
+A case that changes established precedent
+A case for which there is no established precedent
+A case that is appealed
+None of these is correct.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.6. The Federal Trade Commission is which type of federal agency?
+A.
+B.
+C.
+D.
+E.
+Independent
+Subordinate
+Coordinate
+Executive
+Congressional
+7. The doctrine of precedent is also known as ________.
+8. What is procedural law?
+A.
+B.
+C.
+D.
+E.
+Branches of law that deal with property cases
+Branches of law that set forth the structure of the judiciary system
+Branches of law that deal with following precedent
+Branches of law that deal with processes that courts use to decide cases
+None of these is correct.
+9. What is common law?
+A.
+B.
+C.
+D.
+A system of law inherited from England
+A system of law inherited from France
+A system of law that relies upon established legal principles and traditions
+A system of law inherited from France and a system of law that relies upon
+established legal principles and traditions
+E. A system of law inherited from England and a system of law that relies upon
+established legal principles and traditions
+10. Compliance is ________, audit is ________.
+A.
+B.
+C.
+D.
+E.
+Following the rules, verifying that the rules were followed
+Verifying that the rules were followed, following the rules
+Making the rules, enforcing the rules
+Enforcing the rules, making the rules
+None of these is correct.
+11. A federal agency is granted its authority by ________.
+12. Which U.S. Constitution clause describes Congress’ authority to regulate trade
+between states?
+A.
+B.
+C.
+D.
+The Supremacy Clause
+The Necessary and Proper Clause
+The Limitation of Powers Clause
+The Commerce Clause
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.E. The Impeachment Clause
+13. The U.S. Supreme Court has ________ justices.
+14. How many representatives are in the U.S. House of Representatives?
+A.
+B.
+C.
+D.
+E.
+100
+1,000
+435
+400
+50
+15. There are ________ federal district courts.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.ENDNOTES
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+U.S. Constitution, article VI.
+U.S. Constitution, article II, sec. 1.
+U.S. Constitution, article I, sec. 3.
+U.S. Constitution, article I, sec. 2.
+U.S. Constitution, article I, sec. 8, cl. 3.
+U.S. Constitution, article I, sec. 8, cl. 18.
+An entire generation of Americans learned about the lawmaking process from
+Schoolhouse Rock!, which was a series of animated educational videos about
+basic topics. You can watch the “I’m Just a Bill” video on YouTube at:
+https://youtu.be/FFroMQlKiag.
+U.S. Code Vol. 28, sec. 1332.
+U.S. Constitution, amendment X.
+U.S. Constitution, article VI, sec. 2.
+Burnet v. Coronado Oil & Gas Co., 285 U.S. 393, 406 (1932) (Justice Louis
+Brandeis dissenting).
+Payne v. Tennessee, 501 U.S. 808, 809 (1991) (internal citations and
+punctuation omitted).
+Brown v. Board of Education, 347 U.S. 483, 495 (1954).
+Federal Trade Commission Act (1914), U.S. Code Vol. 15, sec. 57a (2006).
+Identity Theft Red Flags Rule, Code of Federal Regulations, Title 16, sec. 681.2.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.© mirjanajovic/DigitalVision Vectors/Getty Images
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.PART II
+Laws Influencing Information Security
+CHAPTER 4 Security and Privacy of Consumer Financial Information
+CHAPTER 5 Security and Privacy of Information Belonging to
+Children and in Educational Records
+CHAPTER 6 Security and Privacy of Health Information
+CHAPTER 7 Corporate Information Security and Privacy Regulation
+CHAPTER 8 Federal Government Information Security and Privacy
+Regulations
+CHAPTER 9 State Laws Protecting Citizen Information and Breach
+Notification Laws
+CHAPTER 10 Intellectual Property Laws
+CHAPTER 11 The Role of Contracts
+CHAPTER 12 Criminal Law and Tort Law Issues in Cyberspace
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:39:05.

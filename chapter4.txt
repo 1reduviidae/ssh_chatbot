@@ -1,0 +1,1310 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+CHAPTER
+4
+Security and Privacy of Consumer
+Financial Information
+DENTITY THEFT IS a rapidly growing crime. Consumer financial information is a
+gold mine for an identity thief, who can use this information to establish a new
+identity. Identity theft victims spend time and money repairing damage caused by
+identity thieves to restore their good name and their credit. Identity theft is a crime
+that can have a large impact on a person’s financial situation.
+I
+Banks and other financial institutions use consumer financial information when
+they conduct business with their customers. This information is valuable and must be
+protected. The 2019 Verizon Data Breach Investigation Report stated 71 percent of
+the data breaches that it analyzed were motivated by financial gain. The financial
+industry is one of the top industries targeted. 1 This chapter focuses on the laws and
+regulations that financial institutions must follow to protect the security and privacy of
+consumer financial information.
+Chapter 4 Topics
+This chapter covers the following topics and concepts:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.What the business challenges facing financial institutions are
+What the different types of financial institutions are and who regulates
+them
+What consumer financial information is
+What the Gramm-Leach-Bliley Act is
+What the Federal Trade Commission Red Flags Rule is
+What the Payment Card Industry Standards are
+What some case studies and examples are
+Chapter 4 Goals
+When you complete this chapter, you will be able to:
+Describe the business challenges facing financial institutions
+Define a financial institution and consumer financial information
+Explain the main information security and privacy protections of the
+Gramm-Leach-Bliley Act
+Describe the Federal Trade Commission Red Flags Rule
+Describe the Payment Card Industry Standards
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Business Challenges Facing Financial
+Institutions
+Media reports about financial institutions experiencing a data breach are not
+unusual:
+In 2019, Capital One reported a data breach involving sensitive information from
+over 100 million people. The hacker was a former employee at a cloud computing
+company used by Capital One.
+Equifax, a national credit reporting agency, reported a data breach in 2017.
+Hackers stole Social Security numbers (SSNs) and other personal information of
+143 million Americans.
+In 2013, U.S. authorities arrested seven people who were part of a hacking
+network that targeted financial institutions around the world. The thieves used the
+data that they stole to withdraw over $45 million in cash from ATMs around the
+world.
+Heartland Payment Systems reported that hackers accessed its computer
+systems in late 2008. This company processed 100 million payroll and credit card
+payments per month for more than 250,000 businesses. The hackers might have
+had access to the system for a couple of weeks. The company reported over $170
+million in losses from the breach. 2
+A Wyoming bank employee accidentally sent an electronic file to an incorrect
+email address in 2009. The file contained the personal information of 1,300 bank
+customers.
+Financial institutions collect and use sensitive consumer financial information and
+face many challenges in protecting this data. These challenges come from external
+threats such as hackers, as well as from insiders, and include malicious and
+nonmalicious actions. Scams that target financial institution customers include:
+NOTE
+Although definitions may vary slightly, a mega-breach is a data breach affecting more than 10 million
+people.
+Phishing scams designed to steal banking account credentials
+Identity theft schemes that borrow money or pass counterfeit checks in the victim’s
+name
+Mortgage foreclosure scams designed to defraud customers of money
+Investment scams with high-pressure sales tactics
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Tax scams from attackers demanding money for overdue taxes
+Consumers demand that financial institutions protect their data and their money.
+They also want financial institutions to protect them from financial harm if this data is
+disclosed or stolen.
+Consumers are not the only victims of identity theft. Financial institutions become
+identity theft victims when thieves use a consumer’s financial information to do
+business with the institution. Identity thieves can open bank accounts in the victim’s
+name and write bad checks, create counterfeit checks to use on a victim’s account,
+or take out loans in the victim’s name. Many bank rules and regulations force
+financial institutions to bear the cost of many of these actions. A recent study
+estimated that the global banking industry had over $18 million in cybercrime-related
+costs in 2018. 3
+The financial industry is highly regulated. These institutions must follow
+regulations designed to protect the security and privacy of data that they collect and
+use, which place a compliance burden on financial institutions.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The Different Types of Financial Institutions
+The National Bank Act of 1864 established the national banking system in the United
+States. 4 The Act still governs U.S. national banks even though Congress has
+updated it many times since 1864. Understanding the types of organizations that are
+considered financial institutions is important to understanding how the national
+banking system works. Most people know that financial institutions include banks
+and credit unions. Other organizations that provide financial services to customers
+include:
+Savings and loan associations
+Finance companies
+Insurance companies
+Investment companies
+Several laws also define the types of organizations that are considered financial
+institutions. For example, the Fair Credit Reporting Act of 1970 (FCRA) defines
+financial institutions as banks, savings associations, and credit unions. 5 It also
+includes any organization that holds a transaction account on behalf of a customer
+as a financial institution. This law has a very specific definition.
+Not all laws are that precise. The Bank Secrecy Act of 1970 has a long list of
+organizations that are financial institutions for the purposes of that law. The list
+includes banks, securities brokers, insurance companies, and pawnbrokers. 6
+The Bank Secrecy Act of 1970 also is known as the Currency and Foreign
+Transactions Reporting Act. 7 Congress created this law to fight drug trafficking,
+money laundering, and other crimes. The Act keeps banks and other financial
+institutions from being used by criminals to hide or transfer money and tries to keep
+criminals from profiting from illegal acts. The definition of a financial institution is
+broad for this reason.
+The Gramm-Leach Bliley Act (GLBA) defines a financial institution as an
+institution that conducts financial activities. 8 This law, which is discussed later in this
+chapter, then points to the Bank Holding Company Act of 1956 for a list of actions
+that are considered financial activities. These include lending, exchanging, or
+investing money. They also include insurance and other financial advising services. 9
+You must read laws carefully since different laws may define the same term in
+different ways. It is always important to make sure that you understand how terms
+are used in each law.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Consumer Financial Information
+A consumer is a person who buys goods or services. Consumer information is the
+personally identifiable information that a person provides to get a good or service. In
+the financial industry, customers provide their information to get services from banks
+or other financial institutions. People use it to get home or car loans, apply for credit
+cards, or open checking accounts.
+Items that a person buys for personal, family, or household use are called
+consumer goods. Services that a person buys for personal, family, or household
+use are called consumer services. These terms are not used to refer to goods or
+services purchased by a business.
+Consumer financial information includes many items other than a person’s name.
+It can include:
+SSNs
+Driver’s license numbers
+Address and telephone numbers (current and former)
+Employment history (current and former)
+Income information
+Consumer financial information also can include a spouse’s employment and income
+history. It is all information that a consumer provides to a financial institution to get a
+product or service.
+FYI
+Many people access their banking accounts through online bank websites. A 2019 survey from the
+American Bankers Association showed 70 percent of consumers use their mobile devices to manage their
+bank accounts. 10 Some people also have multiple accounts at multiple banks. To protect your financial
+information, use different strong passwords for each online account. Always enable multifactor
+authentication if that option is available to you.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Who Regulates Financial Institutions?
+Several different federal agencies regulate the different kinds of financial institutions.
+This section focuses briefly on those agencies. These agencies enforce the
+consumer protection laws discussed later in this chapter. State governments may
+also regulate financial institutions. However, this chapter does not discuss that type
+of regulation.
+There are four federal regulatory agencies for U.S. financial institutions. These
+agencies make sure that U.S. financial institutions are sound, which means they are
+financially healthy and safe. These agencies also make sure that their institutions
+follow federal law. The federal bank regulatory agencies are:
+The Federal Reserve System
+The Federal Deposit Insurance Corporation
+The National Credit Union Administration
+The Office of the Comptroller of the Currency
+TABLE 4-1 summarizes the agencies and the financial institutions that they regulate.
+TABLE 4-1 Federal Banking Regulatory Agencies
+AGENCY NAME
+PRIMARY REGULATORY RESPONSIBILITY
+Federal Reserve System (The Fed) State-chartered member banks
+Bank holding companies
+Foreign banks that operate in the United States
+Foreign branches of U.S. member banks
+Federal Deposit Insurance Corporation (FDIC) Federally insured depository institutions
+State-chartered banks that are not members of the
+Fed
+National Credit Union Administration (NCUA) Federally chartered credit unions
+Federally insured credit unions
+Office of the Comptroller of the Currency (OCC) Nationally chartered banks
+Federal savings associations
+U.S. federal branches of foreign banks
+The Federal Reserve System
+Congress created the Federal Reserve System in 1913. The Federal Reserve Act of
+1913 was passed to address financial uncertainty. 11 Bank and business failures were
+having a tremendous impact on the U.S. economy. The Federal Reserve Act was
+intended to provide the nation with a more stable economy.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.NOTE
+The U.S. Gross Domestic Product (GDP) fell by 4.8 percent during the first quarter of 2020. This was a
+result of the 2020 COVID-19 nationwide public health emergency. 12
+The Federal Reserve System is the central bank of the United States. 13
+Essentially, it is a bank for other banks, as well as a bank for the federal government.
+The Fed, an independent federal agency that reports directly to Congress, is
+responsible for directing the nation’s monetary policy and maintaining the stability of
+the U.S. financial system.
+In addition to serving as the bank for the U.S. government, the Fed is the main
+regulatory authority for:
+NOTE
+The Federal Reserve System is also known as “the Fed.”
+State-chartered banks that choose to become members of the Federal Reserve
+System
+Bank holding companies. The Fed also supervises companies that control banks
+(called bank holding companies)
+Foreign banks that operate in the United States
+Foreign branches of U.S. member banks.
+State-chartered banks are not required to become Fed members. State-chartered
+banks that are not Fed members are regulated by the Federal Deposit Insurance
+Corporation (FDIC). National banks are required to be members of the Federal
+Reserve System, but they are not regulated by the Fed. The Fed supervises and
+examines the financial institutions that it regulates to make sure that those
+institutions are complying with the law. Because many different agencies regulate
+banks, the Fed’s enforcement authority extends to state member banks of the Fed
+and some foreign banks that operate in the United States.
+The structure of the Fed includes a Board of Governors, located in Washington,
+DC, and 12 regional Federal Reserve banks. The Board consists of seven members
+who are nominated by the president and must be confirmed by the Senate. Each
+member serves for a single 14-year term. The terms of each member are staggered
+so that only one term expires at a time. The chair and vice-chair of the Board of
+Governors are also nominated by the president and confirmed by the Senate. These
+positions are filled by current members of the Board of Governors, who serve in
+these positions for a 4-year term.
+There are 12 regional Federal Reserve banks located throughout the United
+States that serve different geographic districts. These Reserve Banks have 24
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.branches that carry out a variety of banking functions. The main customers of the
+Reserve Banks are other banks; the Reserve Banks hold the cash reserves of other
+institutions and distribute U.S. currency and coin within their region. They also
+supervise and review member banks to make sure that they are sound. FIGURE 4-1
+illustrates the structure of the Federal Reserve System.
+FIGURE 4-1
+The structure of the U.S. Federal Reserve System.
+Description
+NOTE
+A depositor is a person who has deposited money into an account at a bank. Deposit accounts allow
+money to be added and withdrawn by the account owner. A savings or checking account is a type of
+deposit account, whereas an investment account is not a deposit account.
+Federal Deposit Insurance Corporation
+The FDIC was formed in 1933 to provide deposit insurance to banks. Congress
+formed the FDIC originally as a temporary government corporation under the
+Banking Act of 1933. 14 The FDIC was formed in response to bank failures during the
+Great Depression.
+NOTE
+From 1929 to 1933, bank failures resulted in about $1.3 billion in losses to depositors.
+No depositor has lost any money on insured funds because of a bank failure
+since FDIC insurance began on January 1, 1934. 15 Congress made the FDIC a
+permanent federal agency in 1935 under the Banking Act of 1935.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The FDIC insures deposits made in banks and savings associations. The FDIC
+ensures deposit accounts only. It does not insure securities or mutual funds. When
+the FDIC was formed in 1933, the original deposit insurance limit was $2,500. In
+2020, the deposit insurance limit was 100 times that amount, or $250,000.
+NOTE
+To help protect the U.S. economy during the recession in 2008 to 2009, Congress raised the FDIC
+insurance amount to $250,000 per depositor.
+The FDIC insures deposit accounts in almost every bank in the United States for
+protection in the event of a bank failure. If a bank fails, the FDIC returns the money
+that a customer put in the bank, up to the deposit insurance limit. However, the FDIC
+works to prevent bank failures by monitoring the economy. It also enforces
+regulations that require banks to act in a sound manner. All national banks are
+required by law to be insured by the FDIC.
+The FDIC, the primary federal regulator for state-chartered banks that do not join
+the Federal Reserve System, examines and supervises over 3,000 banks. The FDIC
+reviews the banks that it regulates to make sure that those institutions are complying
+with the law.
+The FDIC has a five-member board of directors. Three of the directors are
+appointed by the president and confirmed by the Senate. These members each
+serve 6-year terms. The other two members of the board are the government
+officials who serve as the comptroller of the currency and the director of the
+Consumer Financial Protection Bureau (CFPB). No more than three of the members
+of the FDIC board may be from the same political party. The chair and vice-chair of
+the board of directors are also nominated by the president and confirmed by the
+Senate. These positions are filled by current members of the board and have 5-year
+terms. The FDIC has eight regional offices.
+National Credit Union Administration
+Congress enacted the Federal Credit Union Act in 1934. 16 That law allowed federally
+chartered credit unions to form. The National Credit Union Administration (NCUA) is
+an independent federal agency formed in 1970. 17 Its role is to charter and supervise
+federal credit unions.
+A credit union is a cooperative financial organization that can have federal, state,
+or corporate affiliations. Members of a credit union share the same affiliation. They
+might live in the same city or work for the same employer. A credit union is a
+nonprofit institution that is run by its members, who pool their money together at a
+credit union to save and make loans to one another.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.NOTE
+Federal credit unions often use the word federal in their name. They may also use the initials F.C.U., or
+“federal credit union.”
+The NCUA operates the National Credit Union Share Insurance Fund (NCUSIF),
+created by Congress in 1970. All federal credit unions must be insured by the
+NCUSIF. This fund also insures deposits in state-chartered credit unions that qualify
+for the fund. The NCUSIF operates similar to the deposit insurance provided by the
+FDIC. It protects almost 95 million federal credit union account holders. It also
+insures a majority of state-chartered credit unions.
+NOTE
+No credit union member has lost any money on deposit accounts because of the failure of credit unions
+insured by the NCUSIF.
+The NCUA supervises all federal credit unions and NCUSIF-insured state credit
+unions. It also issues guidance and enforces the provisions of the Federal Credit
+Union Act. The NCUA is the regulatory enforcement authority for federal credit
+unions, and it shares enforcement authority for some laws with other federal
+agencies. The NCUA enforces the GLBA consumer privacy provisions for federal
+credit unions. The FTC enforces those provisions for federally insured, state-
+chartered credit unions.
+The NCUA has a three-member board of directors. The president nominates
+board members, who then must be confirmed by the Senate. Board members serve
+6-year terms. Their terms are staggered so that only one term expires at a time. No
+more than two board members can be from the same political party. The NCUA has
+five regional offices across the United States that charter and supervise federal
+credit unions in their regions.
+Office of the Comptroller of the Currency
+The Office of the Comptroller of the Currency (OCC) was originally established in
+1863. 18 The National Bank Act of 1864 is the law that authorizes the OCC today. The
+OCC, which is a part of the U.S. Department of the Treasury, charters and
+supervises national banks and federal savings associations. Federal savings
+associations, also called thrifts, are organizations that accept savings account
+deposits and then invest the proceeds of those deposits in home mortgages.
+National banks and federal savings associations are members of the Federal
+Reserve System and are required to be insured by the FDIC.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.NOTE
+In July 2011, the Office of Thrift Supervision became part of the OCC. Before becoming part of the OCC,
+the Office of Thrift Supervision was the entity responsible for regulating federal savings associations.
+The OCC is led by a comptroller who is appointed by the president, confirmed by
+the Senate, and serves a 5-year term. The comptroller also serves as a member of
+the board of directors of the FDIC. The OCC supervises and regulates about 1,400
+national banks and federal savings associations. It has the authority to enforce laws
+and regulations against national banks and federal savings associations.
+NOTE
+National banks often use the word national or the phrase national association in their name. They also
+may use the initials “N.A.”
+FYI
+Federal savings banks and savings and loan associations often use the words federal, federal association,
+federal savings bank, or federal savings and loan association in their name. They also may include initials
+for those terms, such as “F.A.,” “F.S.B.,” or “F.S.L.A.”
+Special Role of the Federal Financial Institutions
+Examination Council
+Congress established the Federal Financial Institutions Examination Council (FFIEC)
+in 1979. It was created by the Financial Institutions Regulatory and Interest Rate
+Control Act of 1978 (FIRA). 19 The FFIEC promotes uniform practices among the
+federal financial institutions and their regulators. Its purpose is to:
+Establish principles and standards for the examination of federal financial
+institutions.
+Develop a uniform reporting system for federal financial institutions.
+Conduct training for federal bank examiners.
+Make recommendations regarding bank supervision matters.
+Encourage the adoption of uniform principles and standards by federal and state
+banks. 20
+The council has six members. They are:
+The chair of the FDIC
+The chair of the NCUA
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The comptroller from the OCC
+The director of the CFPB
+A member of the Board of Governors of the Fed
+The chair of the FFIEC State Liaison Committee
+The chair of the FFIEC serves for 2 years. The chair position rotates among
+members of the council. The member agencies fund the FFIEC.
+NOTE
+An examination is the periodic evaluation of a bank, which includes a review of the health of the bank and
+its compliance with banking regulations. An examination might include a review of management and
+operations, as well as the bank’s policies. A bank examiner is the person who conducts this review.
+The FFIEC has six task forces. Representatives from each agency serve on each
+task force, which includes at least one senior official from each of the member
+agencies: 21
+Consumer compliance—This task force promotes a uniform approach to
+consumer protection laws and regulations. It develops proposed policies and
+procedures for the agencies to use in their regulatory activities.
+Examiner education—This task force oversees the FFIEC’s intra-agency
+examiner education programs. The task force also develops specific programs in
+response to requests from the FFIEC or its members.
+Information sharing—This task force promotes sharing electronic information
+among FFIEC members to help them meet their regulatory responsibilities.
+Reports—This task force establishes uniform financial reports for FFIEC
+members.
+Supervision—This task force establishes supervision and examination
+procedures for FFIEC members. Its purpose is to help reduce regulatory burden
+by promoting effective supervision and examination practices.
+Surveillance systems—This task force develops systems to monitor the financial
+condition and performance of financial institutions.
+The FFIEC is required to submit an annual report to Congress on its activities. The
+FFIEC does not regulate financial institutions because it has no authority to do so.
+The federal agencies carry out their own enforcement actions against banks in their
+jurisdiction.
+Special Roles of the Consumer Financial Protection
+Bureau and the Federal Trade Commission
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The CFPB and the Federal Trade Commission (FTC) are two entities that have
+consumer protection functions.
+Consumer Financial Protection Bureau
+The CFPB was created in 2010, 22 and its purpose was to protect consumers in the
+financial industry. Unlike the Fed, FDIC, NCUA, and OCC, which regulate financial
+institutions directly, the CFPB focuses solely on consumers. The CFPB is an
+independent agency that ensures that all consumers have access to financial
+products and services. It also ensures that financial products and services are
+offered in ways that are fair and competitive. The CFPB has the authority to examine
+financial institutions to ensure that the institutions are complying with federal
+consumer financial laws.
+The CFPB is led by a director who is nominated by the president and confirmed
+by the Senate. The CFPB has six primary divisions and several advisory
+committees, including:
+Consumer advisory board
+Community bank advisory council
+Credit union advisory council
+Academic research council
+Federal Trade Commission
+The FTC is an independent federal agency created by Congress in 1914 under the
+Federal Trade Commission Act. 23 Similar to the CFPB, the FTC is an important
+regulatory authority for consumer protection issues. The mission of the FTC is to
+protect consumers and make sure that business is competitive. It tries to eliminate
+practices that are harmful to business. The FTC has responsibilities under 46
+different federal laws. Most of these laws include consumer protection elements.
+Under the Federal Trade Commission Act, the FTC can investigate “the
+organization, business, conduct, practices, and management of any person,
+partnership, or corporation engaged in or whose business affects commerce.” 24 It
+also can stop unfair and deceptive acts or trade practices. 25 Most of the FTC’s
+authority comes from this law. The FTC makes and enforces rules for some parts of
+the financial industry. However, the FTC cannot regulate banks, thrifts, or federal
+credit unions—the other federal banking regulatory agencies already regulate them.
+The FTC does enforce laws at nonbanking institutions such as consumer finance
+companies, debt counseling companies, and credit bureaus.
+The FTC is led by five commissioners. Each commissioner serves a 7-year term.
+They are nominated by the president and confirmed by the Senate. The president
+also chooses one commissioner to act as the chair. To maintain the independence of
+the FTC, no more than three commissioners can belong to the same political party. 26
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The FTC has seven regional offices across the United States.
+NOTE
+Unfair trade practices are business practices that a consumer cannot avoid and that cause injury.
+Deceptive trade practices are any business practices that include false or misleading claims.
+In 2012 the CFPB and the FTC signed an agreement to coordinate their efforts to
+protect consumers. 27 The agreement also helped to avoid duplication of effort
+between the two agencies. As part of the agreement, the agencies agreed to meet
+regularly and to coordinate their rulemaking efforts. They also agreed to share
+consumer complaints. Both agencies work closely with federal banking regulatory
+agencies when enacting rules to protect consumer financial information.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The Gramm-Leach-Bliley Act
+Congress passed the Gramm-Leach-Bliley Act (GLBA), also known as the Financial
+Services Modernization Act of 1999, in 1999. 28 It is the primary law governing the
+protection of consumer financial information. The law made great changes in the
+banking industry, allowing banks, securities, and insurance companies to merge,
+which was not allowed before the law. The financial industry urged Congress to pass
+the law so that customers could use one company for all their financial needs.
+GLBA allowed large companies to merge. In doing so, these new, larger
+corporations would have access to sizable amounts of consumer financial
+information. Therefore, people feared that their privacy would suffer. This fear was
+not unreasonable, because financial institutions often sold customer banking
+information to other companies. To help alleviate this fear, Congress included privacy
+protections in the GLBA.
+Purpose, Scope, and Main Requirements
+GLBA applies to financial institutions. It defines a financial institution as any
+institution that engages in financial activities. The definition of financial activities is
+very broad. It includes borrowing, lending, providing credit counseling, debt
+collection, and other activities. 29
+The law requires financial institutions to protect a customer’s nonpublic financial
+information. It states that “each financial institution has an affirmative and continuing
+obligation to respect the privacy of its customers.” 30 This means institutions must
+provide privacy and security protections to its customers and the customers’
+nonpublic personal information (NPI).
+Nonpublic personal information is personally identifiable financial information that
+a consumer gives to a financial institution. 31 NPI also includes private information
+that an institution gets from other sources. It also includes lists or descriptions of
+consumers that are prepared by using this kind of information. NPI can be in paper
+or electronic form and includes:
+SSN
+Financial account numbers
+Credit card numbers
+Date of birth
+Name, address, and phone numbers when collected with financial data
+Details of any transactions or the fact that an individual is a customer of a financial
+institution
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.NPI does not include publicly available information about a consumer. Publicly
+available personal information is available to the general public. It can be made
+public through state or federal records or disclosures that are required by law.
+Information can be made public in different ways, such as records filed in a county
+recorder’s office. Financial institutions cannot assume that certain types of
+personally identifiable information are publicly available. They must take reasonable
+steps to make sure that information is actually publicly available if they want to claim
+that it is publicly available.
+NOTE
+A person’s address in a phone book is publicly available.
+GLBA requires financial institutions to follow three main rules to protect consumer
+financial information:
+Privacy Rule
+Safeguards Rule
+Pretexting Rule
+GLBA applies to consumer financial transactions. These are transactions made for
+personal, family, or household services. GLBA does not apply to business
+transactions.
+The Privacy Rule
+Under the GLBA Privacy Rule, 32 a financial institution may not share NPI with non-
+affiliated third parties unless the institution gives notice to the consumer. The notice
+must tell consumers about the types of data that the institution collects and how it
+uses that information. This is called a notice of privacy practices. GLBA also requires
+that consumers have a chance to opt-out of some data sharing. The GLBA Privacy
+Rule went into effect on July 1, 2001.
+FYI
+Congress originally gave the federal bank regulatory agencies, the Securities and Exchange Commission
+(SEC), and the FTC the authority to create rules to enforce the GLBA privacy provisions. All of the
+agencies created and issued similar regulations that are tailored for their respective oversight areas. In
+2010, the Dodd-Frank Act 33 transferred the rulemaking authority to the CFPB. The CFPB then restated the
+implementing regulations in a document known as Regulation P. 34
+GLBA distinguishes between customers and consumers for its notice
+requirements: 35
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.A customer is a consumer who has a continuing relationship with a financial
+institution. An institution must give a customer written notice of its privacy
+practices as soon as the customer relationship begins.
+A consumer is any individual who obtains a consumer financial product or service
+from a financial institution. A financial institution does not have to give consumers
+notice of its privacy practices if it does not share its consumers’ NPI with
+nonaffiliated parties.
+A person is a customer of a financial institution if he or she has an ongoing
+relationship with the institution. For example, a person with a checking or savings
+account at a bank has an ongoing relationship with that bank. An example of a
+consumer without a customer relationship is a person who withdraws cash from an
+ATM machine that does not belong to his or her personal bank.
+GLBA requires that certain information be included in the privacy notice. 36 For
+example, the financial institution must describe the types of NPI that it collects. It
+must disclose how it shares NPI with affiliated and nonaffiliated third parties. Finally,
+it must state how it protects a customer’s NPI. Customers must receive a copy of the
+privacy notice annually for as long as the customer relationship continues.
+NOTE
+A nonaffiliated party is an entity that is not legally related to a financial institution. Affiliated parties, in
+contrast, have a legal relationship of some kind. An affiliated party is an entity that controls, is controlled
+by, or is under the common control of another entity. Affiliates are businesses that are within the same
+corporate family.
+The privacy notice also must provide a customer with an opportunity to stop a
+financial institution from sharing the customer’s NPI with nonaffiliated third parties. 37
+This is called an “opt-out” provision. The privacy notice must tell customers how to
+opt-out. If a customer does not opt-out, then the financial institution can share NPI in
+the ways described by its privacy notice.
+GLBA does not give customers the right to opt-out of situations where a financial
+institution shares NPI with its affiliates. There are also some instances where
+customers cannot opt-out at all. For example, customers cannot opt-out of a
+disclosure that is required by law.
+NOTE
+The FCRA also allows customers to opt-out of some types of information sharing. Under that law,
+customers can stop financial institutions from sharing their credit report or credit applications with affiliates.
+GLBA privacy notices must include this disclosure.
+GLBA did not specify how a financial institution should write its notice of privacy
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.practices. Many of the first-created notices were hard to read because they
+contained legal and complex language. That made it difficult for people to
+understand their rights. It was also very hard to compare the privacy policies of
+different financial institutions.
+After customers complained about the hard-to-read notices, Congress responded
+quickly. The Financial Services Regulatory Relief Act of 2006 amended the GLBA
+Privacy Rule so that it required the agencies responsible for enforcing the Privacy
+Rule to propose a model form for privacy notices. Congress directed that this model
+form should be easy to read and understand.
+NOTE
+In 2001, the Privacy Rights Clearinghouse studied the privacy notices of 60 financial institutions. The study
+found that most notices were written at a third- or fourth-year college reading level. 38
+On November 17, 2009, the federal bank regulatory agencies, the SEC, and the
+FTC announced that they had completed the model form. 39 All of the agencies
+amended their privacy regulations to include use of it. The agencies made an online
+form builder available in April 2010. The Model Privacy Notice Form is shown in
+FIGURE 4-2.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.FIGURE 4-2A
+The Model Privacy Notice Form.
+Federal Trade Commission (see https://www.ftc.gov/sites/default/files/attachments/press-releases/federal-
+regulators-issue-final-model-privacy-notice-form/privacymodelform.pdf).
+Description
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.
+FIGURE 4-2BThe Model Privacy Notice Form, page 2.
+Federal Trade Commission, https://www.ftc.gov/sites/default/files/attachments/press-releases/federal-regulators-
+issue-final-model-privacy-notice-form/privacymodelform.pdf
+Description
+The Safeguards Rule
+GLBA requires the federal bank regulatory agencies, the SEC, and the FTC to issue
+security standards for the institutions that they regulate. 40 This is commonly referred
+to as the Safeguards Rule. The law requires that each agency establish standards
+that:
+Protect the security and confidentiality of customer information.
+Protect against threats to the security or integrity of customer information.
+Protect against unauthorized access to or use of customer information that could
+result in harm to a customer.
+Congress did not require the regulatory agencies to work together to create these
+standards, as it did for the Privacy Rule. 41 Therefore, the SEC issued its standards in
+June 2000. The federal bank regulatory agencies worked through the FFIEC to
+create joint guidelines that were issued in 2001. The FTC issued its Safeguards Rule
+in May 2002. Financial institutions regulated by the FTC had to comply with its rule
+by May 2003. This section will refer to the FTC Safeguards Rule.
+The FTC Safeguards Rule 42 requires financial institutions to create a written
+information security program that must state how the institution collects and uses
+customer information. It must also describe the administrative, technical, or physical
+controls used to protect that information. The program must protect information in
+paper and electronic form.
+The FTC rule requires that a financial institution’s information security program
+be a good fit for its size and complexity. The program also must be suitable for the
+sensitivity of the customer information that the institution uses. As part of its
+program, an institution must:
+Assign an employee to coordinate the program.
+Conduct a risk assessment to identify risks to the security, confidentiality, and
+integrity of customer information and assess current safeguards to make sure that
+they are effective.
+Design and implement safeguards to control the identified risks.
+Select service providers and make sure that any contract includes terms to protect
+customer information.
+Review the information security program on an ongoing basis to account for
+changes in the business.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The Safeguards Rule allows financial institutions to pick the controls that best protect
+their customer information. It specifies three areas that institutions must review:
+Employee management and training
+Information systems design
+Detecting and responding to attacks and system failures
+Institutions must be sure to address these areas when conducting their risk
+assessments. They also must make sure that these areas are included in their
+information security program.
+A financial institution also must make sure that its service providers protect
+customer information. A service provider is an entity that provides services to a
+financial institution. A business that handles outsourced tasks is a service provider.
+These providers may access customer information when they provide services to an
+institution. Institutions must require their affiliates and service providers to protect
+customer information.
+FYI
+The FTC announced in March 2019 that it was seeking comments on proposed changes to the
+Safeguards Rule, which were due in August 2019. As of this writing, the FTC has not made any updates to
+the Safeguards Rule. You can track the progress of any updates to the rule at
+https://www.regulations.gov/docket?D=FTC-2019-0019.
+The Pretexting Rule
+GLBA’s final consumer protection is the Pretexting Rule. 43 Pretexting, also known as
+social engineering, is trying to gain access to customer information without proper
+authority to do so.
+Under the law, it is illegal to make false, fictitious, or fraudulent statements to a
+financial institution or its customers to get customer information. It is also illegal to
+use forged, counterfeit, lost, or stolen documents to do the same thing. These rules
+try to stop identity theft before a crime is committed. Courts can impose criminal
+penalties if these rules are violated.
+Most financial institutions address pretexting in their information security
+programs. It is covered as part of security awareness and training activities.
+Employees are trained to recognize and report pretexting.
+Oversight
+GLBA compliance oversight falls to different federal agencies. Oversight is based on
+the type of financial institution under review. The federal bank regulatory agencies
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.(the Fed, FDIC, OCC, and NCUA) enforce GLBA for the institutions that they
+regulate. For example, the SEC oversees GLBA for securities brokers and dealers.
+Each agency can bring an action against the institutions that they regulate for not
+complying with GLBA.
+The FTC enforces GLBA for any financial institution that is not regulated by one
+of the other agencies. Similar to the other agencies, the FTC may bring an action
+against any financial institution that does not comply with GLBA. The FTC has been
+quite active in pursuing GLBA enforcement actions.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Federal Trade Commission Red Flags Rule
+Congress passed the Fair and Accurate Credit Transaction Act of 2003 (FACTA) in
+response to the growth in identity theft crimes. 44 FACTA made it harder for consumer
+financial information to be used to commit these crimes through changes to the
+FCRA.
+Congress recognized that the financial industry has a role in protecting
+customers from identity theft. Therefore, FACTA required the federal bank regulatory
+agencies and the FTC to work together to create rules that would identify and
+respond to possible instances of identity theft. These agencies issued a joint rule,
+known as the Identity Theft Red Flags Rule, 45 on November 9, 2007.
+Purpose
+The purpose of the Red Flags Rule is to fight identity theft. The rule requires covered
+financial institutions to be on the lookout for certain warning signs that might indicate
+identity theft is taking place in consumer financial transactions.
+NOTE
+A Red Flag is any “pattern, practice, or specific activity that indicates the possible existence of identity
+theft.” 47
+The Red Flags Rule is not a data security rule. It does not require institutions to
+protect data in a certain way. Instead, it requires them to be flexible and responsive
+to different business situations where identity theft could be possible. 46
+Scope
+The Red Flags Rule applies to financial institutions and creditors that have covered
+accounts. Financial institutions are state and federal banks, credit unions, and
+savings and loan associations that are regulated by the Fed, FDIC, OCC, and
+NCUA.
+Under the Red Flags Rule, a creditor is any person or organization that regularly
+extends, renews, or continues customer credit; and who also:
+Receives or uses consumer reports in connection with a credit transaction
+Gives information to consumer reporting agencies in connection with a credit
+transaction
+Loans a person money 48
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.The definition of covered account is also broad. There are two types of covered
+accounts. The first type is an account that is used “primarily for personal, family, or
+household purposes, that involves or is designed to permit multiple payments or
+transactions.” 49 Examples of this type of account include:
+Credit card accounts
+Car loan accounts
+Utility accounts
+Cell phone carrier accounts
+The second type of covered account is an account for which identity theft is a
+reasonably foreseeable risk because of the use of the account. The risk includes
+harm to a customer. It also could be harmful to the soundness of the financial
+institution or creditor. These types of accounts are considered covered accounts if
+the potential for identity theft is “reasonably foreseeable.”
+NOTE
+Payment in arrears refers to payments that are made after a business provides goods or services. Many
+businesses bill in arrears. They include utility companies, medical providers, and cell phone service
+providers.
+Organizations fall within the scope of the Red Flags Rule because of their
+actions. They may not rely on just the definitions of “financial institution,” “creditor,” or
+“covered account” to determine if they must comply with the Rule. Organizations
+must comply with the Red Flags Rule if they act similar to financial institutions or
+creditors and use accounts that resemble covered accounts.
+FYI
+The Red Flag Program Clarification Act of 2010 tightened the definition of creditor and exempted service
+providers such as doctors and healthcare professionals, lawyers, and accountants from the application of
+the Red Flags Rule. 50 Associations that represented these professions filed numerous lawsuits to stop the
+FTC from enforcing the Red Flags Rule against these professions. They claimed that Congress did not
+intend that service providers who were paid in arrears be considered creditors under the Red Flags Rule.
+Congress agreed with those arguments when it passed the Red Flags Clarification Act.
+Main Requirements
+Under the Red Flags Rule, covered entities must develop a written Identity Theft
+Prevention Program. This program must detect, prevent, and mitigate identity theft in
+covered accounts. The written program must address both new and existing covered
+accounts.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Organizations can take the size and complexity of their operations into account
+when preparing their program. Larger companies that handle more accounts may
+need a more detailed plan, whereas smaller companies with fewer accounts may not
+need a very detailed plan. The written program must be appropriate for the
+organization.
+An organization’s board of directors must approve the program. If an organization
+does not have a board of directors, then a senior official must approve the program.
+The Rule requires organizations to train their employees about their written
+programs. Organizations also must review their relationships with third-party service
+providers. Organizations must make sure that those activities do not raise any Red
+Flags.
+A written program must have the following components:
+Identify Red Flags that apply to the organization.
+Determine how the Red Flags will be detected during business processes.
+Determine how to respond to Red Flags that are detected.
+Review the written program periodically.
+The agencies that worked together to create the Red Flags Rule realized that it may
+be difficult for organizations to determine activities that might raise a Red Flag. They
+created five different Red Flag categories:
+1. Alerts or notifications received from consumer reporting agencies or service
+providers
+2. Suspicious documents
+3. Suspicious personal identifying information
+4. Unusual or suspicious activity of a covered account
+5. Notice from customers, law enforcement authorities, or other persons regarding
+possible identity theft in connection with covered accounts
+The agencies also provided 26 examples of activity that might be considered a Red
+Flag. 51 The categories of Red Flags and some of the examples that fall in each
+category are provided in TABLE 4-2.
+TABLE 4-2 Red Flag Categories and Examples
+RED FLAG CATEGORY
+Alerts, Notifications, and
+Warnings From a Credit
+Reporting Company
+RED FLAG EXAMPLES
+A fraud alert placed on a consumer report
+A credit freeze placed on a consumer report
+A consumer report indicating a pattern of activity that does not match the
+customer’s historical activity
+Identification documents that look altered or forged
+A signature on a document does not match the signature in the customer’s
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Suspicious Documents
+file
+A photograph on an identification document that does not resemble the
+person presenting the identification document
+Suspicious Personal
+Identifying Information Personal information provided that does not match external information
+sources, for example, an address that does not match the customer’s
+consumer report
+Incomplete personal information provided when opening an account
+Personal information provided that does not match the information in the
+customer’s file
+Unusual or Suspicious Activity
+on a Covered Account A covered account used in a manner that does not match the customer’s
+historical activity
+An unpaid account with no history of nonpayment on that account
+Frequent new use of a covered account that was unused for a long period
+Notice From Customers or
+Others About Identity Theft Customer notification to the covered organization about suspected identity
+theft
+Law enforcement notification to the financial institution or creditor about
+fraudulent activity
+Once an organization identifies an action that might raise a Red Flag, it must take
+steps to detect that activity in its normal business practices. For example, an
+organization decides that forged or altered documents are a potential Red Flag. It
+must then detect when documents are forged or altered. Other ways to detect Red
+Flags could include asking customers to provide additional identification.
+The proper response to a Red Flag depends on the situation. An organization
+could contact the customer or monitor accounts as a potential response. An
+organization also can investigate a potential Red Flag and determine that a
+response is not needed, depending upon the circumstances.
+Oversight
+Each agency that worked together to create the Red Flags Rule enforces it within
+their authority. The Federal Reserve System, FDIC, OCC, and NCUA regulate most
+financial institutions. Because financial institutions are highly regulated, it makes
+sense for Red Flags Rule enforcement to stem from one of these regulatory
+agencies. Note that in 2010, the Dodd-Frank Act transferred rulemaking and
+enforcement of the Red Flags Rule to the SEC for the institutions that it regulates.
+The FTC enforces the rule for all other organizations.
+Federal civil fines are possible for violations of the Red Flags Rule. Only the
+government can impose sanctions for violating the Red Flags Rule. The Red Flags
+Rule does not permit a private right of action. This means that individuals cannot sue
+financial institutions or creditors if they violate the Red Flags Rule.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Payment Card Industry Standards
+Americans have over 375 million open credit card accounts. 52 Credit cards
+essentially allow you to borrow money to buy things. You borrow the money from the
+bank that issues the credit card in exchange for a promise to pay the loan back
+within a certain period. If you fail to pay the loan by the due date, you are charged
+interest on the loan. Your credit card number is sensitive consumer financial
+information. If your credit card information is stolen, unauthorized users could
+impersonate you and make large purchases in your name. Credit card companies
+work hard to ensure that your credit card information is kept secure during
+transactions. They accomplish this work through the Payment Card Industry Security
+Standards Council (PCI Council).
+The PCI Council is made up of representatives of the major credit card
+companies. 53 The major credit card companies, also called credit card brands, are:
+MasterCard
+Visa
+American Express
+JCB International
+Discover
+The PCI Council is not a government agency; rather, it is a private industry
+organization. The PCI Council, formed in 2006, creates safeguards designed to
+protect credit card data. Any merchant or service provider who accepts credit cards
+must follow the safeguards. This list of security measures is called the Payment
+Card Industry (PCI) Data Security Standard (DSS). The most recent version of the
+DSS, version 3.2.1, was released in May 2018. 54 A new version of PCI DSS is
+expected to be released in late 2020. This chapter addresses version 3.2.1 of the
+standard.
+Purpose
+Before the PCI Council was formed, each credit card company made up its own
+security requirements that applied to the credit cards that it issued. Merchants who
+accepted credit cards for payment had to follow these standards. Most merchants
+wanted to accept more than one type of credit card, and it was hard for them to
+follow so many different standards. The first DSS combined the standards of the
+founding credit card companies into one standard.
+NOTE
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Cardholder data is the data available from a credit card. It includes cardholder name, expiration date,
+account number, and verification numbers. The data is printed on the card and can be contained in the
+magnetic stripe on the back of the card.
+The DSS offers a single approach to safeguarding sensitive cardholder data for
+all credit card issuers. It identifies 12 basic categories of security requirements that
+must be followed to protect credit card data.
+Scope
+All merchants who accept credit cards must comply with the PCI DSS. PCI has
+different compliance requirements for different merchants that are based upon the
+size of the merchant’s credit card operations. There are four basic merchant levels:
+Level 1 – Over 6 million transactions annually
+Level 2 – Between 1 and 6 million transactions annually
+Level 3 – Between 20,000 and 1 million transactions annually
+Level 4 – Less than 20,000 transactions annually
+These basic levels are subject to adjustment because each of the credit card brands
+sets its merchant levels individually. For example, Visa merchant Level 1 includes
+merchants that process over 6 million Visa transactions per year. 55 MasterCard Level
+1 includes any merchant that processes 6 million MasterCard transactions per year
+or meets Visa’s Level 1 criteria. 56 MasterCard Level 1 also includes merchants that:
+Have suffered a data breach that compromised account data, or
+Any merchant that MasterCard feels should be a Level 1 merchant to minimize
+risk
+Any merchant that accepts credit cards must comply with the DSS. This means that
+they must implement and follow the DSS rules. The credit card brands enforce DSS
+compliance. Most of the credit card brands also require merchants to validate their
+compliance with the rules. This means that it is not enough for the merchant to say
+that it is compliant with the rules; instead, the merchant must prove that it is
+compliant with the rules.
+Different merchant levels have different validation requirements set by the credit
+card brands. Visa requires its Level 1 merchants to have an independent evaluation
+each year. 57 They also must have a quarterly network scan by an approved vendor.
+A Level 3 merchant, which is a smaller merchant than a Level 1 merchant, has
+different requirements. Under the Visa validation requirements, a Level 3 merchant
+must only complete an annual self-assessment form and have a quarterly network
+scan.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.NOTE
+A merchant is a businessperson who sells goods or services to earn a profit. A merchant can be a large,
+well-known store or small corner grocery store. For the PCI DSS, a merchant is any entity that accepts
+credit cards for payment.
+Main Requirements
+The DSS applies only to the systems that process, store, or transmit credit card
+data. 58 The DSS has specific requirements that each merchant must follow to protect
+cardholder data. These are the minimum set of requirements for protecting
+cardholder data. The DSS requirements use preventative, detective, and corrective
+controls to secure credit card data. The DSS has six high-level categories and 12
+major rules. The main categories of controls and rules are listed in TABLE 4-3.
+TABLE 4-3 PCI DSS v.3.2.1 Categories of Controls and Rules
+DSS CONTROL CATEGORY
+MAIN RULES
+Build and Maintain a Secure Network and Systems Merchants must install and maintain firewall and
+router configurations to protect cardholder data.
+Merchants may not use vendor-supplied defaults for
+passwords and other security measures.
+Protect Cardholder Data Merchants must take action to protect stored
+cardholder data.
+Merchants must encrypt cardholder data while it is
+transmitted across public networks.
+Maintain a Vulnerability Management Program Merchants must use antivirus software that is
+updated regularly.
+Merchants must develop and use secure systems
+and applications.
+Implement Strong Access Control Measures Merchants must use need-to-know principles to
+restrict access to credit card data.
+Merchants must control access to system
+components.
+Merchants must restrict physical access to
+cardholder data.
+Regularly Monitor and Test Networks Merchants must monitor access to network
+resources and cardholder data.
+Merchants must test their security systems and
+processes regularly.
+Maintain an Information Security Policy Merchants must create an information security policy.
+NOTE
+The complete list of PCI DSS requirements is available at https://www.pcisecuritystandards.org/.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Each DSS rule has several subrequirements that explain how the rule should be
+met. Merchants must understand how their information systems work to implement
+the DSS requirements and subrequirements. Merchants also must understand their
+business processes and be aware of how credit card data is used within their
+systems. They must consider data security as part of their everyday business
+operations.
+Oversight
+The PCI Security Standards Council does not manage compliance programs. It also
+does not levy penalties for noncompliance. The Council only creates the DSS and
+provides merchants with resources to comply with those standards. Each of the
+individual credit card companies enforces the DSS for its own cards and the
+merchants who use those cards. Most credit card companies use the threat of
+financial penalties to compel DSS compliance. Compliance is contractually based. It
+is required through contracts between credit card companies, banks that issue the
+cards, banks that process credit card transactions, and the merchant.
+Penalties for DSS noncompliance tend to be tied to events that expose
+cardholder data. For example, Visa requires its merchants to notify it immediately if
+they experience a breach involving credit card data. 59 Visa may impose a penalty of
+up to $100,000 per event if it is not notified immediately. Fines can be increased if it
+is determined that a merchant was not DSS compliant at the time of the breach.
+Similarly, fines may be reduced if the merchant can show that it was compliant with
+the DSS at the time of the breach.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.Case Studies and Examples
+The following case studies show how the laws discussed in this chapter are used.
+These case studies are real-world examples of how regulatory agencies apply laws
+and rules to protect consumer information.
+FTC Privacy and Safeguards Rule Enforcement
+The FTC enforces the GLBA Privacy and Safeguards Rule against some types of
+financial institutions. The FTC can begin an investigation on its own or in response to
+a consumer complaint.
+In July 2019, the FTC filed a complaint against Equifax, Inc., a credit-reporting
+agency. Equifax reported a data breach in 2017 in which hackers stole SSNs and
+other personal information on 143 million Americans. In its complaint, the FTC
+alleged that Equifax failed to secure customer personal information stored on its
+network. This is a violation of the GLBA Safeguards Rule.
+The FTC argued that Equifax had a series of basic security failures that led to the
+breach. These failures happened over several months and included:
+Failure to patch critical vulnerabilities in Equifax information systems
+Failure to maintain a technology asset inventory, which meant that Equifax did not
+properly scan all its assets for vulnerabilities
+Failure to segment its computer network
+Failure to encrypt highly confidential information, such as SSNs, stored on its
+information systems
+Failure to detect intrusions into legacy information systems
+Failure to update expired security certificates on its information systems
+The CFPB and 50 U.S. states and territories also filed complaints against Equifax.
+Their complaints alleged violations of different laws. Only the FTC had jurisdiction
+over Equifax for violations of the GLBA Safeguards Rule. The FTC, CFPB, and the
+states all worked together to solve their complaints against Equifax.
+NOTE
+The FTC documents related to the Equifax breach are available at https://www.ftc.gov/enforcement/cases-
+proceedings/172-3203/equifax-inc.
+In late July 2020, Equifax agreed to pay at least $575 million to settle all claims
+with the CFPB, FTC, and the states. That settlement agreement amount could be
+increased by $125 million if the original settlement amount fails to compensate
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.consumers for their losses related to the breach.
+With respect to the GLBA Safeguards Rule, Equifax also agreed to:
+Comply with the GLBA Safeguards Rule and establish a comprehensive
+information security program that contains the requirements specified in the order.
+Provide yearly reports on the status of its information security program to its board
+of directors.
+Obtain an independent assessment of its information security program every 2
+years. The assessor selected must be approved by the FTC in advance.
+Report yearly to the FTC that it is following the FTC’s settlement agreement.
+Notify the FTC within 10 days if it experiences an information security incident.
+NOTE
+Consumers can learn more about their rights related to the Equifax settlement at www.ftc.gov/equifax.
+The FTC’s settlement agreement with Equifax ends in July 2039. Equifax must follow
+the terms in the settlement agreement until the agreement expires.
+Credit Card Security Example
+Target is a popular department store in the United States and Canada. On
+December 19, 2013, Target reported that the credit and debit card data of over 40
+million customers was compromised in a security breach. 60 It reported that the
+compromise took place throughout the United States during the busy Thanksgiving-
+to-Christmas shopping season. Credit cardholders who shopped in Target stores
+from November 27 to December 15, 2013, were affected by the breach.
+Target reported that it found malware on its cash registers on December 15.
+Company officials said that they immediately deleted the malware. They then began
+to notify their customers about the incident. On December 27, 2013, Target reported
+that encrypted personal identification number, or PIN, information was also
+compromised in the breach. PINs are passwords used in debit card transactions.
+On January 17, 2014, Target reported that the attack it suffered during the height
+of the holiday shopping season may have affected an additional 70 million
+customers. 61 Their personal information—names, addresses, and phone numbers—
+was stolen. The massive data breach was further reported to have extended beyond
+the 2013 holiday shopping season to people who had not shopped at Target for
+years.
+Target’s costs associated with the breach were extensive. Visa, Mastercard,
+American Express, and Discover all made claims against Target for the data breach.
+Target paid $86 million to Visa and Mastercard to settle claims associated with the
+breach. In its 2016 annual report, Target reported that it had experienced $292
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.million in expenses related to the breach.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.CHAPTER SUMMARY
+Consumer financial information is valuable. In the wrong hands, it can be
+used to commit identity theft. The U.S. federal government regulates how
+this information can be used. The financial industry also takes steps to guard
+this information. These laws and standards work together to protect
+consumers from identity theft.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.KEY CONCEPTS AND TERMS
+Consumer goods
+Consumer services
+Deceptive trade practices
+Nonpublic personal information (NPI)
+Pretexting
+Red Flag
+Unfair trade practices
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.CHAPTER 4 ASSESSMENT
+1. What are consumer goods?
+A.
+B.
+C.
+D.
+E.
+Items purchased for personal use
+Items purchased for family use
+Items purchased for household use
+All of these are correct.
+None of these are correct.
+2. Which rule is not a GLBA consumer protection provision?
+A.
+B.
+C.
+D.
+E.
+The Safeguards Rule
+The Red Flags Rule
+The Privacy Rule
+The Pretexting Rule
+None of these is correct.
+3. Which federal agency regulates national banks?
+A.
+B.
+C.
+D.
+E.
+The Office of the Comptroller of the Currency
+The Federal Reserve System
+The Federal Deposit Insurance Corporation
+The Consumer Financial Protection Bureau
+The Federal Trade Commission
+4. What is the organization that promotes uniform reports among federal banking
+institutions?
+A.
+B.
+C.
+D.
+E.
+The Fed
+The FFIEC
+The FTC
+The NCUA
+The SEC
+5. What is a Red Flag?
+A.
+B.
+C.
+D.
+E.
+A crime
+An activity that prevents identity theft
+An activity that might indicate identity theft
+An activity that mitigates identity theft
+None of these is correct.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.6. Pretexting is also called ________.
+7. Which of the following is nonpublic personal information?
+A. Personally identifiable financial information provided by a customer to a
+financial institution
+B. Personally identifiable financial information provided by a financial institution
+to a customer
+C. Personally identifiable financial information provided by a financial institution
+to an affiliate
+D. Personally identifiable financial information provided by an affiliate to a
+financial institution
+E. Personally identifiable financial information provided by an affiliate to a
+customer
+8. A written information security program under the Safeguards Rule must include:
+A.
+B.
+C.
+D.
+E.
+Technical safeguards.
+Physical safeguards.
+Administrative safeguards.
+A designated employee to run the program.
+All of these are correct.
+9. The ________ established the national banking system in the United States.
+10. What is the central bank of the United States?
+A.
+B.
+C.
+D.
+E.
+The FDIC
+The Fed
+The NCUA
+The OCC
+The CFPB
+11. Which of the following is not a federal bank regulatory agency?
+A.
+B.
+C.
+D.
+E.
+The FDIC
+The NCUA
+The FTC
+The OCC
+The Fed
+12. What customer option must be included in a privacy practices notice?
+A. Disclosure
+B. Opt-out
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.C. Opt-in
+D. Notice
+E. None of these is correct.
+13. The Payment Card Industry Standard includes ________ categories of security
+requirements.
+14. The Payment Card Industry Standards are enforced by the Federal Trade
+Commission.
+A. True
+B. False
+15. What is a customer?
+A consumer with a past relationship with a financial institution
+A consumer with no relationship with a financial institution
+A consumer with a continuing relationship with a financial institution
+A consumer who wants to enter into a relationship with a financial institution
+None of these is correct.
+A.
+B.
+C.
+D.
+E.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.ENDNOTES
+1. Verizon, “2019 Data Breach Investigations Report,” 2019.
+https://enterprise.verizon.com/resources/reports/dbir/ (accessed April 29, 2020).
+2. Secureworks, “A Famous Data Security Breach & PCI Case Study: Four Years
+Later,” October 25, 2012. https://www.secureworks.com/blog/general-pci-
+compliance-data-security-case-study-heartland (accessed April 29, 2020).
+3. Ponemon Institute, “The Cost of Cybercrime,” 2019.
+https://www.accenture.com/_acnmedia/pdf-96/accenture-2019-cost-of-
+cybercrime-study-final.pdf#zoom=50 (accessed April 29, 2020).
+4. National Bank Act (1864), 13 Stat. 99 (1864), current version at U.S. Code Vol.
+12.
+5. Fair Credit Reporting Act (1970), U.S. Code Vol. 15, sec. 1681, et seq.
+6. U.S. Code Vol. 31, sec. 5312.
+7. Bank Secrecy Act (1970), Pub. L. No. 91-508, 84 Stat. 1114 to 1124, codified as
+amended in scattered sections throughout U.S. Code Vols. 12, 15, and 31.
+8. Gramm-Leach-Bliley Act (1999), Title V of the Financial Services Modernization
+Act of 1999, Pub. L. No. 106-102, 113 Stat. 1338, codified at U.S. Code Vol. 15,
+sec. 6801, et seq.
+9. U.S. Code Vol. 12, sec. 1843(k)(4).
+10. American Bankers Association, “Digital Banking Infographic,” November 12,
+2019. https://www.aba.com/news-research/research-analysis/digital-banking
+(accessed April 29, 2020).
+11. Federal Reserve Act (1913), Pub. L. No 63-43, 38 Stat. 251, codified as
+amended throughout U.S. Code Vol. 12.
+12. CNN, “America’s Economy Just Had Its Worst Quarter Since 2008,” April 29,
+2020. https://www.cnn.com/2020/04/29/economy/us-economy-downturn-
+coronavirus/index.html (accessed April 29, 2020).
+13. Board of Governors of the Federal Reserve System, “Structure of the Federal
+Reserve System,” March 3, 2017.
+https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-
+system.htm (accessed April 29, 2020).
+14. Banking Act of 1933 (also called the Glass-Stegall Act), Pub. L. No. 73-66, 48
+Stat. 162, codified as amended throughout U.S. Code Vol. 12.
+15. Federal Deposit Insurance Corporation, “Who Is the FDIC?” May 3, 2017.
+https://www.fdic.gov/about/learn/symbol/index.html (accessed April 29, 2020).
+16. Federal Credit Union Act (1934), U.S. Code Vol. 12, sec. 1751, et seq.
+17. National Credit Union Association, “About NCUA,” Undated.
+https://www.ncua.gov/about-ncua (accessed April 29, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.18. Office of the Comptroller of the Currency, “Who We Are,” Undated.
+https://www.occ.treas.gov/about/who-we-are/index-who-we-are.html (accessed
+April 29, 2020).
+19. Financial Institutions Regulatory and Interest Rate Control Act (1978), Pub. L.
+No. 95-630, 92 Stat. 3641, codified as amended in scattered sections of U.S.
+Code.
+20. U.S. Code Vol. 12, sec. 3305.
+21. Federal Financial Institutions Examination Council, “Annual Report 2019,”
+March 30, 2020. https://www.ffiec.gov/PDF/annrpt19.pdf (accessed April 29,
+2020).
+22. Consumer Financial Protection Bureau, “Creating the Consumer Bureau,”
+Undated. https://www.consumerfinance.gov/about-us/the-
+bureau/creatingthebureau/ (accessed April 29, 2020).
+23. Federal Trade Commission Act (1914), U.S. Code Vol. 15, sec. 41–58.
+24. U.S. Code Vol. 15, sec. 46(a).
+25. U.S. Code Vol. 15, sec. 45(a)(1).
+26. Federal Trade Commission, “About the FTC,” Undated.
+https://www.ftc.gov/about-ftc (accessed April 29, 2020).
+27. Federal Trade Commission, “Federal Trade Commission, Consumer Financial
+Protection Bureau Pledge to Work Together to Protect Consumers,” January 23,
+2012. https://www.ftc.gov/news-events/press-releases/2012/01/federal-trade-
+commission-consumer-financial-protection-bureau (accessed April 29, 2020).
+28. Gramm-Leach-Bliley Act (1999), Title V of the Financial Services Modernization
+Act of 1999, Pub. L. No. 106-102, 113 Stat. 1338, codified at U.S. Code Vol. 15,
+sec. 6801, et seq.
+29. U.S. Code Vol. 12, sec. 1843(k)(4).
+30. U.S. Code Vol. 15, sec. 6801(a).
+31. U.S. Code Vol. 15, sec. 6809.
+32. U.S. Code Vol. 15, sec. 6801–6803.
+33. Dodd-Frank Wall Street Reform and Consumer Protection Act (2010), Pub. L.
+No. 111–203, 124 Stat. 1376–2223, codified as amended in scattered sections
+throughout U.S. Code Vols. 12 and 15.
+34. Code of Federal Regulations, Title 12, sec. 1016.
+35. U.S. Code Vol. 15, sec. 6809.
+36. U.S. Code Vol. 15, sec. 6803.
+37. U.S. Code Vol. 15, sec. 6802.
+38. Privacy Rights Clearinghouse, “Oversight Hearing on Financial Privacy and the
+Gramm-Leach-Bliley Financial Services Modernization Act: Testimony for U.S.
+Senate Committee on Banking, Housing and Urban Affairs,” September 20,
+2002. https://privacyrights.org/resources/oversight-hearing-financial-privacy-
+and-gramm-leach-bliley-financial-services (accessed April 29, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+Code of Federal Regulations, Title 16, sec. 313.
+U.S. Code Vol. 15, sec. 6801(b).
+U.S. Code Vol. 15, sec. 6805(b)(2).
+Standards for Insuring the Security Confidentiality, Integrity and Protection of
+Customer Records and Information (“Safeguards Rule”), Code of Federal
+Regulations, Title 16, sec. 314.
+U.S. Code Vol. 15, sec. 6821.
+Fair and Accurate Credit Transaction Act of 2003 (FACTA), Pub L. No. 108-159,
+117 Stat. 1952, made amendments to the Fair Credit Reporting Act of 1970.
+Code of Federal Regulations, Title 16, sec. 681.1, Appendix A.
+Federal Register 72, No. 217 at 63,719, background information.
+Code of Federal Regulations, Title 16, sec. 681.1(b)(9).
+U.S. Code Vol. 15, sec. 1681a(r)(5).
+Code of Federal Regulations, Title 16, sec. 681.1(b)(3)(i).
+Red Flag Program Clarification Act of 2010, 15 U.S.C. 1681m(e)(4), Pub. L. No.
+111-319, 124 Stat. 3457 (Dec. 18, 2010).
+Code of Federal Regulations, Title 16, sec. 681.1, Appendix A.
+American Bankers Association, “Credit Card Monitor,” February 2020.
+https://www.aba.com/-/media/documents/reports-and-surveys/2019-q3-credit-
+card-monitor.pdf?rev=9c1664304c9149a8a08e6d146791126f (accessed April
+29, 2020).
+PCI Security Standards Council, “About Us,” Undated.
+https://www.pcisecuritystandards.org/about_us/ (accessed April 29, 2020).
+PCI Security Standards Council, “PCI Data Security Standard, v 3.2.1,” May
+2018. https://www.pcisecuritystandards.org/document_library (accessed April
+29, 2020).
+VISA, “PCI Compliance Helps Keep You and Your Customers Safe,” Undated.
+https://usa.visa.com/support/small-business/security-compliance.html (accessed
+April 29, 2020).
+Mastercard, “What Merchants Need to Know About Securing Transactions,”
+Undated. https://www.mastercard.ca/en-ca/merchants/safety-security/security-
+recommendations/merchants-need-to-know.html (accessed April 29, 2020).
+VISA, “Information Security,” Undated. https://cw.visa.com/run-your-
+business/small-business/information-security/compliance-validation.html
+(accessed April 29, 2020).
+PCI Security Standards Council, “PCI Data Security Standard, v 3.2.1,” May
+2018. https://www.pcisecuritystandards.org/document_library (accessed April
+29, 2020).
+VISA, “What to Do if Compromised,” October 1, 2019.
+https://usa.visa.com/dam/VCOM/download/merchants/cisp-what-to-do-if-
+compromised.pdf (accessed April 29, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.60. Target Corporation, “Target Confirms Unauthorized Access to Payment Card
+Data in U.S. Stores,” December 19, 2013.
+https://corporate.target.com/press/releases/2013/12/target-confirms-
+unauthorized-access-to-payment-car (accessed April 29, 2020).
+61. Target Corporation, “Target Provides Update on Data Breach and Financial
+Performance,” January 10, 2014.
+https://corporate.target.com/press/releases/2014/01/target-provides-update-on-
+data-breach-and-financia (accessed April 29, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:43:29.

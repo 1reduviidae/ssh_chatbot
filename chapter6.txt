@@ -1,0 +1,1765 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+CHAPTER
+6
+Security and Privacy of Health
+Information
+EALTH INFORMATION CAN be used in several different ways. For example,
+doctors and other healthcare professionals use and share it to provide medical
+care. Insurance companies and employers share it for insurance coverage and
+payment. However, many people worry that this type of information could be used
+improperly. For example, insurance companies could use it to deny healthcare
+coverage. Employers could use it to decide not to hire someone. Thieves could steal
+medical information and use it to commit medical identity theft.
+H
+Healthcare providers no longer store health information only in paper files. Many
+providers use computer systems to create and store electronic health records
+(EHRs). When information is stored electronically, data may be combined from
+several different sources. It is possible to create comprehensive medical records that
+contain a lot of data about a person; therefore, the healthcare industry must take
+steps to secure these types of records.
+This chapter focuses on laws that protect the privacy and security of health
+information. For the most part, this chapter focuses on the unique challenges
+presented by growing amounts of electronic health information. This chapter also
+discusses how federal and state laws work together to protect this information.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Chapter 6 Topics
+This chapter covers the following topics and concepts:
+What the business challenges facing the healthcare industry are
+Why healthcare information is sensitive
+What the Health Insurance Portability and Accountability Act (HIPAA)
+is
+What the role of state law in protecting medical records is
+What some case studies and examples are
+Chapter 6 Goals
+When you complete this chapter, you will be able to:
+Describe the business challenges facing the healthcare industry
+Explain why healthcare information is sensitive
+Explain the main parts of the Health Insurance Portability and
+Accountability Act (HIPAA)
+Describe the role of state law in protecting the confidentiality of
+medical records
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Business Challenges Facing the Healthcare
+Industry
+The healthcare industry faces many of the same privacy and security challenges as
+other industries. The difference is the type of data that is used. The healthcare
+industry collects consumer financial and personal health information. Healthcare
+providers collect consumer financial information to make sure that consumers pay
+for medical goods and services. They collect health information to provide these
+goods and services. Many people consider health information to be very sensitive.
+The healthcare industry often collects data from several sources and stores this
+data in electronic form. For example, hospital computer systems contain notes from
+hospital employees and primary care physicians. These systems may also record
+data from equipment and medication tracking systems that can be linked to
+individual patients. Health insurance companies collect and combine patient data
+from different providers. It is important for organizations to maintain the security of
+computer systems that hold health data. Patients demand that this data be
+protected. Unfortunately, health information often is compromised in data breaches,
+which can cause problems for healthcare consumers.
+NOTE
+In November 2018, Anthem, Inc. agreed to pay $16 million to settle allegations that it violated federal laws
+that protected patient records. Anthem is one of the largest health benefit companies in the United States.
+The health information of 79 million people was exposed in a series of cyber attacks that targeted Anthem
+in 2014 and 2015. 1
+Health information can be exploited and used improperly. One such crime is
+medical identity theft, a specialized type of identity theft in which thieves steal a
+person’s name and other parts of his or her medical identity. They then use this
+information to get medical services or goods. When the thief gets health care,
+providers may add treatment notes about the thief on the victim’s medical record.
+The thief can use personal information obtained from health records to steal health
+insurance information and make a false claim for healthcare services. Unpaid
+medical charges could end up on the victim’s credit report.
+FYI
+A 2015 study by the Ponemon Institute estimated that victims of medical identity theft pay, on average,
+almost $13,500 in costs linked to the theft. 2
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Medical identity thieves are not exclusively computer hackers or members of
+organized crime rings. Healthcare providers, such as doctors, dentists, and hospital
+employees, also can be identity thieves. In 2003, for example, an employee at a
+cancer center stole the identity of a center patient. The identity thief was sentenced
+to 16 months in prison and ordered to pay restitution. 3
+In 2019, a medical clinic office worker was arrested on charges of identity theft
+and wire fraud. The office worker’s job gave her access to patient medical
+information, which she stole and sold. She was caught when she tried to sell the
+stolen patient information to a law enforcement officer. A search of her home and
+vehicle when she was arrested turned up stolen information on 113 patients. The
+office worker pleaded guilty to the charges in January 2020 and was sentenced to 4
+years in federal prison. 4
+Medical identity theft is very serious, as it can damage a victim’s finances with
+false insurance claims for services. Similar to regular identity theft, victims must
+spend time and money resolving payment disputes and credit issues. It also can
+affect payment for a victim’s future medical care. If a thief’s medical information
+becomes a part of the victim’s medical record, the victim may not qualify for some
+medical insurance benefits.
+Medical identity theft also can harm a person’s physical safety. In this crime,
+healthcare providers enter diagnoses and treatment notes about the identity thief
+onto a victim’s medical record. If doctors rely on those false notes later, they could
+give a victim an erroneous diagnosis. If false health information concerns life-
+threatening conditions, a victim could even be killed by an incorrect course of
+treatment.
+Medical identity theft is a problem because it can be hard to correct false
+information in a medical record. Because health information is shared electronically
+for several purposes such as treatment and payment, it can be hard to determine all
+of the places where false information must be corrected.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Why Is Healthcare Information So Sensitive?
+Most people consider their medical information to be among the most sensitive types
+of personal information because it can be full of private details that people do not
+want to share. However, people must share these details with healthcare providers
+to receive treatment. Providers include this information in medical records. These
+records contain information on diagnoses, lab results, and treatment options. They
+also contain information about chronic conditions or mental health counseling, as
+well as private details about a person’s lifestyle.
+Doctor/patient confidentiality is a long-held tradition. The Hippocratic Oath, a
+pledge that many medical school students recite upon their graduation which dates
+back to the fourth century B.C.E., recognizes this belief. The traditional version of the
+oath states: “Whatever I see or hear in the lives of my patients, whether in
+connection with my professional practice or not, which ought not to be spoken of
+outside, I will keep secret, as considering all such things to be private.” 5 The
+statement means that a doctor will keep the patient’s health secrets.
+NOTE
+When a judge orders defendants to pay restitution, it is paid to victims to compensate them for damages
+related to a crime.
+Health records often contain intimate details about a person. People fear that
+they will be embarrassed if their health information is not kept secret. Some people
+may even fear for their lives if particularly intimate facts, such as reasons for health
+counseling, are disclosed. Another fear among people is that others may
+discriminate against them. They fear that insurance companies or employers could
+reject them because of information in their health records. For instance, people who
+have been treated for anxiety or high blood pressure in the past might fear that their
+application for private life insurance will be denied. People with a known genetic
+predisposition for certain types of diseases might fear that they will be denied health
+insurance.
+The U.S. government recognizes the special sensitivity of some medical records.
+For example, the Drug Abuse Prevention, Treatment, and Rehabilitation Act of 1980 6
+protects patient information about alcohol or drug abuse. This law applies to any
+federally assisted alcohol or drug abuse treatment program. It states that these
+programs may not disclose patient information without consent. There are very few
+exceptions to this rule. Patient information can be disclosed without consent only in
+limited situations. For example, a treatment program may disclose patient
+information in a medical emergency or to report child abuse.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.People often feel as if they have little control over where their health information
+is shared, which is a privacy concern. Providers share health information for
+treatment purposes. It is also shared with government agencies if payment is made
+through government programs such as Medicaid or Medicare. It is also shared with
+insurance companies. Insurance companies sometimes ask for health insurance
+records to make decisions about whether a person is a suitable risk for life or health
+insurance. These records are shared in court cases, particularly if a plaintiff claims
+an injury in a lawsuit. They are used to prove that a defendant caused the plaintiff’s
+injury and is liable for that injury.
+FYI
+The MIB Group, Inc. is an industry group of U.S. and Canadian insurance companies that helps protect
+against fraud in the insurance industry. Group members share information about life, health, and long-term
+care insurance applicants to make sure that applicants do not conceal or hide certain types of health
+information. Insurance companies need some of this information to determine whether a person is
+insurable. This helps avoid fraudulent insurance applications and claims. MIB members share this
+information in a coded format to protect privacy.
+The MIB is subject to several U.S. security and privacy laws. These include the Gramm-Leach-Bliley Act
+(GLBA), the Health Insurance Portability and Accountability Act (HIPAA), and Canadian privacy legislation.
+To learn more about the MIB, visit http://www.mib.com.
+People can do very little to mitigate an improper disclosure of their health
+information. Although they may feel a social stigma if certain facts are shared
+indiscriminately or exposed in a data breach, there are few ways to correct that
+stigma. For instance, people recovering from substance abuse might not want other
+people to know. They may be concerned that society will judge them unfairly for their
+past substance abuse. They also may be concerned about being denied
+employment or other opportunities. They may worry that they could be prosecuted
+for using illegal substances. No amount of money or fines assessed against a
+provider who improperly discloses this information can compensate a patient for
+such embarrassment or fear. People cannot be instructed to “forget” this type of
+information once they hear it.
+The federal government recognizes that health information is highly sensitive.
+The HIPAA is the best-known U.S. law protecting the security and privacy of health
+information.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.The Health Insurance Portability and
+Accountability Act
+Congress passed the HIPAA in 1996 to help make health insurance portable. HIPAA
+is used to fight health insurance fraud and eliminate waste. It also simplifies how
+health insurance is administered.
+HIPAA was amended in 2009 by the Health Information Technology for Economic
+and Clinical Health Act (HITECH Act), 7 which was part of the American Recovery
+and Reinvestment Act (ARRA) of 2009. The HITECH Act included the most
+sweeping changes to HIPAA since the law was first created.
+Purpose
+HIPAA is best known for its rules that protect the privacy and security of personally
+identifiable health information. These terms are part of the law’s “Administrative
+Simplification” requirements. Although these rules are the focus of this chapter, it is
+important that you know that HIPAA has other provisions as well. They were enacted
+so that health insurance could be portable, or carried from one employer to another.
+Before HIPAA, some workers felt that they were stuck in a job because they feared
+they would lose their health insurance if they changed jobs.
+HIPAA protects healthcare coverage when workers change jobs. In this way, it
+protects both workers and their families. It forbids a new employer’s health plan from
+denying coverage for some reasons, and prohibits employers from discriminating
+against workers based on certain conditions, such as pregnancy. It also limits
+employer-provided health plans from using preexisting conditions as reasons for
+excluding workers from the plan.
+NOTE
+Job lock refers to situations where workers feel locked into their jobs. They are afraid they will lose their
+employer-provided benefits if they leave.
+A preexisting condition is a health condition that existed before a person applies
+for a medical or other insurance policy. Insurance companies have different ways of
+dealing with these types of conditions. Some may provide only partial coverage for
+them. Others may not cover them at all. Still other companies may cover the
+condition only after a certain period of time has passed.
+HIPAA protects workers in group health plans. Employers that offer health
+insurance coverage typically offer these types of plans. HIPAA does not require that
+employers offer health coverage. If they do, however, HIPAA applies. Most of
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.HIPAA’s rules apply to situations when workers change jobs or move from one group
+health plan to another. This is the “portability” portion of the law. HIPAA does not
+apply to situations where a worker had no health coverage at all and then gets a job
+with healthcare coverage.
+HIPAA’s preexisting condition rules are very important, because they help prevent
+job lock. They also promote mobility. HIPAA limits preexisting condition exclusions in
+two ways.
+The 2009 HITECH Act
+In February 2009, Congress passed the HITECH Act, which was part of the ARRA of 2009. ARRA was a
+$787 billion stimulus package President Obama signed into law on February 17, 2009. ARRA contained
+incentives to encourage the adoption of healthcare information technologies; and as such anticipated an
+increase in the use and exchange of electronic protected health information (EPHI). Because of this, the
+HITECH Act was included to strengthen HIPAA privacy and security protections for protected health
+information (PHI).
+The Department of Health and Human Services (HHS) rules implementing the HITECH Act were published in
+January 2013 and took a long time to create. The HITECH Regulations became effective March 26, 2013,
+and compliance was required by September 23, 2013. The HITECH Act and HHS regulations made major
+changes to the steps that healthcare providers must take to protect the privacy and security of health
+information. The HITECH Act also created a federal breach notification law for healthcare information. This
+means that healthcare providers must notify people if their health information is involved in a security breach.
+Sometimes the HITECH Act’s provisions will be highlighted in the text of this chapter because it represented
+such a large change to the original HIPAA legislation.
+The Difference Between COBRA and HIPAA
+Often the words COBRA and HIPAA are used when discussing continuing health benefits following job loss
+or resignation. Although both laws work together to help protect employees and their health benefits, they
+have different functions.
+COBRA, the Consolidated Omnibus Budget Reconciliation Act of 1986, 8 allows some types of employees
+(and their families) to continue their health coverage when they change or lose a job. COBRA is usually more
+expensive than health coverage under the employer’s plan. However, it is usually less expensive than
+individual coverage through a private health insurance company.
+COBRA covers employer-provided health plans that have 20 or more employees. It also applies to health
+coverage offered by federal, state, and local governments. Former employees qualify for COBRA if they leave
+a job voluntarily. They also are eligible for COBRA if they are terminated for any reason other than gross
+misconduct. To be eligible for COBRA, a former employee must have been enrolled in an employer’s health
+plan at the time of separation from the job.
+When employees leave their job, they must receive a notice from their employer about COBRA eligibility.
+Former employees who qualify are entitled to health coverage that is the same as they had while they were
+employed. Under COBRA, former employees must pay their own health insurance premiums. This includes
+any amount a former employer might have previously paid on the employees’ behalf. COBRA benefits usually
+last for a maximum of 18 months.
+COBRA lets employees continue to get health coverage that they had through an employer for a certain
+period of time. HIPAA, in contrast, makes sure that an employee is not discriminated against in new health
+coverage because of health history and preexisting conditions.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.First, it allows employer-provided health plans to look back only 6 months for
+preexisting conditions. A condition counts as preexisting only if a worker received
+treatment for it sometime over the 6 months before enrolling in a health plan. If a
+worker did not receive treatment for the condition in those 6 months, then the
+condition is not preexisting.
+The second limitation applies to conditions that are determined to be preexisting.
+HIPAA limits the amount of time that employer-provided health plans can force a
+worker to “sit out” of coverage because of these conditions. Before HIPAA, health
+plans could force workers with preexisting conditions to do without coverage for
+those conditions for a very long time. In most instances, HIPAA limits this waiting
+period to 12 months. However, that period can be shortened in many situations.
+HIPAA also provides some protection against discrimination based upon genetic
+testing results. HIPAA states that the results of these types of tests alone cannot be
+considered a preexisting condition. There must be an illness diagnosis to trigger a
+preexisting condition. This rule is very important as more people become aware of
+their genetic histories. Genetic testing is used to determine if a person is more likely
+to have some illnesses or diseases. This information is very sensitive. Under HIPAA,
+a woman who has been genetically tested and has the breast cancer gene cannot
+be denied coverage in an employer-provided health plan if she has not been
+diagnosed with breast cancer. Just having the gene cannot be considered a
+preexisting condition.
+NOTE
+More than 30 million people have taken consumer genetic information tests offered by companies such as
+Ancestry and 23andMe. 9 These consumer tests give people access to their genetic information without
+involvement from a healthcare provider.
+Other HIPAA provisions were aimed at improving U.S. health care. These
+provisions, called the “Administrative Simplification” provisions as previously noted,
+were designed to encourage “the development of a health information system
+through the establishment of standards and requirements for the electronic
+transmission of certain health information.” 10 As part of these provisions, HIPAA
+required the HHS to make rules regarding the privacy of individually identifiable
+health information. HHS was also required to create security standards to protect
+this information. This chapter addresses the Privacy and Security Rules.
+FYI
+The Genetic Information Nondiscrimination Act (GINA) of 2008 11 protects against some types of genetic
+testing discrimination. It states that health insurance companies cannot use genetic testing results to make
+eligibility decisions about a healthy person. They also cannot use that information to determine the cost of
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.premiums. In addition, the law states that employers cannot use genetic information when making hiring,
+firing, or other job decisions, and bars employers or health insurance plans from requiring genetic testing.
+The future of GINA remains uncertain as genetic testing continues to explode and become more common.
+In addition, challenges to the Affordable Care Act, pending in late 2019 and 2020, may weaken some of
+GINA’s protections.
+Scope
+HIPAA’s Privacy and Security Rules tell covered entities how they may use
+protected health information (PHI), which refers to any individually identifiable
+information about the health of a person. PHI includes past, present, or future
+information regarding mental and physical health data. 12 It also includes information
+about paying for health care. PHI is commonly considered to be all information that
+is put in a person’s medical record and can take any form. 13 The one exception to
+PHI is that it does not include information about individuals who have been dead for
+more than 50 years.
+NOTE
+PHI includes notes that your doctor puts in your medical record. It also includes any conversations your
+doctor has with anyone else about your health care. Billing information for healthcare goods and services
+provided to you is considered PHI. Information that your health insurance company has about your health
+care may also be PHI.
+HIPAA requires covered entities to handle PHI in certain ways. The law defines
+covered entities to include health plans, healthcare clearinghouses, and any
+healthcare provider that transmits certain types of health information in electronic
+form. 14
+A health plan is an individual or group plan that pays for medical care. It includes
+group health plans of more than 50 people, a health insurance issuer, and health
+maintenance organizations (HMOs). The government’s Medicare and Medicaid
+programs are examples of health plans, as are military healthcare programs. All
+health plans must follow HIPAA.
+Many workers receive health insurance plans through their employers that help
+provide medical care for workers and their families through insurance or
+reimbursement. These are also group plans, with the workers and their families as
+the “group” that is being insured.
+A healthcare clearinghouse is an organization that processes health information
+that is in a nonstandard format. For example, HIPAA requires that some healthcare
+transactions be conducted in electronic format, as specified by HHS. However, some
+healthcare providers may not have the ability to conduct these transactions
+electronically. If they do not, they might enter into contracts with other organizations
+called clearinghouses, which handle the electronic transactions on the provider’s
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.behalf. Clearinghouses include billing services or repricing companies, as well as
+companies that facilitate business operations between healthcare providers and
+insurers. A clearinghouse is covered by HIPAA because it conducts electronic
+healthcare transactions.
+A healthcare provider is a covered entity under HIPAA. As previously noted, a
+covered entity is any health plan, healthcare clearinghouse, or healthcare provider
+that transmits certain types of health information in electronic form. The HIPAA
+Security and Privacy Rules “cover” them. An entity is covered if it provides health
+care and if it shares certain types of information electronically. This is a two-part test.
+A healthcare provider is a person or organization that provides healthcare services,
+including preventive and diagnostic physical care. It also includes mental health
+counseling and services. In short, a provider performs all activities traditionally
+associated with health care. Providers include doctors and clinics, dental practices,
+and pharmacies.
+FYI
+The HHS provides tools to help entities determine whether they are covered by HIPAA. Those tools are
+available at https://www.hhs.gov/hipaa/for-professionals/covered-entities/index.html.
+Even if an entity provides health care, it may not be a covered entity. A
+healthcare provider is only a covered entity under HIPAA if it shares certain types of
+information electronically. HHS calls the information that is shared a standard
+transaction. A standard transaction is an electronic exchange of information for
+healthcare activities that falls within defined categories. If a healthcare provider
+electronically shares information that falls within a category, then it must share it in a
+particular way.
+HHS has defined some standard transactions. It also determines the format
+requirements for each standard. These formats provide efficiency in processing
+healthcare data. Some HHS standard transactions include information related to:
+Billing and claims payment
+Health plan eligibility
+Enrollment and disenrollment in a health plan
+Health plan premium payments
+HIPAA also applies to the business associates of covered entities. A business
+associate is an organization that performs a healthcare activity for a covered entity.
+Covered entities may outsource some healthcare functions to other organizations. If
+these functions include using PHI, then they are business associate functions.
+Common business associate functions include claims and billing processing. They
+also can include quality assurance review if it involves the use of PHI. Legal services
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.can even be business associate activities when those services require the use of
+PHI.
+Business associates that did not strictly meet the definition of covered entity did
+not have to follow HIPAA when the law was first passed. This was problematic for
+covered entities since their business associates often handled PHI and the covered
+entity was responsible for ensuring that the PHI was protected properly. As a result,
+covered entities and business associates entered into complicated agreements that
+described how the business associates needed to protect PHI. However, this
+changed when Congress passed the HITECH Act of 2009. Under the HITECH Act,
+business associates must specifically follow the HIPAA Privacy and Security Rules. 15
+HHS may now directly require business associates to comply with HIPAA. It can also
+audit business associates to make sure that they are complying with the law and can
+directly impose penalties on noncompliant business associates. Today, business
+associates are held to the same standard as covered entities.
+Covered entities and business associates (together called “covered entities” in
+this text for simplicity) that use PHI must follow the HIPAA Privacy and Security
+Rules. The Privacy Rule dictates how covered entities must protect the privacy of
+PHI. The Security Rule, in contrast, states how they must protect the confidentiality,
+integrity, and availability of electronic PHI.
+Main Requirements of the Privacy Rule
+HHS published the final Privacy Rule in December 2000; it was first modified in
+August 2002. In January 2013, HHS published regulations implementing the
+HITECH Act that made changes to many portions of the Privacy Rule. Initial
+compliance with the Privacy Rule was required in April 2003. The Privacy Rule is the
+first time the U.S. government has specified federal privacy protections for PHI. The
+HHS said that the Privacy Rule had three main purposes:
+To allow consumers to control the use of their health information. This includes
+providing consumers with a way to access their health information
+To improve health care in the United States by restoring consumer trust in the
+healthcare system
+To create a national framework for health privacy protection 16
+Under the Privacy Rule, covered entities may not use or disclose people’s PHI
+without their permission. However, the Rule also specifies situations where use or
+disclosure is allowed without permission. The term use refers to how a covered
+entity shares or handles PHI within its organization. Use refers to how employees of
+a covered entity might handle PHI to provide health care. Disclosure refers to how a
+covered entity shares PHI with other organizations that may not be affiliated with it. A
+person must specifically consent to a use or disclosure that is not permitted by the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Privacy Rule.
+The Rule also requires covered entities to put safeguards in place to protect a
+person’s PHI. Covered entities must limit how their employees use and access PHI.
+They also must create training programs for their employees on how to protect PHI.
+Required Disclosures
+Under the Privacy Rule, there are only two situations in which a covered entity must
+disclose PHI:
+1. When a person requests access to his or her PHI
+2. When HHS is investigating the covered entity
+A covered entity must disclose PHI when a person requests access to his or her PHI.
+Under the Privacy Rule, people have the right to access, review, and get a copy of
+their PHI. They also have the right to request that their PHI be sent directly to a third
+party. This right extends to almost all records held by a covered entity that are used
+to make decisions about that person. It includes PHI held in medical records, billing
+information, and insurance claim information.
+The Privacy Rule recognizes that people may not be able to request their own
+PHI for some reason. The Rule allows people who are legally authorized to act for
+another to request PHI on that person’s behalf. For instance, parents can request
+the PHI of their minor children. A minor child is one who is under the age of legal
+adulthood, which is determined on a state-by-state basis. For most situations in the
+United States, a minor is a person under the age of 18.
+Covered entities must respond to a person’s request to access PHI within a
+specific period. The Rule requires covered entities to respond in 30 days. This period
+can be extended to another 30 days with written notice to the requestor. 17 Additional
+extensions of time are also allowed in some instances.
+A covered entity may charge a reasonable fee for copying the records and
+sending them to the requestor. If the records are maintained in an electronic format,
+then requestors have the right to receive their records in that electronic format.
+NOTE
+A covered entity may not charge people requesting access to their PHI a storage retrieval fee, as that is
+specifically disallowed by the Privacy Rule. However, a covered entity may charge for labor and supplies
+needed to copy the records. It also may charge for postage and any electronic media needed to provide
+the records.
+There are some types of PHI that a covered entity does not have to provide, even
+if a person specifically requests it. However, if a covered entity chooses to deny
+access to PHI, then it must specify in writing why it is denying access. It should
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.explain the reason for the denial and how to appeal the denial.
+Some types of PHI access denials are not appealable. For example, people
+cannot challenge a covered entity’s decision to deny access to PHI in some of the
+following situations:
+Information that is compiled in anticipation of a lawsuit
+Psychotherapy notes
+Any information release that would be denied under the Privacy Act of 1974
+Any information that prisons compile on inmates.
+The covered entity must conduct a risk assessment about the risks of providing
+access before issuing a denial.
+A covered entity may choose to deny a person access to his or her PHI if it
+believes that the PHI requested is reasonably likely to endanger the life or physical
+safety of the person making the request. The covered entity may also deny access if
+it believes that the access could cause substantial harm to another person. A person
+may appeal this decision. If that happens, a licensed healthcare professional who did
+not participate in the original decision to deny access will review the appeal. 18
+The second type of situation where a covered entity must disclose PHI is when
+HHS is investigating the covered entity. 19 This typically happens to ensure the
+entities are following the Privacy Rule. A person may file a complaint with HHS if he
+or she believes that a covered entity is not properly handling PHI. HHS is then
+allowed to access PHI if it is necessary to review compliance with the Privacy Rule.
+FYI
+HHS provides a Health Information Privacy Complaint for consumer use. The complaint is available at
+https://www.hhs.gov/hipaa/filing-a-complaint/index.html.
+Permitted Uses and Disclosures
+A covered entity is permitted to use and disclose a person’s PHI without written
+consent in several situations. A use or disclosure that does not fall within the
+situations described by the Rule is not permitted unless a person specifically allows
+it. 20 HHS allows the following uses and disclosures of PHI without consent:
+Made to a person about his or her own PHI
+Made for treatment, payment, and healthcare operations
+Made after giving a person an opportunity to opt out of the use
+Made for public health and safety activities
+Limited data sets of PHI used or disclosed for specified activities
+Uses and Disclosures Made to a Person About His or Her Own PHI. A covered
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.entity may always disclose a person’s PHI to him or her without written consent. This
+makes sense because healthcare providers must communicate with people about
+their own care. It would not facilitate efficient health care if people had to specifically
+authorize covered entities to discuss their health care with them. Providing a
+person’s PHI to him or her when requested also is a required disclosure under the
+Privacy Rule.
+Treatment, Payment, and Healthcare Operations. A covered entity may use a
+person’s PHI for its own treatment, payment, or healthcare operations. 21 These are
+the most common covered entity activities. The Privacy Rule defines each of these
+terms. A covered entity is engaging in treatment activities when it is giving health
+care or services to a person. 22 These activities include managing a patient’s health
+care among several providers, as well as referring a patient to another provider. A
+covered entity also can disclose PHI for the treatment activities of another covered
+entity. For example, a dentist can send a copy of a patient’s dental records to an
+orthodontist who needs that information to treat the patient.
+Payment activities are actions to get payment for healthcare goods and
+services. 23 A covered entity may disclose PHI without consent for these activities,
+which include billing and collection functions. They also include submitting claims for
+services to health insurance companies. Covered entities also may disclose PHI to
+another covered entity for the payment activities of the other entity. For instance, a
+doctor can share a person’s health insurance coverage with a laboratory that it uses
+to process patient blood work because the lab needs the information in order to bill
+the patient for the services that it provides to the doctor.
+Healthcare operations are actions that support the covered entity’s business. 24 A
+covered entity may use a person’s PHI for these activities without consent. These
+activities, which are the administrative and financial functions needed to run the
+business, include review processes to make sure that a covered entity is compliant
+with the laws that it must follow. Healthcare operations include quality assessment
+and improvement actions. A covered entity may not usually share any PHI used for
+these purposes with another covered entity. The only time it is allowed is when both
+entities have a relationship with the person.
+NOTE
+Covered entities may disclose PHI to other healthcare providers for treatment and payment purposes.
+These providers do not have to be covered by the Privacy Rule.
+Covered entities may choose to get a person’s consent to use PHI for treatment,
+payment, and healthcare operations. However, it is not required under the Privacy
+Rule. 25 Even when a covered entity gets consent to share PHI for these purposes, it
+should always make sure that it uses and discloses PHI in a way that is consistent
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.with its notice of privacy practices. These notices are discussed in this chapter.
+Uses and Disclosures Made After an Opportunity to Opt-Out. There are some
+situations where a covered entity may use or disclose a person’s PHI only after the
+person has had an opportunity to opt-out of the use or disclosure. 26 An opt-out is a
+more informal type of consent that only applies in limited situations. A written
+consent is not needed so long as a person was advised of the right to opt-out. These
+situations include publishing a patient’s name and condition in a facility directory and
+sharing PHI with a person’s family and friends.
+Some covered entities, such as hospitals, maintain a directory of patient
+information. Nursing homes do this too, using this directory to list the person’s name,
+facility room number, and general condition. However, the directory contains a
+limited amount of PHI. A common example of a facility directory is a list of people
+who are patients at a hospital. The covered entity must ask patients if they want their
+data included in the directory. Many covered entities ask patients this question when
+they enter the facility for treatment as part of a pre-admission checklist.
+Covered entities also may disclose a person’s PHI to his or her family, friends,
+and caregivers without written consent. The person must be given an opportunity to
+opt-out of the disclosure. However, so long as a person does not object, a covered
+entity can share the person’s PHI with friends, family, and caregivers. Covered
+entities also can share information with friends, family, and caregivers for treatment
+or payment purposes.
+However, this does not mean that a covered entity may share all PHI with every
+friend, family member, or caregiver. A person may place limits on these types of
+disclosures. For example, the person may specify that some, but not all, family
+members can receive PHI from a covered entity. For instance, a doctor may not
+discuss a patient’s health information with his or her mother if the patient says not to.
+In addition, a covered entity must use professional judgment in sharing PHI in
+this manner if a patient is not present or is unable to object to a disclosure. For
+example, a patient cannot object to a disclosure if unconscious. In these cases, the
+covered entity must decide that sharing the PHI is in the patient’s best interest. For
+instance, an emergency department doctor may share information about a person’s
+condition with his or her family and friends if the person is in surgery.
+Just because a covered entity is allowed to share PHI under the Rule does not
+mean that it has to do so. For example, the covered entity is not required to share
+PHI if the patient is not present or is unable to object to the disclosure. Instead, it can
+choose not to disclose any PHI until someone can talk to the patient.
+FYI
+HHS has created guidance for patients to help them understand when healthcare providers may share
+their PHI. That guidance is available at https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.consumers/index.html.
+Uses and Disclosures Made for Public Health and Safety Activities. HHS
+recognized that there are some situations where a covered entity should disclose a
+person’s PHI. For example, sometimes it is necessary for the good of society. 27 A
+covered entity does not need a person’s consent to disclose PHI in these situations.
+It also does not need to give a person a chance to object. Generally, these situations
+involve public safety and welfare. HHS felt that requiring a person’s consent to
+disclose PHI in these situations could negatively affect society. In general, a covered
+entity may disclose PHI to certain government entities without consent for the
+following purposes:
+To provide vital statistics
+To control communicable diseases
+To report abuse and neglect
+When required by other laws
+For law enforcement purposes
+Vital Statistics and Communicable Diseases. A covered entity may disclose a
+person’s PHI without consent to report births, deaths, and other vital statistics. Often
+these types of reports are required by state law; therefore, a covered entity must
+report these events to public health authorities. It may also disclose PHI to these
+authorities to prevent or control disease, injury, or disability. These types of
+disclosures of PHI do not require consent. For instance, New York healthcare
+providers must report certain diseases to their local health departments; for example,
+they must report highly contagious diseases and diseases that might indicate
+bioterrorism. Diseases that must be reported immediately include smallpox, anthrax,
+botulism, and typhoid. These diseases are serious public health threats.
+The HITECH Act added regulations that allow covered entities to provide proof of
+immunization to schools if required for admittance. This is because schools play an
+important role in making sure children are vaccinated. In these cases, covered
+entities have to document that an individual agreed to the disclosure of the records. 28
+Abuse and Neglect. A covered entity may disclose PHI about victims of child abuse
+or neglect without consent. 29 However, the covered entity may disclose the PHI only
+to government agencies that have the legal authority to receive these reports. Child
+welfare and social services agencies are allowed by state law to receive reports
+about child abuse and neglect. Law enforcement agencies also are allowed to
+receive these types of reports.
+NOTE
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Public health is the branch of medicine that is concerned with the health of a community of people. A
+public health authority is a state or federal agency that is responsible for public health matters. For
+example, a state or local health department is a public health authority, as is the federal Centers for
+Disease Control and Prevention (CDC).
+All U.S. states have laws that require healthcare providers to report evidence of
+child abuse and neglect. Other professionals that work with children, such as
+teachers, have similar requirements. They must report information either to state
+social services agencies or to local law enforcement. States make these laws
+because it is important to the public welfare to protect children.
+The Privacy Rule contains slightly different provisions for adult victims of abuse,
+neglect, or domestic violence. 30 A covered entity may disclose PHI about adult
+victims of these crimes if the disclosure is required by law and if the patient allows it.
+The covered entity may still disclose PHI if a patient does not allow the disclosure, or
+cannot agree to the disclosure. In that case, the covered entity must use its
+professional judgment to determine that the disclosure is necessary; for example, if it
+must be made to prevent serious harm to the person.
+A covered entity must promptly notify a person or his or her personal
+representative if it makes a disclosure of PHI in these cases. However, there are
+some exceptions to this general rule. The covered entity does not have to notify an
+adult victim if it believes that informing him or her would place the victim at risk of
+harm. The covered entity also does not have to notify the individual’s personal
+representative if it believes that the representative is responsible for the victim’s
+injuries.
+FYI
+Attorneys are allowed to issue subpoenas for information as part of lawsuits, often as part of the discovery
+process. Discovery is the legal process used to gather evidence in a lawsuit. A discovery request is a
+request for information from one party in a lawsuit to the other party. These requests also can be made to
+witnesses. Subpoenas issued by attorneys as part of the discovery process do not require court approval.
+When a subpoena issued as part of discovery requests PHI, the individual involved must be notified.
+Required by Law and Law Enforcement. A covered entity may use or disclose PHI
+to the extent that it is required by law. 31 In these situations, the covered entity is
+usually disclosing the PHI to some sort of governmental legal entity. For example, it
+may disclose PHI in response to a court order or court-ordered warrant. It may also
+disclose PHI in response to a subpoena issued by a grand jury. If the covered entity
+is providing PHI in response to a discovery request generated as part of a lawsuit,
+then it must notify the person who is the subject of the PHI. That person must have a
+chance to object to the discovery request.
+Covered entities may also disclose PHI without consent for some law
+enforcement activities. For example, they may provide some types of PHI to help
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.identify or locate a suspect, witness, or missing person. Information that a covered
+entity can provide in these situations is limited to identifying information, such as
+name and address. It also includes distinguishing physical characteristics that could
+be used to identify the person that the police are looking for.
+Covered entities may also provide PHI without consent if it is requested by law
+enforcement and it is about a victim of crime. They can also disclose PHI as needed
+to identify or apprehend a violent criminal. Covered entities may alert law
+enforcement about a person’s death if they believe that the death was caused by
+criminal activity. They also may disclose PHI to law enforcement or government
+officials if they believe there is a serious threat to health or safety.
+Limited Data Sets Used or Disclosed for Specified Activities. A limited data set
+is PHI that does not contain any data that identifies a person because it is stripped of
+certain identifiers. These identifiers must be redacted from the PHI. Redaction
+means protected information is removed or obscured in a document before sharing
+that document with other individuals or groups.
+A covered entity may share limited data sets for research, healthcare operations,
+and public health activities. It does not need a person’s permission to share them.
+Identifiers that must be removed from PHI in order to create a limited data set are: 32
+Name
+Street address (except that some geographical information may remain if certain
+conditions are met)
+Telephone and fax numbers
+Email addresses
+Social Security numbers
+Medical record numbers
+Health plan beneficiary numbers
+Account numbers
+Certificate/license numbers
+Vehicle identifiers and serial numbers, including license plate numbers
+Device identifiers and serial numbers
+Web Universal Resource Locators (URLs)
+Internet Protocol (IP) address numbers
+Biometric identifiers, including finger and voice prints
+Full face photographic images and any similar images
+Any other unique identifying number, characteristic, or code that identifies a
+person or his or her PHI
+A limited data set is still PHI; therefore, a covered entity must enter into a data use
+agreement with the organization that receives it. 33 The data use agreement specifies
+how the PHI in the limited data set will be protected.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Uses and Disclosures That Require Authorization
+A covered entity must get people’s written consent in order to use or disclose their
+PHI in ways that are not expressly allowed under the Privacy Rule. 34 Under the Rule,
+written consent is called an authorization. These are very specific documents that
+allow PHI to be shared. A written authorization is required for many purposes, such
+as to disclose psychotherapy notes and to use PHI in marketing materials.
+A covered entity must get an authorization before it discloses PHI if a permitted
+use or disclosure does not apply. This comes into play in many ways. A covered
+entity needs an authorization to share a person’s PHI with an employer for
+employment purposes. Even if a person asks the covered entity to provide this
+information to an employer, he or she must sign an authorization. A parent will need
+to sign an authorization on behalf of his or her minor child to have the covered entity
+disclose PHI to the child’s school. This might be required to allow children to
+participate in some school activities such as sporting events.
+NOTE
+De-identified data is data that has been stripped of all information that could identify an individual. De-
+identified data is not PHI. The HHS has issued guidance about how to de-identify data.
+FYI
+HIPAA uses the term authorization to distinguish between consent to use or disclose PHI and other types
+of consent that are used in the healthcare industry. For example, informed consent, written consent from a
+patient to undergo a medical treatment, is a basic rule in health care. This type of consent explains the
+risks and benefits of treatment. When patients sign informed consent documents, they are agreeing to
+undergo the treatments specified. These forms are very different from a Privacy Rule authorization that
+allows PHI to be shared. When people consent to sharing their PHI, they show their consent by signing an
+authorization. This eliminates confusion among different types of documents used in the healthcare
+industry.
+The Privacy Rule forbids a covered entity from requiring a person to sign an
+authorization in order to receive healthcare treatment. The covered entity cannot
+condition benefit eligibility on signing an authorization. This is so that covered
+entities cannot force people to sign authorizations under pressure by withholding
+needed care.
+The Privacy Rule requires authorizations to contain specific terms. It also states
+situations in which an authorization is defective. A defective authorization is not valid.
+Authorizations are defective if the expiration date stated in the authorization has
+passed. They are also invalid if they are not filled out completely, or if a person has
+revoked them.
+An authorization must be in plain language. This means that it should not contain
+any legal terms or other terms that are hard for a person to understand. A valid
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.authorization must contain the following elements: 35
+A specific and meaningful description of the PHI that will be used or disclosed
+Identification of the people who are allowed to make the requested use or
+disclosure
+Identification of the people who will receive the use or disclosure
+A clear description of the reason for the requested use or disclosure
+The date that the authorization will expire
+The signature of the person and the date
+The Privacy Rule requires that covered entities provide people with a copy of any
+authorizations that they sign.
+Minimum Necessary Rule
+A covered entity is permitted to use and disclose some types of PHI without an
+authorization. These situations were described earlier in this chapter. However, this
+does not mean that it should always disclose the entire allowable amount of PHI
+available to it. Any time a covered entity discloses PHI, it must follow the minimum
+necessary rule. 36 In other words, it may disclose only the amount of PHI absolutely
+necessary. The amount disclosed must be able to satisfy the reason why the
+information is being used or disclosed, but no more. Covered entities must create
+internal processes and procedures to make sure that employees access only the
+amount of PHI needed to do their jobs.
+NOTE
+The Privacy Rule minimum necessary rule is similar to the general information security principle of need to
+know. Only the information needed to carry out a function or activity should be disclosed.
+A covered entity must use professional judgment and make reasonable efforts to
+limit its use or disclosure of PHI. For instance, a healthcare provider should not
+disclose a person’s entire medical record if only a portion of it is needed to be
+responsive to a request.
+There are some exceptions to this rule. 37 Uses or disclosures of PHI made by a
+healthcare provider for treatment purposes are not subject to the minimum
+necessary rule. It also does not apply to disclosures made to people about their own
+PHI, or to uses or disclosures made when a person specifically authorizes the use or
+disclosure. It also does not apply to uses or disclosures required by law or made to
+HHS for its complaint investigation function.
+Other Individual Rights Under the Privacy Rule
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.The Privacy Rule gives people additional rights regarding their PHI. These rights
+help people make sure that their PHI is used properly.
+Amendments of PHI. A person has the right to ask that a covered entity amend the
+person’s PHI. 38 However, a covered entity does not have to correct data in the
+record. Instead, it can include the amendment in the record. That way the integrity of
+the record is maintained. Other entities that might rely on the unamended PHI to the
+person’s detriment must be notified of the amendment. The covered entity that
+makes this amendment also must notify the other entities, as well as anyone else the
+individual specifies.
+A covered entity must respond to a request to amend PHI within 60 days. 39 That
+time can be extended for 30 more days if the covered entity notifies the requestor in
+writing. A covered entity may choose not to amend PHI for some reason. For
+example, a covered entity does not have to amend PHI if it did not create the PHI
+that is in question. It also does not have to amend PHI if it determines that the PHI in
+the record is accurate and complete.
+If an entity chooses to deny a request to amend PHI, then it must issue a written
+denial notice to the person who requested the amendment. 40 The denial notice must
+contain the basis for the denial, as well as a statement of the person’s right to
+disagree with the denial. A person may submit a statement of disagreement to the
+covered entity, which may prepare a rebuttal to the person’s statement of
+disagreement. If a request for amendment is denied, the covered entity must include
+the following in the person’s record:
+Identification of the PHI that is under dispute
+A copy of the person’s request to amend the PHI
+A copy of the covered entity’s denial of the request
+A copy of the person’s statement of disagreement
+A copy of the covered entity’s rebuttal statement
+All of this information must be included in future uses or disclosures of the PHI that is
+under dispute.
+Accounting of Disclosures. Covered entities must keep records of how they
+disclose a person’s PHI. Under the Privacy Rule, a person has the right to receive an
+accounting of how the covered entity has used or disclosed the person’s PHI. 41
+People have the right to get an accounting of disclosures of PHI made in the 6 years
+before the date of their request. They also can request accountings for shorter
+periods.
+A covered entity does not have to account for every PHI disclosure that it makes.
+The Privacy Rule states that some kinds of disclosures do not have to be included in
+an accounting. However, any disclosure not specifically excluded must be included
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.and tracked. TABLE 6-1 compares different types of disclosures.
+TABLE 6-1 Different Types of Disclosures
+DISCLOSURES THAT ARE NOT TRACKED
+DISCLOSURES THAT MUST BE TRACKED
+Disclosures made to carry out treatment, payment,
+and healthcare activities* Disclosures to HHS for its compliance functions
+Disclosures to individuals Disclosures required by law
+Disclosures made after an authorization is received Disclosures required for public health activities
+Incidental disclosures Disclosures made to report abuse
+Disclosures where the person had the opportunity to
+opt-out Disclosures for judicial and administrative
+proceedings (in response to subpoenas and court
+orders)
+Disclosures for national security or intelligence
+purposes Disclosures for law enforcement purposes
+Disclosures to correctional institutions or to law
+enforcement officials having custody of an inmate Disclosures for research purposes (unless
+authorized or made via a limited data set)
+Disclosures that are part of a limited data set Disclosures to the public health agencies
+Disclosures made more than 6 years before the date
+of the person’s request for an accounting Disclosures to avert a threat of serious injury
+Disclosures made by mistake (inadvertent
+disclosures)
+Any other disclosures not specifically excluded by
+the Privacy Rule
+*The HITECH Act has different tracking requirements for disclosures made from an EHR.
+A covered entity must provide a person a first accounting in a 12-month period at
+no charge. 42 If he or she requests more than one accounting in that period, then the
+covered entity can charge a reasonable fee for each subsequent request. However,
+the covered entity must inform the person that it intends to charge a fee for an extra
+accounting and give the person a chance to withdraw or change the request in order
+to avoid the fee.
+A covered entity must respond to a request for an accounting in writing within 60
+days. 43 This period can be extended 30 days with notice to the person who has
+requested the accounting. When it responds, the covered entity must include the
+following information:
+Date of disclosure
+Name of recipient
+Description of the PHI disclosed
+Reason for the disclosure, or a copy of the request for the disclosure
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.The HITECH Act made changes to the accounting of disclosures requirement for
+EPHI. These changes apply to cases where a covered entity maintains an EHR for a
+person. An EHR is an electronic record or healthcare information created by a
+covered entity. If a covered entity keeps an EHR, then it must provide a person with
+an accounting of the treatment, payment, and healthcare operation disclosures
+made from that EHR. 44 This expanded requirement applies only to disclosures from
+an EHR. In cases involving an EHR, a person has a right to get an accounting only
+for the 3 years before the date of the request. In 2011 HHS proposed additional
+regulations that address how disclosures from an EHR should be accounted for. The
+proposed regulations were withdrawn in 2018. At the time of this writing, new
+regulations had not been proposed.
+Privacy Notices
+Covered entities must inform people about their privacy practices. 45 The Privacy
+Rule requires covered entities to let people know how they use and disclose their
+PHI. It does this in a privacy policy. A covered entity must use and disclose PHI only
+in the ways described by its privacy policy.
+A covered entity must use plain language to draft its notice, so that an average
+person is able to understand the notice. The Privacy Rule requires the notice to
+include specific parts:
+A title that reads: “THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION
+ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET
+ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.” The
+covered entity must display this header in prominent type.
+A description of how the covered entity may use and disclose a person’s PHI. It
+should include examples of disclosures that the entity makes for treatment,
+payment, and healthcare operations. This description should state when the
+covered entity is allowed to use or disclose PHI without a person’s consent, and
+when the covered entity must have consent.
+Incidental and Inadvertent Disclosures
+The difference between incidental and inadvertent disclosures of PHI is important to understand. Even
+though they sound similar, they are very different.
+Incidental disclosures are permitted disclosures under the Privacy Rule. Covered entities do not have to
+track these types of disclosures. An incidental disclosure can result from any use or disclosure that is
+allowed under the Privacy Rule. They are allowed so long as a covered entity implements safeguards to
+limit the amount of PHI exposed though an incidental disclosure.
+Examples of incidental disclosures include:
+A customer at a pharmacy hears the pharmacist quietly discussing a medication with another
+customer. This is an incidental disclosure because it occurs during an activity that is allowed under
+the Privacy Rule. The permitted activity is the covered entity’s treatment activities.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.A patient going to a hospital to pay a bill briefly views another patient’s payment information on the
+billing clerk’s computer monitor. The first patient can see this information only briefly before the clerk
+accesses the patient’s own record. This is an incidental disclosure because it is a result of the
+covered entity’s permitted payment activities.
+Covered entities must take steps to limit incidental disclosures. This includes speaking quietly when
+discussing conditions with patients and their families. It also includes shielding monitors from public view
+as much as possible.
+Inadvertent disclosures are different. Inadvertent disclosures are disclosures that are not allowed under
+the Privacy Rule. Covered entities must track inadvertent disclosures. They also must provide an
+accounting of these types of disclosures if a person requests it. These disclosures happen by mistake. An
+example would be if a covered entity discloses PHI without a valid authorization when one was needed.
+Under the HITECH Act, some types of inadvertent disclosures could even be considered an impermissible
+data breach that requires further action.
+A description of the person’s rights with respect to his or her PHI. This section
+should also include information on how a person can exercise these rights. The
+covered entity must include information about its complaint processes, as well as
+information about the person’s right to complain to HHS.
+A statement that the covered entity is required by law to maintain the privacy of
+PHI. This statement must include the entity’s legal duties with respect to PHI.
+The contact information of a person the individual can contact to ask additional
+questions about the covered entity’s privacy notice.
+A covered entity’s privacy policy must contain an effective date. The covered entity
+must revise and redistribute its notice any time it makes a material change to the
+notice. Covered entities must make the notice available to anyone who asks for it. It
+also must make the notice available on any website that it maintains.
+NOTE
+Many of the elements that are required in the Notice of Privacy Practices contain portions of the fair
+information practice principles.
+Different types of covered entities have additional rules to follow when giving their
+privacy notices to individuals. 46 For example, health plans must distribute their
+privacy notices to people when they enroll in the health plan. They also must make
+sure that plan participants receive a copy of the notice at least once every 3 years.
+NOTE
+A material change is a change in an organization’s operating practices that is significant. Material changes
+can affect how people understand their rights or interact with an organization.
+In some cases, the Privacy Rule does not require healthcare clearinghouses to
+develop a notice of privacy practices; for example, if the only PHI that they create or
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.receive is as a business associate of another covered entity.
+Healthcare providers have additional rules to follow for distributing their notices to
+individuals. Providers must give the notice to a person no later than when they first
+provide services to that person. They also must make a good-faith effort to get the
+person’s written acknowledgment of receipt of the notice. A provider must document
+a person’s receipt of the notice if it cannot gain a receipt from the person. In
+emergencies, the healthcare provider must provide its notice of privacy practices to a
+patient as soon as it is reasonable. A healthcare provider must also post its notice in
+a clear and prominent location where patients can read the notice. Covered entities
+must retain copies of privacy notices that they distribute. They must also retain
+written acknowledgments.
+Administrative Requirements
+A covered entity has administrative duties under the Privacy Rule. 47 For example, it
+must designate a privacy official who is responsible for developing the covered
+entity’s privacy policies and procedures. HHS allows a covered entity to scope its
+privacy policies and programs to its size and structure. This allows covered entities
+some discretion when they create their programs. Covered entities that are large
+with complex structures must develop policies appropriate for that structure. Smaller
+entities are not held to the same standard, and therefore must develop their own
+policies.
+The covered entity must also designate a person to receive consumer privacy
+complaints. This person handles complaints about the entity’s own privacy policies,
+as well as consumer complaints about the Privacy Rule. This person also answers
+questions about the entity’s privacy notice. The privacy official often serves as this
+contact person.
+Covered entities must create policies and procedures to protect the privacy of all
+PHI. 48 These policies include destroying PHI properly. They can also include
+requirements that paper medical charts be secured in locked file cabinets. This
+requirement is similar to the HIPAA Security Rule. However, the Security Rule
+applies only to EPHI.
+NOTE
+The Security Rule contains document retention requirements. Covered entities must maintain their
+Security Rule documentation for 6 years after it is created. They also must maintain old documents for 6
+years after they are retired. The 6-year time limit starts to run on whichever date (creation or retirement) is
+later.
+Covered entities must train all their employees—even part-time employees,
+volunteers, and interns—on the Privacy Rule and its privacy policies and
+procedures. A covered entity also must have a discipline policy for workers who
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.violate the Privacy Rule. This is called a sanctions policy.
+FYI
+HHS relies on National Institute of Standards and Technology (NIST) guidelines to specify how PHI should
+be secured during storage and transmission. PHI is considered secured if a covered entity encrypts it
+according to these guidelines. The HHS guidance can be found at https://www.hhs.gov/hipaa/for-
+professionals/breach-notification/guidance/index.html.
+Breach Notification Provisions
+The Privacy Rule requires covered entities, including business associates, to
+mitigate an unauthorized use or disclosure of PHI. 49 Before the HITECH Act, a
+covered entity did not have to notify individuals that their PHI was used or disclosed
+in an unauthorized manner. However, the HITECH Act now requires them to do so. It
+creates notification requirements that covered entities must follow in the event of a
+breach of unsecured PHI. 50 Both covered entities and business associates must
+follow these rules.
+A breach is any impermissible use or disclosure of unsecured PHI that
+compromises the security or privacy of the PHI. Any unauthorized use or disclosure
+is presumed to be a breach under the law. In some cases, a covered entity might be
+able to show that there is a low probability that PHI was compromised. If it can do
+that, then the breach notification requirements do not apply.
+To show that there is a low probability that PHI has been compromised, a
+covered entity must engage in a risk assessment. To conduct the risk assessment, a
+covered entity must review:
+The PHI that was involved in the breach—Is the PHI involved very sensitive? Is
+it more likely to lead to identify theft?
+Who used or received the PHI—Does the entity know who used the PHI? Was it
+an impermissible use or disclosure?
+Was the PHI actually acquired?—Was the PHI involved actually viewed? Was is
+downloaded by the unauthorized individual?
+Have risks been mitigated?—If the entity knows who used the PHI, can it get
+assurances that they will not disclose or use the data further? Can the entity
+ensure that PHI has been destroyed?
+The covered entity must weigh all these factors. It also must conduct this risk
+assessment in good faith. As noted earlier, if the risk assessment demonstrates that
+there is a low probability that the PHI has been compromised, then the breach
+notification requirements do not apply. 51
+The HITECH breach notification provisions apply to unsecured PHI, which refers
+to PHI that is not protected by a technology that renders it unusable or unreadable.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Unsecured PHI is PHI that is not encrypted or properly destroyed. PHI must be
+encrypted through a process that is approved by HHS to be considered secure. In
+April 2009, HHS issued guidance on what technologies were acceptable to encrypt
+PHI. It will update this guidance yearly.
+Unsecured PHI includes PHI that is not disposed of properly. PHI is considered
+unsecured during destruction if it is still readable or recoverable after disposal. PHI
+that is shredded or completely destroyed is disposed of properly.
+NOTE
+Neither HIPAA nor the HITECH Act provides a private cause of action. This means that neither law gives
+people a right to sue a covered entity that wrongfully uses their PHI. An individual would have to use a
+different legal theory, such as negligence, to sue a covered entity that wrongfully uses his or her PHI.
+Covered entities must provide notice to people who are affected by a breach of
+unsecured PHI. 52 These are the people whose PHI was disclosed, or potentially
+disclosed, because of the breach. The covered entity must notify them no later than
+60 days after it discovers the breach. 53 A breach is discovered on the first day that
+the covered entity knows about the breach. Individuals must be notified about the
+situation without “unreasonable delay.” This means that a covered entity must notify
+individuals as soon as it can reasonably do so. A covered entity may delay
+notification if a law enforcement official requests it.
+Any notice to an individual must include:
+A complete description of what happened
+A description of the PHI involved
+A description of what the covered entity is doing to mitigate the breach
+Steps the person should take to protect himself or herself from harm such as
+identity theft
+Contact information for the covered entity 54
+The HITECH Act also specifies the method for notifying people of a breach of their
+unsecured PHI. The default way to provide notice is via first-class mail. However,
+there are other ways to provide notice in some circumstances. For example, a
+covered entity can provide notice via email if the individual has agreed to receive
+communications by email. If the breach involves more than 500 people, then the
+covered entity must also immediately notify HHS about the breach, 55 as well as local
+media so news outlets can help inform people. All covered entities must submit
+annual reports to the HHS about breaches involving fewer than 500 people.
+Main Requirements of the Security Rule
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.HHS published the Security Rule in February 2003. This information security rule
+requires covered entities to use security safeguards that protect the confidentiality,
+integrity, and availability of electronic protected health information (EPHI). EPHI
+is patient health information that is computer based. Covered entities were required
+to comply with the Rule by April 20, 2005.
+Similar to the Privacy Rule, the Security Rule was the first time the U.S.
+government stated federal protections for EPHI. Under the Rule, covered entities
+must protect all EPHI that they create, receive, maintain, or transmit from reasonably
+anticipated threats. 56 They also must guard against uses or disclosures of EPHI that
+are not allowed by the Privacy Rule.
+Electronic Health Records and Personal Health Records
+In January 2005, President Bush called for the creation of a nationwide network of EHRs within 10 years. An
+EHR refers to government-endorsed technologies that allow healthcare providers to store, retrieve, and share
+medical information. The goal of an EHR is to make paper medical records obsolete.
+The HITECH Act allocates $19.2 billon to promote the adoption of EHRs. Beginning in 2011, healthcare
+professionals who used approved EHR technologies were eligible for some types of incentives to help cover
+the cost of adopting EHR technologies. Healthcare providers that moved too slowly to adopt EHR did not
+receive the incentives.
+An EHR is different from a personal health record (PHR). PHRs are health records that are compiled and
+maintained by a person or other non-medical provider third party, whereas EHRs are compiled and
+maintained by healthcare providers. A PHR typically refers to individual-compiled health records in an
+electronic format. People can compile and store this information on their computers. They also can use
+applications and tools offered by third parties. Many health insurance companies give their members access
+to tools that allow them to compile PHRs. These tools and PHRs are specific to the health insurance plan.
+Covered entities must create policies and procedures to comply with the Security
+Rule. 57 They must review their documents on a regular basis and update them as
+needed, as well as provide training to their employees. They also must make
+security program documents available to employees in printed manuals or on
+websites. A covered entity also must have a sanctions policy to discipline workers
+who violate the Security Rule.
+The Security Rule allows covered entities flexibility in creating their overall
+security program. The Rule does not require covered entities to use specific types of
+technology. In creating their program, covered entities may think about:
+The size and complexity of the entity
+Its technical infrastructure, hardware, and software security resources
+The costs of security measures
+The potential risks to EPHI 58
+Safeguards and Implementation Specifications
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.The Security Rule requires covered entities to use information security principles to
+protect EPHI through the use of administrative, physical, and technical safeguards.
+The Rule contains instructions on each safeguard, as well as standards that must be
+implemented for each safeguard. These standards include a list of items, called
+implementation specifications, that a covered entity must put into practice.
+There are some implementation specifications that a covered entity must
+implement, which are called required specifications. Other specifications are
+addressable. Covered entities have more discretion when considering addressable
+specifications. For these specifications, it must assess whether that control is
+reasonable and appropriate in its environment. 59 If it is, then the covered entity must
+use it.
+If an addressable specification is not reasonable and appropriate, the covered
+entity does not have to use it. However, it must document why the specification was
+not appropriate. It also must implement an equivalent control, which should
+accomplish the goal of the addressable specification.
+Administrative Safeguards. Half of the safeguards required by the Security Rule
+are administrative in nature. These safeguards are actions, policies, and procedures
+that a covered entity must implement in order to follow the Security Rule. 60 There are
+nine different administrative requirements. A covered entity must implement the
+following standards:
+Security management process
+Assigned security responsibility
+Workforce security
+Information access management
+Security awareness and training
+Security incident procedures
+Contingency plan
+Evaluation
+Business associate contracts 61
+The security management process standard guides a covered entity in creating its
+security program. It has four required implementation specifications. To comply with
+this standard, a covered entity must conduct a risk analysis and engage in risk
+management. It must also create a sanction policy and review information system
+activity.
+Risk analysis is used to assess the vulnerabilities, threats, and risks that could
+harm EPHI. Risk management is the process of implementing controls to reduce
+risk. Information system activity review is the process of reviewing system logs and
+records. Covered entities must review them to make sure that EPHI is being used
+properly.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Covered entities are required to name an official responsible for Security Rule
+compliance because of the assigned security responsibility standard. This standard
+is similar to the Privacy Rule provision that requires covered entities to designate a
+privacy official. The privacy and security officials do not have to be the same person.
+NOTE
+Risk analysis and risk management are standard information security concepts. HHS has issued guidance
+on risk analysis and assessment under the Security Rule. You can learn more at
+https://www.hhs.gov/hipaa/for-professionals/security/guidance/guidance-risk-analysis/.
+Under the workforce security standard, covered entities must implement need-to-
+know policies for EPHI access and ensure that all employees have appropriate
+access to EPHI. They also must ensure that employees without proper authority are
+not able to access EPHI. There are three addressable specifications in this standard.
+To the extent that it is appropriate for its operations, the covered entity must
+implement authorization and supervision procedures. It must also implement
+workforce clearance and termination procedures.
+Each of these specifications helps to ensure proper access to EPHI. The
+authorization and supervision procedures are used to make sure that an individual
+user has the authority to use EPHI in certain ways. Under the workforce clearance
+specification, a covered entity must create procedures to confirm that an employee’s
+access to EPHI is correct. The termination procedures specification requires covered
+components to terminate employee access to EPHI when an employee leaves a
+covered entity.
+The information access management standard is closely related to the workforce
+security standard. It requires covered entities to create policies to access EPHI that
+must be consistent with the Privacy Rule. The standard has one required and two
+addressable implementation specifications.
+The security awareness and training standard requires covered entities to create
+training and awareness programs for all members of its workforce. This standard has
+four addressable specifications. Where appropriate, the covered entity must
+implement password management procedures. It must also create logon monitoring
+procedures. Other procedures must protect against malicious software. The entity
+also should provide security updates to its workforce.
+Under the security incident procedures standard, covered entities must
+implement policies to respond to security incidents. This standard has one required
+implementation specification. The covered entity must identify security incidents and
+respond to them. It also must attempt to mitigate the harm caused by security
+incidents, as well as document security incidents and their outcomes. In some
+cases, a security incident under the Security Rule leads to unauthorized use or
+disclosure of PHI under the Privacy Rule. In these cases, the Privacy Rule might
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.require covered entities to notify the individuals affected by the breach.
+The contingency plan standard requires covered entities to develop policies to
+recover access to EPHI in the event of an outage or disaster. This standard contains
+three required and two addressable specifications. It also requires covered entities to
+prepare data backup, disaster recovery, and emergency operation plans. Together,
+the plans state how an organization backs up and restores its EPHI. The emergency
+operations plan requires covered entities to protect EPHI when it is operating in
+emergency mode. Where reasonable, the covered entity must also create
+procedures to test and review its contingency plans.
+NOTE
+Under the Security Rule, a security incident is unauthorized access or use of information. It can be
+successful unauthorized access or just attempted unauthorized access. Incidents also include interference
+with the operation of information systems. 62
+The evaluation standard requires the covered entity to review its security
+safeguards program. It must regularly review changes to its information systems and
+practices and make sure that its safeguards still protect EPHI. The covered entity
+can perform this evaluation on its own. It also can hire external organizations to
+conduct this review.
+The business associate contracts standard requires covered entities to make
+sure that their business associates protect EPHI. Covered entities must enter into
+written contracts with any organizations that use EPHI on their behalf. These are
+called business associates agreements. Business associates agreements are
+required under both the Privacy and Security Rules. A covered entity must identify all
+of its business associates, as well as make sure that it has contracts will all of them.
+TIP
+Remember that under the Security Rule, a covered entity must apply an addressable and appropriate
+implementation specification if it is reasonable. A covered entity must document why it does not implement
+one of these types of specifications. It must then implement an equivalent control if possible.
+TABLE 6-2 summarizes the administrative safeguards required by the Security
+Rule. It also includes a summary of required and addressable implementation
+specifications.
+TABLE 6-2 Administrative Safeguards
+SAFEGUARD
+REQUIRED SPECIFICATIONS
+Risk Analysis
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.
+ADDRESSABLE
+SPECIFICATIONSSecurity Management Process Risk Management
+Sanction Policy
+Information System Activity
+Review
+Assigned Security Responsibility Required
+Authorization and/or Supervision
+Workforce Clearance Procedure
+Termination Procedures
+Workforce Security
+Information Access Management
+Isolating Healthcare
+Clearinghouse Function
+Access Authorization
+Access Establishment and
+Modification
+Security Reminders
+Protection From Malicious
+Software
+Logon Monitoring
+Password Management
+Security Awareness and Training
+Security Incident Procedures Response and Reporting
+Contingency Plan Data Backup Plan
+Disaster Recovery Plan
+Emergency Mode Operation Plan
+Evaluation Required
+Business Associate Contracts
+and Other Arrangements Required
+Testing and Revision Procedure
+Applications and Data Criticality
+Analysis
+Physical Safeguards. Physical safeguards are controls put in place to protect a
+covered entity’s physical resources. 63 These measures protect information systems,
+equipment, and buildings from environmental threats. The Security Rule contains
+four physical security standards that a covered entity must put into practice: 64
+Facility access controls
+Workstation use
+Workstation security
+Device and media controls
+Under the facility access controls standard, covered entities must implement policies
+that limit physical access to their computer systems, as well as access to the
+buildings where these systems are located. Only authorized individuals should be
+allowed to access these systems and facilities. This standard has four addressable
+implementation specifications.
+Where appropriate, the covered entity must create access contingency plans.
+These plans allow access to facilities and systems during emergencies. A covered
+entity also must create a facility security plan, which is designed to protect systems
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.and buildings from unauthorized access, tampering, and theft. When it seems
+appropriate, covered entities must create access control and validation procedures,
+as well as measures to manage visitor access. They also should document repairs
+and modifications to a facility.
+The Security Rule contains two required standards related to workstation
+security. Neither standard has implementation specifications. In the workstation use
+standard, a covered entity must make sure that employees use workstations
+properly. This means that it should review the applications used on workstations, as
+well as whether those applications introduce security risks that could harm EPHI. For
+example, a covered entity might decide that it is too risky to allow workstations used
+to access EPHI to connect to the internet. The covered entity must look at
+workstation use for both on-site and off-site locations.
+NOTE
+Under the Security Rule, a workstation is a computing device as well as any electronic media used by or
+around the device. Examples include a laptop or desktop computer or any similar device. 65
+According to the workstation security standard, covered entities must implement
+physical safeguards for workstations that access EPHI to ensure that access to the
+workstation is restricted to authorized users. For example, a covered entity might
+protect workstations by keeping them in areas that only authorized employees are
+allowed to access.
+Under the device and media controls standard, a covered entity must track
+information systems containing EPHI in and out of a facility. They also must track
+system movement within a facility. This standard has two required and two
+addressable implementation specifications.
+Under this standard, a covered entity is required to create media disposal and
+media reuse policies. Covered entities must make sure that EPHI is destroyed or
+made unusable before the covered entity disposes of electronic media. The process
+for accomplishing this is described in a media disposal policy. A covered entity must
+also create media reuse policies, which state that EPHI must be removed from
+electronic media that is going to be made available for reuse. These policies must
+take into account media reuse within a covered entity. They also should address
+media reuse outside of a covered entity.
+TABLE 6-3 summarizes the physical safeguards required by the Security Rule. It
+also includes a summary of required and addressable implementation specifications.
+TABLE 6-3 Physical Safeguards
+SAFEGUARD
+REQUIRED SPECIFICATIONS
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.
+ADDRESSABLE
+SPECIFICATIONSContingency Operations
+Facility Security Plan
+Access Control and Validation
+Procedures
+Maintenance Records
+Facility Access Controls
+Workstation Use Required
+Workstation Security Required
+Device and Media Controls Disposal
+Media Reuse
+Accountability
+Data Backup and Storage
+Technical Safeguards. Technical safeguards are applied in the hardware and
+software of an information system. 66 The Security Rule contains five technical
+security standards. 67 It does not require that any specific type of technology be used
+to follow the Rule. A covered entity must implement the following standards:
+Access controls
+Audit controls
+Integrity controls
+Person or entity authentication
+Transmission security
+The access control standard requires covered entities to use access control rules to
+limit authorized access to systems that store EPHI. The implementation
+specifications require covered entities to assign unique usernames to anyone who
+uses its systems. They also must create procedures to access EPHI in an
+emergency. Addressable specifications include using automatic logoff processes that
+end an electronic session after a period of inactivity. A covered entity also should
+encrypt EPHI. Together, these controls limit access to EPHI.
+The audit controls standard requires covered entities to review activity in
+information systems that store or use EPHI. The entity must decide what audit
+controls it needs to implement to protect its EPHI. Audit controls are then used to
+look for unauthorized access.
+The integrity controls standard requires covered entities to create policies to
+protect EPHI from improper modification or destruction. This is an important control
+to protect EPHI. Healthcare providers rely on EPHI to treat patients, and EPHI that
+has been improperly modified can put a patient in danger. This standard has one
+addressable specification. When it is appropriate, covered entities must authenticate
+EPHI. These electronic mechanisms are used to make sure that EPHI has not been
+improperly changed or destroyed.
+Covered entities are required to create procedures to verify that a person or
+entity trying to access EPHI is who he or she claims to be. This is the person or
+entity authentication standard. Authentication credentials are used to ensure that a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.person is who he or she claims to be. These credentials include passwords, tokens,
+smart cards, and biometric credentials.
+The transmission security standard requires covered entities to guard against
+unauthorized access to EPHI during transmission. A covered entity must review how
+it transmits EPHI and determine if there is a risk of unauthorized access. This
+standard includes two addressable specifications. Where appropriate, the covered
+entity must implement security measures that protect EPHI from being modified
+during transmission. It also must encrypt EPHI during transmission if appropriate.
+TABLE 6-4 summarizes the technical safeguards required by the Security Rule.
+It also includes a summary of required and addressable implementation
+specifications.
+TABLE 6-4 Technical Safeguards
+SAFEGUARD
+REQUIRED SPECIFICATIONS
+Access Control Unique User Identification
+Emergency Access Procedure
+Audit Controls Required
+Required
+Transmission Security
+Automatic Logoff
+Encryption and Decryption
+Mechanism to Authenticate
+Electronic Protected Health
+Information
+Integrity
+Person or Entity Authentication
+ADDRESSABLE
+SPECIFICATIONS
+Integrity Controls
+Encryption
+The Security Rule and safeguards requirements are designed to protect all sorts
+of EPHI. HHS recognizes that sometimes covered entities might need more
+guidance as technology quickly evolves. For example, HHS has issued guidance to
+help covered entities secure mobile devices. It has also issued guidance to help
+covered entities securely access remote EPHI.
+FYI
+Covered entities have great incentive to encrypt EPHI. This incentive exists even though many Security
+Rule implementation specifications do not require encryption. The incentive exists because the breach
+notification requirement of the Privacy Rule does not apply to the unauthorized use or disclosure of
+encrypted EPHI. A covered entity thus saves itself from this requirement if it encrypts its EPHI.
+Oversight
+HHS oversees compliance with the HIPAA Privacy and Security Rules. It delegates
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.this function to the Office for Civil Rights (OCR), which enforces both rules. It is also
+responsible for protecting people from discrimination in social services programs.
+The OCR has enforced the Privacy Rule since the 2003 compliance date. It
+began enforcing the Security Rule in July 2009. Before that, the Centers for
+Medicare and Medicaid Services (CMS) enforced the Security Rule. CMS is also a
+part of HHS.
+The HITECH Act changed many of the oversight and enforcement functions for
+HIPAA and required HHS to improve how it enforced the Privacy and Security Rules.
+To do this, the HHS secretary delegated Security Rule enforcement to the OCR. This
+change eliminated duplicate rule enforcement. HHS hopes to be more efficient by
+having one office enforce both rules.
+The OCR can fine covered entities that do not comply with the Privacy and
+Security Rules. The maximum fine for a Security or Privacy Rule violation is $1.5
+million per year, which is annually adjusted for inflation. 69 Minimum fines range from
+$100 to $50,000 per violation. The penalty amount is determined by reviewing the
+nature of the violation. The OCR also will weigh how the covered entity responded to
+the violation when it determines a fine.
+A person may be subject to criminal liability if he or she obtains or discloses PHI
+in violation of HIPAA. The HITECH Act clarifies that any person who wrongfully
+obtains or discloses PHI can be held criminally responsible. This includes a covered
+entity, its employees, or any other person. A person must know that his or her
+conduct is wrongful under HIPAA. The U.S. Department of Justice handles HIPAA
+criminal violations.
+The HITECH Act allows states to enforce HIPAA compliance. States did not have
+this authority before. State attorneys general can stop covered entities from
+engaging in practices that harm state residents and compromise their PHI. They also
+can recover damages on behalf of state residents who are harmed by a covered
+entity’s conduct. The first state to use this new enforcement power was Connecticut.
+NOTE
+HHS must bring an enforcement action against a noncompliant covered entity within 6 years of the date of
+the violation. 70
+FYI
+In 2018 HHS investigated 32,770 cases related to the HIPAA Security and Privacy Rules. 68 A flowchart of
+the OCR complaint process is available at http://www.hhs.gov/ocr/privacy/hipaa/enforcement/process.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.The Role of State Laws Protecting Medical
+Records
+HIPAA sets the floor for PHI security and privacy protections. This means that states
+are free to create laws and rules that provide more protections than HIPAA. Covered
+entities have to comply with both laws. Generally speaking, the controlling law is
+whichever law is stricter, or provides greater patient rights.
+Any state law that is contrary to HIPAA is not allowed. A state law is contrary if it
+is impossible for the covered entity to comply with both the state law and HIPAA. In
+these situations, the state laws are preempted by HIPAA.
+States enact many laws that may affect PHI. These laws can provide more rights
+than allowed by HIPAA. For instance, in 2008 California enacted some of the
+strictest patient privacy protections in the country. California’s laws specify harsh
+penalties for providers caught snooping in patient medical records. California
+healthcare providers must report privacy breaches more quickly than is specified in
+HIPAA. The California law requires healthcare providers to notify people within 15
+days of a breach of a patient’s medical information. 71
+It is important to review both state law and federal law when reviewing questions
+about the security and privacy of PHI. You must review both types of laws to make
+sure that covered entities are appropriately protecting this information.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Case Studies and Examples
+The following case studies show how the laws discussed in this chapter are used.
+These case studies are real-world examples of how regulatory agencies apply laws
+and rules to protect PHI.
+OCR Enforcement Information
+The OCR posts HIPAA Privacy and Security Rule enforcement news on its webpage,
+as well as summaries of enforcement activities. It also posts monthly statistics about
+its activities, as well as case examples and resolution agreements for HIPAA
+violations.
+The OCR enforcement activities webpage can be found at
+https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/index.html.
+HIPAA and Federal Trade Communications Act
+Sometimes an act can touch several compliance laws. In 2006, an Indianapolis,
+Indiana, television news station conducted an investigative report on prescription
+privacy. As part of its report, the news station looked at the contents of pharmacy
+dumpsters to see if pharmacies properly disposed of patient information. It checked
+the contents of unsecured, unlocked dumpsters. There was nothing stopping the
+public from sifting through these dumpsters.
+The news station reported that CVS pharmacies were throwing sensitive
+personal information in the trash. CVS, one of the largest pharmacy retailers in the
+United States, has more than 6,000 stores. The investigation found that CVS was
+throwing away unredacted pill bottles that included patient names, addresses,
+physician names, and the names of medication. CVS also threw away medication
+instruction sheets containing personal information, as well as pharmacy receipts with
+credit card and health insurance account numbers. All of this information was
+unredacted PHI. Other media outlets reported that CVS stores across the United
+States also were improperly disposing of PHI.
+Information about the “Prescription Privacy” investigative report can be found at
+https://www.wthr.com/article/news/investigations/13-investigates/part-one-
+prescription-privacy/531-811d33f4-344c-4614-922d-a9e75a5fa1b4.
+At the time, CVS’s privacy policy stated: “CVS/pharmacy wants you to know that
+nothing is more central to our operations than maintaining the privacy of your health
+information (‘Protected Health Information’ or ‘PHI’). PHI is information about you,
+including basic information that may identify you and relates to your past, present, or
+future health or condition and the dispensing of pharmaceutical products to you. We
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.take this responsibility very seriously.”
+CVS disposal practices were investigated by the HHS and the Federal Trade
+Commission (FTC). It was the first time that HHS and the FTC worked together on
+an investigation. HHS, through the OCR, investigated CVS for violations of the
+HIPAA Privacy Rule and found that CVS violated the Privacy Rule in several ways.
+Its review indicated that CVS did not properly safeguard PHI during the media
+disposal process. It also found that CVS did not properly train its employees on how
+to dispose of PHI, or have a sanctions policy.
+The FTC investigated CVS for violations of the FTC Act. It alleged that CVS
+made false and deceptive statements about its privacy policies, promised customers
+that it would protect unauthorized access to personal information, and did not
+actually do this. These misleading types of statements are illegal under the FTC Act.
+CVS responded that there was no verification of the media reports. However, it
+settled charges with the FTC and HHS to resolve the cases. The FTC consent
+agreement required CVS to create a comprehensive information security program to
+protect the personal information that CVS collects from consumers and employees.
+The order also required CVS to get an independent audit of its security program
+every 2 years until 2029. In addition, CVS may not make any misrepresentations
+about the company’s security practices.
+The FTC complaint and consent agreement can be found at
+http://www.ftc.gov/enforcement/cases-and-proceedings/cases/2009/06/matter-cvs-
+caremark-corporation-corporation. (Look for the February 18, 2009, entries.)
+Under the HHS resolution agreement, CVS agreed to pay $2.25 million to settle
+all claims. It also agreed to follow a corrective action plan that required it to create
+policies to comply with the HIPAA Privacy Rule. To do so, it must create policies and
+procedures to safeguard PHI during disposal and establish an employee training
+program. CVS also must create an employee sanctions policy to discipline
+employees who fail to follow the Privacy Rule. The HHS resolution agreement also
+requires independent review of CVS compliance. CVS must be reviewed each year.
+The agreement requires 3 years of monitoring. The HHS resolution agreement and
+corrective action plan can be found at
+http://www.hhs.gov/ocr/privacy/hipaa/enforcement/examples/cvsresolutionagreement.html
+NOTE
+An HHS resolution agreement is similar to an FTC consent order. Both are settlement agreements.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.CHAPTER SUMMARY
+Personal health information is one of the most sensitive types of confidential
+information. Personal health information is no longer limited to paper files;
+today, this type of information is often stored in electronic form. However, no
+matter what its form, this information must be protected. Healthcare
+providers must take steps to ensure its privacy and security.
+They are required to do so by both federal and state laws, and face fines and
+other penalties for failing to protect this information.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.KEY CONCEPTS AND TERMS
+Authorization
+Business associates
+Covered entity
+Disclosure
+Discovery
+Electronic protected health information (EPHI)
+Medical identity theft
+Minimum necessary rule
+Private cause of action
+Protected health information (PHI)
+Use
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.CHAPTER 6 ASSESSMENT
+1. An addressable implementation specification must be used if it is _______.
+2. What is the maximum fine for a single violation of the HIPAA Privacy or Security
+Rule?
+A.
+B.
+C.
+D.
+E.
+$100
+$1,500
+$1 million
+$1.5 million
+It is unlimited.
+3. Covered entities must notify affected individuals of a breach within ________
+days.
+4. HIPAA limits the preexisting condition waiting period to ________ months.
+5. What conditions must be met to be considered a healthcare provider under
+HIPAA?
+A.
+B.
+C.
+D.
+Provide healthcare services to a person.
+Conduct standard transactions electronically.
+Handle electronic transactions on a clearinghouse’s behalf.
+Provide healthcare services to a person and conduct standard transactions
+electronically.
+E. None of these is correct.
+6. A business associate is _______.
+7. What term refers to how a covered entity shares PHI within the organization?
+A.
+B.
+C.
+D.
+E.
+Disclosure
+Discuss
+Use
+Handle
+None of these is correct.
+8. A covered entity must disclose PHI to a person’s family and friends in an
+emergency.
+A. True
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.B. False
+9. A covered entity must respond to a person’s request to access PHI within
+________ days.
+10. Which uses and disclosures of PHI are allowed without a person’s consent?
+A.
+B.
+C.
+D.
+E.
+Made for a person about his or her own PHI
+Made for treatment, payment, and healthcare operations
+Made for public safety and health activities
+All of these are correct.
+None of these is correct.
+11. What term refers to how a covered entity shares PHI with other organizations?
+A.
+B.
+C.
+D.
+E.
+Disclosure
+Discuss
+Use
+Handle
+None of these is correct.
+12. What is the legal process used to gather evidence in a lawsuit?
+A.
+B.
+C.
+D.
+E.
+Disclosure
+Discovery
+Forensics
+Trial
+None of these is correct.
+13. Which entity enforces the HIPAA Privacy Rule?
+A.
+B.
+C.
+D.
+E.
+FDIC
+FTC
+OCR
+CDC
+None of these is correct.
+14. Which rule is similar to the information security concept of need to know?
+A.
+B.
+C.
+D.
+E.
+Use rule
+Clearinghouse rule
+Operations rule
+Absolute rule
+Minimum necessary rule
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.15. A HIPAA breach is a breach of ________ PHI.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.ENDNOTES
+1. U.S. Department of Health and Human Services, "Anthem Pays OCR $16
+Million in Record HIPAA Settlement Following Largest U.S. Health Data Breach
+in History." October 15, 2018.
+https://www.hhs.gov/about/news/2018/10/15/anthem-pays-ocr-16-million-record-
+hipaa-settlement-following-largest-health-data-breach-history.html (accessed
+July 5, 2020).
+2. Ponemon Institute, "Fifth Annual Study on Medical Identity Theft." February
+2015. https://static.nationwide.com/static/2014_Medical_ID_Theft_Study.pdf?
+r=65 (accessed July 5, 2020).
+3. CBS News, “Cancer Patient Catches ID Thief,” November 6, 2004.
+https://www.cbsnews.com/news/cancer-patient-catches-id-thief/ (accessed
+March 1, 2020).
+4. U.S. Department of Justice, “Leesburg Woman Sentenced To 48 Months In
+Prison For Aggravated Identity Theft And Wire Fraud,” May 19, 2020.
+https://www.justice.gov/usao-mdfl/pr/leesburg-woman-sentenced-48-months-
+prison-aggravated-identity-theft-and-wire-fraud (accessed July 5, 2020).
+5. National Library of Medicine, “Greek Medicine: The Hippocratic Oath,”
+Translated by Michael North, 2002.
+http://www.nlm.nih.gov/hmd/greek/greek_oath.html (accessed March 1, 2020).
+6. Drug Abuse Prevention, Treatment, and Rehabilitation Act (1980), U.S. Code
+Vol. 42, sec. 290dd-2 (2020).
+7. Health Information Technology for Economic and Clinical Health Act of 2009
+(HITECH Act), Pub. L. No. 111-5, 123 Stat. 226, codified at U.S. Code Vol. 42,
+sec. 300jj et seq., and sec. 17901 et seq. (2018).
+8. Consolidated Omnibus Budget Reconciliation Act (1986), Pub. L. No. 99-272,
+100 Stat. 82 (1986).
+9. CNBC, “Consumer DNA Testing Has Hit a Lull—Here’s How It Could Capture
+the Next Wave of Users,” August 25, 2019.
+https://www.cnbc.com/2019/08/25/dna-tests-from-companies-like-23andme-
+ancestry-see-sales-slowdown.html (accessed March 1, 2020).
+10. Health Insurance Portability and Accountability Act (1996), Pub. L. No. 104-191,
+sec. 261.
+11. Genetic Information Nondiscrimination Act of 2008 (GINA), Pub. L. No. 110-233,
+122 Stat. 881 (2008).
+12. Code of Federal Regulations, Title 45, sec. 160.103.
+13. Code of Federal Regulations, Title 45, sec. 160.103.
+14. U.S. Code Vol. 42, sec. 1320d.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+Code of Federal Regulations, Title 45, sec. 164.104(b).
+Federal Register 65, No. 250 at 82463 (background information).
+Code of Federal Regulations, Title 45, sec. 164.524(b).
+Code of Federal Regulations, Title 45, sec. 164.524(d).
+Code of Federal Regulations, Title 45, sec. 164.502(a)(2).
+Code of Federal Regulations, Title 45, sec.164.502.
+Code of Federal Regulations, Title 45, sec. 164.506(c).
+Code of Federal Regulations, Title 45, sec. 164.501.
+Code of Federal Regulations, Title 45, sec. 164.501.
+Code of Federal Regulations, Title 45, sec. 164.501.
+Code of Federal Regulations, Title 45, sec. 164.506(b).
+Code of Federal Regulations, Title 45, sec. 164.510.
+Code of Federal Regulations, Title 45, sec. 164.512.
+Code of Federal Regulations, Title 45, sec. 164.512(b).
+Code of Federal Regulations, Title 45, sec. 164.512(b).
+Code of Federal Regulations, Title 45, sec. 164.512(c).
+Code of Federal Regulations, Title 45, sec. 164.512(a).
+Code of Federal Regulations, Title 45, sec. 164.514(e)(2).
+Code of Federal Regulations, Title 45, sec. 164.514(e)(4).
+Code of Federal Regulations, Title 45, sec. 164.508.
+Code of Federal Regulations, Title 45, sec. 164.508(c)(1).
+Code of Federal Regulations, Title 45, sec. 165-502(b).
+Code of Federal Regulations, Title 45, sec. 165-502(b)(2).
+Code of Federal Regulations, Title 45, sec. 164.526.
+Code of Federal Regulations, Title 45, sec. 164.526(b)(2).
+Code of Federal Regulations, Title 45, sec. 164.526(d).
+Code of Federal Regulations, Title 45, sec. 164.528.
+Code of Federal Regulations, Title 45, sec. 164.528(c)(2).
+Code of Federal Regulations, Title 45, sec. 164.528(d).
+HITECH Act, sec. 13405(c).
+Code of Federal Regulations, Title 45, sec. 164.520.
+Code of Federal Regulations, Title 45, sec. 164.520(c).
+Code of Federal Regulations, Title 45, sec. 164.530.
+Code of Federal Regulations, Title 45, sec. 164.530.
+Code of Federal Regulations, Title 45, sec. 164.530(f).
+HITECH Act, sec. 13402.
+Fed. Register No. 78, 5642-43 (January 25, 2013).
+Code of Federal Regulations, Title 45, sec. 164.404.
+Code of Federal Regulations, Title 45, sec. 164.404.
+Code of Federal Regulations, Title 45, sec. 164.404.
+Code of Federal Regulations, Title 45, sec. 164.408.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.Code of Federal Regulations, Title 45, sec. 164.306.
+Code of Federal Regulations, Title 45, sec. 164.316(b).
+Code of Federal Regulations, Title 45, sec. 164.306.
+Code of Federal Regulations, Title 45, sec. 164.306(d).
+Code of Federal Regulations, Title 45, sec. 164.304.
+Code of Federal Regulations, Title 45, sec. 164.308.
+Code of Federal Regulations, Title 45, sec. 164.304.
+Code of Federal Regulations, Title 45, sec. 164.304.
+Code of Federal Regulations, Title 45, sec. 164.310.
+Code of Federal Regulations, Title 45, sec. 164.304.
+Code of Federal Regulations, Title 45, sec. 164.304.
+Code of Federal Regulations, Title 45, sec. 164.312.
+U.S. Department of Health & Human Services, “Enforcement Results by Year,”
+April 3, 2019. https://www.hhs.gov/hipaa/for-professionals/compliance-
+enforcement/data/enforcement-results-by-year/index.html (accessed March 1,
+2020).
+69. Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015,
+enacted as part of the Bipartisan Budget Act of 2015, Public Law 114-74,
+section 701, 129 Stat. 599 (Nov. 2, 2015).
+70. Code of Federal Regulations, Title 45, sec. 160.414.
+71. Health Facilities Data Breach, California Health and Safety Code sec. 1280.15.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:45:23.

@@ -1,0 +1,1119 @@
+CHAPTER
+9
+State Laws Protecting Citizen
+Information and Breach Notification
+Laws
+N THE UNITED STATES, there is currently no single comprehensive federal data
+privacy or security law. Instead, the United States has enacted industry-specific
+laws about security and privacy. These laws limit the use of personal information
+based on the nature of the data.
+I
+State governments also have entered this regulatory arena. States create data
+protection laws that are data specific. Many states have created laws to protect
+health and financial information. They also might try to protect data in certain types
+of records, such as motor vehicle records. In some ways, states are more
+aggressive in trying to protect personal information than the federal government.
+This chapter focuses on state data protection laws. It includes laws from different
+states to give you an overview of the types of laws being passed to protect data. As
+you encounter issues regarding the law, security, and privacy, you must consider the
+impact of state laws and rules.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Chapter 9 Topics
+This chapter covers the following topics and concepts:
+What the history is of state actions to protect personal information
+What state breach notification laws are
+What state data-specific security and privacy regulations are
+What encryption regulations are
+What data-disposal regulations are
+What some case studies and examples are
+Chapter 9 Goals
+When you complete this chapter, you will be able to:
+Describe state approaches to protecting the security of personal
+information
+Describe laws that protect certain types of data
+Describe state breach notification laws
+Describe the differences between state breach notification laws
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.History of State Actions to Protect Personal
+Information
+States have created many laws to protect personal information. California, for
+example, has worked hard to make laws that protect the security and privacy of its
+residents’ data. It was this state’s breach notification laws and a breach at a large
+corporation that led to the growth of data protection laws in many states.
+ChoicePoint Data Breach
+ChoicePoint was a data broker that merged public records, credit reports, and
+demographic data to create individual consumer profiles, which it then sold to the
+government and private companies. People used the profiles to conduct background
+checks. ChoicePoint also sold profiles to insurance companies. It collected many
+different types of personal information, such as names, addresses, and Social
+Security numbers (SSNs). Its databases also included credit history and DNA
+information.
+In February 2005, ChoicePoint notified 35,000 California residents that their
+personal data had been exposed in a data breach. California was the only state at
+that time with a breach notification law, which applied to any business that stored
+the personal data of California residents. The law required them to notify state
+residents of any security breach involving their unencrypted personal information.
+ChoicePoint said that it discovered the breach in late 2004 after law enforcement
+officials contacted the company about an identity theft ring. ChoicePoint learned that
+the criminals pretended to be its customers. In order to become a ChoicePoint
+customer, applicants had to provide proof of a lawful reason for buying consumer
+data. At the time of the breach, ChoicePoint had over 50,000 customers, ranging
+from insurance companies to debt collectors.
+NOTE
+At the time of the data breach, news media reported that ChoicePoint had collected over 9 billion public
+records on U.S. residents and had stored 250 terabytes of data.
+ChoicePoint’s validation processes did not find the fake customers, some of
+whom provided suspect documents to ChoicePoint. For example, multiple
+businesses submitted documents with the same information. This should have
+raised red flags for more review. ChoicePoint later found over 50 fake accounts that
+had access to ChoicePoint’s databases. 1
+At first ChoicePoint notified only California residents affected by the breach,
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.because it was the only state requiring such notification. However, 19 other states
+were outraged. The state attorneys general wrote a letter to ChoicePoint demanding
+that it alert all people affected by the breach. ChoicePoint later sent notification
+letters to over 160,000 people. 2
+In January 2006, the Federal Trade Commission (FTC) investigated ChoicePoint,
+alleging that ChoicePoint violated consumer privacy rights. It also charged the
+company with violating federal laws. ChoicePoint settled with the FTC in December
+of that year and paid $10 million in civil fines. 3
+NOTE
+ChoicePoint reported that it had many external audits after the 2005 breach. It was audited 80 times in the
+24 months after the breach.
+ChoicePoint also agreed to pay $5 million to fund a consumer relief program that
+would pay people who were victims of identity theft because of the breach. The
+agreement with the FTC also required ChoicePoint to create an information security
+program. The company is required to get independent audits every year until 2026.
+At the time, the ChoicePoint settlement was the largest in the FTC’s history.
+NOTE
+ChoicePoint was purchased by LexisNexis in 2008. To help protect consumer information, LexisNexis
+offered customers a copy of their consumer file. However, individuals were limited in only requesting their
+own file, and they needed to provide proof of identity to get a copy of the file. To learn more about this
+service, you can visit https://consumer.risk.lexisnexis.com/.
+In May 2007, ChoicePoint settled a multistate lawsuit over the breach. Forty-
+three states entered the settlement agreement. As part of that agreement,
+ChoicePoint promised to improve its process for verifying customers. It also agreed
+to strengthen how it protects the data that it collects. ChoicePoint also agreed to pay
+$500,000 to the states involved in the lawsuit. 4
+ChoicePoint was on the FTC’s radar again in 2009, this time because of a 2008
+security incident. ChoicePoint had changed some internal security controls, and the
+changed controls failed to alert it that someone had unauthorized access to its data.
+The wrongful access continued for about 30 days. During this time, the data of about
+13,750 people—including SSNs—may have been disclosed.
+NOTE
+Illinois Governor Rod Blagojevich proposed the Personal Information Protection Act just days after the
+ChoicePoint breach went public. The ChoicePoint breach affected about 5,000 Illinois residents. The Act,
+which became Illinois’s breach notification law, took effect January 1, 2006.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.The FTC alleged that the 2008 incident was a violation of the 2006 agreement.
+Therefore, ChoicePoint agreed to additional security requirements, such as
+strengthening its information security program again. It was also required to report to
+the FTC on its security efforts every 2 months until 2011. 5
+The ChoicePoint data breach is unique because it spurred the creation of data
+breach notification laws in many states. If it were not for the California breach
+notification law, ChoicePoint might not have notified any consumers at all about the
+data breach. Other states realized that their residents might not be able to protect
+themselves from identity theft in similar situations without these laws. Thirty-five
+states considered breach notification laws in 2005. The ChoicePoint case is widely
+seen as the reason why other states have these laws.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Breach Notification Regulations
+California was the first state to have a breach notification law. It required businesses
+to notify their customers if they suffered a data breach that disclosed personal data.
+Many states have modeled their own breach notification laws on the California law.
+This section discusses the California breach notification law, as well as the laws in
+other states.
+California Breach Notification Act
+California’s Database Security Breach Notification Act law went into effect on July 1,
+2003, and has been updated several times. The California legislature created the
+law after a security breach at a state-operated data facility. The legislature
+recognized that identity theft was one of the fastest growing crimes in California. It
+stated that people must act quickly to limit the harm caused by identity theft. The
+purpose of the law was to give California residents timely information so that they
+can protect themselves.
+The law applies to anyone who owns or uses computerized data that contains the
+unencrypted personal information of a California resident. 6 It applies to:
+State agencies
+Nonprofit organizations
+Private organizations
+Businesses
+It also can apply to businesses that are not actually located in California. It actually
+covers any entity that stores the personal information of a California resident. Under
+the law, an entity must notify California residents of a breach of its computer systems
+and give notice if unauthorized individuals access and take the resident’s
+unencrypted data.
+FYI
+Under California law, a security breach means unauthorized acquisition of computerized data. It must
+“compromise the security, confidentiality, or integrity of personal information” held by an entity. 7 This
+definition is confusing from an information security perspective because it refers to security and separately
+to confidentiality and integrity. Confidentiality and integrity are part of the standard definition of security.
+This type of imprecise definition is why information security professionals and lawmakers must work
+together to create laws that impact information security.
+The law defines personal information very broadly as information that allows a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.person to be identified. Personal information is a person’s first name (or first initial)
+and last name. The person’s name is combined with any of the following:
+SSN
+Driver’s license number or California Identification Card number
+Account number, or credit or debit card number, along with any security code,
+access code, or password that would allow access to a person’s account
+Medical information
+Health insurance information
+Unique biometric information
+Information collected through the state’s automated license plate recognition
+system
+Under the law, personal information is unencrypted data. If any of the data is
+unencrypted, then all of the information is considered personal information.
+Information that is available to the public through government records is not personal
+information. The law also states that a username or email address, when combined
+with a password or answer to a security question, is personal information if those
+elements could be used to access an online account.
+The law requires entities to notify California residents whenever a security breach
+occurs. They must also notify residents as quickly as possible if they reasonably
+believe that a breach has occurred. Under the law, there are two reasons to delay
+notification. The first is to figure out the scope of the security breach. An entity must
+do this so that it can notify the right people.
+The second reason to delay notification is if law enforcement requires it. Law
+enforcement can allow entities to delay notification if they are conducting a criminal
+investigation. The entity must make the required notification as soon as possible
+after it is determined that it will not hurt the investigation.
+The law requires entities to give written notice to California residents, and that the
+notice be written in plain language and clearly identify the entity making the notice. It
+must also contain the following headings:
+What Happened
+What Information Was Involved
+What We Are Doing
+What You Can Do
+For More Information
+The law also contains a model security breach notification template that entities can
+use.
+Sometimes providing notice to a large number of people can be very expensive.
+The California law allows entities to use a different type of notice if the entity can
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.prove that:
+The cost of giving written notice is greater than $250,000.
+The number of people to be notified is greater than 500,000.
+It does not have sufficient contact information.
+If an entity can prove one of these situations, it does not have to give individual
+written notices. Instead, it must do all of the following to provide “substitute notice” of
+the breach:
+NOTE
+Under the California law, encrypted means rendering data “unusable, unreadable, or indecipherable to an
+unauthorized person through a security technology or methodology generally accepted in the field of
+information security.” Think about whether this definition is sufficient to evaluate the effectiveness of the
+encryption method used.
+Notify affected people by email if the entity has an email address for the person.
+Post notice of the security breach on its website (if it has one) for at least 30 days.
+Notify major statewide media outlets about the breach.
+The California law provides a safe harbor for entities that encrypt personal
+information. A safe harbor is a legal concept that refers to specific actions someone
+can take to show a good-faith effort to stay within the law and avoid prosecution.
+Entities that properly encrypt the personal information that they own or maintain do
+not have to follow the notification requirements if they have a data breach.
+NOTE
+In the law, a plaintiff can generally recover only damages in the amount that he or she has actually lost
+because of harm or injury.
+Finally, the law gives California residents a limited private cause of action against
+entities that do not follow the law. Residents who are harmed when an entity does
+not follow the law can sue for damages. 8
+Other Breach Notification Laws
+After the ChoicePoint breach, many other states created breach notification laws.
+Today, all 50 states, the District of Columbia, Guam, Puerto Rico, and the Virgin
+Islands have breach notification laws. 9 Many states based their laws on the
+California law, but there are some differences. They include:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Activities that constitute a breach
+The time for notifying residents
+Requirements that a notification contain certain types of information
+Minimum requirements for encryption
+Civil or criminal penalties for failing to notify affected people
+Additionally, unlike the California law, most other state laws typically do not allow a
+private cause of action for failure to give notification.
+Activities That Constitute a Breach
+The California law applies to unauthorized acquisition of unencrypted personal
+information. If attackers access the data, that is enough to trigger the law’s
+notification requirements. Some other states require a showing of harm before
+notification is required. This means that attackers must not only access the data, but
+do something with it. For instance, the attackers must steal, copy, or change the data
+before notification is required. In addition, some sort of harm therefore must be
+anticipated. Stealing data is an anticipated harm under these laws. You must review
+the definition of breach carefully in each law to see what triggers the notification
+requirements.
+For example, Ohio law requires more than unauthorized acquisition to trigger
+notification. Under Ohio law, residents must be notified if the security breach
+reasonably causes a material risk of identity theft or other fraud to the resident. 10 The
+risk of harm can also be a future risk of harm. In this law, the material risk of identity
+theft is enough to require notification.
+NOTE
+Alabama was the last state to enact a breach notification law.
+Time for Notification
+Under the general California breach notification law, entities must give notice in the
+most expedient time possible without unreasonable delay. A majority of states follow
+the California approach. However, some states require that entities give notice within
+a certain period.
+NOTE
+Some other states that employ some sort of harm standard include Hawaii, Massachusetts, and Virginia.
+Guam also has such a provision. Look up the breach notification law for your state to study its breach
+definition.
+Ohio law, for example, requires that notification be given to state residents in the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.most expedient time possible. However, that law also states that entities must give
+this notice no later than 45 days after the discovery of the breach. 11 Florida has a
+similar requirement and requires notification within 30 days. 12
+Entities Excluded From Breach Notification Laws
+Some states exclude some kinds of entities from their breach notification laws because these entities are
+already subject to other laws with specific data security requirements. Many of these other laws have security
+and privacy obligations that are stricter than the states’ own laws. If the entities are following these other
+laws, then a security breach may be less likely. In some cases, state lawmakers determined that making
+entities follow both the state breach notification law and the other laws would be too hard. It might hurt
+businesses operating in the state.
+Some states exempt financial institutions covered by the Gramm-Leach-Bliley Act (GLBA). GLBA requires
+these institutions to protect a customer’s nonpublic financial information through security safeguards. They
+also must follow privacy rules. Breaches may be less likely if an institution follows GLBA. Many states exempt
+these entities from notification laws. They include Alaska, Connecticut, Indiana, and Minnesota.
+Some states also exempt entities that are covered by the Health Insurance Portability and Accountability Act
+(HIPAA). HIPAA-covered entities must follow rules designed to protect personally identifiable health
+information, as well as the HIPAA Privacy and Security Rules. Recent amendments also impose breach
+notification rules on HIPAA-covered entities. These rules may be even stricter than some state notification
+laws. States that exempt HIPAA-covered entities from their laws include Arizona, Rhode Island, and
+Wisconsin.
+In Maine, an entity can only delay notification to help a criminal investigation. In
+that case, an entity must give notice once law enforcement determines that the
+notification will not hurt the investigation. At that point, the entity must provide notice
+within 7 days. 13
+NOTE
+A business day is an official workday. Business days are the days of the week that include Monday
+through Friday. Saturday and Sunday are not business days. Public holidays also are not business days.
+Contents of Notification
+Some states do not specify the types of information that should be included in a
+notice of a data breach. Alaska is one of these states. There is a growing trend,
+however, to specify the types of information that should be included in a notice.
+States do this to make sure that residents get enough information to protect
+themselves.
+TIP
+Remember, the reason for notification is to let people protect themselves from identity theft. Any delay in
+notifying people should be as short as possible.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.North Carolina law requires that notice be given in a “clear and conspicuous”
+form. 14 This means that it needs to be easily understandable. The notice also must:
+Describe the incident in general terms.
+Describe the type of personal information that was involved in the breach.
+Describe how the entity is going to protect the personal information from additional
+unauthorized access.
+Provide a telephone number for the entity, if one exists, that a person may call for
+more information.
+Advise the person being notified to review his or her account statements and get a
+free credit report.
+Provide the toll-free telephone numbers and addresses for the major consumer
+reporting agencies.
+Provide the contact information for the FTC and the North Carolina attorney
+general’s office, along with a statement that these sources have additional
+information about preventing identity theft.
+North Carolina also allows entities to notify residents by telephone, but only if the
+entity makes direct contact with the people whose data was accessed in the breach.
+Colorado law allows notice to be given in written and electronic form. 15 It also allows
+notice by telephone.
+Encryption Requirements
+The California law provides an encryption safe harbor. Entities do not need to give
+notice of a breach if the personal information in their computer system was
+encrypted. California law does not specify the lowest level of encryption needed to
+use the safe harbor. It also does not reference any industry standards.
+Many other states also provide an encryption safe harbor. However, most states
+do not specify a minimum level of encryption needed to take advantage of the safe
+harbor.
+TIP
+Remember, a safe harbor is an action someone can take to show a good-faith effort to stay within the law.
+Some states, however, do specify the encryption standards required to take
+advantage of the safe harbor. For instance, Massachusetts defines encryption as the
+use of a 128-bit or higher algorithmic process to transform data. 16
+Indiana also provides an encryption safe harbor. Its law says that data is
+encrypted if it is changed by an algorithmic process. It must be changed into a form
+that is unreadable without the use of a confidential process or key. 17
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.NOTE
+Algorithms are mathematical computations used to solve a problem and to encrypt data.
+The Indiana law also addresses key management. For portable electronic
+devices, such as laptop computers, the data must be protected by encryption and
+the encryption key cannot be stored on the device. Indiana law also says that data is
+considered encrypted if it is secured by any other method that makes the data
+unreadable or unusable.
+Penalties for Failure to Notify
+Some states can impose penalties for violations of their breach notification laws. In
+Texas, for example, the state can assess a fine against an entity that does not notify
+affected people. 18 The law states that an entity can be fined at least $2,000 for a
+violation. However, the fine cannot be larger than $50,000 for a single violation.
+Other states have more complicated penalty structures. Under Florida law, an
+entity that does not provide notification within 30 days of a breach faces potentially
+large fines, 19 such as a $1,000-per-day fine for every day that the entity fails to give
+notice after the 30-day limit. This penalty is in effect for the first 30 days after the 30-
+day limit. After that, the fine increases to $50,000 for each additional 30-day period
+that the entity fails to give notice. This extends up to 180 days (about 6 months) after
+the 30-day mark for giving notice. If entities do not give notification within 180 days
+after a breach, the state may fine them up to $500,000. FIGURE 9-1 illustrates the
+Florida fine structure.
+FIGURE 9-1
+Florida fine structure for failure to give notification.
+Description
+Private Cause of Action
+California law does not assess any penalties against an entity that does not follow
+the notification law. However, it does allow a person a private cause of action against
+those entities. For example, people can sue the private entity for any damages they
+have because they did not receive notification in a timely manner. Some states, such
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.as Alaska, Maryland, and South Carolina, allow a private cause of action; however,
+most states do not. The states that do not are generally seeking to protect the
+entity’s business. They also do this to protect the court system, as it could be
+burdensome to the court system to process many individual cases. Instead, most of
+these states allow the state attorney general to pursue an action against the entity
+for failure to give notification. These states include Iowa, Michigan, and Oklahoma.
+NOTE
+In Indiana, the failure to give notice is a deceptive act. The state attorney general’s office has the power to
+prosecute deceptive acts. The fine for each act can be up to $150,000. 20
+Every state now has a breach notification law to protect its residents. The laws
+have some similarities, and some laws also have unique requirements. These laws
+can be very confusing to businesses that operate in several states, because
+breaches at these entities are almost certainly going to affect people in many states.
+If this happens, an entity will have to review the laws of several states to properly
+notify people about the breach.
+Breach notification is hard for entities because states have different laws about
+what constitutes a breach. An incident can be a breach in one state, but not another.
+It also can be hard if entities must give notice in a certain way or within a certain
+time. Differing penalties for noncompliance may also be a problem. Because the
+laws all have different nuances, it may not be enough for an entity to comply with the
+laws of its own state. FIGURE 9-2 provides a general decision tree that entities can
+follow in reviewing a security breach to see if notice is required.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.FIGURE 9-2
+Breach notification decision tree.
+Description
+The lack of uniformity among states may place additional burdens on businesses
+that experience a security breach. People also may be confused if they get notices
+that do not look similar. Notices might look different depending upon the law that the
+entity followed in creating the notice. A federal breach notification law would help
+eliminate this confusion. Federal laws have been proposed from time to time. As of
+this writing, no such act has yet passed Congress.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Data-Specific Security and Privacy Regulations
+Many states have created laws to protect the use of certain types of information.
+Similar to the federal government, they create laws by data type. This section
+discusses some of the data-specific laws that states have created to protect
+personal information.
+Minnesota and Nevada: Requiring Businesses to
+Comply With Payment Card Industry Standards
+Some states have started to create laws that require entities in the state to comply
+with industry security standards. For example, Minnesota and Nevada have created
+laws that require businesses operating in those states to comply with parts of the
+Payment Card Industry (PCI) Data Security Standard (DSS).
+When Is Federal Legislation Appropriate?
+The federal government has limited lawmaking power. The U.S. Congress cannot make any laws outside of
+the scope granted to it in the U.S. Constitution. This means that Congress cannot usually interfere in state
+matters. It also cannot create a uniform federal law in areas legislated by the states unless there is a
+compelling reason to do so.
+Congress can create laws in areas where the U.S. Constitution allows it. For instance, the Constitution grants
+the federal government the power to regulate commerce between the states. If an activity has the potential to
+affect the trade relations between the states, then Congress may address it under its Commerce Clause
+power.
+Sometimes states enact laws that extend beyond their borders. If these laws affect trade between the states,
+then it is possible that they start to infringe upon an area where the federal government alone has the power
+to create laws. When this happens, the question arises whether that area has become “ripe” for federal
+legislation.
+When deciding if an area is ripe for federal legislation, Congress looks at whether differing state laws affect
+activities that it traditionally regulates. It considers how many states have created laws addressing the
+specific topic and reviews whether there is state confusion or complexity on activities that might affect
+relationships between the states. Congress also looks at whether the differing state laws create an undue
+burden or economic cost on businesses operating in several states.
+Congress may use its legislative power to enact federal laws if there is confusion among the states. It does
+this to eliminate confusion for businesses that operate in several states. If it creates a national law in an area
+where there are many different state laws, the federal law will preempt the state laws. The state laws will no
+longer be valid.
+The Congressional Research Service has compiled reports on various federal laws that may create breach
+notification requirements. The report notes that breach notification laws are complicated and often confusing.
+You can read their 2019 report at https://crsreports.congress.gov/product/pdf/R/R45631.
+Minnesota’s 2007 Plastic Card Security Act was the first state law that attempted
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.to codify certain parts of the PCI DSS. It forbids businesses from storing cardholder
+information for more than 48 hours after the credit card transaction is approved. 21
+Information that cannot be stored includes:
+Card verification number
+PIN number
+Contents of the card magnetic stripe
+The PCI DSS also states that businesses may not retain this information. The
+Minnesota law has turned this part of the PCI DSS industry standard into a law.
+The Minnesota law shifts the cost of a breach to a business that violates the law.
+If a business suffers a breach, and is found to have violated the storage
+requirements, then it can be held responsible for costs related to the breach. For
+instance, a bank or other financial institutions can sue the business to recover their
+costs in responding to the breach. These costs include issuing new cards or
+refunding unauthorized charges. 22
+The Minnesota Plastic Card Security Act Supported by Financial Institutions
+One of the reasons the Minnesota Plastic Card Security Act was introduced was the 2007 TJX data breach.
+Financial institutions often paid the cost for notifying people that their credit and debit card information was
+disclosed in a breach. There were other costs as well. If another organization suffered a breach that included
+card data, financial institutions had to reissue the cards to their customers, which costs money. They had to
+refund unauthorized charges. They also suffered reputation damage when customers asked whether the
+financial institution was also involved in the breach.
+The Minnesota Credit Union Network, an association of more than 160 credit
+unions in Minnesota, was tired of paying for another organization’s weak security
+practices. The Network engages in political advocacy, education, and awareness
+activities. It pushed for the creation of the Plastic Card Security Act to help reduce its
+costs for another organization’s security breach.
+NOTE
+Businesses that wish to accept credit cards for payment must follow the PCI DSS. The major credit card
+companies require it, although it is not a law. Credit card companies such as Visa and MasterCard enforce
+PCI DSS.
+In 2010, Nevada was the first state to make following the entire PCI DSS a state
+law requirement. 23 The Nevada law says that businesses will not be liable for
+damages for a data breach, such as paying for credit cards to be reissued, if they
+are following the law and did not engage in other intentional misconduct. Washington
+state also provided businesses with a safe harbor from data breach liability if the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.business can certify that it was PCI DSS compliant at the time of the data breach. 24
+The Washington law, however, does not require businesses to follow PCI DSS.
+NOTE
+The Nevada law states that “personal information” is a person’s name combined with SSN, financial
+account number, credit card number, health insurance number, and driver’s license or other identification
+number. 25
+The Nevada law is novel because it makes following the entire PCI DSS required
+by law. Some commentators thought that the Nevada law would encourage other
+states to adopt similar laws. However, widespread adoption has not really happened.
+This is because businesses that accept credit cards already have to comply with the
+PCI DSS under their contracts with credit card companies. If they violate the PCI
+DSS, they can be subject to large fines from those companies. Laws such as
+Nevada’s do not protect businesses from fines from the credit card companies.
+Indiana: Limiting SSN Use and Disclosure
+Some states have created laws protecting SSNs. These laws recognize that SSNs
+are highly sensitive pieces of information that can be very valuable to an identity
+thief. Thieves can use the number to easily establish new identities to commit
+identity theft crimes.
+Indiana has laws designed to protect SSNs. For example, its laws forbid SSNs
+from appearing in public documents. It also has laws that forbid state agencies from
+disclosing a person’s SSN to any other person or entity.
+Since 2006, Indiana law has stated that county recorders’ offices may not accept
+any document for recording that contains an SSN. 26 The only time that they can
+accept a document containing an SSN is when another law requires that the
+document contain an SSN. Some types of federal laws, such as releases of federal
+tax liens, require the use of an SSN.
+NOTE
+The Social Security Administration created the SSN in 1936 to track worker earnings. This was necessary
+to administer the Social Security program. The first person to receive Social Security benefits was Ernest
+Ackerman in January 1937. He received a one-time payout of 17 cents.
+The state also was concerned that public records recorded before 2006 could
+contain SSNs and that identity thieves could use these documents to get SSNs.
+Since 2008, Indiana law states that county recorders cannot provide a recorded
+document to a member of the public unless they first search the document for SSNs.
+If they find a document with an SSN, they must redact it before allowing public
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.inspection. It is a civil violation for a county recorder or any employee to disclose a
+recorded document containing an SSN without first searching the document for an
+SSN. The law does not cover disclosure of the last four digits of an SSN.
+The Importance of Legislative History
+All laws have a legislative history that documents the number of times that a law is modified during the
+period from introduction to signing. It includes any materials generated in the course of creating legislation,
+committee reports and hearings, and transcripts of debate and reports issued by legislatures. The legislative
+history can be reviewed to help determine what a legislature intended when it created a law. The Nevada law
+requiring data collectors to follow PCI DSS went through many changes. You can read the law’s legislative
+history at http://www.leg.state.nv.us/Session/75th2009/Reports/history.cfm?DocumentType=2&BillNo=227.
+When Senate Bill 227 was first introduced, it contained no language requiring data collectors to follow PCI
+DSS. Instead, it required data collectors to use certain types of approved encryption technologies. After the
+bill was introduced, industry groups contacted the bill’s author to express concerns about the bill. They
+opposed it because it was not technology neutral. You can read the letter submitted by industry groups at
+http://www.leg.state.nv.us/75th2009/Exhibits/Assembly/CMC/ACMC1140C.pdf.
+After negotiation, the bill was amended to include the PCI language. Little information was included in the
+legislative history to indicate why the PCI language was added. A question that remains is whether the
+businesses that objected to the bill’s original language are happy with the final law that requires PCI
+compliance.
+FYI
+A county recorder’s office keeps public records about certain types of transactions. These offices usually
+handle legal documents regarding real estate ownership. These documents are filed, or recorded, with a
+county recorder’s office to give public notice of the transaction. Certain types of records also can be filed
+with a county recorder for future reference or safekeeping.
+Indiana law also provides that a state agency may not disclose a person’s SSN to
+anyone. 27 State agencies include an elected official’s office and state educational
+institutions. However, there are limited exceptions to this law. A state agency is
+allowed to disclose an SSN if:
+A person gives explicit written consent for the disclosure of his or her SSN.
+The disclosure is required by state or federal law.
+The disclosure is required by a court order.
+The law lists very specific penalties for an inappropriate disclosure of a person’s
+SSN. The state agency is not responsible for these penalties. Instead, they are
+directed at the state agency employee who disclosed the SSN. For instance, a state
+agency employee who “knowingly, intentionally, or recklessly” discloses an SSN in
+violation of the law commits a Level 6 felony. This is a criminal sanction. In Indiana, a
+Level 6 felony can result in a prison term between 6 months and 2.5 years. In
+addition, a person can be fined up to $10,000. 28
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.NOTE
+One of the biggest differences between civil law and criminal law is punishment. In civil law, a defendant is
+not sent to jail as a punishment. Instead, civil law imposes fines. Civil law also requires a defendant to
+reimburse a plaintiff for damages. In criminal law, punishment usually involves fines or prison sentences,
+or both.
+If a state agency employee negligently discloses an SSN, the person commits a
+Class A infraction. In Indiana, an infraction is a civil sanction that a person cannot be
+imprisoned for. However, he or she can receive a fine of up to $10,000.
+Under the law, if a state agency impermissibly discloses an SSN, it must notify
+the affected person. It also must notify the state attorney general’s office. Under the
+law, the state attorney general has the authority to investigate an improper
+disclosure of an SSN. The state attorney general also can make additional rules to
+carry out the nondisclosure law. Individuals do not have a private cause of action
+under the law. For example, they cannot sue a state agency for wrongfully disclosing
+an SSN.
+Other states have laws designed to protect SSNs. Arizona law, for example,
+prohibits printing an SSN on government or private identification cards. This law also
+prohibits the transmission of a person’s SSN over an unsecured internet
+connection. 29 California law forbids companies from requiring people to transmit an
+SSN over the internet unless the connection is secure or the SSN is encrypted.
+California: Protecting Consumer Privacy
+California continues to be at the forefront of states that seek to protect the data of
+their citizens. In 2018, California enacted the California Consumer Privacy Act
+(CCPA). 30 The CCPA governs the protection of personal information that is collected
+by businesses, which must comply with the CCPA if they meet any of the following:
+Have gross annual revenues in excess of $25 million
+Buy, receive, or sell the personal information of 50,000 or more consumers,
+households, or devices
+Derive 50 percent or more of their annual revenues from selling consumers’
+personal information
+If a business is covered by the CCPA, it must provide notice to consumers of their
+rights and how to exercise those rights before it collects data from the consumer.
+Consumers have the following rights under the CCPA:
+The right to know—A consumer has a right to know what personal information is
+collected, used, shared, and sold by the business.
+The right to delete—A consumer has the right to demand that a business delete
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.the consumer’s personal information.
+The right to opt-out—A consumer has the right to opt-out of the sale of his or her
+personal information or to tell the business to stop selling that information.
+The right to nondiscrimination—A consumer should not be subject to price or
+service discrimination when a consumer exercises a privacy right under CCPA.
+The California attorney general enforces the CCPA. The law allows for civil penalties
+of $2,500 for each violation or $7,500 for each intentional violation. Penalties can
+only be imposed after a business receives notice of the violation and has 30 days to
+correct the violation.
+NOTE
+The individual rights included in the CCPA are similar to the individual rights guaranteed by the European
+Union General Data Protection Regulation (GDPR).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Encryption Regulations
+Some states require entities doing business within the state to follow basic
+information security practices to protect the security and privacy of data. Other states
+are more aggressive. They require entities to use specific security practices, such as
+encryption.
+FYI
+The Massachusetts Office of Consumer Affairs and Business Regulation held a public hearing on the data
+protection standards in January 2009. The hearing showed that businesses were worried about meeting
+the standards. You can read a transcript from the hearing and written comments at
+http://www.mass.gov/ocabr/docs/idtheft/201cmr17comments.pdf.
+Massachusetts: Protecting Personal Information
+Massachusetts has created some of the nation’s most rigorous data protection laws.
+For example, it created its breach notification law in 2007. 31 That law also required
+the state’s consumer affairs department to issue standards for the protection of
+personal information. The law stated that the standards should:
+Protect the security and confidentiality of personal information consistent with
+industry standards.
+Protect against anticipated threats to the security or integrity of personal
+information.
+Protect against unauthorized access to or use of personal information that could
+harm a person.
+The Massachusetts “Standards for the Protection of Personal Information of
+Residents of the Commonwealth” was released in September 2008 and went into
+effect in 2010. The law has very broad application. 32 Any person that uses and
+stores personal information about Massachusetts residents as part of the sale of
+goods and services must comply with it. However, the law does not apply to state
+agencies.
+Entities subject to the law must follow data protection standards to safeguard the
+personal information of Massachusetts residents. These entities must protect
+personal information in both electronic and paper form. The definition of personal
+information is similar to the definitions used in the breach notification laws discussed
+at the beginning of this chapter. Under the data protection standard, personal
+information is a person’s first and last name, or first initial and last name, and any of
+the following:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.SSN
+Driver’s license number or state identification card number
+Financial account number, or credit or debit card number, with or without password
+or PIN
+The standard requires entities to create an information security program. It states
+that an entity’s information security program must be a good fit for its size and
+scope. It also must fit the entity’s type of business. It must describe the
+administrative, technical, and physical controls that protect the personal information
+used by the entity. The program requirements are similar to those stated in the GLBA
+Safeguards Rule.
+NOTE
+The GLBA is a law that requires entities engaged in certain kinds of financial transactions to follow privacy
+and information security rules. These rules are designed to protect customers’ personal information.
+The standard uses a risk-based approach to information security. It allows the
+entity to review its resources and data use. It also can review its needs for security
+and confidentiality. The entity can use the results of this review to determine the
+safeguards it should use. As part of its program, an entity must:
+Assign an employee to manage the program.
+Conduct a risk assessment to identify risks to the security, confidentiality, and
+integrity of information. Review current safeguards to make sure that they are
+effective.
+Develop policies for use of personal information off business premises.
+Develop disciplinary policies for failure to follow the information security program.
+Develop policies to keep terminated employees from accessing personal
+information.
+Select service providers and make sure that any contract includes terms to protect
+personal information.
+Develop policies to physically safeguard personal information.
+Monitor and review the program to make sure it is effective.
+Document actions taken in response to any security breach. 33
+The standard also includes computer system security requirements. This part of the
+standard directs entities to implement the security requirements. They must do this
+as long as the requirements are technically feasible. An entity does not have to apply
+requirements that are not technically feasible. 34
+The standard states that an information security program must include specific
+security requirements. They are:
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Secure user authentication
+Secure access control measures
+Encryption of all transmitted personal information that travels across public
+networks, and encryption of information to be transmitted wirelessly
+Reasonable monitoring of systems
+Encryption of all personal information stored on laptops or portable devices
+Up-to-date firewall protection and operating system security patches on computers
+containing personal information
+Virus and malware protection
+Security awareness and training activities
+NOTE
+Under the standard, “technically feasible” means that if there is a reasonable way to accomplish a required
+technology result, then an entity must do so.
+FYI
+Massachusetts has released a video about its data protection laws. You can view the video at
+https://www.youtube.com/watch?v=ETYwkTpeXHI.
+The encryption requirements have received a lot of attention. They require
+businesses to encrypt the personal information of Massachusetts residents while it is
+stored on their systems. They also must encrypt it when it is transmitted. The
+standard does not define a preferred method of encryption. Instead, encryption is
+defined in a technology-neutral way. Under the standard, encryption is changing data
+into an unreadable form. The encrypted data cannot be read or understood without
+an encryption key, which is used to encrypt and decrypt data.
+The Massachusetts attorney general has the authority to enforce the data
+protection standard. The law allows civil penalties of up to $5,000 for each violation.
+The attorney general can also make an entity pay for the costs of an investigation
+into any violations. Entities can also be charged attorneys’ fees. 35
+The Massachusetts data protection standard is unique. It attempts to regulate
+businesses outside of Massachusetts by requiring businesses to encrypt the
+personal data of Massachusetts residents. This may be hard because businesses
+typically must follow only the laws of the state where they are located. Under the law,
+this is a jurisdiction issue. Only revisions to the standard, or a court case, will help
+clarify how widely the state may enforce this standard.
+NOTE
+Although the Massachusetts data protection standards do not define a preferred method of encryption, the
+Massachusetts breach notification law does. Under the state’s breach notification law, encryption is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.defined as a transformation of data through the use of a 128-bit or higher algorithmic process. The process
+must change into a form that is unreadable without the use of a key. 37
+Nevada Law: Standards-Based Encryption
+Nevada law also has data encryption requirements. The Nevada law requires data
+collectors to use encryption if they are transmitting personal information outside of
+their business network. They must encrypt the data if it is sent externally via email or
+any other electronic transmission. This requirement helps protect data while it is
+being transferred from one entity to another. The Nevada law excludes facsimiles
+from the transmission encryption requirements. 36
+The law also requires data collectors to encrypt personal information on any data
+storage device that is moved beyond the technical or physical controls of their
+business. This means that they must encrypt any storage device that leaves the
+business location. They also must encrypt backup tapes containing personal
+information that they send to an off-site storage facility. This portion of the law helps
+protect data if the storage media is lost or stolen.
+The encryption rule is novel because of its breadth. It covers data when it is
+stored and when it is transmitted. The law is also interesting because of how it
+defines encryption. This is one area where the Nevada law varies greatly from the
+Massachusetts encryption law. The Massachusetts law defines encryption in a
+technology-neutral way. It does not reference any industry standards. The Nevada
+law, however, references industry standards.
+Under the Nevada law, data collectors must use encryption technologies adopted
+by a standards-setting body. The law references the Federal Information Processing
+Standards, which are issued by the National Institute of Standards and Technology
+(NIST). Under the law, the technology used must make the personal information
+unreadable. 38
+NOTE
+Nevada law defines data storage devices as computers, cell phones, and external computer hard drives. It
+also includes backup storage media.
+The law also requires that data collectors use good cryptographic key
+management practices to protect encryption keys. Encryption keys encrypt and
+decrypt data. They must be carefully guarded. These keys protect the confidentiality
+of data. They also protect the integrity of the whole encryption process. The law
+requires data collectors to use key management practices created by a standards
+setting body. Again, the law specifically refers to NIST standards. 39
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.NOTE
+You can read the Federal Information Processing Standards at
+http://csrc.nist.gov/publications/PubsFIPS.html.
+A data collector that complies with the law is not liable for damages resulting from
+a security breach. This protection extends to a breach so long as the data collector’s
+own gross negligence did not cause the breach.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Data Disposal Regulations
+As of January 2019, at least 35 states and Puerto Rico have created data disposal
+laws. 40 They have created these laws to make sure that personal information is
+properly disposed of. Personal data must be protected throughout its life cycle. This
+includes disposing of the information in an appropriate way.
+Washington: Everyone Has an Obligation
+Washington State created its personal data disposal law in 2002. 41 In creating the
+law, the state legislature made comments about how important the law was. It said
+that:
+Careless disposal of personal information causes a significant risk of identity theft.
+Improper disposal threatens a person’s privacy and financial security.
+Everyone in the state has a duty to dispose properly of personal information. 42
+The Washington disposal law applies to any person or entity in the state. It requires
+an entity to take reasonable steps to destroy records that contain health and
+financial data when it determines that it no longer needs those records.
+NOTE
+The only entity specifically excluded by the Washington law is the federal government. The law also states
+that entities that comply with the GLBA Safeguards Rule or HIPAA Security and Privacy Rules are
+considered compliant with the state law.
+The law requires entities to properly destroy information held in their records.
+Records are defined as any material—paper or electronic—that holds information.
+Entities must make sure that they destroy any personal financial or health
+information in their records. Personal financial and health information is data that
+identifies a person and is commonly used for financial or healthcare reasons.
+The law states that an entity must destroy information in records so that it is no
+longer readable or decipherable. The law also states that proper destruction includes
+shredding, erasing, or modifying records so that they are no longer readable. 43
+The Washington law allows a person harmed by a violation of the law to sue the
+entity that violated it. The law provides the plaintiff with several remedies that vary
+depending on the type of violation. If the entity’s failure to comply with the law was
+because of negligence, a court may award a penalty of $200 or actual damages. The
+court must award a plaintiff whichever amount is greater.
+If an entity’s failure to comply with the law was intentional, then the court can
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.award a penalty of $600 or actual damages. Again, the court must award whichever
+amount is greater. The law also allows the court to award “treble” (triple) damages,
+which are three times the amount of the actual damages incurred. The law states
+that treble damages may not be more than $10,000. 44
+NOTE
+Treble damages are damages that punish a defendant for intentional conduct.
+The law also allows the state attorney general to prosecute an entity that violates
+the law. In that instance, a court must award damages the same way that it awards
+damages to an individual plaintiff. The court may also grant injunctive relief. This
+means that it can order the entity to stop violating the law.
+New York: Any Physical Record
+On the other side of the country, New York State also has a data disposal law. 45 Its
+law states that no person or business may dispose of a record containing “personal
+identifying information” without shredding, destroying, or modifying it so that the
+information is no longer readable. The law requires that any person or business
+destroying the records must take action that is consistent with commonly accepted
+industry practices. They must use these practices to make sure that no unauthorized
+person has access to information in the record.
+Under the New York law, records are any information held in any physical form,
+either paper or electronic. They include reports, letters, and computer tapes. Any
+type of data storage medium is a record. Personal identifying information is
+information in a record that identifies a person by name and includes any of the
+following:
+SSN
+Driver’s license number or identification card number
+Mother’s maiden name, financial account numbers or code, or any other
+identification number
+The law allows for penalties of up to $5,000 for improper disposal. The attorney
+general alone has the authority to pursue violations of the law. There is no private
+cause of action.
+Confidential Documents Used as Confetti
+If you are a Yankees fan, 2009 was a very good year. It was their first World Series win since 2000. They
+celebrated their 27th World Series win with a ticker tape parade in New York City on November 4, 2009.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.The term ticker tape parade originated in New York City. These parades are rare now, because real ticker
+tape has not been used since the 1960s. They are traditionally reserved for large celebrations, such as sports
+victories.
+The 2009 parade for the Yankees was the first ticker tape parade in New York City since the Giants won the
+Super Bowl in 2008. Sports fans were very excited. When they ran out of confetti, they dumped any type of
+paper that they could find from skyscraper windows. This included documents containing personal
+information. News media reported that after the parade, law firm memos, banking records, and court files
+were recovered from the debris in the street.
+One financial firm had to discipline an employee who threw documents marked for destruction instead of
+confetti. These documents contained financial information and SSNs.
+NOTE
+The New York law specifically excludes state agencies.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.Case Studies and Examples
+The following case highlights unclear federal policies about data breach notification.
+At the time of this incident, federal law did not require agencies to have breach
+notification policies. In fact, there is still no federal law that requires this. However,
+because of this incident, most federal agencies have implemented internal breach
+notification policies.
+NOTE
+The U.S. Department of Veterans Affairs is also called the Veterans Administration (VA).
+In 2006, an employee of the U.S. Department of Veterans Affairs (VA) took home
+a laptop computer and external hard drive. The hard drive held the personal
+information of every veteran discharged since 1975. It was not encrypted. On May 3,
+2006, the employee’s home was burglarized. Thieves stole the laptop and hard
+drive. The local police department investigated the burglary.
+The employee immediately informed his supervisors about the theft, but they did
+not take the matter seriously. The secretary of the VA did not learn about it until
+almost 2 weeks later. The VA secretary then notified the Federal Bureau of
+Investigations (FBI) about the theft. The FBI began to investigate the theft with the
+local police department.
+The VA issued a statement reporting the facts about the theft on May 22, 2006. It
+also said that the data stolen included names, SSNs, and dates of birth for 26.5
+million veterans, as well as data on some of their spouses. At the time, the VA
+reported that the hard drive did not contain any health or financial information.
+Congress was outraged that the VA waited so long to make a public statement.
+On May 25, 2006, the secretary of the VA appeared at hearings before the U.S.
+House and Senate to discuss the issue. In his Senate testimony, he stated that he
+was furious that he was not notified in a timely manner. He also stated that the VA
+was planning to notify all people affected by the theft. He said that it would take time
+to prepare the mailing because the VA had to verify addresses. He also said that 26
+million envelopes “were not immediately available.” The VA began mailing the
+notification letters on June 9, 2006.
+As it carried out its investigation, the VA learned that the hard drive held some
+health information for 2.6 million people. It also learned that the hard drive contained
+the personal information of active-duty military personnel. On June 6, 2006, the VA
+reported that the hard drive held the data of 1.1 million active-duty troops. It also had
+information on 430,000 members of the National Guard and 645,000 members of the
+Reserves.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.The police recovered the stolen laptop and hard drive in late June 2006. The FBI
+reported that a forensic review of the equipment showed that the database
+containing the personal information had not been accessed. In August 2006, the VA
+mailed a follow-up letter to people affected by the event.
+The VA Inspector General investigated the incident and found that the VA
+employee was not permitted to take the laptop or hard drive home. The report
+faulted the employee for using poor judgment in taking the data home. It also faulted
+the employee for not properly protecting it. The report also criticized VA supervisors
+for not taking initial reports about the data loss seriously.
+In January 2009, the VA agreed to pay $20 million to veterans whose information
+was potentially exposed in the incident. It paid this amount to settle lawsuits brought
+by five veterans groups. The money was used to create a compensation fund.
+Veterans who wished to make a claim against the fund needed to file claims by
+November 27, 2009.
+Congress created the Veterans Affairs Information Security Act of 2006 in
+response to the breach. The law requires the VA to create a comprehensive
+information security program. It also requires it to create breach notification
+regulations. The VA issued those regulations in April 2008. They require the VA to
+notify people in the event of a security breach if there is a reasonable risk for the
+potential misuse of their personal information. 46
+NOTE
+The U.S. Government Accountability Office released a report on lessons learned from the 2006 VA
+incident. You can read the report at http://www.gao.gov/new.items/d07657.pdf.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.CHAPTER SUMMARY
+This chapter reviewed state laws that protect data. States have been very
+active in trying to protect the personal data of their residents. They have
+created many different laws to protect the security and privacy of this
+information because there is no one comprehensive federal data privacy or
+security law. When reviewing state laws that protect certain types of data, it
+is important for you to think about what other state or federal laws might also
+protect the data.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.KEY CONCEPTS AND TERMS
+Breach notification law
+Legislative history
+Safe harbor
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.CHAPTER 9 ASSESSMENT
+1. The ChoicePoint data breach was the triggering event that caused many states
+to create data protection laws.
+A. True
+B. False
+2. California’s breach notification law went into effect in ________.
+3. Most states define personal information as name plus which of the following
+elements?
+A.
+B.
+C.
+D.
+E.
+Date of birth
+Address
+Phone number
+Social Security number
+None of these is correct.
+4. An encryption safe harbor is ________.
+5. What is a state breach notification law?
+A. A law that requires that residents be notified if a dam breaks
+B. A law that requires that residents be notified if a business has a security
+breach that compromises their personal data
+C. A law that requires that residents be notified if a business has a security
+breach that compromises the business’s confidential data
+D. A law that requires that businesses be notified if a government has a security
+breach that compromises the business’s confidential data
+E. None of these is correct.
+6. Which types of entities are sometimes excluded from breach notification laws?
+A.
+B.
+C.
+D.
+E.
+GLBA financial institutions
+HIPAA-covered entities
+Out-of-state businesses
+GLBA financial institutions and HIPAA-covered entities
+GLBA financial institutions, HIPAA-covered entities, and out-of-state
+businesses
+7. What is not a business day?
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.A.
+B.
+C.
+D.
+E.
+An official workday
+A day of the week that includes Monday through Friday
+Memorial Day
+Tuesday
+None of these is correct.
+8. “Clear and conspicuous” notice means that ________.
+9. Which states allow data breach notification to be given by telephone?
+A.
+B.
+C.
+D.
+E.
+California
+Colorado
+North Carolina
+California and Colorado
+Colorado and North Carolina
+10. What technology standards are permitted under the Nevada encryption law?
+A.
+B.
+C.
+D.
+E.
+PCI DSS
+SO 1799
+NIST
+FTC
+HIPAA
+11. Which states have required businesses to follow all, or part, of the PCI DSS?
+A.
+B.
+C.
+D.
+E.
+Minnesota
+Nevada
+California
+Minnesota and Nevada
+Minnesota and California
+12. A private cause of action is ________.
+13. If the U.S. Congress creates a federal breach notification law, what happens to
+state laws?
+A.
+B.
+C.
+D.
+E.
+They are no longer valid.
+They are still valid as long as they are stricter than federal law.
+They are still valid in their original form.
+They are still valid as long as they are weaker than federal law.
+None of these is correct.
+14. What is the purpose of legislative history?
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.A.
+B.
+C.
+D.
+E.
+To help determine which laws to abolish
+To help decide how to create new laws
+To help determine how old a law is
+To help determine what a legislature intended when it created a law
+None of these is correct.
+15. What is one of the biggest differences between civil and criminal law?
+The amount of fines
+Whether a person can be sentenced to prison
+How long the offense stays on your criminal record
+The type of judge that hears the case
+The color of the prison jumpsuits
+A.
+B.
+C.
+D.
+E.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.ENDNOTES
+1. CNET, “ChoicePoint Data Theft Widens to 145,000 People,” February 18, 2005.
+https://www.cnet.com/news/choicepoint-data-theft-widens-to-145000-people/
+(accessed April 27, 2020).
+2. PC World, “ChoicePoint Details Data Breach Lessons,” June 11, 2007.
+https://www.pcworld.com/article/132795/article.html (accessed April 27, 2020).
+3. Federal Trade Commission, “ChoicePoint Settles Data Security Breach
+Charges; to Pay $10 Million in Civil Penalties, $5 Million for Consumer
+Redress,” January 26, 2006. https://www.ftc.gov/news-events/press-
+releases/2006/01/choicepoint-settles-data-security-breach-charges-pay-10-
+million (accessed April 27, 2020).
+4. InfoWorld, “States Settle With ChoicePoint Over 2004 Breach,” May 31, 2007.
+https://www.infoworld.com/article/2662493/states-settle-with-choicepoint-over-
+2004-breach.html (accessed April 27, 2020).
+5. Federal Trade Commission, “Consumer Data Broker ChoicePoint Failed to
+Protect Consumers’ Personal Data, Left Key Electronic Monitoring Tool Turned
+Off for Four Months,” October 19, 2009. https://www.ftc.gov/news-events/press-
+releases/2009/10/consumer-data-broker-choicepoint-failed-protect-consumers
+(accessed April 27, 2020).
+6. California Civil Code, sec. 1798.29, and sec. 1798.82.
+7. California Civil Code, sec. 1798.29, and sec. 1798.82.
+8. California Civil Code, sec. 1798.84.
+9. National Conference of State Legislatures, “Security Breach Notification Laws,”
+March 8, 2020. https://www.ncsl.org/research/telecommunications-and-
+information-technology/security-breach-notification-laws.aspx (accessed April
+27, 2020).
+10. Ohio Revised Code, sec. 1347.12.
+11. Ohio Revised Code, sec. 1347.12, and sec. 1349.19.
+12. Florida Statutes, sec. 817.5681.
+13. Maine Revised Statutes, Title 10, sec. 1348.
+14. North Carolina General Statutes, sec. 75-65.
+15. Colorado Revised Statutes, sec. 6-1-716.
+16. Massachusetts Gen. Laws ch. 93H, sec. 1- 6.
+17. Indiana Code, sec. 24-4.9-2-4.
+18. Texas Business and Commercial Code Annotated, sec. 521.151.
+19. Florida Statutes, sec. 817.5681.
+20. Indiana Code, sec. 24-4.9-4-2.
+21. Minnesota Statutes, sec. 325E.64.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+Minnesota Statutes, sec. 325E.64.
+Nevada Revised Statutes, sec. 603A.215.
+Washington Revised Code, sec. 19.255.020.
+Nevada Revised Statutes, sec. 603A.040.
+Indiana Code, sec. 36-2-7.5-4.
+Indiana Code, sec. 4-1-10-3(b).
+Indiana Code, sec. 35-50-2-7.
+Arizona Revised Statutes, sec. 44-1373.
+California Civil Code Title 1.81.5, sec. 1798.100-1798.199.
+Massachusetts General Law, chapter 93H, sec. 2.
+Code of Massachusetts Regulations, Title 201, sec. 17.01-17.05.
+Code of Massachusetts Regulations, Title 201, sec. 17.03.
+Code of Massachusetts Regulations, Title 201, sec. 17.04.
+Massachusetts General Law, chapter 93A, sec. 4.
+Nevada Revised Statutes, sec. 603A.215.
+Massachusetts General Law, chapter 93H, sec. 1.
+Nevada Revised Statutes, sec. 603A.215.
+Nevada Revised Statutes, sec. 603A.215.
+National Conference of State Legislatures, “Data Disposal Laws,” January 4,
+2020. https://www.ncsl.org/research/telecommunications-and-information-
+technology/data-disposal-laws.aspx (accessed April 27, 2020).
+Revised Code of Washington, Title 19, sec. 19.215.005 to 19.215.030.
+Revised Code of Washington, Title 19, sec. 19.215.005.
+Revised Code of Washington, Title 19, sec. 19.215.010.
+Revised Code of Washington, Title 19, sec. 19.215.020.
+New York’s General Business Law, sec. 399-H.
+Department of Veterans Affairs, Data Breach Fine Rule, Code of Federal
+Regulations, Title 38, sec. 75.117.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-02-14 20:44:52.

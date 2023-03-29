@@ -1,0 +1,1224 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+CHAPTER
+7
+Corporate Information Security and
+Privacy Regulation
+HIS CHAPTER FOCUSES ON special security issues faced by publicly traded
+companies. Public companies must comply with a law that tries to improve
+corporate responsibility and stop fraudulent financial reporting. Rules and regulations
+created in response to the law impact information systems that process financial
+data. The rules require that these systems be reviewed to make sure that they
+appropriately control information security risks and threats to financial data.
+T
+This chapter reviews why Congress created this law. It also reviews how the law
+influences information security practices. Finally, it discusses how this law affects
+other kinds of organizations.
+Chapter 7 Topics
+This chapter covers the following topics and concepts:
+How the Enron scandal led to securities-law reform
+Why accurate financial reporting is important
+What the Sarbanes-Oxley Act (SOX) is
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.What compliance and security controls are
+How SOX influences other types of companies
+What some corporate privacy issues are
+What some case studies and examples are
+Chapter 7 Goals
+When you complete this chapter, you will be able to:
+Describe the difference between public and private companies
+Explain the history behind the Sarbanes-Oxley Act
+Discuss the main requirements of the Sarbanes-Oxley Act
+Explain the role of the Public Company Accounting Oversight Board
+Describe how Section 404 internal control requirements impact
+information security
+Discuss frameworks used to guide Sarbanes-Oxley internal control
+requirements
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.The Enron Scandal and Securities-Law Reform
+Enron. WorldCom. Tyco. Adelphia. These companies have come to represent a
+wave of corporate scandal that plagued America in the early 2000s. Each company
+engaged in varying levels of mismanagement, questionable financial deals, and
+accounting fraud. The activities at these companies shook investor confidence in
+U.S. corporations. They also tarnished the reputations of financial services
+professionals such as analysts, accountants, and auditors. Consider the following:
+Once called the “Most Innovative Company in America,” energy company Enron
+filed for bankruptcy in December 2001. It used several different fraudulent
+accounting methods to hide billions of dollars of debt from its investors and
+lenders.
+Cable company Adelphia filed for bankruptcy in June 2002. In 2004, a federal jury
+convicted Adelphia’s founder of bank and securities fraud. He was sentenced to
+15 years in prison.
+Telecommunications company WorldCom filed for bankruptcy in July 2002. At the
+time, it was the largest bankruptcy in U.S. history. In July 2005, a federal court
+sentenced the chief executive officer (CEO) of WorldCom to 25 years in prison for
+corporate fraud.
+In June 2005, a jury convicted a former Tyco CEO of theft, conspiracy, securities
+fraud, and falsifying business records. A court in New York sentenced him to
+between 8 and 25 years in prison. He was ordered to pay restitution and fines of
+more than $200 million.
+The financial mismanagement at these companies contributed to the largest reform
+in U.S. securities laws since the Great Depression. The Enron bankruptcy is the
+case that spurred Congress to act. It is important to understand the Enron scandal to
+appreciate how significant the reform was.
+Corporate Fraud at Enron
+The Enron case has become a part of American pop culture, as its name is now
+synonymous with corporate greed and scandal. Nearly 20 years after the scandal, it
+continues to hold our attention.
+Enron, which was based in Houston, Texas, formed in 1985 through the merger
+of two natural gas companies. Kenneth Lay was the CEO of the company. By the
+mid-1990s, Enron was the leading U.S. natural gas company.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Public Versus Private Companies
+A public company is also called a publicly traded company. Many investors own a public company, in which
+investors own a portion of the company in the form of stock. A stock represents a share of a corporation’s
+profits or assets. A person’s percentage of ownership in the corporation depends on how many shares of
+stock he or she owns.
+Shareholders are entitled to portions of a public company’s profits. Their share, called a dividend, represents
+each shareholder’s portion of the company’s earnings. People who own more shares of stock receive larger
+dividends.
+Public corporations are allowed to sell stocks and bonds. A bond represents a loan to the corporation for a
+specified period. The corporation must pay bondholders back the full value of the bond, plus interest.
+However, a person who owns a corporate bond does not have any ownership in a corporation. Only stocks
+represent an ownership interest. Stocks and bonds together are called securities.
+In the United States, the stock of a public company is traded on a stock exchange. The two most popular
+U.S. stock exchanges are the New York Stock Exchange (NYSE) and the NASDAQ Stock Market. National
+securities exchanges are registered with the U.S. Securities and Exchange Commission (SEC). You can
+learn more at https://www.sec.gov/fast-answers/divisionsmarketregmrexchangesshtml.html.
+Almost all securities sold in the United States must be registered with the SEC. To register its securities, a
+company must file documents about its financial condition with the SEC on a regular basis. Investors review
+these documents to make informed investment decisions.
+A public company is different from a privately held company, in which a small group of private investors
+owns a privately held company. In some cases, the investors all might be members of the same family. A
+private company does not have to answer to shareholders in the same way that a public company does. A
+private company distributes its profits to its owners.
+Private companies do not have to register with the SEC. They also do not have to file documents with the
+SEC that show their financial position. The largest private companies in the United States include Cargill,
+Koch Industries, and Albertsons. 1
+Enron grew quickly because it took advantage of energy market deregulation in
+the late 1980s. It bought and sold gas and electricity through futures contracts.
+These investments were initially very successful. As it grew, Enron expanded into
+other markets. It purchased steel mills, water utilities, and even tried to enter the
+internet broadband market. It also expanded internationally, pursuing opportunities in
+England, Mexico, and India.
+From 1997 to 2001, Fortune magazine put Enron on its “Most Innovative
+Companies in America” list. 2 In 2000, it named Enron to its “World’s Most Admired
+Companies” list. 3 Enron grew from 7,500 employees in 1996 to more than 20,000
+employees in 2001. Its stock was valuable. Enron encouraged its employees to
+include Enron stock in their retirement portfolios.
+To the outside world, Enron was a very successful company. Its required filings
+with the U.S. SEC showed that it was making money. It appeared to be able to
+translate its success in the energy markets to other markets. Financial analysts
+continued to recommend Enron stock. Investors continued to buy it.
+In reality, Enron was struggling. It lost billions of dollars on its international
+investments. Enron also started to face increased competition in the energy
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.business. It began to lose its market share in energy futures contracts because other
+energy companies started to use Enron’s own strategies to become profitable.
+By the late 1990s, Enron was in financial trouble and needed to raise money to
+meet its operating expenses. However, it did not want to do this in a way that would
+alarm its investors or alert them to potential trouble, which could cause its stock price
+to fall. Maintaining a high stock price was important to bring in new investors. It also
+was critical to being able to maintain credit lines with banks.
+FYI
+A futures contract is a contract for the sale of a good. One party agrees to sell the other party an asset at
+some point in the future. The two parties agree on the future quantity and price for the asset at the time the
+contract is made. Companies use futures contracts as an investment tool rather than as an actual contract
+to supply goods.
+Enron executives engaged in several complicated financial transactions to hide
+its losses. Its chief financial officer (CFO), Andrew Fastow, created several affiliated
+companies, then hid Enron’s losses in the financial records of these companies. The
+Enron CFO and other employees who worked with him owned many of these
+affiliated companies and profited from the transactions between Enron and the
+affiliated companies.
+These transactions were very complex and complicated to understand because
+Enron often changed the names of its different divisions. It also moved assets back
+and forth between divisions. Many of these transactions violated traditional
+accounting principles, which are called generally accepted accounting principles
+(GAAP). They are the rules for the accounting process. Accountants prepare
+financial statements according to these rules, which are designed to promote
+accurate accounting records.
+Enron also mislabeled loans that it received from banks to hide the transactions
+on its own financial statements so that its investors would not know about them. By
+some reports, Enron borrowed about $8.6 billion from 1992 to 2001. 4 However, it hid
+these loans from its investors. During this time, Enron filed earnings statements with
+the SEC that misstated its financial position. The SEC filings were hard to
+understand. They also showed that Enron appeared to be making money.
+In February 2001, CEO Kenneth Lay retired. The new CEO, Jeffrey Skilling, had
+been instrumental in taking Enron into new trading markets in the 1990s. He and
+CFO Andrew Fastow oversaw most of Enron’s business practices.
+In April 2001, many financial analysts began to question Enron’s complicated
+financial statements. 5 Enron, however, continued to portray the image of a
+successful company. Jeffrey Skilling unexpectedly resigned from the CEO post in
+August 2001, at which time the board of directors asked Kenneth Lay to return to
+Enron as its CEO, which he did.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.In October 2001, Enron announced its first ever loss. The SEC noticed this
+announcement and began to review Enron’s financial statements. Enron also began
+its own investigation. In late October, the Enron board of directors established a
+special committee, led by Director William C. Powers, to investigate the affiliated
+companies created by Fastow. The report that the committee issued is known as the
+“Powers Report.” 6
+In November 2001, Enron announced that it was amending its 1997–2001
+financial statements because of accounting errors. This announcement shook
+investor confidence in Enron, and its stock price began to drop. Banks would no
+longer issue it credit to meet its operating expenses. At the end of November 2001,
+Enron stock was worth less than a dollar per share. 7
+FYI
+The Powers Report, released in February 2002, noted that Enron’s executive officers mismanaged many
+aspects of the company’s business. It also placed blame on Enron’s Board of Directors for failing in its
+corporate oversight duties. It blamed Enron’s accounting advisor, Arthur Andersen, for failing to provide
+objective accounting advice. You can read a copy of the report at
+http://i.cnn.net/cnn/2002/LAW/02/02/enron.report/powers.report.pdf.
+On December 2, 2001, Enron filed for bankruptcy. At the time, it was the largest
+bankruptcy ever. In January 2002, Enron removed its stock from the New York Stock
+Exchange (NYSE). 8
+The fallout from the Enron case was enormous. Employees who had invested
+their retirement savings in Enron stock lost $1.3 billion. 9 The accounting firm Arthur
+Andersen, Enron’s auditor, closed down. The U.S. government prosecuted many of
+Enron’s top executives for their involvement in its business dealings. Some of these
+prosecutions were difficult because it was hard to determine which executives were
+involved in the fraud, and which executives were not. The complexity of Enron’s
+financial dealings contributed to this difficulty.
+CFO Andrew Fastow entered into a plea agreement with the U.S. government.
+He agreed to testify against Jeffrey Skilling and Kenneth Lay in exchange for a
+sentence of no more than 10 years in prison. In September 2006, a federal court
+sentenced him to 6 years in prison. He also paid more than $30 million in restitution.
+Fastow was released from prison in December 2011.
+Enron founder and CEO Kenneth Lay was convicted in May 2006 for fraud and
+conspiracy. He died of a heart attack in July 2006. The court vacated his conviction
+after his death because he died before he could appeal.
+Former CEO Jeffrey Skilling was convicted in 2006 on federal fraud charges. A
+federal court sentenced him to 24 years in prison. He appealed his conviction to the
+U.S. Supreme Court, which heard oral arguments in March 2010. On June 24, 2010,
+the U.S. Supreme Court ruled that the government had improperly applied a law
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.used to convict Skilling and sent the case back to a lower court. In June 2013,
+Skilling was sentenced to 14 years in prison. He was released from jail in 2019. 10
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Why Is Accurate Financial Reporting
+Important?
+Enron was one of many large corporate scandals in the early 2000s that shook
+investor confidence in the U.S. economy. Because of the scope of the fraud and the
+damage to Enron investors, the U.S. Congress held numerous hearings and
+committee meetings related to the aftermath of the scandal. 11 Enron significantly
+misstated its financial condition in the financial statements that it filed with the SEC,
+leading its investors to lose money because of these fraudulent financial statements.
+The Enron scandal showed why accurate financial information is important.
+Enron was able to sustain itself for at least 5 years because of inaccurate financial
+reporting. During this period, financial analysts continued to recommend its stock as
+a good investment. The public and Enron employees invested in it. However, these
+people had significant losses when Enron’s troubles became public and the
+company finally declared bankruptcy. Enron duped its investors. By the time
+everyone knew the truth, it was too late to recover investment losses. Investors thus
+lost confidence in large public companies.
+The financial statements that a company files with the SEC are among the main
+sources of information that investors use to research that company. These
+documents help investors determine the true financial condition of a company. After
+the Enron scandal, the SEC required more information to be reported on these
+forms. It also required that the accuracy of these forms be certified in several
+different ways.
+Public companies are required to file several financial disclosure statements with
+the SEC. These forms help investors understand the financial stability of a company.
+The most commonly filed forms are:
+Form 10-K—Annual report
+Form 10-Q—Quarterly report
+Form 8-K—Current report
+A company uses Form 10-K to file its annual report. Federal law requires that
+publicly traded companies submit these reports each year. Depending on their size,
+companies must file this report within 60 to 90 days after the end of their fiscal year.
+The larger a company is, the faster it has to file its report.
+Form 10-K is a very detailed disclosure of a company’s financial condition. A
+company must fully describe its business in its 10-K disclosure, explain how it is
+organized and how it operates, and provide its financial statements. These
+statements include balance sheets, statements of income and cash flows, and
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.statements of shareholder equity. An independent auditor must audit the company’s
+financial statements, and the auditor’s report must be included in the Form 10-K
+filing. In addition, the CEO and CFO of a company, as well as the majority of the
+company’s board of directors, must sign the company’s Form 10-K.
+Form 10-Q is a company’s quarterly report, which is required by federal law.
+Companies must file these reports after the end of each of their first three quarters in
+a fiscal year. These reports are usually less detailed than the end-of-the year 10-K
+filing. Depending on their size, companies must file this report within 40 to 45 days
+after the end of each fiscal quarter.
+Companies must file Form 8-K if they experience a major event that could affect
+their financial condition, because shareholders and investors should know about
+these events. Companies must file a Form 8-K with the SEC within 4 days of a major
+event. 12 This period is shortened in some instances. For example, a company must
+file Form 8-K with the SEC immediately if it becomes aware of insider trading
+activities.
+FYI
+A company’s two main financial documents are its balance sheet and profit and loss statement. The
+balance sheet provides a summary of the company’s financial condition at a certain period. This is
+commonly prepared on a monthly basis. A profit and loss statement is used to determine whether a
+company made a profit during a certain period.
+General events that trigger a Form 8-K disclosure requirement include:
+Filing for bankruptcy
+Selling off significant assets
+Acquiring another company
+Getting a loan
+Board member resignation
+Board member elections
+Any changes to board governance documents
+People need accurate financial information so that they can invest wisely and make
+money. Therefore, the SEC recommends that potential investors carefully review a
+company’s prospectus and financial reports. You can read the SEC’s list of
+information that investors should review before investing at http://www.investor.gov.
+The benefit of reviewing information from several different sources is that an investor
+can get a better picture of a company’s financial condition.
+It can be very hard for investors to detect fraud, as was the case in the Enron
+scandal. Therefore, the SEC recommends that investors look for potential red flags
+as they review a company’s financial condition. Red flags include companies that
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.have high-value assets, but low revenues. It also includes odd items listed in the
+footnotes of the company’s financial statements. Both of these red flags were
+present in the Enron scandal.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.The Sarbanes-Oxley Act of 2002
+Congress passed the Public Company Accounting Reform and Investor Protection
+Act in 2002. 13 More commonly known as the Sarbanes-Oxley Act of 2002, it is called
+SOX or Sarbox in many resources. The Act was named after its sponsors, Senator
+Paul Sarbanes of Maryland and Representative Michael Oxley of Ohio. It was
+passed in response to corporate scandals such as Enron, WorldCom, and Adelphia.
+SOX proposed extensive changes to the Securities Act of 1933 and the Securities
+Exchange Act of 1934.
+SOX moved through both the U.S. House of Representatives and Senate at a
+quick pace. It was originally introduced in the U.S. House of Representatives in
+February 2002, just months after the Enron scandal became public. On July 25,
+2002, both the House and Senate voted on the final version of SOX. President
+George W. Bush then signed SOX into law on July 30, 2002. As he signed it, he
+called SOX “the most far-reaching reforms of American business practices since the
+time of Franklin Delano Roosevelt.” 14
+Purpose and Scope
+Congress hoped that SOX reforms would prevent another Enron scandal. The main
+goal of SOX was to protect shareholders and investors from financial fraud. SOX
+increased corporate disclosure requirements and created strict penalties for
+violations of its provisions. SOX has 11 different titles. They are:
+NOTE
+A company uses a prospectus to describe the securities that it offers for sale. The prospectus describes
+the company’s business plan.
+Public Company Accounting Oversight Board (Title I)—Establishes the Public
+Company Accounting Oversight Board (PCAOB). The PCAOB oversees the firms
+that audit public companies.
+Auditor Independence (Title II)—Forbids auditors from providing some types of
+non-audit services to their clients.
+Corporate Responsibility (Title III)—Requires corporations to create audit
+committees on their board of directors. The audit committee is responsible for
+hiring the corporation’s outside auditors.
+Enhanced Financial Disclosures (Title IV)—Enhances the amount of
+information that public companies must provide on their SEC filings. This section
+requires companies to report on internal controls that affect their financial reports.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Analyst Conflicts of Interest (Title V)—Establishes rules to make sure that
+securities analysts can give independent opinions about a public company’s stock
+risk.
+Commission Resources and Authority (Title VI)—Gives the SEC authority to
+discipline investment firms for unprofessional conduct. This section also gives the
+SEC additional funding to support its programs.
+Studies and Reports (Title VII)—Requires the SEC to review public accounting
+firms. The SEC must do this at least every 3 years. This section also requires the
+SEC to issue reports about how the securities market operates.
+Corporate and Criminal Fraud Accountability (Title VIII)—Imposes document
+retention requirements on companies and auditors. It protects whistleblowers, and
+also bans retaliation against employees who participate in fraud investigations.
+This section also imposes criminal penalties for violating SOX.
+White-Collar Crime Penalty Enhancements (Title IX)—Requires CEOs and
+CFOs to certify that the company’s financial reports fairly represent its financial
+condition. It creates criminal penalties for signing fraudulent statements.
+Corporate Tax Returns (Title X)—Is a statement from Congress that strongly
+suggests that a CEO sign the federal income tax return of a corporation.
+Corporate Fraud and Accountability (Title XI)—Establishes criminal liability for
+certain types of fraud committed by corporate officers. It also increases penalties
+for some types of corporate crime.
+SOX supplements current federal securities laws. It applies to publicly traded
+companies that must register with the SEC. This includes international companies
+that trade stock on U.S. stock exchanges. However, SOX does not apply to privately
+held companies.
+NOTE
+A small public company is a company with less than $75 million of public stock.
+Main Requirements
+SOX is a very detailed act with many provisions. This chapter focuses on the parts of
+the act that have had the most impact on information technology (IT) functions.
+When SOX was first enacted, many companies assumed that it did not have any IT
+components. Congress did not mention IT anywhere within the act.
+This opinion changed as companies began to review their SOX compliance
+requirements. Many SOX provisions require companies to verify the accuracy of
+their financial information. Because IT systems hold many types of financial
+information, companies and auditors quickly realized that these systems were in
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.scope for SOX compliance. That meant that how those systems are used and the
+controls used to safeguard those systems had to be reviewed.
+The relationship between IT and SOX compliance continues to evolve. This
+section reviews the SOX provisions that have an IT impact. First, this section
+reviews the PCAOB, which creates standards that auditors must follow when
+reviewing the activities of public companies. These standards help auditors
+determine the IT controls that they must review. The creation of the PCAOB is one of
+the most notable SOX reforms.
+Second, this section reviews SOX provisions that impact records management
+functions. These provisions have an impact on IT operations because of the vast
+amount of data that is stored electronically. These provisions are important because
+they affect how IT systems are configured.
+Finally, SOX requires the executive management of a company to certify that
+there are controls in place to protect the accuracy of company information. This is
+the area where SOX compliance has caused the biggest challenge for companies
+and IT professionals.
+Public Company Accounting Oversight Board
+Before the creation of SOX, auditors and accountants belonged to a self-regulating
+profession. A profession is self-regulating when it creates and enforces its own rules
+of conduct. Federal and state laws place few oversight requirements on members of
+self-regulating professions.
+An attorney is a common example of a member of a self-regulating profession.
+Attorneys must meet minimum state law requirements to become licensed. After
+that, their professional behavior is largely judged by commissions made up of other
+attorneys who enforce rules of professional conduct. The profession itself
+determines what these rules of professional conduct should be.
+FYI
+Information security professionals belong to a largely self-regulating profession. This is especially true
+when information security professionals obtain certifications that require the certificate holders to follow a
+code of conduct.
+The Enron scandal proved that self-regulation does have some drawbacks.
+Enron’s accounting firm, Arthur Andersen, provided it with accounting, auditing, and
+consulting services. Enron was a large Andersen client that paid Andersen $52
+million for auditing and consulting services in 2001. 15 Even the Powers Report noted
+that there was a lack of critical advice from its auditors at Arthur Andersen in
+reviewing Enron’s publicly filed financial statements. 16 This may have been because
+Arthur Andersen was reluctant to challenge such an important client.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Congress created the PCAOB to provide a layer of government oversight on
+auditing activities. The PCAOB, which oversees the audit of public companies, was
+created in order to ensure that audit reports for public companies are fair and
+independent. Under SOX, the PCAOB has several duties. 17 It must:
+Register accounting firms that prepare audit reports for public companies.
+Establish standards for the preparation of audit reports.
+Conduct inspections of registered public accounting firms.
+Conduct investigations and disciplinary proceedings against registered public
+accounting firms.
+Perform other duties or functions necessary to carry out SOX.
+Enforce SOX compliance.
+Set a budget for the PCAOB, and manage its operations.
+The PCAOB has five members. The SEC selects these members and appoints them
+to staggered terms. The SEC can remove PCAOB members if needed. PCAOB
+members are to be “individuals of integrity and reputation who have a demonstrated
+commitment to the interests of investors and the public.” 18 They must be financially
+literate. This means that they must be able to understand financial statements. Only
+two members of the PCAOB are allowed to be certified public accountants (CPAs);
+the remaining three members cannot. Furthermore, members of the PCAOB are not
+allowed to have any financial interest in an accounting firm. FIGURE 7-1 shows the
+structure of the PCAOB.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.FIGURE 7-1
+PCAOB structure.
+NOTE
+You can learn more about the role of the PCAOB by visiting its webpage at http://pcaobus.org.
+FYI
+The SEC believes that a single set of globally accepted accounting principles will benefit U.S. companies.
+Therefore, it is evaluating whether it should adopt the International Financial Reporting Standards (IFRS),
+created by the International Accounting Standards Board. You can learn about IFRS at
+http://www.ifrs.com/ifrs_faqs.html. The SEC has studied the IFRS extensively and compared them with
+U.S. accounting principles. Although the SEC has not approved IFRS for use by U.S. public companies,
+interest in a global framework for financial reporting remains. 19
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.One of the main functions of the PCAOB is to set standards for how auditors
+review public companies. It has created standards related to auditing, ethics and
+independence, quality control, and attestation, which must be approved by the SEC.
+The PCAOB bases many of its standards on GAAP, the principles established by the
+Financial Accounting Standards Board (FASB). The SEC has recognized GAAP as
+authoritative and requires financial statements to be prepared in accordance with
+GAAP.
+The PCAOB’s Auditing Standard 2201 provides guidance on how an auditor
+performs an audit of a company’s internal controls over financial reporting (ICFR).
+This standard addresses how to audit controls applied to a company’s IT systems
+and processes where those systems and processes impact the production of the
+company’s financial reports. The standard specifies a top-down approach that might
+limit the scope of review of IT systems. The standard also recommends that auditors
+focus their review on areas of the highest risk. In 2019, the PCAOB reported that
+auditors need to be aware of cybersecurity incidents at the companies that they
+audit. This is because the integrity of the data generated by the company’s IT
+systems could be compromised by a cybersecurity incident. If the data generated or
+processed by the IT systems is not accurate, then the company’s financial
+statements could contain errors. 20
+Document Retention
+SOX contains some records retention provisions. It is important to know about them
+because companies store many of their records electronically; in fact, some studies
+estimate that 93 percent of all business documents are created and stored
+electronically. 22 Companies must understand how their IT systems work in order to
+meet SOX retention requirements.
+NOTE
+At the end of 2019 there were over 7,000 U.S. public companies. The market value of their stock was over
+$45 trillion. 21
+SOX requires auditors and public companies to maintain audit papers for 7
+years. 23 Audit papers are documents used in an audit that support the conclusions
+made in an audit report. SOX takes a very broad view of the type of records that
+must be saved. This includes work papers, memoranda, and correspondence. It also
+includes any other records created, sent, or received in connection with the audit.
+SOX also includes electronic records.
+SOX also requires that a public company retain the records and documentation
+that it uses to assess its ICFR. These controls are discussed in the next section.
+Guidance issued by the SEC recognizes that this documentation takes several
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.different forms, as well as electronic data. Companies must permanently retain this
+information.
+Is the PCAOB Constitutional?
+The constitutionality of SOX was challenged soon after it was enacted into law in a case called Free
+Enterprise Fund and Beckstead and Watts v. Public Company Accounting Oversight Board.
+The Free Enterprise Fund and Beckstead and Watts LLP filed the case in 2006. The Free Enterprise Fund is
+a public interest organization, whereas Beckstead and Watts LLP was an accounting firm. The plaintiffs
+argued that SOX is unconstitutional. In particular, they argued that the PCAOB is unconstitutional because its
+creation and operation violate the constitutional separation of powers doctrine.
+The plaintiffs argued that separation of powers is violated because the PCAOB is an executive branch
+agency that the president has virtually no control over. Under SOX, the SEC alone has the power to appoint
+PCAOB members. In addition, PCAOB members can be fired only for cause, and only by the SEC. The
+president, and even the SEC, has little authority to control PCAOB members once they are appointed.
+The plaintiffs argued that it violates the section of the Constitution that gives the president the power to
+appoint and remove officers of the executive branch. They also argued that under the Constitution, Congress
+is not permitted to set up a structure that bypasses the president’s authority.
+The case was filed in the U.S. District Court for the District of Columbia. The District Court granted summary
+judgment for the PCAOB and upheld the constitutionality of SOX. In August 2008, the Circuit Court for the
+D.C. Circuit affirmed the decision of the lower court. The U.S. Supreme Court heard arguments in the case
+on December 7, 2009, and issued its decision in June 2010.
+In its decision, the Court found that the way that the PCAOB is created does indeed violate the separation of
+powers doctrine. Even though the portion of SOX that creates the PCAOB is unconstitutional, however, the
+Court said that SOX is still good law. It also said that the PCAOB could continue to function. The Court’s
+decision means that the SEC can now fire PCAOB members at will (or for any reason at all), instead of just
+for good cause.
+You can view the Supreme Court’s decision on the Free Enterprise case at
+https://www.supremecourt.gov/opinions/09pdf/08-861.pdf.
+In 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act expanded the role of the PCAOB.
+The Act gave the PCAOB additional oversight of the audits of brokers and dealers. It also gave the PCAOB
+the power to conduct inspections, bring enforcement action, and set standards. 24
+FYI
+Many federal and state laws contain records retention requirements. SOX is another law to add to that list.
+Organizations should develop document retention policies to help them track their different obligations.
+The penalties for failing to retain records for the right amount of time can be
+severe. SOX makes it a crime for a person or company to knowingly and willfully
+violate its records retention provisions. A person who violates this provision can face
+fines and serve up to 10 years in prison.
+SOX also makes it a crime for any person to tamper with or destroy any record in
+an attempt to interfere with a federal investigation. 25 Unlike other parts of SOX, this
+provision applies to any organization. Private companies also must follow it. People
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.who violate this section can face fines of up to $10 million, as well as up to 20 years
+in prison.
+Companies must make sure that electronic records are stored properly so that
+they can satisfy SOX retention requirements. They must store the records for the
+right amount of time. They also must make sure that those records are destroyed
+properly when the retention period expires.
+Certification
+SOX requires companies to report accurate financial data to protect their investors
+from harm. To encourage a company to report accurate data, SOX requires its CEO
+and CFO to certify the company’s SEC filings. SOX certification provisions require
+executives to establish, maintain, and review certain types of internal controls for
+their company.
+Disclosure Controls. SOX Section 302 requires CEOs and CFOs to certify a
+company’s SEC reports. The purpose of the certifications is to put executive
+management on notice of the company’s financial condition. The SEC can hold a
+CEO or CFO liable for submitting inaccurate financial reports. It makes sense that
+both the CEO and CFO would have to make these certifications as they are the
+officers who are most knowledgeable about the company’s finances and overall
+condition.
+A certification attests to the truth of certain facts. The SEC requires a certification
+to be included on several different forms, such as a company’s Form 10-Q and Form
+10-K reports. (These certifications do not need to be included on Form 8-K.) Under
+the law, 26 a CEO and CFO each must certify that: 27
+They have reviewed the report.
+The report does not contain untrue or misleading statements about the company.
+The financial statements fairly represent the company’s financial condition.
+The executive is responsible for creating disclosure controls and procedures that
+are designed to bring material information about the company to the executive’s
+attention, and the controls are reviewed 90 days before filing the report.
+The executive has disclosed all significant deficiencies in its internal controls to
+their auditor.
+Whether any significant changes in the internal controls have occurred since they
+were last evaluated.
+The controls required under Section 302, called disclosure controls, are very
+broad. They are the processes and procedures that a company puts in place to
+make sure that it makes timely disclosures to the SEC. They are how management
+stays informed about the company’s operations. These controls must address any
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.change in information that affects company resources. They bring events to the
+executive’s attention so that they can be reported to the SEC.
+Disclosure controls are different from SOX internal controls. Internal controls
+are the processes and procedures that a company uses to provide reasonable
+assurance that its financial reports are reliable. The next section reviews these
+controls. Internal controls address only processes that protect the reliability of
+financial reports, whereas disclosure controls are broader. They include internal
+controls. 28 FIGURE 7-2 shows the relationship between disclosure controls and
+internal controls.
+FIGURE 7-2
+Relationship between disclosure controls and internal controls.
+SOX Section 906 imposes criminal liability for fraudulent certifications. Under this
+section, CEOs and CFOs who knowingly certify fraudulent reports may be fined up
+to $1 million. They also could be imprisoned for up to 10 years. An officer who
+willfully makes a fraudulent certification may be fined up to $5 million and could be
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.imprisoned up to 20 years. 29
+Internal Controls. SOX Section 404 requires a company’s executive management
+to report on the effectiveness of the company’s ICFR. 30 They must make this report
+each year on their Form 10-K filing. Under this section, management must create,
+document, and test ICFR. After management makes its yearly report on its ICFR,
+outside auditors must review the report and verify that the ICFR work. This section
+has caused compliance headaches for IT professionals.
+Under SEC rules, ICFR are processes that provide reasonable assurance that
+financial reports are reliable. 31 ICFR provide management with reasonable
+assurance that:
+Financial reports, records, and data are accurately maintained.
+Transactions are prepared according to GAAP rules and are properly recorded.
+Unauthorized acquisition or use of data or assets that could affect financial
+statements will be prevented or detected in a timely manner.
+SOX does not define reasonable assurance. The SEC and PCAOB recognize that
+reasonable assurance does not mean absolute assurance. 32 However, it is a high
+level of assurance that satisfies management that ICFR are effective. Management
+must be confident that these controls protect financial reporting mechanisms.
+NOTE
+SOX has no specific requirements that cybersecurity risks and incidents must be disclosed. However, the
+SEC has issued guidance that an organization may need to disclose any cybersecurity risks and incidents
+in order to ensure that its other required disclosures are not misleading. 34 For example, it must disclose its
+cybersecurity risks if those risks would make investment in the organization risky.
+The SEC requires that management use evaluation criteria established by
+recognized experts to review the company’s ICFR and help ensure that they are
+effective. The SEC has recognized only one specific framework that meets its
+requirements: the COSO Framework. The Committee of Sponsoring Organizations
+(COSO) of the Treadway Commission first created its “Internal Control—Integrated
+Framework” in 1992. The framework, commonly called the “COSO Framework,” was
+revised in 2013. Many U.S. businesses use this framework to assess their internal
+control systems. 33
+What Is COSO?
+COSO was established in 1985 to identify factors that contributed to fraudulent financial reporting. Five U.S.
+financial organizations sponsored COSO: the American Accounting Association, the American Institute of
+Certified Public Accountants (AICPA), Financial Executives International, the Institute of Internal Auditors
+(IIA), and the Institute of Management Accountants. COSO is a nonprofit organization.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Since 1987, COSO has recognized the need for the creation of ICFR. It released its first guidance on internal
+controls, called the “COSO Internal Control—Integrated Framework,” in 1992. The COSO framework says
+that internal controls are effective when they give the management of a company reasonable assurance that:
+It understands how the entity’s operational objectives are being achieved.
+Its published financial statements are being prepared reliably.
+It is complying with applicable laws and regulations.
+The COSO Framework was updated in 2013 because the business environment has grown more complex
+since the framework was initially issued. One of the primary contributors to this complexity is the use of IT in
+business.
+The COSO Framework has five components that organizations can use to review their IT profile. They are:
+Control environment—This is the organization’s culture. Control environment factors include
+management philosophy and the competence of the organization’s people. The control environment
+sets the foundation for the other components of the framework. With reference to IT, the organization
+should understand how technology is used within the business.
+Risk assessment—This refers to the identification and review of risks that are internal and external to
+the organization. Does the organization understand the risks to its technology environment?
+Control activities—This refers to how policies and procedures are followed throughout the
+organization. Has the organization implemented information security controls to mitigate the risks to its
+technology environment?
+Information and communication—This addresses how an organization communicates information
+internally to its employees, how an organization communicates to external parties, and how information
+systems store and generate data. Does the organization have mechanisms for communicating about
+risks and potential information security events that impact the organization’s systems?
+Monitoring—This refers to how the organization monitors its internal control systems. Does the
+organization monitor its information security controls and update them when needed?
+You can learn more about COSO’s “Internal Control—Integrated Framework” by visiting its website:
+https://www.coso.org/Pages/default.aspx.
+SOX Section 404 compliance is not easy. It is very general about the types of
+ICFR that companies must implement. It does not give a good definition for ICFR
+generally, and it does not address IT controls at all. In 2007, the SEC issued
+additional guidance to help companies assess ICFR during their Section 404 review
+in response to many complaints about the large scope of a Section 404 review.
+Many of these complaints focused on how to address IT controls.
+The SEC stated two broad principles in its guidance:
+Management should assess how its internal controls prevent or detect significant
+deficiencies in financial statements.
+Management should perform a risk-based review of the effectiveness of these
+controls.
+The SEC also said that management must exercise its professional judgment to limit
+the scope of a Section 404 review. It reminded companies that SOX applies to
+internal controls, including IT controls, that affect financial reporting only. 35
+Management must review general IT controls to make sure that IT systems
+operate properly and consistently. The controls must provide management with
+reasonable assurance that IT systems operate properly to protect financial reporting.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.TABLE 7-1 shows how the goals of ICFR match up with information security goals.
+TABLE 7-1 Internal Controls and Information Security Goals
+STEPS TAKEN TO MEET INTERNAL CONTROLS
+INFORMATION SECURITY GOALS
+Financial reports, records, and data are accurately
+maintained. Integrity
+Transactions are prepared according to GAAP rules
+and properly recorded. Integrity, availability
+Unauthorized acquisition or use of data or assets
+that could affect financial statements will be
+prevented or detected in a timely manner. Confidentiality, integrity, availability
+It is clear today that management’s review of an organization’s ICFR must
+include a review of IT controls as well. Although the COSO Framework does not
+specifically address the types of IT controls that an organization should implement, it
+issues guidance on how to address IT risk. Organizations use many approaches to
+evaluate their IT controls. Some organizations follow the Guide to Assessment of IT
+Risk (GAIT) framework. Others use “Control Objectives for Information and Related
+Technology” (COBIT). Both of these frameworks appear to meet the SEC’s
+requirements for a suitable evaluation framework.
+Some companies outsource their IT functions; however, a company cannot
+escape SOX Section 404 liability by outsourcing financial functions. SOX requires
+companies to monitor ICFR for outsourced operations as well. Many companies do
+this by asking their outsourcing companies to provide them with a System and
+Organization Controls (SOC) report.
+NOTE
+SOX does not specify the IT controls that companies need to implement. Instead, companies must
+determine the best controls for their own systems.
+Created by the AICPA, SOC audits review a service organization’s control
+activities related to the services that it provides to its customers. These audits review
+the IT controls on the outsourced service. A SOC audit helps a service organization
+show that it has proper safeguards in place to protect its customer’s data.
+There are three levels of SOC reports:
+SOC 1—Report on Controls at a Service Organization Relevant to User Entities’
+Internal Control Over Financial Reporting. These reports are used by auditors to
+assess the ICFR at one entity that does business with another entity. There are
+two types of SOC 1 reports that can be created. These reports are generally only
+shared between the organizations that are doing business with one another.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.SOC 2— Report on Controls at a Service Organization Relevant to Security,
+Availability, Processing Integrity, Confidentiality, or Privacy. These reports are used
+by an entity to demonstrate to potential customers that it has good information
+security practices. These reports specifically address security, availability,
+processing integrity, confidentiality, and privacy. They also address corporate
+governance and risk management processes. There are two types of SOC 2
+reports that can be created. These reports may be shared with potential
+customers, usually under a confidentiality agreement so the information in the
+report is kept private.
+SOC 3—Trust Services Report for Service Organizations. These reports are
+similar to SOC 2 reports. However, they do not contain the same level of detail
+regarding information system operations. These reports only contain the auditor’s
+assessment of whether or not the outsourced functions meet certain control
+objectives. They do not contain details about those functions. These reports may
+be widely shared with potential customers. 36
+NOTE
+In 2017, the AICPA created the SOC for Cybersecurity. This framework helps an organization assess its
+own cybersecurity risk management program and helps the organization report on the effectiveness of its
+controls for information security.
+Many companies may ask a service provider to share its SOC 2 or SOC 3 report
+before entering into an outsourcing relationship. Many service organizations have
+these reports prepared in advance so that they can respond quickly to a customer
+request.
+Oversight
+The SEC oversees most SOX provisions. The mission of the SEC, which was
+created under the Securities and Exchange Act of 1934, is to protect investors and
+maintain the integrity of the securities industry.
+The SEC has five commissioners, all appointed by the U.S. president, who each
+serve for 5-year terms. No more than three of the commissioners may belong to the
+same political party. The SEC has 11 regional offices in the United States. 37
+SOX gives the SEC specific duties. For example, the SEC is required to
+designate the members of the PCAOB. It is also required to review various
+operations of public companies to make sure that they are following SOX.
+SOX requires the SEC to review a public company’s Form 10-K and Form 10-Q
+reports at least once every 3 years. 38 It must do this to try to detect fraud and
+inaccurate financial statements that could harm the investing public. The SEC has
+discretion in deciding how often to review companies. SOX states the factors that the
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.SEC should consider when deciding to conduct a review. Under SOX, the SEC must
+consider:
+Whether a company has amended its financial reports
+Whether a company’s stock price fluctuates significantly when compared with
+other companies
+How much stock the company has issued
+The difference between a company’s stock price and its earnings
+Whether a company is large and affects a particular sector of the economy
+Any other factor that the SEC considers relevant
+The SEC also enforces SOX compliance. It has the power to investigate and
+sanction public companies that do not comply with SOX.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Compliance and Security Controls
+Assessing ICFR in IT systems can be difficult. IT professionals have several different
+frameworks that they can use for reviewing IT controls, some of which you are
+already familiar with. Many of these frameworks help companies decide which
+controls to implement.
+COBIT
+In 1996, the Information Systems Audit and Control Association (ISACA) released
+the first version of “Control Objectives for Information and Related Technology”
+(COBIT). Several versions of COBIT have been released. Even though ISACA has
+moved away from use of the term control objective in its framework, it has kept the
+popular term COBIT for the name of the framework. The most recent version of
+COBIT was released in 2019. 39
+The COBIT 2019 framework aims to help organizations create value from their IT
+assets. 40 COBIT also provides a framework for the governance and management of
+those assets. It has six key principles:
+Providing stakeholder value
+Adopting a holistic approach
+Understanding that governance is dynamic
+Separating governance from management
+Tailoring governance to the organization’s needs
+Covering the whole organization
+COBIT 2019 does not state specific actions that an organization must take to build
+an IT governance framework. Instead, it provides a list of processes and practices
+that an organization should review. It has 40 governance and management
+objectives. This list provides organizations with a method for making their own
+decisions about technology governance and management. It is technology neutral,
+and also general enough that any type of organization, profit or nonprofit, can use
+the framework.
+Similar to earlier versions, COBIT 2019 refers to the COSO Framework. You can
+learn more about COBIT at http://www.isaca.org.
+GAIT
+The IIA created the GAIT series in January 2007. The IIA first created the GAIT
+methodology to help auditors and companies comply with SOX Section 404, as well
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.as help identify controls where a failure might cause an error in a financial statement.
+GAIT was most recently updated in 2009.
+The GAIT methodology helps auditors and companies scope Section 404
+reviews of IT controls. It realizes that companies must implement ICFR in IT
+systems. Similar to the SEC and PCAOB, GAIT advocates a top-down, risk-based
+approach to review IT controls. GAIT has four main principles:
+A top-down approach should be used to review risks and IT controls.
+The review of risks and IT controls should be limited to financially significant
+systems, applications, or data.
+IT controls and risks exist at various layers in an IT system (application, database,
+operating system, and network infrastructure).
+IT processes should be mitigated by IT control objectives, not individual controls.
+FYI
+The words framework and methodology are often used interchangeably. However, they are actually
+different things. A framework is a loose structure that guides an organization toward a particular goal. A
+framework is intended to be flexible. A methodology, by contrast, is a set of defined principles and
+practices that lead toward a particular goal. A methodology is intended to be inclusive of all tasks needed
+to accomplish a goal. A framework is flexible and can actually embed multiple practices and
+methodologies.
+Similar to COBIT, GAIT does not recommend individual controls. Instead, it specifies
+a series of control objectives. Companies are free to choose the individual controls
+that meet the control objectives. Information security objectives are included in the
+GAIT guidance to the extent that they scope to systems that impact a company’s
+financial reports. The IIA has also issued several practice guides that address
+current topics in IT and information security.
+You can learn more about GAIT at https://na.theiia.org/standards-
+guidance/recommended-guidance/practice-guides/Pages/GAIT-Methodology.aspx.
+ISO/IEC Standards
+The International Organization for Standardization (ISO) and International
+Electrotechnical Commission (IEC) have created two standards that companies can
+use to implement information security controls. The two standards work together:
+One guides information security governance, whereas the other reviews how to
+implement security controls. The standards are:
+ISO/IEC 27001:2013, “Information Technology—Security Techniques—Information
+Security Management Systems—Requirements”
+ISO/IEC 27002:2013, “Information Technology—Security Techniques—Code of
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Practice for Information Security Controls”
+ISO/IEC 27001 provides a framework for creating an information security
+management system. It uses a risk-based approach to review how information
+security is managed within an organization, and reviews the processes that
+management teams must consider to operate, monitor, review, and maintain IT
+systems.
+ISO/IEC 27002 lists information security safeguards. Unlike COBIT and GAIT,
+ISO/IEC 27002 does describe specific controls. It has 14 major sections, with each
+section reviewing a different category of information security controls. The standard
+explains why organizations should use the listed controls. It also explains how to use
+the controls. The 14 sections are:
+Information security policy
+Information security organization
+Human resources security
+Asset management
+Asset control
+Cryptography
+Physical and environmental security
+Operations security
+Communications security
+Information system acquisition, development, and maintenance
+Supplier relationships
+Information security incident management
+Information security business continuity management
+Compliance
+The ISO/IEC standards are specific to information security. Companies can use
+these standards to make sure that their information security practices provide
+reasonable assurance that ICFR are effective. See Table 7-1 for the relationship
+between SOX internal controls and information security goals.
+NIST Computer Security Guidance
+Finally, some organizations turn to the National Institute of Standards and
+Technology (NIST) for information security control guidance. NIST creates
+information security guidance for federal agencies. These agencies must comply
+with Federal Information Security Modernization Act (FISMA).
+NOTE
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.NIST is currently updating SP 800-53 (Rev. 4). As of the writing of this chapter, the final public draft of SP
+800-53 (Rev. 5) had been released for final public comment. The update integrates both information
+security and privacy controls. It is intended to provide a comprehensive approach for safeguarding new
+technologies.
+Many nongovernmental organizations also use NIST publications to guide their
+own information security programs. “NIST Special Publication 800-53 (Rev. 4),
+Security and Privacy Controls for Federal Information Systems and Organizations”
+states the minimum security controls that organizations should use to create an
+effective information security program.
+You can learn more about NIST computer security resources at
+http://csrc.nist.gov/. SOX does not provide public companies with specific advice on
+how to use IT controls. Many organizations use the frameworks reviewed in this
+chapter to guide their SOX Section 404 compliance activities.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.SOX Influence in Other Types of Companies
+With few exceptions, SOX applies only to public companies. However, many
+different types of organizations have been affected by SOX. This is because SOX
+promotes good corporate governance practices. Many of these principles make
+sense for other organizations as well.
+In addition to the certification provisions discussed earlier, SOX governance
+provisions include:
+Independent directors—SOX requires a public company to create an
+independent board of directors. Directors are independent when they do not have
+financial ties to the company. In some cases, the independence rules extend to
+members of the director’s immediate family.
+Audit committee—SOX requires public companies to have an audit committee on
+their board of directors. This committee works with outside auditors to make sure
+that financial reports are accurate.
+Conflicts of interest—SOX requires executives to disclose certain types of
+conflicts of interest
+A private company might implement SOX controls because it hopes to become a
+public company someday. Following SOX principles will make the transition from
+private to public easier. If a private company follows SOX principles, it might be in a
+better position to attract investors, as it will have processes in place that allow
+investors to review the company’s financial condition. Investors will be more likely to
+invest in companies that show financial transparency.
+Nonprofit organizations also have an incentive to follow SOX. Good governance
+in a nonprofit organization is very important. Nonprofits depend on grants from other
+entities to support their operations. They also depend on individual donations.
+People will not contribute to nonprofits that are not managed well. Nonprofits that
+adopt SOX governance principles can prove that they have controls in place to
+properly manage the organization and its finances. A reputation for good governance
+also will encourage more donations.
+In some ways, SOX compliance has become synonymous with good
+governance. Companies that follow SOX practices prove that they have controls in
+place to prevent and detect wrongdoing. This can be important if a company is
+involved in litigation about bad governance practices. A plaintiff’s lawyer will surely
+point out if a board did not follow SOX good governance practices. It will not matter
+whether the company was required by law to follow SOX or not. Because SOX is a
+best practice that many companies follow, the implication that a company did not
+follow SOX can be damaging.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Corporate Privacy Issues
+Corporate information privacy covers several issues. Because companies have a
+number of different kinds of records, they must approach privacy from many angles.
+The three major corporate privacy concerns are:
+Privacy of employee data
+Privacy of customer data
+Privacy of corporate data
+In general, employees have no expectation of privacy in their workplaces. In most
+cases, this means that employers can monitor an employee’s work activities, as well
+as telephone and email conversations. Employers can also monitor employee
+internet access and computer use. In most cases, it is best if employers give their
+employees notice that they are monitoring employees in this way.
+Employers also can monitor employee workspaces and offices. They can use
+closed circuit television (CCTV) or other video tools to do this. Similar to other types
+of monitoring, it is best if the employer gives notice about the monitoring. Although
+the ability to monitor is broad, employers usually cannot monitor locations such as
+bathrooms, locker rooms, and employee lounges. Some courts have held that
+employees do have a reasonable expectation of privacy in these areas.
+NOTE
+A nonprofit organization does not distribute its profits to owners or shareholders. Instead, it puts its profits
+back into the organization to help pursue its goals. Many charities are nonprofit organizations.
+Companies must protect certain types of information belonging to their
+employees. For example, if a company provides an employee health plan, it must
+keep some information private. The Health Insurance Portability and Accountability
+Act (HIPAA) requires companies to protect some information about employee health
+plans. A company with an on-site health clinic must protect employee medical
+records under HIPAA and state laws.
+Companies also must protect customer data. Some companies must protect
+consumer information in special ways. For example, the Gramm-Leach-Bliley Act
+(GLBA) requires companies to protect consumer financial information. Some states
+also have laws that require companies to protect the personally identifiable
+information (PII) of their customers. If the company suffers a security breach that
+compromises PII, then it must inform its customers about the breach. The purpose of
+these laws, called data breach notification laws, is to help protect people from
+identity theft.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Finally, companies have their own internal records to protect. These records may
+contain data about the company’s organization, finances, human resources, and
+legal matters. In general, a company’s directors and officers always have the ability
+to see all company records. In a small company, the owner has this right. They also
+can enter employee offices to review records. They have the ability to do this in the
+regular course of business because they are responsible for the business and its
+successful operation.
+In corporations, the directors of a company have an absolute right to be able to
+inspect the company’s records. Shareholders also have a right to inspect corporate
+records. However, the shareholder’s inspection right is not as broad as a director’s
+right. In most states, shareholders have a right to inspect some records during
+regular business hours. They must make a written request to inspect corporate
+records that must include the shareholders’ reason for wanting to review the records.
+Companies also have records regarding their products and services that they
+must protect. Some of these records might be trade secrets, information about
+company products or services that helps one company compete against another
+company. Trade secrets are a form of intellectual property; therefore, a company
+must protect its trade secret information. If a company properly protects this kind of
+information, it is entitled to legal protection.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.Case Studies and Examples
+Investors can learn about a company’s financial information from many different
+places. One place to learn information is from the SEC’s Electronic Data Gathering
+and Retrieval (EDGAR) database. All public companies that are required to register
+with the SEC file their required reports through EDGAR.
+You can search for a public company’s filings on EDGAR. The URL is
+https://www.sec.gov/edgar/search-and-access. Pick a public company and try to
+search for it on EDGAR. Good companies to search include Microsoft Corp., Apple
+Inc., Starbucks Corp., Zoom Video Communications, and the Walt Disney Company.
+Look at the company’s most recent Form 10-K report. Item 9A is the SOX Section
+404 report on internal controls. What do these sections tell you? What can you learn
+about the company that you have searched? You can learn more about how to read
+these forms at https://www.sec.gov/fast-answers/answersreada10khtm.html.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.CHAPTER SUMMARY
+Congress created the Sarbanes-Oxley Act in response to scandal. It passed
+SOX to help improve investor confidence in publicly traded companies. SOX
+places rules on public companies and other organizations that promote
+trustworthy financial reports. The scope of SOX extends to any public
+company functions or processes that impact financial reporting. The scope of
+SOX within a company is very broad. SOX requires that companies review
+many IT processes to make sure that they are trustworthy.
+The scope of SOX is broad. Its influence extends even to organizations that
+are not required to follow it. For example, private companies and nonprofit
+organizations may choose to follow SOX to show their commitment to good
+governance.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.KEY CONCEPTS AND TERMS
+Disclosure controls
+Dividend
+Form 8-K
+Form 10-K
+Form 10-Q
+Internal controls
+Privately held company
+Public company
+Securities
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.CHAPTER 7 ASSESSMENT
+1. What types of companies must follow all Sarbanes-Oxley Act provisions?
+A.
+B.
+C.
+D.
+E.
+Public
+Private
+Nonprofit
+Governmental
+None of these is correct.
+2. A dividend is a shareholder’s earnings in a company.
+A. True
+B. False
+3. What is the main goal of the Sarbanes-Oxley Act?
+4. How many days after a major event must a company file Form 8-K?
+A.
+B.
+C.
+D.
+E.
+Two
+Three
+Four
+Five
+None of these is correct.
+5. Which corporate scandals led to the creation of the Sarbanes-Oxley Act?
+A.
+B.
+C.
+D.
+E.
+Enron
+WorldCom
+Adelphia
+Tyco
+All of these are correct.
+6. What are internal controls over financial reporting (ICFR)?
+7. How many members of the Public Company Accounting Oversight Board may
+be certified public accountants?
+A.
+B.
+C.
+D.
+Five
+Four
+Three
+Two
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.E. None of these is correct.
+8. Sarbanes-Oxley Act Section 404 tells organizations the types of controls that
+they must implement in their IT systems to protect financial reporting.
+A. True
+B. False
+9. Which framework has the U.S. Securities and Exchange Commission official
+approved as suitable evaluation criteria for internal controls?
+A.
+B.
+C.
+D.
+E.
+COBIT
+COSO
+GAIT
+ISO/IEC
+None of these is correct.
+10. Which Sarbanes-Oxley Act provision causes the most concern for information
+technology professionals?
+A.
+B.
+C.
+D.
+E.
+Section 302
+Section 309
+Section 404
+Section 906
+None of these is correct.
+11. A company’s chief information security officer and chief financial officer must
+sign a Section 302 certification.
+A. True
+B. False
+12. How often must the U.S. Securities and Exchange Commission review a public
+company’s Form 10-K and Form 10-Q reports?
+A.
+B.
+C.
+D.
+E.
+Twice a year
+Every year
+Every other year
+Every 3 years
+Every 5 years
+13. What does an ICFR do?
+14. Under the Sarbanes-Oxley Act, how many years must public companies keep
+audit papers?
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.A.
+B.
+C.
+D.
+E.
+Five
+Six
+Seven
+Eight
+None of these is correct.
+15. A public company must file a Form 10-K at the end of each quarter.
+A. True
+B. False
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.ENDNOTES
+1. Forbes, “America’s Largest Private Companies,” December 2019.
+https://www.forbes.com/largest-private-companies/list/#tab:rank (accessed April
+11, 2020).
+2. CNN, “The Guiltiest Guys in the Room,” July 5, 2006.
+http://money.cnn.com/2006/05/29/news/enron_guiltyest/index.htm (accessed
+April 11, 2020).
+3. Fortune, “The World’s Most Admired Companies,” October 2, 2000.
+http://money.cnn.com/magazines/fortune/fortune_archive/2000/10/02/288448/index.htm
+(accessed April 11, 2020).
+4. Kroger, John, “Enron, Fraud, and Securities Reform,” Colorado Law Review,
+Vol. 76, Issue 1 (2005): 57.
+5. Houston Chronicle, “Jury Hears Ex-Enron CEO Curse in Wall Street Call,”
+February 2, 2006. https://www.chron.com/business/enron/article/Jury-hears-ex-
+Enron-CEO-curse-in-Wall-Street-call-1637608.php (accessed April 11, 2020).
+6. Powers, William C., “Special Investigative Committee of the Board of Directors
+of Enron Corp.,” February 1, 2002.
+http://i.cnn.net/cnn/2002/LAW/02/02/enron.report/powers.report.pdf (accessed
+April 11, 2020).
+7. The New York Times, “An Implosion on Wall Street,” November 29, 2001.
+http://www.nytimes.com/2001/11/29/opinion/an-implosion-on-wall-street.html
+(accessed April 11, 2020).
+8. Houston Business Journal, “Enron Delists Stock as Financial Woes Continue,”
+January 18, 2002.
+http://www.bizjournals.com/houston/stories/2002/01/21/story3.html (accessed
+April 11, 2020).
+9. CNN, “401(k) Investors Sue Enron,” November 26, 2001.
+http://money.cnn.com/2001/11/26/401k/q_retire_enron_re/ (accessed April 11,
+2020).
+10. New York Times, “Jeffrey Skilling, Former Enron Chief, Released After 12 Years
+in Prison,” February 22, 2019.
+https://www.nytimes.com/2019/02/22/business/enron-ceo-skilling-scandal.html
+(accessed April 11, 2020).
+11. Congressional Research Service, “Enron: A Select Chronology of
+Congressional, Corporate, and Government Activities,” March 2003.
+http://www.policyarchive.org/handle/10207/1392 (accessed April 11, 2020).
+12. U.S. Securities and Exchange Commission, “Form 8-K.”
+https://www.sec.gov/fast-answers/answersform8khtm.html (accessed April 11,
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+2020).
+Sarbanes-Oxley Act of 2002, Pub. L. No. 107-204, 116 Stat. 745 (codified as
+amended in scattered sections of U.S. Code Vol. 15).
+The New York Times, “Bush Signs Bill Aimed at Fraud in Corporations,” July 30,
+2002. https://www.nytimes.com/2002/07/31/business/corporate-conduct-the-
+president-bush-signs-bill-aimed-at-fraud-in-corporations.html (accessed April 11,
+2020).
+Time, “Enron: Who’s Accountable?” January 13, 2002.
+http://content.time.com/time/magazine/article/0,9171,1001636,00.html
+(accessed April 11, 2020).
+Powers Report, see note 6, at pp. 24–25.
+U.S. Code Vol. 15, sec. 7211.
+U.S. Code Vol. 15, sec. 7211.
+U.S. Securities and Exchange Commission, “Work Plan for the Consideration of
+Incorporating International Financial Reporting Standards Into the Financial
+Reporting System for U.S. Issuers, Final Report,” July 13, 2012.
+http://webapp01.ey.com.pl/EYP/WEB/eycom_download.nsf/resources/ZRG_Emerging_
+(accessed April 18, 2020). See also CFA Institute, “IFRS: International Financial
+Reporting Standards,” Undated.
+https://www.cfainstitute.org/en/advocacy/issues/international-finance-reporting-
+stds (accessed April 18, 2020).
+Public Company Accounting Oversight Board, Staff Preview of 2018 Inspection
+Observations, May 6, 2019. https://pcaobus.org/Inspections/Documents/Staff-
+Preview-2018-Inspection-Observations.pdf (accessed April 18, 2020).
+Public Company Accounting Oversight Board, “2019 PCAOB Annual Report,”
+March 24, 2020.
+https://pcaobus.org/About/Administration/Documents/Annual%20Reports/2019-
+PCAOB-Annual-Report.pdf (accessed April 18, 2020).
+Dlabay, L., Burrow, J. L., Business Finance. 2007, Cengage Learning, p. 339.
+U.S. Code Vol. 17, sec. 210.2-06.
+Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Pub.
+Law. No. 111-203; 124 Stat. 1376-2223, codified as amended in scattered
+sections of U.S. Code Vol. 15 (2012).
+U.S. Code Vol. 18, sec. 1519.
+U.S. Code Vol. 15, sec. 7241.
+U.S. Code Vol. 18, sec. 1519.
+U.S. Securities and Exchange Commission, “Final Rule: Management’s Report
+on Internal Control Over Financial Reporting and Certification of Disclosure in
+Exchange Act Periodic Reports,” June 5, 2003.
+http://www.sec.gov/rules/final/33-8238.htm#iib3a (accessed April 26, 2020).
+U.S. Code Vol. 18, sec. 1350.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.30. U.S. Code Vol. 15, sec. 7262.
+31. U.S. Securities and Exchange Commission, “Final Rule: Management’s Report
+on Internal Control Over Financial Reporting and Certification of Disclosure in
+Exchange Act Periodic Reports,” June 5, 2003.
+http://www.sec.gov/rules/final/33-8238.htm#iib3a (accessed April 26, 2020).
+32. U.S. Securities and Exchange Commission, “Staff Statement on Management’s
+Report on Internal Control Over Financial Reporting,” May 16, 2005.
+http://www.sec.gov/info/accountants/stafficreporting.htm (accessed April 26,
+2020). See also Public Company Accounting Oversight Board, “AU Section 230:
+Due Professional Care in the Performance of Work,” June 12, 2007
+amendments. http://pcaobus.org/Standards/Auditing/Pages/AU230.aspx#ps-
+pcaob_8b4d2389-b14e-4358-a4b2-93e6360eb378 (accessed April 26, 2020).
+33. Committee of Sponsoring Organizations of the Treadway Commission,
+“Guidance on Internal Control,” No date. http://www.coso.org/IC.htm (accessed
+on April 26, 2020).
+34. U.S. Securities and Exchange Commission, “CF Disclosure Guidance: Topic No.
+2, Cybersecurity,” October 13, 2011.
+https://www.sec.gov/divisions/corpfin/guidance/cfguidance-topic2.htm (accessed
+April 26, 2020).
+35. U.S. Securities and Exchange Commission, “Commission Guidance Regarding
+Management’s Report on Internal Controls Over Financial Reporting,” Code of
+Federal Regulations, Title 17, sec. 241. Available at:
+https://www.sec.gov/rules/interp/2007/33-8810.pdf (accessed April 26, 2020).
+36. American Institute of Certified Public Accountants, “System and Organization
+Controls: SOC Suite of Services,” No date.
+https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome.html
+(accessed April 26, 2020).
+37. U.S. Securities and Exchange Commission, “About the SEC,” November 22,
+2016. https://www.sec.gov/about.shtml (accessed April 26, 2020).
+38. U.S. Code Vol. 15, sec. 7266.
+39. ISACA, “COBIT 5: A Business Framework for the Governance and Management
+of Enterprise IT,” 2012. http://www.isaca.org/COBIT/Pages/COBIT-5-
+Framework-product-page.aspx (accessed December 30, 2013).
+40. ISACA, “COBIT 2019: Introduction and Methodology,” 2018. Available at:
+https://www.isaca.org/resources.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:46:17.

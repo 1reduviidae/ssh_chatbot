@@ -1,0 +1,1129 @@
+© mirjanajovic/DigitalVision Vectors/Getty Images
+CHAPTER
+5
+Security and Privacy of Information
+Belonging to Children and in
+Educational Records
+EVERAL LAWS ARE in place in the United States to protect children when they
+are online. The Children’s Online Privacy Protection Act (COPPA) governs how
+information from children is to be collected and used. If you host a website that
+collects information from children, COPPA applies to you. The Children’s Internet
+Protection Act (CIPA) protects minors from obscene or objectionable material on
+school or library computers. These computers must implement technology to filter
+objectionable content. The Family Educational Rights and Privacy Act (FERPA)
+protects the privacy rights of students and their educational records. Students and
+parents have the right to review these records. Additionally, schools cannot release
+records without the written consent of a student or parent.
+S
+This chapter begins with a discussion of children and the internet, and the unique
+challenges website operators face in protecting children. The chapter then provides
+details about COPPA, CIPA, and FERPA.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Chapter 5 Topics
+This chapter covers the following topics and concepts:
+What challenges exist in protecting children on the internet
+What the Children’s Online Privacy Protection Act (COPPA) is
+What the Children’s Internet Protection Act (CIPA) is
+What the Family Educational Rights and Privacy Act (FERPA) is
+Chapter 5 Goals
+When you complete this chapter, you will be able to:
+List some of the challenges with protecting children on the internet
+Identify the purpose and scope of COPPA, and describe its main
+requirements and oversight responsibilities
+Identify the purpose and scope of CIPA, and describe its main
+requirements and oversight responsibilities
+Identify the purpose and scope of FERPA, and describe its main
+requirements and oversight responsibilities
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Challenges in Protecting Children on the
+Internet
+U.S. children ages 8 to 18 spend over 7 hours a day using electronic media. This
+includes television, music, computer use, and video game use. 1 This also means
+that children may be exposed to age-inappropriate content, online marketing, online
+harassment and bullying, and inappropriate data collection activities. Parents,
+schools, and website providers all have different roles to play in protecting children
+when they are online. It is not unusual to hear about cases where website operators
+run afoul of the laws that attempt to protect children:
+In 2019, a social media company paid $170 million to settle charges with the
+Federal Trade Commission (FTC) and New York attorney general. The FTC
+alleged that the company violated the Children’s Online Privacy Protection Act
+(COPPA). The company collected persistent identifiers known as cookies from
+children before getting parental permission. The penalty was the largest ever
+imposed in a COPPA case. 2
+In 2018, the FTC alleged that a company that provided internet-connected toys
+violated COPPA. It was the first time the FTC took action in a case involving
+privacy and internet-connected toys. The FTC said that the toy company collected
+the personal information of hundreds of thousands of children through a mobile
+application without notifying parents or obtaining their consent. The company also
+failed to use reasonable and appropriate data security measures to protect
+personal information it collected. Both activities violated COPPA.
+A student sued a local school board alleging that the school had violated the
+student’s First Amendment rights. The lawsuit alleged that the school’s internet
+filtering software blocked too much legitimate content. In this case, computers in
+the school library blocked access to websites that promoted gay rights, but
+allowed access to websites that opposed gay rights. The student did not challenge
+that federal law required the school to use filtering software to block obscene
+material. In 2012, a federal court judge found that the school’s blocking software
+configuration was unconstitutional. It ordered the school to reconfigure its software
+to make sure that it did not discriminate against different viewpoints. 3
+Although most people agree that children should be protected when they are online,
+they do not always agree on how that should be accomplished. For example, some
+people suggest that a parent should monitor a child’s internet access and decide if
+the child’s internet activities are acceptable. Others suggest that laws should be in
+place to protect the child even if a parent is not monitoring the child’s internet use.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.As you will see in this chapter, several laws have been enacted to protect children.
+Most of these laws are directed at the website operators who provide online content
+to children.
+However, even when enacting laws, challenges still exist. These include:
+Identification of children—How can website operators distinguish between
+adults and children online?
+First Amendment and censorship—When does censoring certain types of
+content violate the First Amendment?
+Defining objectionable content—Where is the dividing line between material
+that is merely inappropriate for children and that which is truly objectionable?
+Identification of Children
+In 1993, the New Yorker published the now-famous cartoon by Peter Steiner with the
+caption, “On the Internet, nobody knows you’re a dog.” It is just as hard to separate
+children from adults on the internet. To protect children, you must be able to identify
+them. Although you can require identification from restaurant customers to ensure
+they are old enough to purchase alcohol, it is not easy to require identification when
+users access a website. Most users can easily remain anonymous when they are
+online. This creates a problem for website operators. Most of the laws that aim to
+protect children while they are online require website operators to be able to
+distinguish children from adults.
+NOTE
+The Entertainment Software Rating Board (ESRB) is a self-regulating nonprofit that assigns independent
+ratings to computer and video game content in the United States. This includes games available online.
+The ratings help parents select appropriate games and other content for their children. Website operators
+can voluntarily rate their websites according to ESRB so that parental controls work properly. Visit
+http://www.esrb.org to learn more.
+Website operators can use several methods to distinguish children from adults.
+These include:
+Requiring user input—A website can require users to identify if they are children
+or adults. For example, users can select a check box indicating they are over a
+certain age. They can be required to enter an age or a birth date. This is not a
+foolproof method, however, because people can simply lie about their age. If a
+child accesses an age-restricted website under false pretenses, the website
+operator can still be liable for providing objectionable content to a child.
+Requiring payment—If a website has material that should be restricted from
+children, it can require a payment to access the site. Payment can be made using
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.a credit card, a PayPal account, or another method that a child is unlikely to be
+able to use. The payment may be a nominal fee, such as 99 cents. It could also be
+a larger fee designed to generate revenue. A payment requirement can be
+effective because children generally do not have access to means of payment.
+Using parental controls—Some operating systems include parental controls. So
+do many applications. Parental controls allow a parent to restrict their children’s
+access to objectionable material based on different ratings.
+Requiring parental consent—If a child wishes to access a particular website,
+that site can block the child’s access until a parent provides permission. This
+means that the website operator implements controls to verify that a parent is
+providing consent to access the website.
+First Amendment and Censorship
+The First Amendment, which is a part of the Bill of Rights, grants certain rights
+related to freedom of speech. It also protects freedom of the press and the free
+exercise of religion. First Amendment issues come into play on the internet in many
+different ways:
+Individuals online have a First Amendment right to view lawful content, including
+content that others might find troubling.
+Website operators and other content creators have a First Amendment right to
+post lawful content, including content that others might find troubling.
+The U.S. Supreme Court has said that the right to freedom of speech applies to the
+internet. 4 This means that the government cannot restrict an adult’s access to
+content on the internet. However, the government can restrict a child’s access to
+harmful online materials if the government has a compelling reason to do so.
+When the government restricts a child’s access to objectionable online materials,
+other issues are raised. Does it violate a website operator’s rights to force it to
+censor material because a child might view it? If individuals are required to identify
+themselves before they can use a website, such as proving that they are not
+children, does that restrict their free speech? Does it restrict free speech if
+individuals are required to identify themselves by name in comments on a website?
+If libraries are required to use filters on computers to keep children from viewing
+objectionable content, does it restrict the free speech rights of adults who also use
+those same computers?
+Many of these issues continue to evolve within the context of the laws discussed
+in this chapter.
+Defining Obscenity
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.The laws discussed in this chapter protect the privacy of children. They also protect
+children from harmful content. For the most part, this harmful content is content that
+would be considered obscene. Most people agree that children should not see
+obscene material. However, it is difficult to legally define what obscene material is.
+I Know It When I See It
+A 1964 U.S. Supreme Court case shows the difficulty of defining obscenity. 5 In Jacobellis v. Ohio, a movie
+theater manager was convicted under state law of illegally possessing and exhibiting an obscene film. The
+state supreme court upheld the conviction. However, the U.S. Supreme Court later reversed that decision.
+In this case, the Court agreed that the First Amendment does not protect pornography or obscenity. It
+disagreed about whether the motion picture was obscene. In the Court’s decision, Justice Potter Stewart
+expressed the difficulty of defining what is obscenity and pornography. He wrote, “But I know it when I see it,
+and the motion picture involved with this case is not that.”
+This case was decided over 50 years ago. Yet the challenge of identifying obscenity still exists today.
+The U.S. Supreme Court addressed this in 1973. In Miller v. California the Court
+said that for material to be identified as “obscene,” it must meet three conditions. The
+conditions are based on the average person applying contemporary community
+standards to a review of the material. The three conditions are that the material:
+Appeals predominantly to prurient interests—prurient indicates a morbid,
+degrading, and unhealthy interest in sex
+Depicts or describes sexual conduct in a patently offensive way
+Lacks serious literary, artistic, political, or scientific value 6
+It is not always easy to apply this definition. What one person considers obscene,
+another person may consider healthy. Material that one person finds informative may
+be deemed tasteless by another. Material that is offensive to one person may be
+viewed as valuable by another. How a person views material is often influenced by
+societal, family, community, and religious values.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Children’s Online Privacy Protection Act
+The COPPA 7 passed in November 1998 and first went into effect in April 2000.
+COPPA governs how websites collect information from children under the age of 13.
+The FTC oversees COPPA compliance and has the power to make rules for COPPA
+compliance. The FTC rule governing COPPA, called the COPPA Rule, was first
+drafted in 1999 and most recently revised in 2013. In 2019 the FTC began the
+process of revising the COPPA Rule because of the fast pace of technology change.
+However, it may take years before an updated rule is finalized and released.
+NOTE
+The three conditions for defining obscenity are known as the Miller test.
+Websites must follow specific rules under COPPA to collect and use information
+from children. There are several important definitions in the COPPA Rule:
+Child—Any person under the age of 13
+Parent—The legal guardian of a child
+Operator—A website operator, or operator of an online service, who collects or
+maintains personal information about users
+Purpose of COPPA
+The primary purpose of COPPA is to protect children’s privacy on the internet, as
+well as protect them from age-inappropriate content and online marketing. Websites
+must follow specific rules if they collect or use a child’s personal information. For
+example, they must obtain a parent’s consent before doing so. They must also post
+a privacy policy explaining their practices.
+Personal information includes:
+A child’s first and last name
+A child’s email address or other online contact information such as an Instant
+Messaging username or voice over Internet Protocol (VOIP) identifier
+A child’s screen name or username
+A child’s physical address, such as his or her home address
+A child’s telephone number
+A child’s Social Security number (SSN)
+Photographs, video, or audio files that contain a child’s image or voice
+Geolocation data that identifies a physical address
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Any persistent identifier, such as an internet cookie or Internet Protocol (IP)
+address, that is used to recognize a user over time and across different websites
+Any other information concerning a child or the child’s parents that a website
+operator collects from a child and combines with any other data about a child 8
+Any personal information that is collected must be protected. This means that the
+website operator must protect the confidentiality, security, and integrity of this data.
+Website operators must ensure the information is not made publicly available to
+others. This includes making sure it is not displayed on a home page of a website,
+on a message board, or in a chatroom. The law allows website operators to share
+this kind of data only for specific reasons. However, when website operators share
+this information, they must share it only with third parties who can properly protect it. 9
+NOTE
+COPPA is not the same as the Child Online Protection Act (COPA). COPA was enacted in 1998 to protect
+minors from access to harmful material on the internet. However, courts ruled that COPA violated free
+speech and the law never went into effect. The Children’s Internet Protection Act (CIPA) is similar to what
+COPA attempted to accomplish and is discussed later in this chapter.
+Scope of the Regulation
+COPPA applies to anyone operating online services that collect or use information
+about children under the age of 13. This includes situations where the website
+operator directly collects the information, as well as situations where the website
+operator lets third parties collect the information. Even general-audience websites
+might have to follow the COPPA Rule. If operators of general-audience sites know
+they are collecting data from children, then they must comply with COPPA. For
+example, an operator might know that its site is collecting data from children if it asks
+users to share their birth date. An operator that collects demographic data such as
+school attendance and grade completion might also know that children are using its
+website. Website operators are also required to protect the security of any
+information that they do properly collect from children.
+The definition of website or online service is broad. In addition to websites, it also
+includes:
+Mobile apps
+Internet gaming platforms
+Advertising networks
+Connected toys and other internet-connected devices
+Internet-enabled location services 10
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Main Requirements
+COPPA has two main rules that websites must follow in order to comply with the
+rule. Operators must:
+Post a privacy policy
+Get verifiable parental consent before collecting information from children
+Privacy Policy
+Under COPPA, websites must post a privacy policy. 11 The privacy policy states the
+kind of information the site collects about children. It also states how the site will use
+the information. The COPPA Rule tells operators the terms that must be included in
+the privacy policy.
+COPPA requires that a website privacy policy should be easily visible and
+accessible. The rule requires that a link to the privacy policy should be included on
+the home page of the website. The rule also requires that the link should be posted
+on every area of the website where a child’s personal information is collected. 12 A
+COPPA-compliant privacy policy must be accessible from a clear and prominent link.
+This means the link needs to stand out and be noticeable to users of the website. A
+website designer can achieve this in a variety of ways. For example, the designer
+can use different type sizes, fonts, colors, or contrasting backgrounds to highlight the
+link. In addition, the privacy policy must be clearly labeled to indicate it is a privacy
+policy. The most common label is “Privacy Policy.” Other examples of clear labels
+are “Privacy Statement” and “Information Practices Statement.”
+NOTE
+COPPA does not specifically use the phrase “privacy policy.” It requires website operators to provide a
+notice on their websites that identifies the collected information. However, the FTC’s COPPA Rule calls this
+notice a “privacy policy.”
+Privacy Policy Content
+The privacy policy needs to contain specific information to be COPPA-compliant. For
+example, it must be clearly written and easy to read. The format is not as important
+as the content. At a minimum, the policy must contain:
+Operator contact information—This includes the name, mailing address,
+telephone number, and email address of all operators collecting or using the
+information collected on the website. If several operators are collecting
+information, the policy can list the contact details for only one operator under two
+conditions. First, the names of all operators must be listed in the privacy policy or
+in a link accessible from that policy. Second, the listed operator must respond to
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.all questions about the policy. It also must answer questions about how data is
+collected and used on the site.
+Notice of what information is collected—The policy must be specific. A generic
+term such as “contact information” is not acceptable. Instead, the policy should
+specify the child’s name, address, telephone number, gender, age, and email
+address.
+Notice of how information is collected—A website can collect information
+actively or passively. A user entering information into a form is active collection. In
+contrast, a web cookie that collects personal information is passive collection. The
+privacy policy must clearly state how information is collected.
+Notice of how the information will be used—Websites must state how the
+information will be used. It must be specific. For example, a website could collect
+email addresses for newsletter subscriptions. It could collect mailing addresses for
+prizes. It could also collect the information for sales and marketing purposes. Each
+use must be clearly stated.
+Notice of whether the information is disclosed to third parties—The website
+must also state whether collected information is shared with a third party. These
+are any entities that are not the operator of the website. Third parties also include
+entities that do not provide internal support for the website. Parents may refuse to
+share the collected data with third parties.
+Assurance that participation is not conditioned on data collection—That is, a
+website cannot require children to submit contact details in order to be allowed to
+use the site. Websites are not allowed to collect more information than necessary
+for a child to participate in an activity. This prevents the website from collecting too
+much information about a child. For example, a website may collect an email
+address for an online newsletter subscription. Collecting a physical mailing
+address for an online newsletter is not reasonable. The privacy policy should
+clearly state that a website will not condition participation on information collection.
+Parental rights—The policy must state that a parent can review information
+collected on his or her child. Parents can also tell the website to delete any data it
+has collected, as well as refuse further data collection. They can also refuse to
+allow the website to share collected information with third parties.
+Gaining Parental Consent
+COPPA has specific rules about getting parental consent. This consent is required if
+a website wants to use and collect data from a child. Website operators must take
+reasonable steps to make sure that a parent receives direct notice of the operator’s
+data collection practices. This notice must include:
+That the operator has collected the parent’s online contact information from the
+child in order to obtain parental consent
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.That the parent’s consent is required to collect, use, or disclose the child’s
+information. The notice must state that the operator will not collect, use, or
+disclose the child’s information without parental consent
+The specific items of data that the website operator wants to collect from the child
+A link to the website privacy policy
+How the parent can give verifiable consent to the collection, use, and disclosure of
+the child’s information
+That if the parent does not provide consent within a reasonable time, the operator
+will delete the parent’s online contact information from its records 13
+Under COPPA, parental consent must be verifiable. Only a parent can give consent.
+A website operator must verify the identity of the parents that it contacts. This
+becomes especially important if the parent requests to see the information held
+about his or her child. Website operators must have measures in place to prevent
+the information from being released to the wrong party. 14
+Parents have other rights under the COPPA Rule. The website must re-notify
+parents whenever it changes its data collection and use procedures. Parents must
+be allowed to review information collected from their children. They also must be
+allowed to revoke their consent. If a parent revokes his or her consent, website
+operators must stop collecting, using, or disclosing that data immediately. Parents
+also can request that a website operator delete data held on their children. Website
+operators must make parents aware of how to exercise these additional rights.
+NOTE
+There are many websites directed toward children. Next time you visit one of them, see if you can find the
+website’s privacy policy. Is it easy to find? Does it contain the terms discussed in this section?
+Consent is not required at all in some instances. Websites do not need parental
+consent if they are collecting an email address to respond to a one-time request from
+a child. Nor do they need consent to provide the initial notice to the parent. Consent
+is also not required to collect a child’s name and online contact information to protect
+the security of the website.
+In some instances, upfront consent is not required. In these special
+circumstances, the website must still later tell parents that it collected data. For
+example, a website can collect a child’s name, parent’s name, and online contact
+information in order to protect a child’s safety. If a website collects this information, it
+must later tell parents that it collected the information and it must not use this
+information for any other purpose. 15
+Verifying Parental Consent
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.A website operator can use one of several methods to verify a person is a parent of a child and get consent
+for data collection. These include:
+Sending signed printed forms—These may be sent via mail, fax, or email. An electronic scan of a
+signed consent form is permissible.
+Provide government-issued identification—Parents can provide copies of government-issued ID that
+can then be checked against a database. In this situation, website operators must delete the
+identification record once the verification process is completed.
+Using credit cards or other online payment forms—The credit card or online payment mechanism
+can verify details about the parent.
+Using toll-free numbers—Parents can call and provide details to verify their identities.
+Using video conference—Parents can connect via video conference to trained personnel in order to
+provide details to verify their identities.
+Answering knowledge-based questions—Parents can answer a series of challenge questions that
+would be difficult for a child to answer.
+Some operators suggest that these methods are too costly to be practical. Therefore, many websites try to
+avoid the law. They do not collect information on children, and their privacy statement reflects this. Users are
+required to indicate they are at least 13 years old before information is collected. They might do this by
+entering their age on a website form or checking a box indicating they are at least 13 years old. However, it is
+possible for children to easily overcome these types of controls.
+Oversight
+The FTC provides oversight for COPPA. The FTC investigates complaints of
+websites that violate COPPA. It can also bring enforcement actions and impose civil
+penalties for COPPA violations. The FTC provides many tools to help website
+operators comply with the law.
+NOTE
+The FTC summarizes the COPPA Rule at http://www.business.ftc.gov/privacy-and-security/childrens-
+privacy.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Children’s Internet Protection Act
+The CIPA, 16 which was passed in 2000, requires schools and libraries that receive
+funding from the U.S. government for internet access to filter offensive and sexually
+explicit online content. The goal of the program is to limit children’s access to
+offensive and age-inappropriate content on the internet. Under CIPA, a minor is
+anyone under the age of 17. 17 These schools and libraries had until July 1, 2004, to
+first comply with CIPA.
+NOTE
+Note the differences in ages between CIPA and COPPA. COPPA defines a child as anyone under the age
+of 13. CIPA defines a minor as anyone under the age of 17.
+CIPA was quickly challenged. The American Library Association and the
+American Civil Liberties Union sued the U.S. government, claiming CIPA violated the
+free speech rights of adults. They also claimed the law was so broad that it could
+prevent minors from getting information about topics such as breast cancer. In 2002,
+the U.S. District Court for the Eastern District of Pennsylvania agreed that CIPA
+violated First Amendment rights and that the government could not enforce CIPA.
+The U.S. government appealed that decision. 18
+NOTE
+A visual depiction is any picture, image, or graphic image.
+The suit went to the U.S. Supreme Court. In United States et al. v. American
+Library Association, Inc. et al. in 2003, the U.S. Supreme Court overturned the
+District Court ruling and upheld the law. The Supreme Court said that the law was
+constitutional because it was conditional. That is, only schools and libraries that
+chose to receive federal funding to subsidize their internet access costs were
+required to follow the law. If it wanted to, a school or library could choose not to
+accept the funding. If that happened, then it did not have to comply with CIPA.
+Purpose
+The primary purpose of CIPA is to protect minors from accessing offensive content
+on the internet. Offensive content includes visual depictions of material that is any of
+the following:
+Obscene
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Child pornography
+Harmful to minors
+Under CIPA, obscene and child pornography are defined by referring to other laws.
+CIPA does specifically define the phrase harmful to minors. It includes any visual
+content that:
+Taken as a whole and with respect to minors, appeals to a prurient interest in
+nudity, sex, or excretion
+FYI
+E-Rate funding provides discounts to schools and libraries for internet access and telecommunications
+services. This funding is collected as part of the universal services fee paid by consumers to use
+telecommunications services. The goal of this funding is to help all schools and libraries have
+affordable internet access. Discounts range from 20 to 90 percent of the service costs depending on
+the need of the school or library. Part of the E-Rate application requires schools and libraries to state
+affirmatively that they are complying with CIPA. The E-Rate program provided $4.15 billion in funding in
+2019. Learn more at https://www.fcc.gov/consumers/guides/universal-service-program-schools-and-
+libraries-e-rate.
+Depicts, describes, or represents, in a patently offensive way with respect to what
+is suitable for minors, an actual or simulated sexual act or sexual contact, actual or
+simulated normal or perverted sexual acts, or a lewd exhibition of the genitals
+Taken as a whole, lacks serious literary, artistic, political, or scientific value as to
+minors 19
+Scope of the Regulation
+The E-Rate program provides discounts to most schools and libraries for internet
+access. Any school or library that receives federal funding from the E-Rate program
+must comply with CIPA. However, schools and libraries do not have to accept these
+funds. They can either pay for the internet access with other funds, or choose not to
+use the internet.
+Main Requirements
+CIPA has two main requirements. The first is that schools and libraries that accept E-
+Rate funding must implement technologies that filter offensive visual content so that
+minors do not access it. The second requirement is that schools implement an
+internet safety policy.
+Content Filtering
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.The primary requirements of CIPA mandate the filtering of offensive content so that
+minors do not see it. Although this may seem difficult, there are tools to make the job
+easier. CIPA’s term for such a tool is technology protection measure (TPM). A
+TPM is any technology that can block or filter the objectionable content. 20 Remember
+that under CIPA, a TPM must filter visual content.
+Consider FIGURE 5-1. This figure shows a proxy server used to filter content. A
+proxy server accepts internet requests from clients, retrieves the pages, and serves
+them to the client. Content filters filter out objectionable content. As shown, you
+would configure the internal clients to access the internet through a proxy server.
+FIGURE 5-1
+Proxy server used for content filtering.
+Description
+The proxy server has a content filter that blocks all content marked as
+unacceptable. Some filters can also block content to email and instant messaging
+programs. Similarly, the filter allows all content marked as acceptable based on filter
+lists.
+Third-party companies sell subscriptions to filter lists. These companies
+constantly search the internet, identify restricted materials, and add it to the filter
+lists. When a network administrator adds the filter to an organization’s proxy server,
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.the server blocks the prohibited material.
+In addition to filtering with lists such as the previously described ones, TPMs can
+also include monitoring technologies that track a child’s online activities. They can
+also limit the amount of time that a child can spend on the internet. In addition, TPMs
+include age-verification systems that restrict online access to adults.
+The Federal Communications Commission (FCC) recognizes that a TPM cannot
+be 100 percent effective. 21 However, neither CIPA nor the FCC defines what level is
+acceptable. A third-party company may claim its filter is CIPA compliant. However,
+there is no certification process to verify that a filter is CIPA compliant. The FCC has
+stated that local authorities should determine which measures are most effective for
+their community. The FCC rules specifically state that the U.S. federal government
+may not establish the criteria for making this determination and that it must be
+handled at the local level. 22
+Although a proxy server is a common method of filtering, CIPA does not specify
+where to filter the content. An internet service provider (ISP) may be able to filter it,
+or you may be able to purchase software to install on individual computers for
+filtering purposes. CIPA states what must be filtered but not how to filter it.
+Proxy Servers in Any Company
+Many companies use proxy servers. Their use is not restricted to CIPA compliance. Many companies choose
+to restrict employees’ access to different internet websites. For example, a company may want to prevent
+employees from accessing gambling sites. To do so, it can purchase a subscription to lists of gambling sites
+from one of the third-party sites that provide filter lists. The company can then install this filter on its proxy
+server.
+When the user tries to access the prohibited site, the proxy server can instead show a different page. For
+example, the server could redirect the user to a web page that states, “Access is restricted.” This page also
+could show the company’s acceptable usage policy. Additionally, many proxy servers log all activities.
+Administrators are able to view the logs to determine which employees are trying to access restricted sites.
+Internet Safety Policy
+To comply with CIPA, schools and libraries must adopt and enforce an internet safety
+policy that must be made available to all users of the facility. The policy must
+address the following items:
+Access by minors to inappropriate matter on the internet
+The safety and security of minors when using electronic mail, chatrooms, and
+other forms of direct electronic communication
+Unauthorized access, such as “hacking,” and other unlawful activities
+Unauthorized disclosure, use, and dissemination of a minor’s personal information
+The measures designed to restrict minors’ access to harmful materials
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.An internet safety policy must educate minors about appropriate online behavior.
+This includes how to use social networking websites and chatrooms safely. The
+policy must include information on how to recognize cyberbullying, as well as how
+minors should respond to it. 23
+Exceptions
+One of the main criticisms of CIPA is that schools and libraries are not implementing
+it properly. CIPA requires schools and libraries to filter visual depictions that may be
+harmful to minors. This means that images must be censored. However, sometimes
+access to text and entire websites are inadvertently blocked. In addition, sometimes
+the TPMs used by libraries may not work correctly and may actually allow minors
+access to obscene materials. Finally, often TPMs deny access by both adults and
+children to constitutionally protected content.
+According to CIPA, a school or library must be able to disable the TPM for any
+adult who has a need to view content for a research or other lawful purpose. An
+adult is anyone over the age of 17. If a school or library refuses to disable a TPM for
+an adult that requests it, then the school or library is potentially infringing on the First
+Amendment rights of that adult. This is because they are censoring adult access to
+protected content. Under CIPA, an adult does not have to state why he or she wants
+the TPM disabled.
+The United States et al. v. American Library Association, Inc. et al. Supreme
+Court ruling in 2003 explicitly mentioned this point. One of the reasons that the
+Supreme Court held that the law was constitutional is because a TPM could be
+disabled for any adult that requests it.
+Libraries can use any method to disable the TPM that works best for their
+location. For example, library personnel could label some computers as “adult only.”
+Librarians would then have to monitor and prevent minors from using these
+computers. Librarians also could log onto a program designed to disable the TPM.
+Only personnel with the proper credentials could disable the TPM. Another method
+is to require an administrator to disable the TPM. Upon request by a patron, the
+librarian could contact an administrator to disable the TPM.
+Oversight
+The FCC has oversight for CIPA. However, little oversight action is required. When a
+public school or library requests E-Rate funding, it must certify that they will comply
+with CIPA. This certification is usually all that is required.
+If a TPM fails, the school or library is expected to take steps to resolve the failure.
+Patrons may complain to the library for specific instances such as a TPM blocking
+too much content or not enough content. If the library does not resolve patron
+complaints, then the patron can file a complaint with the FCC, which may investigate
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.those complaints. Any school or library that fails to comply with CIPA must refund
+any E-Rate funds or discounts that it received. Depending on the situation, other
+criminal laws such as laws against providing false statements to the government
+could apply to CIPA violations.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Family Educational Rights and Privacy Act
+(FERPA)
+FERPA was passed in 1974. 24 The primary goal of FERPA is to protect the privacy of
+student educational records. An educational record includes any personal and
+education data on a student maintained by an educational agency or institution.
+Under FERPA, parents have the right to inspect and review a student’s educational
+records. However, these rights do not belong to a parent forever. When the student
+reaches age 18, these rights pass to the student.
+Scope
+FERPA applies to any education agencies or institutions that receive funding from
+the U.S. Department of Education (ED). Educational agencies or institutions include:
+Primary and secondary schools
+Vocational colleges
+Colleges and universities
+Community colleges
+State and local educational agencies
+Schools or agencies offering preschool programs
+For readability, the phrase “educational agency or institution” will often be shortened
+to “school” in this section.
+The type of funding that these institutions receive from the federal government
+can be direct or indirect. Schools may receive funding outright from the ED. This is
+direct funding. If a college student receives a federal grant or federal aid and uses
+this as payment to a university, then the university is receiving federal funding. This
+is indirect funding and the university must comply with FERPA. Because federal
+funding is so valuable, and comes from so many different sources, almost all schools
+comply with FERPA.
+FERPA and Peer-Grading
+Many professors use peer-grading techniques. Students may be required to work on a project together and
+grade each other at the completion of the project. Additionally, students may be required to exchange
+assignments or tests and grade each other. Some professors require students to call out other students’
+grades in class. This is acceptable under FERPA.
+Under FERPA, a school cannot publish students’ grades, not even on a bulletin board outside of a classroom.
+This prohibition does not extend to peer grading. The U.S. Supreme Court decided this in 2002. In Owasso
+Independent School District No. I-011 v. Falvo, the court decided that peer grades are not maintained as
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.education records. Therefore, FERPA does not protect them from disclosure.
+If any educational agency or institution chooses not to comply with FERPA, it
+cannot receive any federal funds. Sometimes private schools and universities do not
+receive federal funds. In these cases, these institutions do not have to comply with
+FERPA.
+NOTE
+FERPA formally defines personally identifiable information (PII). Several other laws and regulations also
+define PII. PII can be a name, a SSN, biometric data, or any data used to identify a person. Several laws
+and regulations specify different types of PII that must be protected.
+Main Requirements
+FERPA has four main requirements: annual notification, access to education
+records, amendment of education records, and disclosure of education records.
+To carry out these requirements, FERPA has several important definitions. 25
+These include:
+Student—Any individual that has ever been in attendance at an educational
+institution and for whom the institution maintains education records.
+Attendance—A student’s physical attendance at an educational institution. It
+includes any virtual attendance such as video conference or correspondence
+course. Attendance via the internet, by satellite, or through other methods used by
+the school is also included.
+Education records—Any records related to a student maintained by an
+educational agency or institution. These include written documents, computer
+media, video, film, or photographs. Records maintained by any outside party
+acting for the agency or institution are also included.
+FERPA also defines PII and places limits on how this data can be used and
+disclosed. Under FERPA, PII includes:
+A student’s name
+The name of the student’s parent or other family members
+The address of the student or student’s family
+A personal identifier, such as the student’s SSN, student number, or biometric
+record
+Other identifiers, such as the student’s date of birth, place of birth, and mother’s
+maiden name
+Other information that is connected to a specific student that would allow a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.reasonable person in the school community to identify the student
+Information requested by a person who the school reasonably believes knows the
+identity of the student to whom the education record relates
+It is important to know what might be included in a student’s education record. The
+rules can be complex. Demographic information such as race and gender cannot be
+given out if it is directly connected with a student name. FERPA protects grades or
+transcripts of grades. Disciplinary records are considered a part of the student
+educational record. Behavioral notes on the student are also protected if the notes
+are kept in the student record. Under FERPA, the private notes of faculty and staff
+are not usually considered educational records. If the faculty or staff notes are kept
+in a student record then they are considered part of the educational record.
+It is possible for a student record to contain additional information outside the
+scope of FERPA. FERPA does not require schools to reveal this data when access
+to an educational record is requested. For example, a school does not have to reveal
+parental financial records, confidential letters of recommendation, or statements of
+recommendation.
+Annual Notification
+FERPA requires schools to provide an annual notification to students and parents.
+This notice lets parents and eligible students know what their FERPA rights are. The
+annual notification also must state how to file a complaint with the Department of
+Education if the school violates any of FERPA’s provisions. 26
+The annual notification must identify school officials that have access to
+educational records without consent. FERPA allows any school official that has
+legitimate educational interest in the record to view it without specific consent. These
+officials must be identified in the annual notification. The school has great freedom in
+identifying these officials. They could be teachers, instructors, professors,
+administrative personnel such as principals or provosts, or local board of education
+personnel.
+Finally, FERPA requires that the school provide the annual notice “by any means
+that are reasonably likely to inform the parents or eligible students of their rights.” 27
+This means that the school might have to translate the notice into different
+languages. It also must consider whether it should provide the notice in alternative
+formats to disabled students or parents.
+Access to Education Records
+The most fundamental right under FERPA is student and parental access to the
+student’s educational records. The parent or eligible student has the right to inspect
+and review any educational records maintained by the school. 28 Under FERPA,
+schools must respond within 45 days to a request to inspect and review educational
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.records.
+In most instances, the school does not have to make copies of the records. It
+only needs to make them available for review and inspection. If the parent or student
+requests copies, the school may charge a small copying fee.
+There are special access rules for colleges and universities. These rules apply to
+situations where an educational record for the student may also contain confidential
+information about the student’s parents. This happens often in situations where
+parents provide their own financial information to help a student receive federal
+financial aid. In these situations, colleges and universities do not have to give a
+student access to the financial records of his or her parents. 29
+NOTE
+Eligible students are students over the age of 18 or those who are attending a postsecondary institution.
+FERPA parental rights transfer to the student when the student becomes an eligible student.
+FYI
+Schools are required to make and provide copies of the educational records in special circumstances. If a
+parent does not live within commuting distance to the school and cannot come to the school to inspect the
+records, then the school must provide the parent with copies.
+Finally, a school is not required to create an educational record where none
+exists. Sometimes students or parents might request a report or record that is not
+already part of the educational record. In these cases, the school does not have to
+create that report just because a parent asked for it.
+Amendment of Education Records
+FERPA allows parents and students the right to request amendment of student
+educational records. A parent may ask that a school amend information in the record
+that is incorrect or misleading. The school’s annual notification must specify the
+procedure for how to request this correction. 30
+NOTE
+Schools are required to hold hearings on amendment disputes within a reasonable time after it receives a
+request for a hearing. The school must give the parent or eligible student notice of the time, date, and
+location of the hearing.
+Schools are not required to honor the request for correction if the school does not
+believe that the student’s record is incorrect. The school must notify the parent or
+student of this decision. If a school does not amend a student educational record,
+then the parent or eligible student has the right to a hearing on that decision. 31 The
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.purpose of the hearing is to determine if the school’s decision was appropriate. The
+school and the parents will present their cases to the hearing officer. If the hearing
+officer decides that the school’s decision was appropriate, then the parent or eligible
+student must be allowed an opportunity to provide a written statement that is added
+to the student’s educational record. The written statement can comment on the
+information under dispute in the record. It can also state why the parent or student
+disagrees with the decision of the school not to amend the record.
+Disclosure of Education Records
+In general, educational agencies or institutions must have permission from either a
+student or the student’s parents in order to disclose educational records and student
+PII. The school must obtain written consent to release this data. Most schools have
+forms for this purpose. The procedure for using these forms is usually included in the
+school’s annual notification.
+NOTE
+It is important to remember that the parent has these rights until the student reaches the age of 18 or is
+attending a postsecondary institution. After that point, the parent no longer has the rights. Only the child
+has the rights. In other words, a parent may be paying for a 20-year-old son or daughter’s college
+education, but the parent does not have the right to inspect his or her child’s educational records.
+To disclose student educational records, written consent must include:
+Which records will be disclosed
+The purpose of the disclosure
+Who will receive the record
+The date the consent is granted
+Signature of the student or parent
+Signature of the school official releasing the data 32
+Parents and students can refuse to give consent to have their data released.
+However, the school can still release data to certain entities under FERPA
+exceptions. The next section explains these exceptions.
+Disclosure Exceptions Under FERPA
+A school can release student records without prior consent in some cases. As
+mentioned earlier in this section, school officials, such as principals or teachers, can
+view student educational records. These officials must have a legitimate educational
+interest to view the record. School officials cannot view a student record merely if
+they are curious about a student’s performance.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Directory information can also be released without student or parental consent.
+Directory information includes a student’s name, address, telephone number, date
+and place of birth, awards, and dates of attendance. Under no circumstances should
+the directory information include PII information such as a student’s SSN or student
+identification number.
+Schools must identify which student data is specifically defined as directory
+information. Schools also must tell parents and eligible students how to request that
+the school not share this information. All of this information must be included in the
+school’s annual notice. 33 The release of directory information is the primary FERPA
+disclosure exception. Schools frequently rely on this exception.
+FERPA allows a school to disclose student PII in several other ways that do not
+require prior written consent:
+Schools can transfer a student’s educational record to a new school if a student is
+moving from one school to another.
+Schools can provide student PII to an accrediting organization to prove that the
+school is performing to specific standards.
+Schools can provide student PII in some financial aid situations.
+Schools may disclose student educational records in response to a court order or
+lawful subpoena.
+School may disclose student PII if it will aid personnel in an emergency situation.
+Postsecondary schools can disclose the PII of a student over age 18 to that
+student’s parents if the student is considered a dependent for U.S. federal tax
+purposes.
+The emergency situation exception became important in early 2020 during the
+coronavirus disease 2019 (COVID-19) outbreak. During the outbreak, the
+Department of Education reminded all schools that health records maintained by the
+school could be disclosed, without consent, if the school believed that the COVID-19
+virus posed a serious risk to the health or safety of an individual student at the
+school. The emergency situation exception is limited in time to the period of the
+emergency and generally does not allow for a blanket release of PII from student
+education records. 34
+Schools must maintain records of all of the requests and disclosures of student
+educational records. 35 These records must include the parties who received the
+student PII and the reason for the disclosure. This record of disclosures must be
+maintained for as long as the school maintains the underlying educational record.
+Security of Student Records Under FERPA
+FERPA has no specific information security requirements that schools must use to
+protect student educational records. For example, FERPA does not contain a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.requirement that schools notify parents and students if an unauthorized person
+accesses student records. Instead, schools just have to record the unauthorized
+disclosure in the student record.
+Even though it is not required under FERPA, the U.S. Department of Education
+does encourage educational institutions to take steps to protect student information.
+The department suggests that schools consider the following factors to implement
+security measures:
+The type of information to be protected
+The size and complexity of the educational institution
+The resources available to the institution
+Security safeguards used by other institutions in similar circumstances 36
+Although FERPA does not have specific information security requirements, the
+Department of Education often uses other laws to encourage colleges and
+universities, in particular, to protect student data. For example, the U.S. Department
+of Education Office of Federal Student Aid (FSA) administers student financial aid
+awards. Colleges and universities that administer federal student financial aid have
+agreed to comply with the Gramm-Leach-Bliley Act (GLBA) as part of their
+agreement with FSA. This means that those colleges and universities must show
+that all federal student aid applicant information is protected from unauthorized
+access. 37
+Oversight
+The Family Policy Compliance Office (FPCO) in the U.S. Department of Education
+provides oversight for FERPA and investigates FERPA complaints. Only parents and
+students over the age of 18 may make complaints against schools for FERPA
+violations. Complaints must be submitted to the FPCO within 180 days of the date
+that the FERPA violation is alleged to have occurred. 38 The FPCO resolves FERPA
+complaints and enforces its decisions by withholding federal funding to the schools
+that have violated the law.
+How to Respond to Requests
+A school may receive many different kinds of requests for information. Any personnel that have access to
+records should have training on how to respond. Put yourself in the situation of the person answering the
+phone. How would you respond to these questions if you were an employee at a college or university?
+An employer calls and asks about a student who graduated last year. Specifically, the employer asks if the
+student graduated. Does FERPA restrict the release of this information? How do you respond?
+FERPA covers this information. You may need to explain this to the employer.
+You can give the information to the employer if the student signs a consent form.
+A student needs a copy of his transcript. He asks a friend to pick it up for him. What should you tell the friend
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.when he shows up?
+FERPA restricts the school from giving the friend this information.
+You may check the student’s record to see if it has a signed consent form for this friend. If not, the
+transcript should not be given out.
+The student must sign a consent form.
+A mother calls about her 17-year-old son. She wants to know if her son will be graduating with his class.
+Does the parent have rights to this information? What do you tell her?
+FERPA rights transferred to the son when he started attending classes at the university. The parent
+does not have rights to this information. You may want to explain the FERPA requirements to the
+mother.
+Encourage the mother to talk with her son. In other words, ask her son if he will be graduating. You can
+provide information on how someone can reenroll in classes.
+The mayor recently made a speech and mentioned a student at your school. The mayor talked about how the
+student had earned a specific degree and was now working on a higher-level degree. You know that the
+student never completed any degree at your school. What should you do?
+FERPA protects this information. You should not take any action.
+If the mayor or the mayor’s office requests the information, you cannot release it without a consent
+form.
+State Laws Protecting Student Data
+In addition to the protections afforded by FERPA, many states also have state laws
+designed to protect student privacy. For example, 40 states passed 125 laws related
+to student privacy from 2013 to 2018. 39 Many of these laws were put into place
+because of the rise in online learning activities. States were worried that vendors
+would have access to student information and would use or share student data
+improperly. Often these laws try to extend FERPA protections and have even more
+restrictions about what student data a school can share with others.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.Case Studies and Examples
+The following case studies provide some real-world background on COPPA and
+FERPA. These examples provide insight into how the laws are challenged and
+viewed.
+Children’s Privacy
+Website operators have an obligation to follow COPPA if they know that they are
+collecting information from children.
+In 2019, the FTC charged operators of the Musical.ly video social networking app
+with violating COPPA. Musical.ly is now known as TikTok. The FTC alleged that
+Musical.ly knew many children were using the app. It also alleged that Musical.ly
+failed to seek parental consent before collecting personal information from users
+under the age of 13. Even though Musical.ly was a general use website, the FTC
+said that Musical.ly had received thousands of complaints from parents upset that
+their children under age 13 had created Musical.ly accounts. Because it had
+received so many complaints, Musical.ly could not argue that it had no knowledge
+that children were using the app.
+As part of its settlement agreement with the FTC, Musical.ly agreed to pay $5.7
+million to settle the FTC’s claims. Musical.ly also had to agree to comply with COPPA
+by:
+Notifying parents about the app’s collection and use of children’s personal
+information
+Getting parental consent before collecting and using data from children
+Deleting personal information when parents request it
+Removing all videos made by children under the age of 13
+The FTC documents related to the Musical.ly case are available at
+https://www.ftc.gov/enforcement/cases-proceedings/172-3004/musically-inc
+Release of Disciplinary Records
+Disciplinary records are a part of student records. Because FERPA protects student
+records, it thereby protects disciplinary records. A student’s consent is required
+before releasing any of these records.
+A U.S. district court in the Southern District of Ohio decided this in 2000. The
+U.S. Court of Appeals affirmed the decision in 2002. However, the case actually
+started in 1995 and has a colorful history.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.In 1995, the Miami University (located in Ohio) student newspaper asked Miami
+University to provide disciplinary records on students. This was to track crime trends
+on campus. The university refused to release the records. The paper then made a
+request using the Ohio Public Records Act. Miami University released the records
+but removed all personally identifiable information. They also removed information
+such as the date, time, and location of the incidents.
+Editors of the paper thought that the university removed too much information
+from the records, so they went to the Ohio Supreme Court seeking full disclosure of
+the records. In a divided decision, the Ohio Supreme Court agreed and ruled that
+FERPA does not cover the disciplinary records. Miami University tried to take the
+case to the U.S. Supreme Court, but the Court chose not to hear the case in 1997.
+Miami University notified the U.S. Department of Education (ED) that it did not
+think it was able to comply with FERPA based on the decision. The university also
+adopted a policy of releasing disciplinary records to any third-party requestor. Ohio
+State University also released similar records and notified ED that it planned to
+honor future requests. ED disagreed and thought that the Ohio Supreme Court made
+a mistake.
+ED filed a motion to stop both universities from releasing these records. The U.S.
+district in the Southern District of Ohio heard the case. The universities did not
+dispute the facts and were willing to allow the court to rule. However, the school
+newspaper filed a motion to intervene. Although the newspaper was not named in
+the suit, it wanted its voice heard.
+The newspaper claimed that ED did not have authority in the case. Instead, ED
+could take action only after the release of records, not before. However, the circuit
+court disagreed. It determined that ED did have authority. Additionally, the circuit
+court determined that disciplinary records are education records and covered by
+FERPA. The court ordered the universities not to release the information.
+The newspaper appealed this decision to the U.S. Court of Appeals, arguing that
+FERPA violates the First Amendment and the district court did not recognize this
+violation. However, the U.S. Court of Appeals upheld the district court’s decision in
+2002. Even today, schools must not release student disciplinary records without
+student consent.
+ED documents related to the Miami University case are available at
+http://www2.ed.gov/policy/gen/guid/fpco/ferpa/library/unofmiami.html and
+http://www2.ed.gov/policy/gen/guid/fpco/courtcases/miami.html.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.CHAPTER SUMMARY
+This chapter covered several laws designed to protect the rights of children
+and students. The COPPA protects the information of children. It prohibits
+websites from collecting information about children without a parent’s
+consent. COPPA defines a child as anyone under the age of 13.
+The CIPA requires schools and libraries to filter website traffic. CIPA ensures
+that children do not view objectionable material from these publicly funded
+locations. CIPA defines a child as anyone under the age of 17.
+The FERPA requires schools to protect educational records. Schools need
+written consent before releasing educational records. The student or parent
+has the right to review these records. FERPA grants these rights to the
+parent until the child reaches the age of 18. At that point, the right passes to
+the student.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.KEY CONCEPTS AND TERMS
+Parental controls
+Proxy server
+Technology protection measure (TPM)
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.CHAPTER 5 ASSESSMENT
+1. Obscenity is easy to define.
+A. True
+B. False
+2. Website operators who attempt to restrict access for children may be accused of
+violating basic rights. What amendment concerns these rights?
+A.
+B.
+C.
+D.
+First Amendment
+Fifth Amendment
+Ninth Amendment
+Tenth Amendment
+3. Which law is designed to protect children’s personal information while they are
+using online resources?
+A.
+B.
+C.
+D.
+E.
+CIPA
+COPPA
+FERPA
+Bill of Rights
+All of these are correct.
+4. COPPA defines “child” as anyone under the age of ________.
+5. How can a website operator verify parental consent to comply with COPPA?
+A.
+B.
+C.
+D.
+E.
+Using signed, printed forms
+Using toll-free numbers
+Using email
+Using signed, printed forms and toll-free numbers
+None of these is correct.
+6. A website is collecting information on children. What must be included on the
+website to comply with COPPA?
+A.
+B.
+C.
+D.
+E.
+Parental consent forms
+Privacy policy
+Definition of children
+a Contact Us page
+All of these are correct.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.7. Libraries and schools that accept E-Rate funds must comply with ________.
+8. Libraries and schools that accept E-Rate funds must implement a ________ to
+filter objectionable content.
+9. CIPA requires certain content to be restricted for minors. How old is a minor?
+A.
+B.
+C.
+D.
+E.
+Anyone under the age of 13
+Anyone under the age of 16
+Anyone under the age of 17
+Anyone under the age of 18
+Anyone under the age of 21
+10. CIPA requires a library to be able to disable the TPM for some situations.
+A. True
+B. False
+11. What law governs the release of student educational information?
+A.
+B.
+C.
+D.
+E.
+CIPA
+COPPA
+FERPA
+Department of Education
+All of these are correct.
+12. Under FERPA, what type of information can a school release about a student
+without the student’s consent?
+A.
+B.
+C.
+D.
+E.
+Directory information
+Personally identifiable information (PII)
+Name and student ID number
+All of these are correct.
+None of these is correct.
+13. A parent believes a school is not following FERPA requirements. After trying to
+resolve it with the school, where can they file a formal complaint?
+A.
+B.
+C.
+D.
+E.
+FERPA compliance office
+Family Policy Compliance Office
+Federal Communications Commission
+Federal Trade Commission
+Office of Federal Student Aid
+14. What must a school obtain before releasing information about a student to a
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.third party?
+A.
+B.
+C.
+D.
+E.
+Verbal consent
+Written consent
+Signed affidavit
+Notarized consent
+Nothing
+15. Disciplinary records are a part of educational records.
+A. True
+B. False
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.ENDNOTES
+1. Rideout, V., and Robb, M. B. (2019). The Common Sense census: Media use by
+tweens and teens, 2019. San Francisco, CA: Common Sense Media,
+https://www.commonsensemedia.org/research/the-common-sense-census-
+media-use-by-tweens-and-teens-2019 (accessed March 24, 2020).
+2. Federal Trade Commission, “Google and YouTube Will Pay Record $170 Million
+for Alleged Violations of Children’s Privacy Law,” September 4, 2019.
+https://www.ftc.gov/news-events/press-releases/2019/09/google-youtube-will-
+pay-record-170-million-alleged-violations (accessed March 24, 2020).
+3. American Civil Liberties Union, “Court Orders Missouri School District to Stop
+Censoring LGBT Websites,” February 15, 2012. https://www.aclu.org/press-
+releases/court-orders-missouri-school-district-stop-censoring-lgbt-websites
+(accessed March 24, 2020).
+4. Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).
+5. Jacobellis v. Ohio, 378 U.S. 184 (1964).
+6. Miller v. California, 413 U.S. 15 (1973).
+7. United States Code, Title 15, sec. 6501–6506.
+8. Code of Federal Regulations, Title 16, sec. 312.2.
+9. Code of Federal Regulations, Title 16, sec. 312.8.
+10. Federal Trade Commission, “Children’s Online Privacy Protection Rule: A Six-
+Step Compliance Plan for Your Business,” June 2017. https://www.ftc.gov/tips-
+advice/business-center/guidance/childrens-online-privacy-protection-rule-six-
+step-compliance (accessed March 24, 2020).
+11. Code of Federal Regulations, Title 26, sec. 312.3.
+12. Code of Federal Regulations, Title 26, sec. 312.4.
+13. Code of Federal Regulations, Title 26, sec. 312.4.
+14. Code of Federal Regulations, Title 26, sec. 312.5.
+15. Code of Federal Regulations, Title 26, sec. 312.5.
+16. Pub. L. No. 106-554, 114 Stat. 2763A-335, codified in scattered sections of U.S.
+Code.
+17. Code of Federal Regulations, Title 47, sec. 54.520.
+18. United States v. American Library Association, 201 F.Supp.2d 401 (E.D. Pa.
+2002), reversed 539 U.S. 194 (2003).
+19. Code of Federal Regulations, Title 47, sec. 54.520.
+20. Code of Federal Regulations, Title 47, sec. 54.520.
+21. U.S. Department of Commerce, National Telecommunications and Information
+Administration, Report to Congress, “Children’s Internet Protection Act Study of
+Technology Protection Measures in Section 1703,” August 2003.
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+https://www.ntia.doc.gov/files/ntia/publications/cipareport08142003.pdf
+(accessed March 24, 2020).
+Code of Federal Regulations, Title 47, sec. 54.520.
+Code of Federal Regulations, Title 47, sec. 54.520.
+United States Code, Title 20, sec. 1232g.
+Code of Federal Regulations, Title 34, sec. 99.3.
+Code of Federal Regulations, Title 34, sec. 99.7.
+Code of Federal Regulations, Title 34, sec. 99.7.
+Code of Federal Regulations, Title 34, sec. 99.10.
+Code of Federal Regulations, Title 34, sec. 99.12.
+Code of Federal Regulations, Title 34, sec. 99.7.
+Code of Federal Regulations, Title 34, sec. 99.20.
+Code of Federal Regulations, Title 34, sec. 99.30.
+Code of Federal Regulations, Title 34, sec. 99.31.
+U.S. Department of Education, “FERPA and the Coronavirus Disease 2019
+(COVID-19),” March 2020. https://studentprivacy.ed.gov/resources/ferpa-and-
+coronavirus-disease-2019-covid-19 (accessed March 24, 2020).
+Code of Federal Regulations, Title 34, sec. 99.32.
+Federal Register 73, No. 237 at 74,843–74,844, background information (2008).
+U.S. Department of Education, “Dear Colleague Letter GEN -16-12,” July 1,
+2016. https://ifap.ed.gov/dear-colleague-letters/07-01-2016-gen-16-12-subject-
+protecting-student-information (accessed March 24, 2020).
+Code of Federal Regulations, Title 34, sec. 99.64.
+FERPA SHERPA, “State Student Privacy Laws,” Last updated 2019.
+https://ferpasherpa.org/state-laws/ (accessed March 24, 2020).
+Grama, J. L. (2020). Legal and privacy issues in information security. Jones & Bartlett Learning, LLC.
+Created from westerngovernors-ebooks on 2023-03-12 21:44:25.
